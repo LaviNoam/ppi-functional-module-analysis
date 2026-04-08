@@ -1,0 +1,1781 @@
+#node	identifier	category	term ID	term description
+ANA27629.1	59204.UQ49_00330	GO Component	GO:0005886	Plasma membrane
+ANA27629.1	59204.UQ49_00330	GO Component	GO:0016020	Membrane
+ANA27629.1	59204.UQ49_00330	GO Component	GO:0016021	Integral component of membrane
+ANA27629.1	59204.UQ49_00330	GO Component	GO:0031224	Intrinsic component of membrane
+ANA27629.1	59204.UQ49_00330	GO Component	GO:0071944	Cell periphery
+ANA27629.1	59204.UQ49_00330	GO Component	GO:0110165	Cellular anatomical entity
+ANA27629.1	59204.UQ49_00330	STRING clusters	CL:3465	Polysaccharide biosynthetic process, and Lipopolysaccharide biosynthesis
+ANA27629.1	59204.UQ49_00330	STRING clusters	CL:3673	Glycolipid biosynthetic process, and Magnesium ion transport
+ANA27629.1	59204.UQ49_00330	STRING clusters	CL:3713	Magnesium ion transport, and Response to peptide
+ANA27629.1	59204.UQ49_00330	COMPARTMENTS	GOCC:0005886	Plasma membrane
+ANA27629.1	59204.UQ49_00330	COMPARTMENTS	GOCC:0016020	Membrane
+ANA27629.1	59204.UQ49_00330	COMPARTMENTS	GOCC:0071944	Cell periphery
+ANA27629.1	59204.UQ49_00330	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ANA27629.1	59204.UQ49_00330	UniProt Keywords	KW-0472	Membrane
+ANA27629.1	59204.UQ49_00330	UniProt Keywords	KW-0812	Transmembrane
+ANA27629.1	59204.UQ49_00330	UniProt Keywords	KW-0997	Cell inner membrane
+ANA27629.1	59204.UQ49_00330	UniProt Keywords	KW-1003	Cell membrane
+ANA27629.1	59204.UQ49_00330	UniProt Keywords	KW-1133	Transmembrane helix
+ANA27629.1	59204.UQ49_00330	Pfam	PF02308	MgtC family
+ANA27629.1	59204.UQ49_00330	InterPro	IPR003416	MgtC/SapB/SrpB/YhiD family
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0006810	Transport
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0008104	Protein localization
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0009306	Protein secretion
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0009987	Cellular process
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0015031	Protein transport
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0032940	Secretion by cell
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0033036	Macromolecule localization
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0045184	Establishment of protein localization
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0046903	Secretion
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0051179	Localization
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0051234	Establishment of localization
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0051641	Cellular localization
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0070727	Cellular macromolecule localization
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0071692	Protein localization to extracellular region
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0071702	Organic substance transport
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0071705	Nitrogen compound transport
+ANA28587.1	59204.UQ49_05825	GO Process	GO:0140352	Export from cell
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0009279	Cell outer membrane
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0016020	Membrane
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0016021	Integral component of membrane
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0019867	Outer membrane
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0030312	External encapsulating structure
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0030313	Cell envelope
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0031224	Intrinsic component of membrane
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0031975	Envelope
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0071944	Cell periphery
+ANA28587.1	59204.UQ49_05825	GO Component	GO:0110165	Cellular anatomical entity
+ANA28587.1	59204.UQ49_05825	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA28587.1	59204.UQ49_05825	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA28587.1	59204.UQ49_05825	STRING clusters	CL:5375	Secretion, and Type III secretion system subunit
+ANA28587.1	59204.UQ49_05825	STRING clusters	CL:5432	Bacterial secretion system, and Coiled coil
+ANA28587.1	59204.UQ49_05825	KEGG	map03070	Bacterial secretion system
+ANA28587.1	59204.UQ49_05825	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+ANA28587.1	59204.UQ49_05825	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+ANA28587.1	59204.UQ49_05825	COMPARTMENTS	GOCC:0042597	Periplasmic space
+ANA28587.1	59204.UQ49_05825	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ANA28587.1	59204.UQ49_05825	UniProt Keywords	KW-0449	Lipoprotein
+ANA28587.1	59204.UQ49_05825	UniProt Keywords	KW-0472	Membrane
+ANA28587.1	59204.UQ49_05825	UniProt Keywords	KW-0564	Palmitate
+ANA28587.1	59204.UQ49_05825	UniProt Keywords	KW-0732	Signal
+ANA28587.1	59204.UQ49_05825	UniProt Keywords	KW-0812	Transmembrane
+ANA28587.1	59204.UQ49_05825	UniProt Keywords	KW-0998	Cell outer membrane
+ANA28587.1	59204.UQ49_05825	UniProt Keywords	KW-1133	Transmembrane helix
+ANA28587.1	59204.UQ49_05825	Pfam	PF01514	Secretory protein of YscJ/FliF family
+ANA28587.1	59204.UQ49_05825	InterPro	IPR003282	Type III secretion system lipoprotein HrcJ/YscJ
+ANA28587.1	59204.UQ49_05825	InterPro	IPR006182	Flagellar M-ring , N-terminal
+ANA28587.1	59204.UQ49_05825	InterPro	IPR043427	Lipoprotein YscJ/Flagellar M-ring protein
+ANA28587.1	59204.UQ49_05825	InterPro	IPR045851	AMP-binding enzyme, C-terminal domain superfamily
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0006996	Organelle organization
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0007010	Cytoskeleton organization
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0009987	Cellular process
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0016043	Cellular component organization
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0030029	Actin filament-based process
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0030036	Actin cytoskeleton organization
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0031532	Actin cytoskeleton reorganization
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0043085	Positive regulation of catalytic activity
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0043087	Regulation of GTPase activity
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0043547	Positive regulation of GTPase activity
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0044093	Positive regulation of molecular function
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0050790	Regulation of catalytic activity
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0051336	Regulation of hydrolase activity
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0051345	Positive regulation of hydrolase activity
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0065007	Biological regulation
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0065009	Regulation of molecular function
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0071840	Cellular component organization or biogenesis
+ANA29994.1	59204.UQ49_13665	GO Process	GO:0090630	Activation of GTPase activity
+ANA29994.1	59204.UQ49_13665	GO Function	GO:0005085	Guanyl-nucleotide exchange factor activity
+ANA29994.1	59204.UQ49_13665	GO Function	GO:0005096	GTPase activator activity
+ANA29994.1	59204.UQ49_13665	GO Function	GO:0008047	Enzyme activator activity
+ANA29994.1	59204.UQ49_13665	GO Function	GO:0030234	Enzyme regulator activity
+ANA29994.1	59204.UQ49_13665	GO Function	GO:0030695	GTPase regulator activity
+ANA29994.1	59204.UQ49_13665	GO Function	GO:0060589	Nucleoside-triphosphatase regulator activity
+ANA29994.1	59204.UQ49_13665	GO Function	GO:0098772	Molecular function regulator activity
+ANA29994.1	59204.UQ49_13665	GO Component	GO:0005576	Extracellular region
+ANA29994.1	59204.UQ49_13665	GO Component	GO:0110165	Cellular anatomical entity
+ANA29994.1	59204.UQ49_13665	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA29994.1	59204.UQ49_13665	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA29994.1	59204.UQ49_13665	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+ANA29994.1	59204.UQ49_13665	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+ANA29994.1	59204.UQ49_13665	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+ANA29994.1	59204.UQ49_13665	KEGG	map05100	Bacterial invasion of epithelial cells
+ANA29994.1	59204.UQ49_13665	KEGG	map05132	Salmonella infection
+ANA29994.1	59204.UQ49_13665	COMPARTMENTS	GOCC:0005576	Extracellular region
+ANA29994.1	59204.UQ49_13665	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ANA29994.1	59204.UQ49_13665	UniProt Keywords	KW-0343	GTPase activation
+ANA29994.1	59204.UQ49_13665	UniProt Keywords	KW-0344	Guanine-nucleotide releasing factor
+ANA29994.1	59204.UQ49_13665	UniProt Keywords	KW-0843	Virulence
+ANA29994.1	59204.UQ49_13665	UniProt Keywords	KW-0964	Secreted
+ANA29994.1	59204.UQ49_13665	Pfam	PF05364	Salmonella type III secretion SopE effector N-terminus
+ANA29994.1	59204.UQ49_13665	Pfam	PF07487	SopE GEF domain
+ANA29994.1	59204.UQ49_13665	InterPro	IPR005414	Guanine nucleotide exchange factor SopE
+ANA29994.1	59204.UQ49_13665	InterPro	IPR016018	Guanine nucleotide exchange factor SopE, N-terminal domain
+ANA29994.1	59204.UQ49_13665	InterPro	IPR016019	Guanine nucleotide exchange factor SopE, GEF domain
+ANA29994.1	59204.UQ49_13665	InterPro	IPR035949	SopE-like, GEF domain superfamily
+ANA30813.1	59204.UQ49_18230	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA30813.1	59204.UQ49_18230	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA30813.1	59204.UQ49_18230	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0006810	Transport
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0008104	Protein localization
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0009987	Cellular process
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0015031	Protein transport
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0033036	Macromolecule localization
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0045184	Establishment of protein localization
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0051179	Localization
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0051234	Establishment of localization
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0051641	Cellular localization
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0070727	Cellular macromolecule localization
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0071702	Organic substance transport
+ANA30817.1	59204.UQ49_18250	GO Process	GO:0071705	Nitrogen compound transport
+ANA30817.1	59204.UQ49_18250	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA30817.1	59204.UQ49_18250	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA30817.1	59204.UQ49_18250	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+ANA30817.1	59204.UQ49_18250	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+ANA30817.1	59204.UQ49_18250	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+ANA30817.1	59204.UQ49_18250	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+ANA30817.1	59204.UQ49_18250	STRING clusters	CL:5310	Type III protein secretion system complex, and Inflammasomes
+ANA30817.1	59204.UQ49_18250	KEGG	map05132	Salmonella infection
+ANA30817.1	59204.UQ49_18250	Reactome	MAP-168249	Innate Immune System
+ANA30817.1	59204.UQ49_18250	Reactome	MAP-168256	Immune System
+ANA30817.1	59204.UQ49_18250	Reactome	MAP-168643	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways
+ANA30817.1	59204.UQ49_18250	Reactome	MAP-622312	Inflammasomes
+ANA30817.1	59204.UQ49_18250	Reactome	MAP-844623	The IPAF inflammasome
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0006470	Protein dephosphorylation
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0006793	Phosphorus metabolic process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0006807	Nitrogen compound metabolic process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0008152	Metabolic process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0009987	Cellular process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0016311	Dephosphorylation
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0019538	Protein metabolic process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0036211	Protein modification process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0043170	Macromolecule metabolic process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0043412	Macromolecule modification
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0044237	Cellular metabolic process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0044238	Primary metabolic process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0050790	Regulation of catalytic activity
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0065007	Biological regulation
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0065009	Regulation of molecular function
+ANA30823.1	59204.UQ49_18280	GO Process	GO:0071704	Organic substance metabolic process
+ANA30823.1	59204.UQ49_18280	GO Process	GO:1901564	Organonitrogen compound metabolic process
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0003824	Catalytic activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0004721	Phosphoprotein phosphatase activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0004725	Protein tyrosine phosphatase activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0005096	GTPase activator activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0008047	Enzyme activator activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0016787	Hydrolase activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0016791	Phosphatase activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0030234	Enzyme regulator activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0030695	GTPase regulator activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0042578	Phosphoric ester hydrolase activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0060589	Nucleoside-triphosphatase regulator activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0098772	Molecular function regulator activity
+ANA30823.1	59204.UQ49_18280	GO Function	GO:0140096	Catalytic activity, acting on a protein
+ANA30823.1	59204.UQ49_18280	GO Component	GO:0005576	Extracellular region
+ANA30823.1	59204.UQ49_18280	GO Component	GO:0005615	Extracellular space
+ANA30823.1	59204.UQ49_18280	GO Component	GO:0018995	Host cellular component
+ANA30823.1	59204.UQ49_18280	GO Component	GO:0030430	Host cell cytoplasm
+ANA30823.1	59204.UQ49_18280	GO Component	GO:0033643	Host cell part
+ANA30823.1	59204.UQ49_18280	GO Component	GO:0033646	Host intracellular part
+ANA30823.1	59204.UQ49_18280	GO Component	GO:0043656	Host intracellular region
+ANA30823.1	59204.UQ49_18280	GO Component	GO:0043657	Host cell
+ANA30823.1	59204.UQ49_18280	GO Component	GO:0110165	Cellular anatomical entity
+ANA30823.1	59204.UQ49_18280	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA30823.1	59204.UQ49_18280	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA30823.1	59204.UQ49_18280	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+ANA30823.1	59204.UQ49_18280	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+ANA30823.1	59204.UQ49_18280	KEGG	map05100	Bacterial invasion of epithelial cells
+ANA30823.1	59204.UQ49_18280	KEGG	map05132	Salmonella infection
+ANA30823.1	59204.UQ49_18280	COMPARTMENTS	GOCC:0018995	Host cellular component
+ANA30823.1	59204.UQ49_18280	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ANA30823.1	59204.UQ49_18280	UniProt Keywords	KW-0175	Coiled coil
+ANA30823.1	59204.UQ49_18280	Pfam	PF03545	Yersinia virulence determinant (YopE)
+ANA30823.1	59204.UQ49_18280	Pfam	PF09119	SicP binding
+ANA30823.1	59204.UQ49_18280	InterPro	IPR000242	Tyrosine-specific protein phosphatase, PTPase domain
+ANA30823.1	59204.UQ49_18280	InterPro	IPR000387	Tyrosine-specific protein phosphatases domain
+ANA30823.1	59204.UQ49_18280	InterPro	IPR003546	Type III secreted modular tyrosine phosphatase, SptP/YopH
+ANA30823.1	59204.UQ49_18280	InterPro	IPR003595	Protein-tyrosine phosphatase, catalytic
+ANA30823.1	59204.UQ49_18280	InterPro	IPR011070	Globular protein, non-globular alpha/beta subunit
+ANA30823.1	59204.UQ49_18280	InterPro	IPR014773	Virulence factor YopE, GAP domain
+ANA30823.1	59204.UQ49_18280	InterPro	IPR015203	Secreted effector protein SptP, N-terminal domain
+ANA30823.1	59204.UQ49_18280	InterPro	IPR016130	Protein-tyrosine phosphatase, active site
+ANA30823.1	59204.UQ49_18280	InterPro	IPR029021	Protein-tyrosine phosphatase-like
+ANA30823.1	59204.UQ49_18280	InterPro	IPR037168	Virulence factor YopE, GAP domain superfamily
+ANA30823.1	59204.UQ49_18280	InterPro	IPR044899	Secreted effector protein SptP, N-terminal domain superfamily
+ANA30823.1	59204.UQ49_18280	SMART	SM00194	Protein tyrosine phosphatase, catalytic domain
+ANA30826.1	59204.UQ49_18300	GO Function	GO:0003779	Actin binding
+ANA30826.1	59204.UQ49_18300	GO Function	GO:0005488	Binding
+ANA30826.1	59204.UQ49_18300	GO Function	GO:0005515	Protein binding
+ANA30826.1	59204.UQ49_18300	GO Function	GO:0008092	Cytoskeletal protein binding
+ANA30826.1	59204.UQ49_18300	GO Component	GO:0005576	Extracellular region
+ANA30826.1	59204.UQ49_18300	GO Component	GO:0110165	Cellular anatomical entity
+ANA30826.1	59204.UQ49_18300	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA30826.1	59204.UQ49_18300	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA30826.1	59204.UQ49_18300	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+ANA30826.1	59204.UQ49_18300	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+ANA30826.1	59204.UQ49_18300	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+ANA30826.1	59204.UQ49_18300	KEGG	map05100	Bacterial invasion of epithelial cells
+ANA30826.1	59204.UQ49_18300	KEGG	map05132	Salmonella infection
+ANA30826.1	59204.UQ49_18300	Pfam	PF09052	SipA N-terminal domain
+ANA30826.1	59204.UQ49_18300	InterPro	IPR015138	Salmonella invasion protein A, N-terminal
+ANA30826.1	59204.UQ49_18300	InterPro	IPR023224	Salmonella invasion protein A, C-terminal actin-binding domain superfamily
+ANA30826.1	59204.UQ49_18300	InterPro	IPR023225	Salmonella invasion protein A, chaperone-binding
+ANA30827.1	59204.UQ49_18305	GO Component	GO:0005576	Extracellular region
+ANA30827.1	59204.UQ49_18305	GO Component	GO:0110165	Cellular anatomical entity
+ANA30827.1	59204.UQ49_18305	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA30827.1	59204.UQ49_18305	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA30827.1	59204.UQ49_18305	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+ANA30827.1	59204.UQ49_18305	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+ANA30827.1	59204.UQ49_18305	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+ANA30827.1	59204.UQ49_18305	STRING clusters	CL:5321	Bacterial invasion of epithelial cells
+ANA30827.1	59204.UQ49_18305	KEGG	map05100	Bacterial invasion of epithelial cells
+ANA30827.1	59204.UQ49_18305	COMPARTMENTS	GOCC:0005576	Extracellular region
+ANA30827.1	59204.UQ49_18305	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ANA30827.1	59204.UQ49_18305	UniProt Keywords	KW-0175	Coiled coil
+ANA30827.1	59204.UQ49_18305	InterPro	IPR009483	Type III secretion systems tip complex components
+ANA30827.1	59204.UQ49_18305	InterPro	IPR036708	BipD-like superfamily
+ANA30828.1	59204.UQ49_18310	GO Function	GO:0003779	Actin binding
+ANA30828.1	59204.UQ49_18310	GO Function	GO:0005488	Binding
+ANA30828.1	59204.UQ49_18310	GO Function	GO:0005515	Protein binding
+ANA30828.1	59204.UQ49_18310	GO Function	GO:0008092	Cytoskeletal protein binding
+ANA30828.1	59204.UQ49_18310	GO Component	GO:0005576	Extracellular region
+ANA30828.1	59204.UQ49_18310	GO Component	GO:0110165	Cellular anatomical entity
+ANA30828.1	59204.UQ49_18310	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA30828.1	59204.UQ49_18310	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA30828.1	59204.UQ49_18310	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+ANA30828.1	59204.UQ49_18310	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+ANA30828.1	59204.UQ49_18310	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+ANA30828.1	59204.UQ49_18310	STRING clusters	CL:5321	Bacterial invasion of epithelial cells
+ANA30828.1	59204.UQ49_18310	KEGG	map05100	Bacterial invasion of epithelial cells
+ANA30828.1	59204.UQ49_18310	KEGG	map05132	Salmonella infection
+ANA30828.1	59204.UQ49_18310	COMPARTMENTS	GOCC:0005576	Extracellular region
+ANA30828.1	59204.UQ49_18310	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ANA30828.1	59204.UQ49_18310	Pfam	PF09599	Salmonella-Shigella invasin protein C (IpaC_SipC)
+ANA30828.1	59204.UQ49_18310	InterPro	IPR005427	Salmonella/Shigella invasin protein C
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006163	Purine nucleotide metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006725	Cellular aromatic compound metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006753	Nucleoside phosphate metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006793	Phosphorus metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006807	Nitrogen compound metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006810	Transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006811	Ion transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0006812	Cation transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0008104	Protein localization
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0008152	Metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009058	Biosynthetic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009117	Nucleotide metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009141	Nucleoside triphosphate metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009144	Purine nucleoside triphosphate metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009150	Purine ribonucleotide metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009199	Ribonucleoside triphosphate metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009205	Purine ribonucleoside triphosphate metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009259	Ribonucleotide metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009306	Protein secretion
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0009987	Cellular process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0015031	Protein transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0019637	Organophosphate metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0019693	Ribose phosphate metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0030254	Protein secretion by the type III secretion system
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0032940	Secretion by cell
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0033036	Macromolecule localization
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0034220	Ion transmembrane transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0034641	Cellular nitrogen compound metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0044237	Cellular metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0044238	Primary metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0044281	Small molecule metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0045184	Establishment of protein localization
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0046034	ATP metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0046483	Heterocycle metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0046903	Secretion
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0051179	Localization
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0051234	Establishment of localization
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0051641	Cellular localization
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0055085	Transmembrane transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0055086	Nucleobase-containing small molecule metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0070727	Cellular macromolecule localization
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0071692	Protein localization to extracellular region
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0071702	Organic substance transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0071704	Organic substance metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0071705	Nitrogen compound transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0071806	Protein transmembrane transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0072521	Purine-containing compound metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0098655	Cation transmembrane transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0098660	Inorganic ion transmembrane transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0098662	Inorganic cation transmembrane transport
+ANA30838.1	59204.UQ49_18360	GO Process	GO:0140352	Export from cell
+ANA30838.1	59204.UQ49_18360	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:1901360	Organic cyclic compound metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:1901564	Organonitrogen compound metabolic process
+ANA30838.1	59204.UQ49_18360	GO Process	GO:1902600	Proton transmembrane transport
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0000166	Nucleotide binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0003824	Catalytic activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0005215	Transporter activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0005488	Binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0005524	ATP binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0008320	Protein transmembrane transporter activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0008564	Protein-exporting ATPase activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0015399	Primary active transmembrane transporter activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0015450	Protein-transporting ATPase activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0016462	Pyrophosphatase activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0016787	Hydrolase activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0016887	ATP hydrolysis activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0017076	Purine nucleotide binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0017111	Nucleoside-triphosphatase activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0022804	Active transmembrane transporter activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0022857	Transmembrane transporter activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0022884	Macromolecule transmembrane transporter activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0030554	Adenyl nucleotide binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0032553	Ribonucleotide binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0032555	Purine ribonucleotide binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0032559	Adenyl ribonucleotide binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0036094	Small molecule binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0042626	ATPase-coupled transmembrane transporter activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0043167	Ion binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0043168	Anion binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0097159	Organic cyclic compound binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0097367	Carbohydrate derivative binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0140318	Protein transporter activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:0140657	ATP-dependent activity
+ANA30838.1	59204.UQ49_18360	GO Function	GO:1901265	Nucleoside phosphate binding
+ANA30838.1	59204.UQ49_18360	GO Function	GO:1901363	Heterocyclic compound binding
+ANA30838.1	59204.UQ49_18360	GO Component	GO:0005622	Intracellular anatomical structure
+ANA30838.1	59204.UQ49_18360	GO Component	GO:0005737	Cytoplasm
+ANA30838.1	59204.UQ49_18360	GO Component	GO:0030257	Type III protein secretion system complex
+ANA30838.1	59204.UQ49_18360	GO Component	GO:0032991	Protein-containing complex
+ANA30838.1	59204.UQ49_18360	GO Component	GO:0110165	Cellular anatomical entity
+ANA30838.1	59204.UQ49_18360	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA30838.1	59204.UQ49_18360	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA30838.1	59204.UQ49_18360	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+ANA30838.1	59204.UQ49_18360	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+ANA30838.1	59204.UQ49_18360	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+ANA30838.1	59204.UQ49_18360	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+ANA30838.1	59204.UQ49_18360	STRING clusters	CL:5293	Mixed, incl. Type III secretion protein HrcV, and Protein-exporting ATPase activity
+ANA30838.1	59204.UQ49_18360	KEGG	map02040	Flagellar assembly
+ANA30838.1	59204.UQ49_18360	COMPARTMENTS	GOCC:0005622	Intracellular
+ANA30838.1	59204.UQ49_18360	COMPARTMENTS	GOCC:0016020	Membrane
+ANA30838.1	59204.UQ49_18360	COMPARTMENTS	GOCC:0016469	Proton-transporting two-sector ATPase complex
+ANA30838.1	59204.UQ49_18360	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+ANA30838.1	59204.UQ49_18360	COMPARTMENTS	GOCC:0033178	Proton-transporting two-sector ATPase complex, catalytic domain
+ANA30838.1	59204.UQ49_18360	COMPARTMENTS	GOCC:0045259	Proton-transporting ATP synthase complex
+ANA30838.1	59204.UQ49_18360	COMPARTMENTS	GOCC:0045261	Proton-transporting ATP synthase complex, catalytic core F(1)
+ANA30838.1	59204.UQ49_18360	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+ANA30838.1	59204.UQ49_18360	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ANA30838.1	59204.UQ49_18360	Pfam	PF02874	ATP synthase alpha/beta family, beta-barrel domain
+ANA30838.1	59204.UQ49_18360	InterPro	IPR000194	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain
+ANA30838.1	59204.UQ49_18360	InterPro	IPR003593	AAA+ ATPase domain
+ANA30838.1	59204.UQ49_18360	InterPro	IPR004100	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+ANA30838.1	59204.UQ49_18360	InterPro	IPR005714	ATPase, type III secretion system, FliI/YscN
+ANA30838.1	59204.UQ49_18360	InterPro	IPR020003	ATPase, alpha/beta subunit, nucleotide-binding domain, active site
+ANA30838.1	59204.UQ49_18360	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+ANA30838.1	59204.UQ49_18360	InterPro	IPR040627	T3SS EscN ATPase, C-terminal
+ANA30838.1	59204.UQ49_18360	SMART	SM00382	ATPases associated with a variety of cellular activities
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0006810	Transport
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0008104	Protein localization
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0009306	Protein secretion
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0009987	Cellular process
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0015031	Protein transport
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0030254	Protein secretion by the type III secretion system
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0032940	Secretion by cell
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0033036	Macromolecule localization
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0045184	Establishment of protein localization
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0046903	Secretion
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0051179	Localization
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0051234	Establishment of localization
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0051641	Cellular localization
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0055085	Transmembrane transport
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0070727	Cellular macromolecule localization
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0071692	Protein localization to extracellular region
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0071702	Organic substance transport
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0071705	Nitrogen compound transport
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0071806	Protein transmembrane transport
+ANA30896.1	59204.UQ49_18670	GO Process	GO:0140352	Export from cell
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0003824	Catalytic activity
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0005096	GTPase activator activity
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0008047	Enzyme activator activity
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0016740	Transferase activity
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0016757	Glycosyltransferase activity
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0030234	Enzyme regulator activity
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0030695	GTPase regulator activity
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0060589	Nucleoside-triphosphatase regulator activity
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0090729	Toxin activity
+ANA30896.1	59204.UQ49_18670	GO Function	GO:0098772	Molecular function regulator activity
+ANA30896.1	59204.UQ49_18670	GO Component	GO:0018995	Host cellular component
+ANA30896.1	59204.UQ49_18670	GO Component	GO:0033643	Host cell part
+ANA30896.1	59204.UQ49_18670	GO Component	GO:0033644	Host cell membrane
+ANA30896.1	59204.UQ49_18670	GO Component	GO:0043657	Host cell
+ANA30896.1	59204.UQ49_18670	GO Component	GO:0110165	Cellular anatomical entity
+ANA30896.1	59204.UQ49_18670	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+ANA30896.1	59204.UQ49_18670	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+ANA30896.1	59204.UQ49_18670	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+ANA30896.1	59204.UQ49_18670	STRING clusters	CL:5354	Mixed, incl. Host intracellular organelle, and Salmonella outer protein D
+ANA30896.1	59204.UQ49_18670	KEGG	map05100	Bacterial invasion of epithelial cells
+ANA30896.1	59204.UQ49_18670	COMPARTMENTS	GOCC:0005576	Extracellular region
+ANA30896.1	59204.UQ49_18670	COMPARTMENTS	GOCC:0018995	Host cellular component
+ANA30896.1	59204.UQ49_18670	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ANA30896.1	59204.UQ49_18670	Pfam	PF11047	Salmonella outer protein D
+ANA30896.1	59204.UQ49_18670	InterPro	IPR022747	Salmonella outer protein D
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0000160	Phosphorelay signal transduction system
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0006468	Protein phosphorylation
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0006793	Phosphorus metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0006807	Nitrogen compound metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0007154	Cell communication
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0007165	Signal transduction
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0008152	Metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0009889	Regulation of biosynthetic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0009987	Cellular process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0010468	Regulation of gene expression
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0016310	Phosphorylation
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0018106	Peptidyl-histidine phosphorylation
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0018193	Peptidyl-amino acid modification
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0018202	Peptidyl-histidine modification
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0019222	Regulation of metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0019538	Protein metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0023052	Signaling
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0031323	Regulation of cellular metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0035556	Intracellular signal transduction
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0036211	Protein modification process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0043170	Macromolecule metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0043412	Macromolecule modification
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0044237	Cellular metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0044238	Primary metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0046777	Protein autophosphorylation
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0050789	Regulation of biological process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0050794	Regulation of cellular process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0050896	Response to stimulus
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0051252	Regulation of RNA metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0051716	Cellular response to stimulus
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0065007	Biological regulation
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0071704	Organic substance metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:0080090	Regulation of primary metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:1901564	Organonitrogen compound metabolic process
+ANA31263.1	59204.UQ49_20690	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+ANA31263.1	59204.UQ49_20690	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0000155	Phosphorelay sensor kinase activity
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0000166	Nucleotide binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0003824	Catalytic activity
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0004672	Protein kinase activity
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0004673	Protein histidine kinase activity
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0005488	Binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0005524	ATP binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0016301	Kinase activity
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0016740	Transferase activity
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0016775	Phosphotransferase activity, nitrogenous group as acceptor
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0017076	Purine nucleotide binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0030554	Adenyl nucleotide binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0032553	Ribonucleotide binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0032555	Purine ribonucleotide binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0032559	Adenyl ribonucleotide binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0036094	Small molecule binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0043167	Ion binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0043168	Anion binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0097159	Organic cyclic compound binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0097367	Carbohydrate derivative binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0140096	Catalytic activity, acting on a protein
+ANA31263.1	59204.UQ49_20690	GO Function	GO:0140299	Small molecule sensor activity
+ANA31263.1	59204.UQ49_20690	GO Function	GO:1901265	Nucleoside phosphate binding
+ANA31263.1	59204.UQ49_20690	GO Function	GO:1901363	Heterocyclic compound binding
+ANA31263.1	59204.UQ49_20690	GO Component	GO:0005886	Plasma membrane
+ANA31263.1	59204.UQ49_20690	GO Component	GO:0016020	Membrane
+ANA31263.1	59204.UQ49_20690	GO Component	GO:0016021	Integral component of membrane
+ANA31263.1	59204.UQ49_20690	GO Component	GO:0031224	Intrinsic component of membrane
+ANA31263.1	59204.UQ49_20690	GO Component	GO:0071944	Cell periphery
+ANA31263.1	59204.UQ49_20690	GO Component	GO:0110165	Cellular anatomical entity
+ANA31263.1	59204.UQ49_20690	STRING clusters	CL:5001	Signal transduction, and Cilium
+ANA31263.1	59204.UQ49_20690	STRING clusters	CL:5002	Cilium, and Signal transduction
+ANA31263.1	59204.UQ49_20690	STRING clusters	CL:5004	Cilium, and Signal transduction
+ANA31263.1	59204.UQ49_20690	STRING clusters	CL:5005	Cilium, and Signal transduction
+ANA31263.1	59204.UQ49_20690	STRING clusters	CL:5115	Mixed, incl. EAL domain, and Two-component regulatory system
+ANA31263.1	59204.UQ49_20690	STRING clusters	CL:5116	Two-component regulatory system, and Helix_turn_helix, Lux Regulon
+ANA31263.1	59204.UQ49_20690	STRING clusters	CL:5118	Two-component regulatory system, and Chemoreceptor zinc-binding domain
+ANA31263.1	59204.UQ49_20690	STRING clusters	CL:5121	HPT domain superfamily, and Transcriptional regulatory protein WalR-like
+ANA31263.1	59204.UQ49_20690	KEGG	map02020	Two-component system
+ANA31263.1	59204.UQ49_20690	COMPARTMENTS	GOCC:0005622	Intracellular
+ANA31263.1	59204.UQ49_20690	COMPARTMENTS	GOCC:0005737	Cytoplasm
+ANA31263.1	59204.UQ49_20690	COMPARTMENTS	GOCC:0005829	Cytosol
+ANA31263.1	59204.UQ49_20690	COMPARTMENTS	GOCC:0005886	Plasma membrane
+ANA31263.1	59204.UQ49_20690	COMPARTMENTS	GOCC:0016020	Membrane
+ANA31263.1	59204.UQ49_20690	COMPARTMENTS	GOCC:0071944	Cell periphery
+ANA31263.1	59204.UQ49_20690	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0067	ATP-binding
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0175	Coiled coil
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0418	Kinase
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0472	Membrane
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0547	Nucleotide-binding
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0597	Phosphoprotein
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0804	Transcription
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0805	Transcription regulation
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0808	Transferase
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0812	Transmembrane
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0902	Two-component regulatory system
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-0997	Cell inner membrane
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-1003	Cell membrane
+ANA31263.1	59204.UQ49_20690	UniProt Keywords	KW-1133	Transmembrane helix
+ANA31263.1	59204.UQ49_20690	InterPro	IPR000014	PAS domain
+ANA31263.1	59204.UQ49_20690	InterPro	IPR000700	PAS-associated, C-terminal
+ANA31263.1	59204.UQ49_20690	InterPro	IPR001789	Signal transduction response regulator, receiver domain
+ANA31263.1	59204.UQ49_20690	InterPro	IPR003594	Histidine kinase/HSP90-like ATPase
+ANA31263.1	59204.UQ49_20690	InterPro	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+ANA31263.1	59204.UQ49_20690	InterPro	IPR004358	Signal transduction histidine kinase-related protein, C-terminal
+ANA31263.1	59204.UQ49_20690	InterPro	IPR005467	Histidine kinase domain
+ANA31263.1	59204.UQ49_20690	InterPro	IPR008207	Signal transduction histidine kinase, phosphotransfer (Hpt) domain
+ANA31263.1	59204.UQ49_20690	InterPro	IPR011006	CheY-like superfamily
+ANA31263.1	59204.UQ49_20690	InterPro	IPR013767	PAS fold
+ANA31263.1	59204.UQ49_20690	InterPro	IPR014409	Signal transduction histidine kinase, hybrid-type, aerobic respiration control ArcB
+ANA31263.1	59204.UQ49_20690	InterPro	IPR027460	Aerobic respiration control sensor protein ArcB, transmembrane domain superfamily
+ANA31263.1	59204.UQ49_20690	InterPro	IPR035965	PAS domain superfamily
+ANA31263.1	59204.UQ49_20690	InterPro	IPR036097	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily
+ANA31263.1	59204.UQ49_20690	InterPro	IPR036641	HPT domain superfamily
+ANA31263.1	59204.UQ49_20690	InterPro	IPR036890	Histidine kinase/HSP90-like ATPase superfamily
+ANA31263.1	59204.UQ49_20690	InterPro	IPR040642	Histidine kinase receptor ArcB, transmembrane domain
+ANA31263.1	59204.UQ49_20690	SMART	SM00073	Histidine Phosphotransfer domain
+ANA31263.1	59204.UQ49_20690	SMART	SM00091	PAS domain
+ANA31263.1	59204.UQ49_20690	SMART	SM00387	Histidine kinase-like ATPases
+ANA31263.1	59204.UQ49_20690	SMART	SM00388	His Kinase A (phosphoacceptor) domain
+ANA31263.1	59204.UQ49_20690	SMART	SM00448	cheY-homologous receiver domain
+acrA	59204.UQ49_06625	GO Process	GO:0006810	Transport
+acrA	59204.UQ49_06625	GO Process	GO:0009987	Cellular process
+acrA	59204.UQ49_06625	GO Process	GO:0051179	Localization
+acrA	59204.UQ49_06625	GO Process	GO:0051234	Establishment of localization
+acrA	59204.UQ49_06625	GO Process	GO:0055085	Transmembrane transport
+acrA	59204.UQ49_06625	GO Function	GO:0005215	Transporter activity
+acrA	59204.UQ49_06625	GO Function	GO:0022857	Transmembrane transporter activity
+acrA	59204.UQ49_06625	GO Component	GO:0016020	Membrane
+acrA	59204.UQ49_06625	GO Component	GO:0110165	Cellular anatomical entity
+acrA	59204.UQ49_06625	STRING clusters	CL:3725	Mixed, incl. Xenobiotic transport, and Response to antibiotic
+acrA	59204.UQ49_06625	STRING clusters	CL:3727	Mixed, incl. Xenobiotic transport, and RND efflux pump, membrane fusion protein
+acrA	59204.UQ49_06625	STRING clusters	CL:3728	Mixed, incl. Xenobiotic transport, and RND efflux pump, membrane fusion protein
+acrA	59204.UQ49_06625	STRING clusters	CL:3729	Mixed, incl. Xenobiotic transport, and Outer membrane efflux protein
+acrA	59204.UQ49_06625	STRING clusters	CL:3731	Mixed, incl. Xenobiotic transport, and Cation efflux system protein CusB, domain 1
+acrA	59204.UQ49_06625	STRING clusters	CL:3733	Mixed, incl. Transcription regulator MAATS, C-terminal, and Type I secretion outer membrane protein, TolC
+acrA	59204.UQ49_06625	KEGG	map01501	beta-Lactam resistance
+acrA	59204.UQ49_06625	KEGG	map01503	Cationic antimicrobial peptide (CAMP) resistance
+acrA	59204.UQ49_06625	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+acrA	59204.UQ49_06625	UniProt Keywords	KW-0175	Coiled coil
+acrA	59204.UQ49_06625	UniProt Keywords	KW-0732	Signal
+acrA	59204.UQ49_06625	Pfam	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion
+acrA	59204.UQ49_06625	InterPro	IPR006143	RND efflux pump, membrane fusion protein
+acrA	59204.UQ49_06625	InterPro	IPR032317	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrA	59204.UQ49_06625	InterPro	IPR043602	Cation efflux system protein CusB, domain 1
+acrB	59204.UQ49_06620	GO Process	GO:0006810	Transport
+acrB	59204.UQ49_06620	GO Process	GO:0009987	Cellular process
+acrB	59204.UQ49_06620	GO Process	GO:0042908	Xenobiotic transport
+acrB	59204.UQ49_06620	GO Process	GO:0051179	Localization
+acrB	59204.UQ49_06620	GO Process	GO:0051234	Establishment of localization
+acrB	59204.UQ49_06620	GO Process	GO:0055085	Transmembrane transport
+acrB	59204.UQ49_06620	GO Function	GO:0005215	Transporter activity
+acrB	59204.UQ49_06620	GO Function	GO:0015562	Efflux transmembrane transporter activity
+acrB	59204.UQ49_06620	GO Function	GO:0022857	Transmembrane transporter activity
+acrB	59204.UQ49_06620	GO Component	GO:0005886	Plasma membrane
+acrB	59204.UQ49_06620	GO Component	GO:0016020	Membrane
+acrB	59204.UQ49_06620	GO Component	GO:0016021	Integral component of membrane
+acrB	59204.UQ49_06620	GO Component	GO:0031224	Intrinsic component of membrane
+acrB	59204.UQ49_06620	GO Component	GO:0071944	Cell periphery
+acrB	59204.UQ49_06620	GO Component	GO:0110165	Cellular anatomical entity
+acrB	59204.UQ49_06620	STRING clusters	CL:3725	Mixed, incl. Xenobiotic transport, and Response to antibiotic
+acrB	59204.UQ49_06620	STRING clusters	CL:3727	Mixed, incl. Xenobiotic transport, and RND efflux pump, membrane fusion protein
+acrB	59204.UQ49_06620	STRING clusters	CL:3728	Mixed, incl. Xenobiotic transport, and RND efflux pump, membrane fusion protein
+acrB	59204.UQ49_06620	STRING clusters	CL:3729	Mixed, incl. Xenobiotic transport, and Outer membrane efflux protein
+acrB	59204.UQ49_06620	STRING clusters	CL:3731	Mixed, incl. Xenobiotic transport, and Cation efflux system protein CusB, domain 1
+acrB	59204.UQ49_06620	STRING clusters	CL:3733	Mixed, incl. Transcription regulator MAATS, C-terminal, and Type I secretion outer membrane protein, TolC
+acrB	59204.UQ49_06620	KEGG	map01501	beta-Lactam resistance
+acrB	59204.UQ49_06620	KEGG	map01503	Cationic antimicrobial peptide (CAMP) resistance
+acrB	59204.UQ49_06620	COMPARTMENTS	GOCC:0005886	Plasma membrane
+acrB	59204.UQ49_06620	COMPARTMENTS	GOCC:0016020	Membrane
+acrB	59204.UQ49_06620	COMPARTMENTS	GOCC:0071944	Cell periphery
+acrB	59204.UQ49_06620	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+acrB	59204.UQ49_06620	UniProt Keywords	KW-0472	Membrane
+acrB	59204.UQ49_06620	UniProt Keywords	KW-0812	Transmembrane
+acrB	59204.UQ49_06620	UniProt Keywords	KW-0813	Transport
+acrB	59204.UQ49_06620	UniProt Keywords	KW-0997	Cell inner membrane
+acrB	59204.UQ49_06620	UniProt Keywords	KW-1003	Cell membrane
+acrB	59204.UQ49_06620	UniProt Keywords	KW-1133	Transmembrane helix
+acrB	59204.UQ49_06620	Pfam	PF03176	MMPL family
+acrB	59204.UQ49_06620	InterPro	IPR001036	Acriflavin resistance protein
+acrB	59204.UQ49_06620	InterPro	IPR004764	Hydrophobe/amphiphile efflux-1 HAE1
+acrB	59204.UQ49_06620	InterPro	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains
+invA	59204.UQ49_18370	GO Process	GO:0006810	Transport
+invA	59204.UQ49_18370	GO Process	GO:0008104	Protein localization
+invA	59204.UQ49_18370	GO Process	GO:0009306	Protein secretion
+invA	59204.UQ49_18370	GO Process	GO:0009987	Cellular process
+invA	59204.UQ49_18370	GO Process	GO:0015031	Protein transport
+invA	59204.UQ49_18370	GO Process	GO:0032940	Secretion by cell
+invA	59204.UQ49_18370	GO Process	GO:0033036	Macromolecule localization
+invA	59204.UQ49_18370	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+invA	59204.UQ49_18370	GO Process	GO:0045184	Establishment of protein localization
+invA	59204.UQ49_18370	GO Process	GO:0046903	Secretion
+invA	59204.UQ49_18370	GO Process	GO:0051179	Localization
+invA	59204.UQ49_18370	GO Process	GO:0051234	Establishment of localization
+invA	59204.UQ49_18370	GO Process	GO:0051641	Cellular localization
+invA	59204.UQ49_18370	GO Process	GO:0070727	Cellular macromolecule localization
+invA	59204.UQ49_18370	GO Process	GO:0071692	Protein localization to extracellular region
+invA	59204.UQ49_18370	GO Process	GO:0071702	Organic substance transport
+invA	59204.UQ49_18370	GO Process	GO:0071705	Nitrogen compound transport
+invA	59204.UQ49_18370	GO Process	GO:0140352	Export from cell
+invA	59204.UQ49_18370	GO Function	GO:0000166	Nucleotide binding
+invA	59204.UQ49_18370	GO Function	GO:0005488	Binding
+invA	59204.UQ49_18370	GO Function	GO:0005524	ATP binding
+invA	59204.UQ49_18370	GO Function	GO:0017076	Purine nucleotide binding
+invA	59204.UQ49_18370	GO Function	GO:0030554	Adenyl nucleotide binding
+invA	59204.UQ49_18370	GO Function	GO:0032553	Ribonucleotide binding
+invA	59204.UQ49_18370	GO Function	GO:0032555	Purine ribonucleotide binding
+invA	59204.UQ49_18370	GO Function	GO:0032559	Adenyl ribonucleotide binding
+invA	59204.UQ49_18370	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+invA	59204.UQ49_18370	GO Function	GO:0036094	Small molecule binding
+invA	59204.UQ49_18370	GO Function	GO:0043167	Ion binding
+invA	59204.UQ49_18370	GO Function	GO:0043168	Anion binding
+invA	59204.UQ49_18370	GO Function	GO:0097159	Organic cyclic compound binding
+invA	59204.UQ49_18370	GO Function	GO:0097367	Carbohydrate derivative binding
+invA	59204.UQ49_18370	GO Function	GO:1901265	Nucleoside phosphate binding
+invA	59204.UQ49_18370	GO Function	GO:1901363	Heterocyclic compound binding
+invA	59204.UQ49_18370	GO Component	GO:0005886	Plasma membrane
+invA	59204.UQ49_18370	GO Component	GO:0016020	Membrane
+invA	59204.UQ49_18370	GO Component	GO:0016021	Integral component of membrane
+invA	59204.UQ49_18370	GO Component	GO:0031224	Intrinsic component of membrane
+invA	59204.UQ49_18370	GO Component	GO:0071944	Cell periphery
+invA	59204.UQ49_18370	GO Component	GO:0110165	Cellular anatomical entity
+invA	59204.UQ49_18370	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+invA	59204.UQ49_18370	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+invA	59204.UQ49_18370	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+invA	59204.UQ49_18370	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+invA	59204.UQ49_18370	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+invA	59204.UQ49_18370	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+invA	59204.UQ49_18370	STRING clusters	CL:5293	Mixed, incl. Type III secretion protein HrcV, and Protein-exporting ATPase activity
+invA	59204.UQ49_18370	KEGG	map03070	Bacterial secretion system
+invA	59204.UQ49_18370	UniProt Keywords	KW-0472	Membrane
+invA	59204.UQ49_18370	UniProt Keywords	KW-0812	Transmembrane
+invA	59204.UQ49_18370	UniProt Keywords	KW-1133	Transmembrane helix
+invA	59204.UQ49_18370	Pfam	PF00771	FHIPEP family
+invA	59204.UQ49_18370	InterPro	IPR001712	Type III secretion system FHIPEP
+invA	59204.UQ49_18370	InterPro	IPR006302	Type III secretion protein HrcV
+invA	59204.UQ49_18370	InterPro	IPR025505	FHIPEP conserved site
+invA	59204.UQ49_18370	InterPro	IPR042193	FHIPEP, domain 3
+invA	59204.UQ49_18370	InterPro	IPR042194	FHIPEP, domain 1
+invA	59204.UQ49_18370	InterPro	IPR042196	FHIPEP, domain 4
+invE	59204.UQ49_18375	GO Process	GO:0006810	Transport
+invE	59204.UQ49_18375	GO Process	GO:0008104	Protein localization
+invE	59204.UQ49_18375	GO Process	GO:0009306	Protein secretion
+invE	59204.UQ49_18375	GO Process	GO:0009987	Cellular process
+invE	59204.UQ49_18375	GO Process	GO:0015031	Protein transport
+invE	59204.UQ49_18375	GO Process	GO:0030254	Protein secretion by the type III secretion system
+invE	59204.UQ49_18375	GO Process	GO:0032879	Regulation of localization
+invE	59204.UQ49_18375	GO Process	GO:0032880	Regulation of protein localization
+invE	59204.UQ49_18375	GO Process	GO:0032940	Secretion by cell
+invE	59204.UQ49_18375	GO Process	GO:0033036	Macromolecule localization
+invE	59204.UQ49_18375	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+invE	59204.UQ49_18375	GO Process	GO:0045184	Establishment of protein localization
+invE	59204.UQ49_18375	GO Process	GO:0046903	Secretion
+invE	59204.UQ49_18375	GO Process	GO:0048519	Negative regulation of biological process
+invE	59204.UQ49_18375	GO Process	GO:0048523	Negative regulation of cellular process
+invE	59204.UQ49_18375	GO Process	GO:0050708	Regulation of protein secretion
+invE	59204.UQ49_18375	GO Process	GO:0050709	Negative regulation of protein secretion
+invE	59204.UQ49_18375	GO Process	GO:0050789	Regulation of biological process
+invE	59204.UQ49_18375	GO Process	GO:0050794	Regulation of cellular process
+invE	59204.UQ49_18375	GO Process	GO:0051046	Regulation of secretion
+invE	59204.UQ49_18375	GO Process	GO:0051048	Negative regulation of secretion
+invE	59204.UQ49_18375	GO Process	GO:0051049	Regulation of transport
+invE	59204.UQ49_18375	GO Process	GO:0051051	Negative regulation of transport
+invE	59204.UQ49_18375	GO Process	GO:0051179	Localization
+invE	59204.UQ49_18375	GO Process	GO:0051223	Regulation of protein transport
+invE	59204.UQ49_18375	GO Process	GO:0051224	Negative regulation of protein transport
+invE	59204.UQ49_18375	GO Process	GO:0051234	Establishment of localization
+invE	59204.UQ49_18375	GO Process	GO:0051641	Cellular localization
+invE	59204.UQ49_18375	GO Process	GO:0055085	Transmembrane transport
+invE	59204.UQ49_18375	GO Process	GO:0060341	Regulation of cellular localization
+invE	59204.UQ49_18375	GO Process	GO:0065007	Biological regulation
+invE	59204.UQ49_18375	GO Process	GO:0070201	Regulation of establishment of protein localization
+invE	59204.UQ49_18375	GO Process	GO:0070727	Cellular macromolecule localization
+invE	59204.UQ49_18375	GO Process	GO:0071692	Protein localization to extracellular region
+invE	59204.UQ49_18375	GO Process	GO:0071702	Organic substance transport
+invE	59204.UQ49_18375	GO Process	GO:0071705	Nitrogen compound transport
+invE	59204.UQ49_18375	GO Process	GO:0071806	Protein transmembrane transport
+invE	59204.UQ49_18375	GO Process	GO:0140352	Export from cell
+invE	59204.UQ49_18375	GO Process	GO:1903530	Regulation of secretion by cell
+invE	59204.UQ49_18375	GO Process	GO:1903531	Negative regulation of secretion by cell
+invE	59204.UQ49_18375	GO Process	GO:1903828	Negative regulation of protein localization
+invE	59204.UQ49_18375	GO Process	GO:1904950	Negative regulation of establishment of protein localization
+invE	59204.UQ49_18375	GO Component	GO:0005886	Plasma membrane
+invE	59204.UQ49_18375	GO Component	GO:0009986	Cell surface
+invE	59204.UQ49_18375	GO Component	GO:0016020	Membrane
+invE	59204.UQ49_18375	GO Component	GO:0019867	Outer membrane
+invE	59204.UQ49_18375	GO Component	GO:0071944	Cell periphery
+invE	59204.UQ49_18375	GO Component	GO:0110165	Cellular anatomical entity
+invE	59204.UQ49_18375	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+invE	59204.UQ49_18375	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+invE	59204.UQ49_18375	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+invE	59204.UQ49_18375	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+invE	59204.UQ49_18375	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+invE	59204.UQ49_18375	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+invE	59204.UQ49_18375	COMPARTMENTS	GOCC:0009986	Cell surface
+invE	59204.UQ49_18375	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+invE	59204.UQ49_18375	Pfam	PF07201	HrpJ-like domain
+invE	59204.UQ49_18375	InterPro	IPR003520	Salmonella/Shigella invasion protein E
+invE	59204.UQ49_18375	InterPro	IPR010812	Hypersensitivity response secretion-like, HrpJ
+invE	59204.UQ49_18375	InterPro	IPR013401	Type III secretion regulator, YopN/LcrE/InvE/MxiC
+invF	59204.UQ49_18385	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+invF	59204.UQ49_18385	GO Process	GO:0009889	Regulation of biosynthetic process
+invF	59204.UQ49_18385	GO Process	GO:0010468	Regulation of gene expression
+invF	59204.UQ49_18385	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+invF	59204.UQ49_18385	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+invF	59204.UQ49_18385	GO Process	GO:0019222	Regulation of metabolic process
+invF	59204.UQ49_18385	GO Process	GO:0031323	Regulation of cellular metabolic process
+invF	59204.UQ49_18385	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+invF	59204.UQ49_18385	GO Process	GO:0050789	Regulation of biological process
+invF	59204.UQ49_18385	GO Process	GO:0050794	Regulation of cellular process
+invF	59204.UQ49_18385	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+invF	59204.UQ49_18385	GO Process	GO:0051252	Regulation of RNA metabolic process
+invF	59204.UQ49_18385	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+invF	59204.UQ49_18385	GO Process	GO:0065007	Biological regulation
+invF	59204.UQ49_18385	GO Process	GO:0080090	Regulation of primary metabolic process
+invF	59204.UQ49_18385	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+invF	59204.UQ49_18385	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+invF	59204.UQ49_18385	GO Function	GO:0003676	Nucleic acid binding
+invF	59204.UQ49_18385	GO Function	GO:0003677	DNA binding
+invF	59204.UQ49_18385	GO Function	GO:0003700	DNA-binding transcription factor activity
+invF	59204.UQ49_18385	GO Function	GO:0005488	Binding
+invF	59204.UQ49_18385	GO Function	GO:0043565	Sequence-specific DNA binding
+invF	59204.UQ49_18385	GO Function	GO:0097159	Organic cyclic compound binding
+invF	59204.UQ49_18385	GO Function	GO:0140110	Transcription regulator activity
+invF	59204.UQ49_18385	GO Function	GO:1901363	Heterocyclic compound binding
+invF	59204.UQ49_18385	GO Component	GO:0005622	Intracellular anatomical structure
+invF	59204.UQ49_18385	GO Component	GO:0005737	Cytoplasm
+invF	59204.UQ49_18385	GO Component	GO:0110165	Cellular anatomical entity
+invF	59204.UQ49_18385	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+invF	59204.UQ49_18385	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+invF	59204.UQ49_18385	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+invF	59204.UQ49_18385	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+invF	59204.UQ49_18385	STRING clusters	CL:5340	HTH domain AraC-type, conserved site
+invF	59204.UQ49_18385	KEGG	map01503	Cationic antimicrobial peptide (CAMP) resistance
+invF	59204.UQ49_18385	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+invF	59204.UQ49_18385	UniProt Keywords	KW-0238	DNA-binding
+invF	59204.UQ49_18385	UniProt Keywords	KW-0804	Transcription
+invF	59204.UQ49_18385	UniProt Keywords	KW-0805	Transcription regulation
+invF	59204.UQ49_18385	InterPro	IPR009057	Homeobox-like domain superfamily
+invF	59204.UQ49_18385	InterPro	IPR018060	DNA binding HTH domain, AraC-type
+invF	59204.UQ49_18385	InterPro	IPR018062	HTH domain AraC-type, conserved site
+invF	59204.UQ49_18385	SMART	SM00342	Helix_turn_helix, arabinose operon control protein
+invG	59204.UQ49_18380	GO Process	GO:0006810	Transport
+invG	59204.UQ49_18380	GO Process	GO:0008104	Protein localization
+invG	59204.UQ49_18380	GO Process	GO:0009306	Protein secretion
+invG	59204.UQ49_18380	GO Process	GO:0009987	Cellular process
+invG	59204.UQ49_18380	GO Process	GO:0015031	Protein transport
+invG	59204.UQ49_18380	GO Process	GO:0030254	Protein secretion by the type III secretion system
+invG	59204.UQ49_18380	GO Process	GO:0032940	Secretion by cell
+invG	59204.UQ49_18380	GO Process	GO:0033036	Macromolecule localization
+invG	59204.UQ49_18380	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+invG	59204.UQ49_18380	GO Process	GO:0045184	Establishment of protein localization
+invG	59204.UQ49_18380	GO Process	GO:0046903	Secretion
+invG	59204.UQ49_18380	GO Process	GO:0051179	Localization
+invG	59204.UQ49_18380	GO Process	GO:0051234	Establishment of localization
+invG	59204.UQ49_18380	GO Process	GO:0051641	Cellular localization
+invG	59204.UQ49_18380	GO Process	GO:0055085	Transmembrane transport
+invG	59204.UQ49_18380	GO Process	GO:0070727	Cellular macromolecule localization
+invG	59204.UQ49_18380	GO Process	GO:0071692	Protein localization to extracellular region
+invG	59204.UQ49_18380	GO Process	GO:0071702	Organic substance transport
+invG	59204.UQ49_18380	GO Process	GO:0071705	Nitrogen compound transport
+invG	59204.UQ49_18380	GO Process	GO:0071806	Protein transmembrane transport
+invG	59204.UQ49_18380	GO Process	GO:0140352	Export from cell
+invG	59204.UQ49_18380	GO Function	GO:0005488	Binding
+invG	59204.UQ49_18380	GO Function	GO:0005515	Protein binding
+invG	59204.UQ49_18380	GO Function	GO:0042802	Identical protein binding
+invG	59204.UQ49_18380	GO Component	GO:0009279	Cell outer membrane
+invG	59204.UQ49_18380	GO Component	GO:0016020	Membrane
+invG	59204.UQ49_18380	GO Component	GO:0019867	Outer membrane
+invG	59204.UQ49_18380	GO Component	GO:0030257	Type III protein secretion system complex
+invG	59204.UQ49_18380	GO Component	GO:0030312	External encapsulating structure
+invG	59204.UQ49_18380	GO Component	GO:0030313	Cell envelope
+invG	59204.UQ49_18380	GO Component	GO:0031975	Envelope
+invG	59204.UQ49_18380	GO Component	GO:0032991	Protein-containing complex
+invG	59204.UQ49_18380	GO Component	GO:0071944	Cell periphery
+invG	59204.UQ49_18380	GO Component	GO:0110165	Cellular anatomical entity
+invG	59204.UQ49_18380	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+invG	59204.UQ49_18380	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+invG	59204.UQ49_18380	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+invG	59204.UQ49_18380	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+invG	59204.UQ49_18380	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+invG	59204.UQ49_18380	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+invG	59204.UQ49_18380	STRING clusters	CL:5310	Type III protein secretion system complex, and Inflammasomes
+invG	59204.UQ49_18380	KEGG	map03070	Bacterial secretion system
+invG	59204.UQ49_18380	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+invG	59204.UQ49_18380	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+invG	59204.UQ49_18380	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+invG	59204.UQ49_18380	UniProt Keywords	KW-0732	Signal
+invG	59204.UQ49_18380	UniProt Keywords	KW-0813	Transport
+invG	59204.UQ49_18380	Pfam	PF00263	Bacterial type II and III secretion system protein
+invG	59204.UQ49_18380	Pfam	PF03958	Bacterial type II/III secretion system short domain
+invG	59204.UQ49_18380	InterPro	IPR003522	Type III secretion system outer membrane pore YscC/HrcC
+invG	59204.UQ49_18380	InterPro	IPR004845	Type II secretion system protein GspD, conserved site
+invG	59204.UQ49_18380	InterPro	IPR004846	Type II/III secretion system
+invG	59204.UQ49_18380	InterPro	IPR005644	NolW-like
+invG	59204.UQ49_18380	InterPro	IPR038591	NolW-like superfamily
+invG_3	59204.UQ49_05780	GO Process	GO:0006810	Transport
+invG_3	59204.UQ49_05780	GO Process	GO:0008104	Protein localization
+invG_3	59204.UQ49_05780	GO Process	GO:0009306	Protein secretion
+invG_3	59204.UQ49_05780	GO Process	GO:0009987	Cellular process
+invG_3	59204.UQ49_05780	GO Process	GO:0015031	Protein transport
+invG_3	59204.UQ49_05780	GO Process	GO:0032940	Secretion by cell
+invG_3	59204.UQ49_05780	GO Process	GO:0033036	Macromolecule localization
+invG_3	59204.UQ49_05780	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+invG_3	59204.UQ49_05780	GO Process	GO:0045184	Establishment of protein localization
+invG_3	59204.UQ49_05780	GO Process	GO:0046903	Secretion
+invG_3	59204.UQ49_05780	GO Process	GO:0051179	Localization
+invG_3	59204.UQ49_05780	GO Process	GO:0051234	Establishment of localization
+invG_3	59204.UQ49_05780	GO Process	GO:0051641	Cellular localization
+invG_3	59204.UQ49_05780	GO Process	GO:0055085	Transmembrane transport
+invG_3	59204.UQ49_05780	GO Process	GO:0070727	Cellular macromolecule localization
+invG_3	59204.UQ49_05780	GO Process	GO:0071692	Protein localization to extracellular region
+invG_3	59204.UQ49_05780	GO Process	GO:0071702	Organic substance transport
+invG_3	59204.UQ49_05780	GO Process	GO:0071705	Nitrogen compound transport
+invG_3	59204.UQ49_05780	GO Process	GO:0071806	Protein transmembrane transport
+invG_3	59204.UQ49_05780	GO Process	GO:0140352	Export from cell
+invG_3	59204.UQ49_05780	GO Function	GO:0005488	Binding
+invG_3	59204.UQ49_05780	GO Function	GO:0005515	Protein binding
+invG_3	59204.UQ49_05780	GO Function	GO:0042802	Identical protein binding
+invG_3	59204.UQ49_05780	GO Component	GO:0009279	Cell outer membrane
+invG_3	59204.UQ49_05780	GO Component	GO:0016020	Membrane
+invG_3	59204.UQ49_05780	GO Component	GO:0019867	Outer membrane
+invG_3	59204.UQ49_05780	GO Component	GO:0030312	External encapsulating structure
+invG_3	59204.UQ49_05780	GO Component	GO:0030313	Cell envelope
+invG_3	59204.UQ49_05780	GO Component	GO:0031975	Envelope
+invG_3	59204.UQ49_05780	GO Component	GO:0032991	Protein-containing complex
+invG_3	59204.UQ49_05780	GO Component	GO:0071944	Cell periphery
+invG_3	59204.UQ49_05780	GO Component	GO:0110165	Cellular anatomical entity
+invG_3	59204.UQ49_05780	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+invG_3	59204.UQ49_05780	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+invG_3	59204.UQ49_05780	STRING clusters	CL:5375	Secretion, and Type III secretion system subunit
+invG_3	59204.UQ49_05780	STRING clusters	CL:5432	Bacterial secretion system, and Coiled coil
+invG_3	59204.UQ49_05780	KEGG	map03070	Bacterial secretion system
+invG_3	59204.UQ49_05780	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+invG_3	59204.UQ49_05780	UniProt Keywords	KW-0813	Transport
+invG_3	59204.UQ49_05780	Pfam	PF00263	Bacterial type II and III secretion system protein
+invG_3	59204.UQ49_05780	Pfam	PF03958	Bacterial type II/III secretion system short domain
+invG_3	59204.UQ49_05780	InterPro	IPR003522	Type III secretion system outer membrane pore YscC/HrcC
+invG_3	59204.UQ49_05780	InterPro	IPR004846	Type II/III secretion system
+invG_3	59204.UQ49_05780	InterPro	IPR005644	NolW-like
+invG_3	59204.UQ49_05780	InterPro	IPR038591	NolW-like superfamily
+invH	59204.UQ49_18390	GO Component	GO:0009279	Cell outer membrane
+invH	59204.UQ49_18390	GO Component	GO:0016020	Membrane
+invH	59204.UQ49_18390	GO Component	GO:0019867	Outer membrane
+invH	59204.UQ49_18390	GO Component	GO:0030312	External encapsulating structure
+invH	59204.UQ49_18390	GO Component	GO:0030313	Cell envelope
+invH	59204.UQ49_18390	GO Component	GO:0031975	Envelope
+invH	59204.UQ49_18390	GO Component	GO:0071944	Cell periphery
+invH	59204.UQ49_18390	GO Component	GO:0110165	Cellular anatomical entity
+invH	59204.UQ49_18390	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+invH	59204.UQ49_18390	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+invH	59204.UQ49_18390	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+invH	59204.UQ49_18390	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+invH	59204.UQ49_18390	UniProt Keywords	KW-0449	Lipoprotein
+invH	59204.UQ49_18390	Pfam	PF04741	InvH outer membrane lipoprotein
+invH	59204.UQ49_18390	InterPro	IPR006830	InvH outer membrane lipoprotein
+marA	59204.UQ49_11565	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+marA	59204.UQ49_11565	GO Process	GO:0009889	Regulation of biosynthetic process
+marA	59204.UQ49_11565	GO Process	GO:0010468	Regulation of gene expression
+marA	59204.UQ49_11565	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+marA	59204.UQ49_11565	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+marA	59204.UQ49_11565	GO Process	GO:0019222	Regulation of metabolic process
+marA	59204.UQ49_11565	GO Process	GO:0031323	Regulation of cellular metabolic process
+marA	59204.UQ49_11565	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+marA	59204.UQ49_11565	GO Process	GO:0042221	Response to chemical
+marA	59204.UQ49_11565	GO Process	GO:0046677	Response to antibiotic
+marA	59204.UQ49_11565	GO Process	GO:0050789	Regulation of biological process
+marA	59204.UQ49_11565	GO Process	GO:0050794	Regulation of cellular process
+marA	59204.UQ49_11565	GO Process	GO:0050896	Response to stimulus
+marA	59204.UQ49_11565	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+marA	59204.UQ49_11565	GO Process	GO:0051252	Regulation of RNA metabolic process
+marA	59204.UQ49_11565	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+marA	59204.UQ49_11565	GO Process	GO:0065007	Biological regulation
+marA	59204.UQ49_11565	GO Process	GO:0080090	Regulation of primary metabolic process
+marA	59204.UQ49_11565	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+marA	59204.UQ49_11565	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+marA	59204.UQ49_11565	GO Function	GO:0003676	Nucleic acid binding
+marA	59204.UQ49_11565	GO Function	GO:0003677	DNA binding
+marA	59204.UQ49_11565	GO Function	GO:0003700	DNA-binding transcription factor activity
+marA	59204.UQ49_11565	GO Function	GO:0005488	Binding
+marA	59204.UQ49_11565	GO Function	GO:0043565	Sequence-specific DNA binding
+marA	59204.UQ49_11565	GO Function	GO:0097159	Organic cyclic compound binding
+marA	59204.UQ49_11565	GO Function	GO:0140110	Transcription regulator activity
+marA	59204.UQ49_11565	GO Function	GO:1901363	Heterocyclic compound binding
+marA	59204.UQ49_11565	GO Component	GO:0005622	Intracellular anatomical structure
+marA	59204.UQ49_11565	GO Component	GO:0005737	Cytoplasm
+marA	59204.UQ49_11565	GO Component	GO:0110165	Cellular anatomical entity
+marA	59204.UQ49_11565	STRING clusters	CL:3725	Mixed, incl. Xenobiotic transport, and Response to antibiotic
+marA	59204.UQ49_11565	STRING clusters	CL:3727	Mixed, incl. Xenobiotic transport, and RND efflux pump, membrane fusion protein
+marA	59204.UQ49_11565	STRING clusters	CL:3728	Mixed, incl. Xenobiotic transport, and RND efflux pump, membrane fusion protein
+marA	59204.UQ49_11565	STRING clusters	CL:3729	Mixed, incl. Xenobiotic transport, and Outer membrane efflux protein
+marA	59204.UQ49_11565	STRING clusters	CL:3731	Mixed, incl. Xenobiotic transport, and Cation efflux system protein CusB, domain 1
+marA	59204.UQ49_11565	STRING clusters	CL:3733	Mixed, incl. Transcription regulator MAATS, C-terminal, and Type I secretion outer membrane protein, TolC
+marA	59204.UQ49_11565	KEGG	map01503	Cationic antimicrobial peptide (CAMP) resistance
+marA	59204.UQ49_11565	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+marA	59204.UQ49_11565	UniProt Keywords	KW-0238	DNA-binding
+marA	59204.UQ49_11565	UniProt Keywords	KW-0804	Transcription
+marA	59204.UQ49_11565	UniProt Keywords	KW-0805	Transcription regulation
+marA	59204.UQ49_11565	InterPro	IPR009057	Homeobox-like domain superfamily
+marA	59204.UQ49_11565	InterPro	IPR018060	DNA binding HTH domain, AraC-type
+marA	59204.UQ49_11565	InterPro	IPR018062	HTH domain AraC-type, conserved site
+marA	59204.UQ49_11565	SMART	SM00342	Helix_turn_helix, arabinose operon control protein
+marB	59204.UQ49_11560	GO Process	GO:0042221	Response to chemical
+marB	59204.UQ49_11560	GO Process	GO:0046677	Response to antibiotic
+marB	59204.UQ49_11560	GO Process	GO:0050896	Response to stimulus
+marB	59204.UQ49_11560	STRING clusters	CL:3725	Mixed, incl. Xenobiotic transport, and Response to antibiotic
+marB	59204.UQ49_11560	Pfam	PF13999	MarB protein
+marB	59204.UQ49_11560	InterPro	IPR025732	MarB protein
+marR	59204.UQ49_11570	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+marR	59204.UQ49_11570	GO Process	GO:0009889	Regulation of biosynthetic process
+marR	59204.UQ49_11570	GO Process	GO:0010468	Regulation of gene expression
+marR	59204.UQ49_11570	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+marR	59204.UQ49_11570	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+marR	59204.UQ49_11570	GO Process	GO:0019222	Regulation of metabolic process
+marR	59204.UQ49_11570	GO Process	GO:0031323	Regulation of cellular metabolic process
+marR	59204.UQ49_11570	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+marR	59204.UQ49_11570	GO Process	GO:0042221	Response to chemical
+marR	59204.UQ49_11570	GO Process	GO:0046677	Response to antibiotic
+marR	59204.UQ49_11570	GO Process	GO:0050789	Regulation of biological process
+marR	59204.UQ49_11570	GO Process	GO:0050794	Regulation of cellular process
+marR	59204.UQ49_11570	GO Process	GO:0050896	Response to stimulus
+marR	59204.UQ49_11570	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+marR	59204.UQ49_11570	GO Process	GO:0051252	Regulation of RNA metabolic process
+marR	59204.UQ49_11570	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+marR	59204.UQ49_11570	GO Process	GO:0065007	Biological regulation
+marR	59204.UQ49_11570	GO Process	GO:0080090	Regulation of primary metabolic process
+marR	59204.UQ49_11570	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+marR	59204.UQ49_11570	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+marR	59204.UQ49_11570	GO Function	GO:0003676	Nucleic acid binding
+marR	59204.UQ49_11570	GO Function	GO:0003677	DNA binding
+marR	59204.UQ49_11570	GO Function	GO:0003700	DNA-binding transcription factor activity
+marR	59204.UQ49_11570	GO Function	GO:0005488	Binding
+marR	59204.UQ49_11570	GO Function	GO:0097159	Organic cyclic compound binding
+marR	59204.UQ49_11570	GO Function	GO:0140110	Transcription regulator activity
+marR	59204.UQ49_11570	GO Function	GO:1901363	Heterocyclic compound binding
+marR	59204.UQ49_11570	STRING clusters	CL:3725	Mixed, incl. Xenobiotic transport, and Response to antibiotic
+marR	59204.UQ49_11570	STRING clusters	CL:3727	Mixed, incl. Xenobiotic transport, and RND efflux pump, membrane fusion protein
+marR	59204.UQ49_11570	STRING clusters	CL:3728	Mixed, incl. Xenobiotic transport, and RND efflux pump, membrane fusion protein
+marR	59204.UQ49_11570	STRING clusters	CL:3729	Mixed, incl. Xenobiotic transport, and Outer membrane efflux protein
+marR	59204.UQ49_11570	STRING clusters	CL:3731	Mixed, incl. Xenobiotic transport, and Cation efflux system protein CusB, domain 1
+marR	59204.UQ49_11570	STRING clusters	CL:3733	Mixed, incl. Transcription regulator MAATS, C-terminal, and Type I secretion outer membrane protein, TolC
+marR	59204.UQ49_11570	KEGG	map01501	beta-Lactam resistance
+marR	59204.UQ49_11570	COMPARTMENTS	GOCC:0005622	Intracellular
+marR	59204.UQ49_11570	COMPARTMENTS	GOCC:0005737	Cytoplasm
+marR	59204.UQ49_11570	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+marR	59204.UQ49_11570	UniProt Keywords	KW-0238	DNA-binding
+marR	59204.UQ49_11570	UniProt Keywords	KW-0804	Transcription
+marR	59204.UQ49_11570	UniProt Keywords	KW-0805	Transcription regulation
+marR	59204.UQ49_11570	InterPro	IPR000835	MarR-type HTH domain
+marR	59204.UQ49_11570	InterPro	IPR023187	Transcriptional regulator MarR-type, conserved site
+marR	59204.UQ49_11570	InterPro	IPR036388	Winged helix-like DNA-binding domain superfamily
+marR	59204.UQ49_11570	InterPro	IPR036390	Winged helix DNA-binding domain superfamily
+marR	59204.UQ49_11570	InterPro	IPR039422	Transcription regulators MarR/SlyA-like
+marR	59204.UQ49_11570	SMART	SM00347	Helix_turn_helix multiple antibiotic resistance protein
+mgtA	59204.UQ49_00325	GO Process	GO:0006810	Transport
+mgtA	59204.UQ49_00325	GO Process	GO:0006811	Ion transport
+mgtA	59204.UQ49_00325	GO Process	GO:0006812	Cation transport
+mgtA	59204.UQ49_00325	GO Process	GO:0009987	Cellular process
+mgtA	59204.UQ49_00325	GO Process	GO:0015693	Magnesium ion transport
+mgtA	59204.UQ49_00325	GO Process	GO:0030001	Metal ion transport
+mgtA	59204.UQ49_00325	GO Process	GO:0034220	Ion transmembrane transport
+mgtA	59204.UQ49_00325	GO Process	GO:0051179	Localization
+mgtA	59204.UQ49_00325	GO Process	GO:0051234	Establishment of localization
+mgtA	59204.UQ49_00325	GO Process	GO:0055085	Transmembrane transport
+mgtA	59204.UQ49_00325	GO Process	GO:0098655	Cation transmembrane transport
+mgtA	59204.UQ49_00325	GO Process	GO:0098660	Inorganic ion transmembrane transport
+mgtA	59204.UQ49_00325	GO Process	GO:0098662	Inorganic cation transmembrane transport
+mgtA	59204.UQ49_00325	GO Process	GO:1903830	Magnesium ion transmembrane transport
+mgtA	59204.UQ49_00325	GO Function	GO:0000166	Nucleotide binding
+mgtA	59204.UQ49_00325	GO Function	GO:0003824	Catalytic activity
+mgtA	59204.UQ49_00325	GO Function	GO:0005215	Transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0005488	Binding
+mgtA	59204.UQ49_00325	GO Function	GO:0005524	ATP binding
+mgtA	59204.UQ49_00325	GO Function	GO:0008324	Cation transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0015075	Ion transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0015095	Magnesium ion transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0015399	Primary active transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0015444	P-type magnesium transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0015662	P-type ion transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0016462	Pyrophosphatase activity
+mgtA	59204.UQ49_00325	GO Function	GO:0016787	Hydrolase activity
+mgtA	59204.UQ49_00325	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+mgtA	59204.UQ49_00325	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+mgtA	59204.UQ49_00325	GO Function	GO:0016887	ATP hydrolysis activity
+mgtA	59204.UQ49_00325	GO Function	GO:0017076	Purine nucleotide binding
+mgtA	59204.UQ49_00325	GO Function	GO:0017111	Nucleoside-triphosphatase activity
+mgtA	59204.UQ49_00325	GO Function	GO:0019829	ATPase-coupled cation transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0022804	Active transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0022853	Active ion transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0022857	Transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0030554	Adenyl nucleotide binding
+mgtA	59204.UQ49_00325	GO Function	GO:0032553	Ribonucleotide binding
+mgtA	59204.UQ49_00325	GO Function	GO:0032555	Purine ribonucleotide binding
+mgtA	59204.UQ49_00325	GO Function	GO:0032559	Adenyl ribonucleotide binding
+mgtA	59204.UQ49_00325	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+mgtA	59204.UQ49_00325	GO Function	GO:0036094	Small molecule binding
+mgtA	59204.UQ49_00325	GO Function	GO:0042626	ATPase-coupled transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0043167	Ion binding
+mgtA	59204.UQ49_00325	GO Function	GO:0043168	Anion binding
+mgtA	59204.UQ49_00325	GO Function	GO:0043169	Cation binding
+mgtA	59204.UQ49_00325	GO Function	GO:0046872	Metal ion binding
+mgtA	59204.UQ49_00325	GO Function	GO:0046873	Metal ion transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0097159	Organic cyclic compound binding
+mgtA	59204.UQ49_00325	GO Function	GO:0097367	Carbohydrate derivative binding
+mgtA	59204.UQ49_00325	GO Function	GO:0140358	P-type transmembrane transporter activity
+mgtA	59204.UQ49_00325	GO Function	GO:0140657	ATP-dependent activity
+mgtA	59204.UQ49_00325	GO Function	GO:1901265	Nucleoside phosphate binding
+mgtA	59204.UQ49_00325	GO Function	GO:1901363	Heterocyclic compound binding
+mgtA	59204.UQ49_00325	GO Component	GO:0005886	Plasma membrane
+mgtA	59204.UQ49_00325	GO Component	GO:0016020	Membrane
+mgtA	59204.UQ49_00325	GO Component	GO:0016021	Integral component of membrane
+mgtA	59204.UQ49_00325	GO Component	GO:0031224	Intrinsic component of membrane
+mgtA	59204.UQ49_00325	GO Component	GO:0071944	Cell periphery
+mgtA	59204.UQ49_00325	GO Component	GO:0110165	Cellular anatomical entity
+mgtA	59204.UQ49_00325	STRING clusters	CL:3465	Polysaccharide biosynthetic process, and Lipopolysaccharide biosynthesis
+mgtA	59204.UQ49_00325	STRING clusters	CL:3673	Glycolipid biosynthetic process, and Magnesium ion transport
+mgtA	59204.UQ49_00325	STRING clusters	CL:3713	Magnesium ion transport, and Response to peptide
+mgtA	59204.UQ49_00325	KEGG	map00190	Oxidative phosphorylation
+mgtA	59204.UQ49_00325	KEGG	map01100	Metabolic pathways
+mgtA	59204.UQ49_00325	COMPARTMENTS	GOCC:0005622	Intracellular
+mgtA	59204.UQ49_00325	COMPARTMENTS	GOCC:0043226	Organelle
+mgtA	59204.UQ49_00325	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+mgtA	59204.UQ49_00325	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+mgtA	59204.UQ49_00325	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+mgtA	59204.UQ49_00325	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+mgtA	59204.UQ49_00325	UniProt Keywords	KW-0378	Hydrolase
+mgtA	59204.UQ49_00325	UniProt Keywords	KW-0472	Membrane
+mgtA	59204.UQ49_00325	UniProt Keywords	KW-0812	Transmembrane
+mgtA	59204.UQ49_00325	UniProt Keywords	KW-1133	Transmembrane helix
+mgtA	59204.UQ49_00325	Pfam	PF00122	E1-E2 ATPase
+mgtA	59204.UQ49_00325	Pfam	PF00689	Cation transporting ATPase, C-terminus
+mgtA	59204.UQ49_00325	Pfam	PF00702	Haloacid dehalogenase-like hydrolase
+mgtA	59204.UQ49_00325	InterPro	IPR001757	P-type ATPase
+mgtA	59204.UQ49_00325	InterPro	IPR004014	Cation-transporting P-type ATPase, N-terminal
+mgtA	59204.UQ49_00325	InterPro	IPR006068	Cation-transporting P-type ATPase, C-terminal
+mgtA	59204.UQ49_00325	InterPro	IPR006415	P-type ATPase, subfamily IIIB
+mgtA	59204.UQ49_00325	InterPro	IPR008250	P-type ATPase, A domain superfamily
+mgtA	59204.UQ49_00325	InterPro	IPR018303	P-type ATPase, phosphorylation site
+mgtA	59204.UQ49_00325	InterPro	IPR023214	HAD superfamily
+mgtA	59204.UQ49_00325	InterPro	IPR023298	P-type ATPase, transmembrane domain superfamily
+mgtA	59204.UQ49_00325	InterPro	IPR023299	P-type ATPase, cytoplasmic domain N
+mgtA	59204.UQ49_00325	InterPro	IPR036412	HAD-like superfamily
+mgtA	59204.UQ49_00325	InterPro	IPR044492	P-type ATPase, haloacid dehalogenase domain
+mgtA	59204.UQ49_00325	SMART	SM00831	Cation transporter/ATPase, N-terminus
+ompF	59204.UQ49_08805	GO Process	GO:0006810	Transport
+ompF	59204.UQ49_08805	GO Process	GO:0006811	Ion transport
+ompF	59204.UQ49_08805	GO Process	GO:0009987	Cellular process
+ompF	59204.UQ49_08805	GO Process	GO:0034220	Ion transmembrane transport
+ompF	59204.UQ49_08805	GO Process	GO:0051179	Localization
+ompF	59204.UQ49_08805	GO Process	GO:0051234	Establishment of localization
+ompF	59204.UQ49_08805	GO Process	GO:0055085	Transmembrane transport
+ompF	59204.UQ49_08805	GO Function	GO:0005215	Transporter activity
+ompF	59204.UQ49_08805	GO Function	GO:0015267	Channel activity
+ompF	59204.UQ49_08805	GO Function	GO:0015288	Porin activity
+ompF	59204.UQ49_08805	GO Function	GO:0022803	Passive transmembrane transporter activity
+ompF	59204.UQ49_08805	GO Function	GO:0022829	Wide pore channel activity
+ompF	59204.UQ49_08805	GO Function	GO:0022857	Transmembrane transporter activity
+ompF	59204.UQ49_08805	GO Component	GO:0009279	Cell outer membrane
+ompF	59204.UQ49_08805	GO Component	GO:0016020	Membrane
+ompF	59204.UQ49_08805	GO Component	GO:0016021	Integral component of membrane
+ompF	59204.UQ49_08805	GO Component	GO:0019867	Outer membrane
+ompF	59204.UQ49_08805	GO Component	GO:0030312	External encapsulating structure
+ompF	59204.UQ49_08805	GO Component	GO:0030313	Cell envelope
+ompF	59204.UQ49_08805	GO Component	GO:0031224	Intrinsic component of membrane
+ompF	59204.UQ49_08805	GO Component	GO:0031975	Envelope
+ompF	59204.UQ49_08805	GO Component	GO:0032991	Protein-containing complex
+ompF	59204.UQ49_08805	GO Component	GO:0046930	Pore complex
+ompF	59204.UQ49_08805	GO Component	GO:0071944	Cell periphery
+ompF	59204.UQ49_08805	GO Component	GO:0098796	Membrane protein complex
+ompF	59204.UQ49_08805	GO Component	GO:0110165	Cellular anatomical entity
+ompF	59204.UQ49_08805	STRING clusters	CL:2456	Mixed, incl. Signal, and Cell cycle
+ompF	59204.UQ49_08805	STRING clusters	CL:2742	Mixed, incl. Membrane organization, and Lipoprotein localization
+ompF	59204.UQ49_08805	STRING clusters	CL:2743	Mixed, incl. Membrane organization, and Lipoprotein localization
+ompF	59204.UQ49_08805	STRING clusters	CL:2744	Mixed, incl. Membrane organization, and Outer membrane protein/outer membrane enzyme PagP, beta-barrel
+ompF	59204.UQ49_08805	STRING clusters	CL:2792	Outer membrane protein/outer membrane enzyme PagP, beta-barrel, and Porin
+ompF	59204.UQ49_08805	STRING clusters	CL:2795	Porin, Gram-negative type, conserved site, and Outer membrane protein/outer membrane enzyme PagP, beta-barrel
+ompF	59204.UQ49_08805	KEGG	map01501	beta-Lactam resistance
+ompF	59204.UQ49_08805	KEGG	map02020	Two-component system
+ompF	59204.UQ49_08805	Reactome	MAP-1236974	ER-Phagosome pathway
+ompF	59204.UQ49_08805	Reactome	MAP-1236975	Antigen processing-Cross presentation
+ompF	59204.UQ49_08805	Reactome	MAP-1280218	Adaptive Immune System
+ompF	59204.UQ49_08805	Reactome	MAP-1643685	Disease
+ompF	59204.UQ49_08805	Reactome	MAP-166016	Toll Like Receptor 4 (TLR4) Cascade
+ompF	59204.UQ49_08805	Reactome	MAP-166058	MyD88:MAL(TIRAP) cascade initiated on plasma membrane
+ompF	59204.UQ49_08805	Reactome	MAP-168179	Toll Like Receptor TLR1:TLR2 Cascade
+ompF	59204.UQ49_08805	Reactome	MAP-168188	Toll Like Receptor TLR6:TLR2 Cascade
+ompF	59204.UQ49_08805	Reactome	MAP-168249	Innate Immune System
+ompF	59204.UQ49_08805	Reactome	MAP-168256	Immune System
+ompF	59204.UQ49_08805	Reactome	MAP-168898	Toll-like Receptor Cascades
+ompF	59204.UQ49_08805	Reactome	MAP-181438	Toll Like Receptor 2 (TLR2) Cascade
+ompF	59204.UQ49_08805	Reactome	MAP-5260271	Diseases of Immune System
+ompF	59204.UQ49_08805	Reactome	MAP-5602358	Diseases associated with the TLR signaling cascade
+ompF	59204.UQ49_08805	Reactome	MAP-5602498	MyD88 deficiency (TLR2/4)
+ompF	59204.UQ49_08805	Reactome	MAP-5603041	IRAK4 deficiency (TLR2/4)
+ompF	59204.UQ49_08805	Reactome	MAP-983169	Class I MHC mediated antigen processing & presentation
+ompF	59204.UQ49_08805	COMPARTMENTS	GOCC:0016020	Membrane
+ompF	59204.UQ49_08805	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+ompF	59204.UQ49_08805	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+ompF	59204.UQ49_08805	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+ompF	59204.UQ49_08805	COMPARTMENTS	GOCC:0046930	Pore complex
+ompF	59204.UQ49_08805	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+ompF	59204.UQ49_08805	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ompF	59204.UQ49_08805	UniProt Keywords	KW-0406	Ion transport
+ompF	59204.UQ49_08805	UniProt Keywords	KW-0472	Membrane
+ompF	59204.UQ49_08805	UniProt Keywords	KW-0626	Porin
+ompF	59204.UQ49_08805	UniProt Keywords	KW-0732	Signal
+ompF	59204.UQ49_08805	UniProt Keywords	KW-0812	Transmembrane
+ompF	59204.UQ49_08805	UniProt Keywords	KW-0813	Transport
+ompF	59204.UQ49_08805	UniProt Keywords	KW-0998	Cell outer membrane
+ompF	59204.UQ49_08805	Pfam	PF00267	Gram-negative porin
+ompF	59204.UQ49_08805	InterPro	IPR001702	Porin, Gram-negative type
+ompF	59204.UQ49_08805	InterPro	IPR001897	Porin, gammaproteobacterial
+ompF	59204.UQ49_08805	InterPro	IPR013793	Porin, Gram-negative type, conserved site
+ompF	59204.UQ49_08805	InterPro	IPR023614	Porin domain superfamily
+ompF	59204.UQ49_08805	InterPro	IPR033900	Porin domain, Gram-negative type
+ompR	59204.UQ49_21555	GO Process	GO:0000160	Phosphorelay signal transduction system
+ompR	59204.UQ49_21555	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+ompR	59204.UQ49_21555	GO Process	GO:0007154	Cell communication
+ompR	59204.UQ49_21555	GO Process	GO:0007165	Signal transduction
+ompR	59204.UQ49_21555	GO Process	GO:0009889	Regulation of biosynthetic process
+ompR	59204.UQ49_21555	GO Process	GO:0009987	Cellular process
+ompR	59204.UQ49_21555	GO Process	GO:0010468	Regulation of gene expression
+ompR	59204.UQ49_21555	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+ompR	59204.UQ49_21555	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+ompR	59204.UQ49_21555	GO Process	GO:0019222	Regulation of metabolic process
+ompR	59204.UQ49_21555	GO Process	GO:0023052	Signaling
+ompR	59204.UQ49_21555	GO Process	GO:0031323	Regulation of cellular metabolic process
+ompR	59204.UQ49_21555	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+ompR	59204.UQ49_21555	GO Process	GO:0035556	Intracellular signal transduction
+ompR	59204.UQ49_21555	GO Process	GO:0050789	Regulation of biological process
+ompR	59204.UQ49_21555	GO Process	GO:0050794	Regulation of cellular process
+ompR	59204.UQ49_21555	GO Process	GO:0050896	Response to stimulus
+ompR	59204.UQ49_21555	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+ompR	59204.UQ49_21555	GO Process	GO:0051252	Regulation of RNA metabolic process
+ompR	59204.UQ49_21555	GO Process	GO:0051716	Cellular response to stimulus
+ompR	59204.UQ49_21555	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+ompR	59204.UQ49_21555	GO Process	GO:0065007	Biological regulation
+ompR	59204.UQ49_21555	GO Process	GO:0080090	Regulation of primary metabolic process
+ompR	59204.UQ49_21555	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+ompR	59204.UQ49_21555	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+ompR	59204.UQ49_21555	GO Function	GO:0003676	Nucleic acid binding
+ompR	59204.UQ49_21555	GO Function	GO:0003677	DNA binding
+ompR	59204.UQ49_21555	GO Function	GO:0005488	Binding
+ompR	59204.UQ49_21555	GO Function	GO:0097159	Organic cyclic compound binding
+ompR	59204.UQ49_21555	GO Function	GO:1901363	Heterocyclic compound binding
+ompR	59204.UQ49_21555	GO Component	GO:0005622	Intracellular anatomical structure
+ompR	59204.UQ49_21555	GO Component	GO:0005737	Cytoplasm
+ompR	59204.UQ49_21555	GO Component	GO:0110165	Cellular anatomical entity
+ompR	59204.UQ49_21555	STRING clusters	CL:5001	Signal transduction, and Cilium
+ompR	59204.UQ49_21555	STRING clusters	CL:5002	Cilium, and Signal transduction
+ompR	59204.UQ49_21555	STRING clusters	CL:5004	Cilium, and Signal transduction
+ompR	59204.UQ49_21555	STRING clusters	CL:5005	Cilium, and Signal transduction
+ompR	59204.UQ49_21555	STRING clusters	CL:5115	Mixed, incl. EAL domain, and Two-component regulatory system
+ompR	59204.UQ49_21555	STRING clusters	CL:5116	Two-component regulatory system, and Helix_turn_helix, Lux Regulon
+ompR	59204.UQ49_21555	STRING clusters	CL:5118	Two-component regulatory system, and Chemoreceptor zinc-binding domain
+ompR	59204.UQ49_21555	STRING clusters	CL:5121	HPT domain superfamily, and Transcriptional regulatory protein WalR-like
+ompR	59204.UQ49_21555	KEGG	map02020	Two-component system
+ompR	59204.UQ49_21555	UniProt Keywords	KW-0238	DNA-binding
+ompR	59204.UQ49_21555	UniProt Keywords	KW-0597	Phosphoprotein
+ompR	59204.UQ49_21555	UniProt Keywords	KW-0804	Transcription
+ompR	59204.UQ49_21555	UniProt Keywords	KW-0805	Transcription regulation
+ompR	59204.UQ49_21555	UniProt Keywords	KW-0902	Two-component regulatory system
+ompR	59204.UQ49_21555	InterPro	IPR001789	Signal transduction response regulator, receiver domain
+ompR	59204.UQ49_21555	InterPro	IPR001867	OmpR/PhoB-type DNA-binding domain
+ompR	59204.UQ49_21555	InterPro	IPR011006	CheY-like superfamily
+ompR	59204.UQ49_21555	InterPro	IPR016032	Signal transduction response regulator, C-terminal effector
+ompR	59204.UQ49_21555	InterPro	IPR036388	Winged helix-like DNA-binding domain superfamily
+ompR	59204.UQ49_21555	InterPro	IPR039420	Transcriptional regulatory protein WalR-like
+ompR	59204.UQ49_21555	SMART	SM00448	cheY-homologous receiver domain
+ompR	59204.UQ49_21555	SMART	SM00862	Transcriptional regulatory protein, C terminal
+orgA	59204.UQ49_18240	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+orgA	59204.UQ49_18240	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+orgA	59204.UQ49_18240	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+orgA	59204.UQ49_18240	Pfam	PF09482	Bacterial type III secretion apparatus protein (OrgA_MxiK)
+orgA	59204.UQ49_18240	InterPro	IPR013388	Type III secretion apparatus protein OrgA/MxiK
+orgB	59204.UQ49_18235	GO Process	GO:0006810	Transport
+orgB	59204.UQ49_18235	GO Process	GO:0008104	Protein localization
+orgB	59204.UQ49_18235	GO Process	GO:0009987	Cellular process
+orgB	59204.UQ49_18235	GO Process	GO:0015031	Protein transport
+orgB	59204.UQ49_18235	GO Process	GO:0033036	Macromolecule localization
+orgB	59204.UQ49_18235	GO Process	GO:0045184	Establishment of protein localization
+orgB	59204.UQ49_18235	GO Process	GO:0051179	Localization
+orgB	59204.UQ49_18235	GO Process	GO:0051234	Establishment of localization
+orgB	59204.UQ49_18235	GO Process	GO:0051641	Cellular localization
+orgB	59204.UQ49_18235	GO Process	GO:0070727	Cellular macromolecule localization
+orgB	59204.UQ49_18235	GO Process	GO:0071702	Organic substance transport
+orgB	59204.UQ49_18235	GO Process	GO:0071705	Nitrogen compound transport
+orgB	59204.UQ49_18235	GO Component	GO:0005622	Intracellular anatomical structure
+orgB	59204.UQ49_18235	GO Component	GO:0005737	Cytoplasm
+orgB	59204.UQ49_18235	GO Component	GO:0110165	Cellular anatomical entity
+orgB	59204.UQ49_18235	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+orgB	59204.UQ49_18235	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+orgB	59204.UQ49_18235	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+orgB	59204.UQ49_18235	UniProt Keywords	KW-0175	Coiled coil
+prgH	59204.UQ49_18260	GO Component	GO:0016020	Membrane
+prgH	59204.UQ49_18260	GO Component	GO:0016021	Integral component of membrane
+prgH	59204.UQ49_18260	GO Component	GO:0031224	Intrinsic component of membrane
+prgH	59204.UQ49_18260	GO Component	GO:0110165	Cellular anatomical entity
+prgH	59204.UQ49_18260	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+prgH	59204.UQ49_18260	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+prgH	59204.UQ49_18260	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+prgH	59204.UQ49_18260	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+prgH	59204.UQ49_18260	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+prgH	59204.UQ49_18260	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+prgH	59204.UQ49_18260	STRING clusters	CL:5310	Type III protein secretion system complex, and Inflammasomes
+prgH	59204.UQ49_18260	UniProt Keywords	KW-0472	Membrane
+prgH	59204.UQ49_18260	UniProt Keywords	KW-0812	Transmembrane
+prgH	59204.UQ49_18260	UniProt Keywords	KW-1133	Transmembrane helix
+prgH	59204.UQ49_18260	Pfam	PF09480	Type III secretion system protein PrgH-EprH (PrgH)
+prgH	59204.UQ49_18260	InterPro	IPR013387	Type III secretion system, PrgH/EprH
+prgH	59204.UQ49_18260	InterPro	IPR019029	Type III secretion system, PrgH/EprH-like
+prgI	59204.UQ49_18255	GO Process	GO:0006810	Transport
+prgI	59204.UQ49_18255	GO Process	GO:0008104	Protein localization
+prgI	59204.UQ49_18255	GO Process	GO:0009306	Protein secretion
+prgI	59204.UQ49_18255	GO Process	GO:0009987	Cellular process
+prgI	59204.UQ49_18255	GO Process	GO:0015031	Protein transport
+prgI	59204.UQ49_18255	GO Process	GO:0030254	Protein secretion by the type III secretion system
+prgI	59204.UQ49_18255	GO Process	GO:0032940	Secretion by cell
+prgI	59204.UQ49_18255	GO Process	GO:0033036	Macromolecule localization
+prgI	59204.UQ49_18255	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+prgI	59204.UQ49_18255	GO Process	GO:0045184	Establishment of protein localization
+prgI	59204.UQ49_18255	GO Process	GO:0046903	Secretion
+prgI	59204.UQ49_18255	GO Process	GO:0051179	Localization
+prgI	59204.UQ49_18255	GO Process	GO:0051234	Establishment of localization
+prgI	59204.UQ49_18255	GO Process	GO:0051641	Cellular localization
+prgI	59204.UQ49_18255	GO Process	GO:0055085	Transmembrane transport
+prgI	59204.UQ49_18255	GO Process	GO:0070727	Cellular macromolecule localization
+prgI	59204.UQ49_18255	GO Process	GO:0071692	Protein localization to extracellular region
+prgI	59204.UQ49_18255	GO Process	GO:0071702	Organic substance transport
+prgI	59204.UQ49_18255	GO Process	GO:0071705	Nitrogen compound transport
+prgI	59204.UQ49_18255	GO Process	GO:0071806	Protein transmembrane transport
+prgI	59204.UQ49_18255	GO Process	GO:0140352	Export from cell
+prgI	59204.UQ49_18255	GO Function	GO:0005488	Binding
+prgI	59204.UQ49_18255	GO Function	GO:0005515	Protein binding
+prgI	59204.UQ49_18255	GO Function	GO:0042802	Identical protein binding
+prgI	59204.UQ49_18255	GO Component	GO:0030257	Type III protein secretion system complex
+prgI	59204.UQ49_18255	GO Component	GO:0032991	Protein-containing complex
+prgI	59204.UQ49_18255	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+prgI	59204.UQ49_18255	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+prgI	59204.UQ49_18255	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+prgI	59204.UQ49_18255	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+prgI	59204.UQ49_18255	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+prgI	59204.UQ49_18255	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+prgI	59204.UQ49_18255	STRING clusters	CL:5310	Type III protein secretion system complex, and Inflammasomes
+prgI	59204.UQ49_18255	KEGG	map03070	Bacterial secretion system
+prgI	59204.UQ49_18255	KEGG	map05132	Salmonella infection
+prgI	59204.UQ49_18255	Pfam	PF09392	Type III secretion needle MxiH, YscF, SsaG, EprI, PscF, EscF
+prgI	59204.UQ49_18255	InterPro	IPR011841	Type III secretion system, needle protein
+prgI	59204.UQ49_18255	InterPro	IPR021123	Type III secretion, needle-protein-like
+prgI	59204.UQ49_18255	InterPro	IPR037203	Type III secretion, needle-protein-like superfamily
+prgK	59204.UQ49_18245	GO Process	GO:0006810	Transport
+prgK	59204.UQ49_18245	GO Process	GO:0008104	Protein localization
+prgK	59204.UQ49_18245	GO Process	GO:0009306	Protein secretion
+prgK	59204.UQ49_18245	GO Process	GO:0009987	Cellular process
+prgK	59204.UQ49_18245	GO Process	GO:0015031	Protein transport
+prgK	59204.UQ49_18245	GO Process	GO:0032940	Secretion by cell
+prgK	59204.UQ49_18245	GO Process	GO:0033036	Macromolecule localization
+prgK	59204.UQ49_18245	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+prgK	59204.UQ49_18245	GO Process	GO:0045184	Establishment of protein localization
+prgK	59204.UQ49_18245	GO Process	GO:0046903	Secretion
+prgK	59204.UQ49_18245	GO Process	GO:0051179	Localization
+prgK	59204.UQ49_18245	GO Process	GO:0051234	Establishment of localization
+prgK	59204.UQ49_18245	GO Process	GO:0051641	Cellular localization
+prgK	59204.UQ49_18245	GO Process	GO:0070727	Cellular macromolecule localization
+prgK	59204.UQ49_18245	GO Process	GO:0071692	Protein localization to extracellular region
+prgK	59204.UQ49_18245	GO Process	GO:0071702	Organic substance transport
+prgK	59204.UQ49_18245	GO Process	GO:0071705	Nitrogen compound transport
+prgK	59204.UQ49_18245	GO Process	GO:0140352	Export from cell
+prgK	59204.UQ49_18245	GO Component	GO:0009279	Cell outer membrane
+prgK	59204.UQ49_18245	GO Component	GO:0016020	Membrane
+prgK	59204.UQ49_18245	GO Component	GO:0016021	Integral component of membrane
+prgK	59204.UQ49_18245	GO Component	GO:0019867	Outer membrane
+prgK	59204.UQ49_18245	GO Component	GO:0030312	External encapsulating structure
+prgK	59204.UQ49_18245	GO Component	GO:0030313	Cell envelope
+prgK	59204.UQ49_18245	GO Component	GO:0031224	Intrinsic component of membrane
+prgK	59204.UQ49_18245	GO Component	GO:0031975	Envelope
+prgK	59204.UQ49_18245	GO Component	GO:0071944	Cell periphery
+prgK	59204.UQ49_18245	GO Component	GO:0110165	Cellular anatomical entity
+prgK	59204.UQ49_18245	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+prgK	59204.UQ49_18245	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+prgK	59204.UQ49_18245	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+prgK	59204.UQ49_18245	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+prgK	59204.UQ49_18245	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+prgK	59204.UQ49_18245	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+prgK	59204.UQ49_18245	STRING clusters	CL:5310	Type III protein secretion system complex, and Inflammasomes
+prgK	59204.UQ49_18245	KEGG	map03070	Bacterial secretion system
+prgK	59204.UQ49_18245	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+prgK	59204.UQ49_18245	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+prgK	59204.UQ49_18245	COMPARTMENTS	GOCC:0042597	Periplasmic space
+prgK	59204.UQ49_18245	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+prgK	59204.UQ49_18245	UniProt Keywords	KW-0449	Lipoprotein
+prgK	59204.UQ49_18245	UniProt Keywords	KW-0472	Membrane
+prgK	59204.UQ49_18245	UniProt Keywords	KW-0564	Palmitate
+prgK	59204.UQ49_18245	UniProt Keywords	KW-0732	Signal
+prgK	59204.UQ49_18245	UniProt Keywords	KW-0812	Transmembrane
+prgK	59204.UQ49_18245	UniProt Keywords	KW-0998	Cell outer membrane
+prgK	59204.UQ49_18245	UniProt Keywords	KW-1133	Transmembrane helix
+prgK	59204.UQ49_18245	Pfam	PF01514	Secretory protein of YscJ/FliF family
+prgK	59204.UQ49_18245	InterPro	IPR003282	Type III secretion system lipoprotein HrcJ/YscJ
+prgK	59204.UQ49_18245	InterPro	IPR006182	Flagellar M-ring , N-terminal
+prgK	59204.UQ49_18245	InterPro	IPR043427	Lipoprotein YscJ/Flagellar M-ring protein
+prgK	59204.UQ49_18245	InterPro	IPR045851	AMP-binding enzyme, C-terminal domain superfamily
+sicA	59204.UQ49_18320	GO Process	GO:0009987	Cellular process
+sicA	59204.UQ49_18320	GO Function	GO:0005488	Binding
+sicA	59204.UQ49_18320	GO Function	GO:0005515	Protein binding
+sicA	59204.UQ49_18320	GO Function	GO:0042802	Identical protein binding
+sicA	59204.UQ49_18320	GO Component	GO:0005622	Intracellular anatomical structure
+sicA	59204.UQ49_18320	GO Component	GO:0005737	Cytoplasm
+sicA	59204.UQ49_18320	GO Component	GO:0110165	Cellular anatomical entity
+sicA	59204.UQ49_18320	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+sicA	59204.UQ49_18320	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+sicA	59204.UQ49_18320	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+sicA	59204.UQ49_18320	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+sicA	59204.UQ49_18320	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+sicA	59204.UQ49_18320	STRING clusters	CL:5321	Bacterial invasion of epithelial cells
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0005622	Intracellular
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0005856	Cytoskeleton
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0005874	Microtubule
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0015630	Microtubule cytoskeleton
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0043226	Organelle
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0043232	Intracellular non-membrane-bounded organelle
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0099080	Supramolecular complex
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0099081	Supramolecular polymer
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0099512	Supramolecular fiber
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0099513	Polymeric cytoskeletal fiber
+sicA	59204.UQ49_18320	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+sicA	59204.UQ49_18320	Pfam	PF07720	Tetratricopeptide repeat
+sicA	59204.UQ49_18320	InterPro	IPR005415	Type III secretion system, low calcium response, chaperone LcrH/SycD
+sicA	59204.UQ49_18320	InterPro	IPR011716	Tetratricopeptide TPR-3
+sicA	59204.UQ49_18320	InterPro	IPR011990	Tetratricopeptide-like helical domain superfamily
+sicA	59204.UQ49_18320	InterPro	IPR016379	Type III secretion system, low calcium response, chaperone LcrH/SycD, subgroup
+sicP	59204.UQ49_18285	GO Process	GO:0006810	Transport
+sicP	59204.UQ49_18285	GO Process	GO:0008104	Protein localization
+sicP	59204.UQ49_18285	GO Process	GO:0009306	Protein secretion
+sicP	59204.UQ49_18285	GO Process	GO:0009987	Cellular process
+sicP	59204.UQ49_18285	GO Process	GO:0015031	Protein transport
+sicP	59204.UQ49_18285	GO Process	GO:0030254	Protein secretion by the type III secretion system
+sicP	59204.UQ49_18285	GO Process	GO:0032940	Secretion by cell
+sicP	59204.UQ49_18285	GO Process	GO:0033036	Macromolecule localization
+sicP	59204.UQ49_18285	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+sicP	59204.UQ49_18285	GO Process	GO:0045184	Establishment of protein localization
+sicP	59204.UQ49_18285	GO Process	GO:0046903	Secretion
+sicP	59204.UQ49_18285	GO Process	GO:0051179	Localization
+sicP	59204.UQ49_18285	GO Process	GO:0051234	Establishment of localization
+sicP	59204.UQ49_18285	GO Process	GO:0051641	Cellular localization
+sicP	59204.UQ49_18285	GO Process	GO:0055085	Transmembrane transport
+sicP	59204.UQ49_18285	GO Process	GO:0070727	Cellular macromolecule localization
+sicP	59204.UQ49_18285	GO Process	GO:0071692	Protein localization to extracellular region
+sicP	59204.UQ49_18285	GO Process	GO:0071702	Organic substance transport
+sicP	59204.UQ49_18285	GO Process	GO:0071705	Nitrogen compound transport
+sicP	59204.UQ49_18285	GO Process	GO:0071806	Protein transmembrane transport
+sicP	59204.UQ49_18285	GO Process	GO:0140352	Export from cell
+sicP	59204.UQ49_18285	GO Component	GO:0005622	Intracellular anatomical structure
+sicP	59204.UQ49_18285	GO Component	GO:0005737	Cytoplasm
+sicP	59204.UQ49_18285	GO Component	GO:0110165	Cellular anatomical entity
+sicP	59204.UQ49_18285	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+sicP	59204.UQ49_18285	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+sicP	59204.UQ49_18285	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+sicP	59204.UQ49_18285	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+sicP	59204.UQ49_18285	COMPARTMENTS	GOCC:0005622	Intracellular
+sicP	59204.UQ49_18285	COMPARTMENTS	GOCC:0005737	Cytoplasm
+sicP	59204.UQ49_18285	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+sicP	59204.UQ49_18285	UniProt Keywords	KW-0175	Coiled coil
+sicP	59204.UQ49_18285	Pfam	PF05932	Tir chaperone protein (CesT) family
+sicP	59204.UQ49_18285	InterPro	IPR010261	Tir chaperone protein (CesT) family
+sicP	59204.UQ49_18285	InterPro	IPR044530	Chaperone protein SicP
+sigE	59204.UQ49_09070	GO Component	GO:0005622	Intracellular anatomical structure
+sigE	59204.UQ49_09070	GO Component	GO:0005737	Cytoplasm
+sigE	59204.UQ49_09070	GO Component	GO:0110165	Cellular anatomical entity
+sigE	59204.UQ49_09070	STRING clusters	CL:8201	Mostly uncharacterized, incl. RNA-directed DNA polymerase, and Cysteine-type peptidase activity
+sigE	59204.UQ49_09070	STRING clusters	CL:8218	Mixed, incl. Cysteine-type peptidase activity, and Integrase, catalytic domain
+sigE	59204.UQ49_09070	Pfam	PF07824	Type III secretion chaperone domain
+sigE	59204.UQ49_09070	InterPro	IPR013095	Type III secretion system chaperone
+sipB	59204.UQ49_18315	GO Process	GO:0008104	Protein localization
+sipB	59204.UQ49_18315	GO Process	GO:0009987	Cellular process
+sipB	59204.UQ49_18315	GO Process	GO:0033036	Macromolecule localization
+sipB	59204.UQ49_18315	GO Process	GO:0033365	Protein localization to organelle
+sipB	59204.UQ49_18315	GO Process	GO:0034067	Protein localization to Golgi apparatus
+sipB	59204.UQ49_18315	GO Process	GO:0051179	Localization
+sipB	59204.UQ49_18315	GO Process	GO:0051641	Cellular localization
+sipB	59204.UQ49_18315	GO Process	GO:0070727	Cellular macromolecule localization
+sipB	59204.UQ49_18315	GO Function	GO:0003824	Catalytic activity
+sipB	59204.UQ49_18315	GO Function	GO:0016787	Hydrolase activity
+sipB	59204.UQ49_18315	GO Component	GO:0005576	Extracellular region
+sipB	59204.UQ49_18315	GO Component	GO:0016020	Membrane
+sipB	59204.UQ49_18315	GO Component	GO:0016021	Integral component of membrane
+sipB	59204.UQ49_18315	GO Component	GO:0018995	Host cellular component
+sipB	59204.UQ49_18315	GO Component	GO:0020002	Host cell plasma membrane
+sipB	59204.UQ49_18315	GO Component	GO:0031224	Intrinsic component of membrane
+sipB	59204.UQ49_18315	GO Component	GO:0033643	Host cell part
+sipB	59204.UQ49_18315	GO Component	GO:0033644	Host cell membrane
+sipB	59204.UQ49_18315	GO Component	GO:0043657	Host cell
+sipB	59204.UQ49_18315	GO Component	GO:0110165	Cellular anatomical entity
+sipB	59204.UQ49_18315	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+sipB	59204.UQ49_18315	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+sipB	59204.UQ49_18315	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+sipB	59204.UQ49_18315	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+sipB	59204.UQ49_18315	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+sipB	59204.UQ49_18315	STRING clusters	CL:5321	Bacterial invasion of epithelial cells
+sipB	59204.UQ49_18315	KEGG	map05100	Bacterial invasion of epithelial cells
+sipB	59204.UQ49_18315	KEGG	map05132	Salmonella infection
+sipB	59204.UQ49_18315	COMPARTMENTS	GOCC:0018995	Host cellular component
+sipB	59204.UQ49_18315	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+sipB	59204.UQ49_18315	UniProt Keywords	KW-0175	Coiled coil
+sipB	59204.UQ49_18315	UniProt Keywords	KW-0472	Membrane
+sipB	59204.UQ49_18315	UniProt Keywords	KW-0812	Transmembrane
+sipB	59204.UQ49_18315	UniProt Keywords	KW-1133	Transmembrane helix
+sipB	59204.UQ49_18315	Pfam	PF04888	Secretion system effector C (SseC) like family 
+sipB	59204.UQ49_18315	Pfam	PF16535	Type III cell invasion protein SipB
+sipB	59204.UQ49_18315	InterPro	IPR003895	Type III secretion system, invasin protein B
+sipB	59204.UQ49_18315	InterPro	IPR006972	Secretion system effector C, SseC-like
+sipB	59204.UQ49_18315	InterPro	IPR027267	AH/BAR domain superfamily
+sipB	59204.UQ49_18315	InterPro	IPR032391	Invasin IpaB, N-terminal
+sopB	59204.UQ49_09075	GO Process	GO:0001558	Regulation of cell growth
+sopB	59204.UQ49_09075	GO Process	GO:0001932	Regulation of protein phosphorylation
+sopB	59204.UQ49_09075	GO Process	GO:0006275	Regulation of DNA replication
+sopB	59204.UQ49_09075	GO Process	GO:0009893	Positive regulation of metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0019220	Regulation of phosphate metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0019222	Regulation of metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0023051	Regulation of signaling
+sopB	59204.UQ49_09075	GO Process	GO:0023057	Negative regulation of signaling
+sopB	59204.UQ49_09075	GO Process	GO:0030308	Negative regulation of cell growth
+sopB	59204.UQ49_09075	GO Process	GO:0031323	Regulation of cellular metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0031325	Positive regulation of cellular metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0031399	Regulation of protein modification process
+sopB	59204.UQ49_09075	GO Process	GO:0040008	Regulation of growth
+sopB	59204.UQ49_09075	GO Process	GO:0042325	Regulation of phosphorylation
+sopB	59204.UQ49_09075	GO Process	GO:0043549	Regulation of kinase activity
+sopB	59204.UQ49_09075	GO Process	GO:0045740	Positive regulation of DNA replication
+sopB	59204.UQ49_09075	GO Process	GO:0045859	Regulation of protein kinase activity
+sopB	59204.UQ49_09075	GO Process	GO:0045926	Negative regulation of growth
+sopB	59204.UQ49_09075	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0048518	Positive regulation of biological process
+sopB	59204.UQ49_09075	GO Process	GO:0048519	Negative regulation of biological process
+sopB	59204.UQ49_09075	GO Process	GO:0048522	Positive regulation of cellular process
+sopB	59204.UQ49_09075	GO Process	GO:0048523	Negative regulation of cellular process
+sopB	59204.UQ49_09075	GO Process	GO:0050789	Regulation of biological process
+sopB	59204.UQ49_09075	GO Process	GO:0050790	Regulation of catalytic activity
+sopB	59204.UQ49_09075	GO Process	GO:0050794	Regulation of cellular process
+sopB	59204.UQ49_09075	GO Process	GO:0051052	Regulation of DNA metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0051054	Positive regulation of DNA metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0051128	Regulation of cellular component organization
+sopB	59204.UQ49_09075	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0051173	Positive regulation of nitrogen compound metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0051174	Regulation of phosphorus metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0051246	Regulation of protein metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0051338	Regulation of transferase activity
+sopB	59204.UQ49_09075	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+sopB	59204.UQ49_09075	GO Process	GO:0065007	Biological regulation
+sopB	59204.UQ49_09075	GO Process	GO:0065009	Regulation of molecular function
+sopB	59204.UQ49_09075	GO Process	GO:0080090	Regulation of primary metabolic process
+sopB	59204.UQ49_09075	GO Function	GO:0003824	Catalytic activity
+sopB	59204.UQ49_09075	GO Function	GO:0016787	Hydrolase activity
+sopB	59204.UQ49_09075	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+sopB	59204.UQ49_09075	GO Function	GO:0016791	Phosphatase activity
+sopB	59204.UQ49_09075	GO Function	GO:0042578	Phosphoric ester hydrolase activity
+sopB	59204.UQ49_09075	GO Component	GO:0005576	Extracellular region
+sopB	59204.UQ49_09075	GO Component	GO:0110165	Cellular anatomical entity
+sopB	59204.UQ49_09075	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+sopB	59204.UQ49_09075	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+sopB	59204.UQ49_09075	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+sopB	59204.UQ49_09075	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+sopB	59204.UQ49_09075	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+sopB	59204.UQ49_09075	STRING clusters	CL:5321	Bacterial invasion of epithelial cells
+sopB	59204.UQ49_09075	KEGG	map05100	Bacterial invasion of epithelial cells
+sopB	59204.UQ49_09075	KEGG	map05132	Salmonella infection
+sopB	59204.UQ49_09075	COMPARTMENTS	GOCC:0005576	Extracellular region
+sopB	59204.UQ49_09075	COMPARTMENTS	GOCC:0018995	Host cellular component
+sopB	59204.UQ49_09075	COMPARTMENTS	GOCC:0043226	Organelle
+sopB	59204.UQ49_09075	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+sopB	59204.UQ49_09075	COMPARTMENTS	GOCC:0043230	Extracellular organelle
+sopB	59204.UQ49_09075	COMPARTMENTS	GOCC:0065010	Extracellular membrane-bounded organelle
+sopB	59204.UQ49_09075	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+sopB	59204.UQ49_09075	UniProt Keywords	KW-0378	Hydrolase
+sopB	59204.UQ49_09075	UniProt Keywords	KW-0843	Virulence
+sopB	59204.UQ49_09075	UniProt Keywords	KW-0964	Secreted
+sopB	59204.UQ49_09075	Pfam	PF05925	Enterobacterial virulence protein IpgD
+sopB	59204.UQ49_09075	InterPro	IPR008108	Phosphatase IpgD/SopB
+spaK	59204.UQ49_18365	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+spaK	59204.UQ49_18365	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+spaK	59204.UQ49_18365	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+spaK	59204.UQ49_18365	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+spaK	59204.UQ49_18365	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+spaK	59204.UQ49_18365	Pfam	PF03519	Invasion protein B family
+spaK	59204.UQ49_18365	InterPro	IPR003065	Surface presentation of antigens protein SpaK
+spaM	59204.UQ49_18355	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+spaM	59204.UQ49_18355	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+spaM	59204.UQ49_18355	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+spaM	59204.UQ49_18355	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+spaM	59204.UQ49_18355	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+spaM	59204.UQ49_18355	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+spaM	59204.UQ49_18355	UniProt Keywords	KW-0175	Coiled coil
+spaM	59204.UQ49_18355	Pfam	PF02090	Salmonella surface presentation of antigen gene type M protein
+spaM	59204.UQ49_18355	InterPro	IPR002954	Salmonella surface presentation of antigen M protein
+spaN	59204.UQ49_18350	GO Component	GO:0005622	Intracellular anatomical structure
+spaN	59204.UQ49_18350	GO Component	GO:0005737	Cytoplasm
+spaN	59204.UQ49_18350	GO Component	GO:0110165	Cellular anatomical entity
+spaN	59204.UQ49_18350	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+spaN	59204.UQ49_18350	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+spaN	59204.UQ49_18350	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+spaN	59204.UQ49_18350	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+spaN	59204.UQ49_18350	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+spaN	59204.UQ49_18350	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+spaN	59204.UQ49_18350	Pfam	PF02510	Surface presentation of antigens protein
+spaN	59204.UQ49_18350	InterPro	IPR003066	Salmonella invasion protein InvJ
+spaO	59204.UQ49_18345	GO Process	GO:0006810	Transport
+spaO	59204.UQ49_18345	GO Process	GO:0008104	Protein localization
+spaO	59204.UQ49_18345	GO Process	GO:0009306	Protein secretion
+spaO	59204.UQ49_18345	GO Process	GO:0009987	Cellular process
+spaO	59204.UQ49_18345	GO Process	GO:0015031	Protein transport
+spaO	59204.UQ49_18345	GO Process	GO:0030254	Protein secretion by the type III secretion system
+spaO	59204.UQ49_18345	GO Process	GO:0032940	Secretion by cell
+spaO	59204.UQ49_18345	GO Process	GO:0033036	Macromolecule localization
+spaO	59204.UQ49_18345	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+spaO	59204.UQ49_18345	GO Process	GO:0045184	Establishment of protein localization
+spaO	59204.UQ49_18345	GO Process	GO:0046903	Secretion
+spaO	59204.UQ49_18345	GO Process	GO:0051179	Localization
+spaO	59204.UQ49_18345	GO Process	GO:0051234	Establishment of localization
+spaO	59204.UQ49_18345	GO Process	GO:0051641	Cellular localization
+spaO	59204.UQ49_18345	GO Process	GO:0055085	Transmembrane transport
+spaO	59204.UQ49_18345	GO Process	GO:0070727	Cellular macromolecule localization
+spaO	59204.UQ49_18345	GO Process	GO:0071692	Protein localization to extracellular region
+spaO	59204.UQ49_18345	GO Process	GO:0071702	Organic substance transport
+spaO	59204.UQ49_18345	GO Process	GO:0071705	Nitrogen compound transport
+spaO	59204.UQ49_18345	GO Process	GO:0071806	Protein transmembrane transport
+spaO	59204.UQ49_18345	GO Process	GO:0140352	Export from cell
+spaO	59204.UQ49_18345	GO Function	GO:0003774	Cytoskeletal motor activity
+spaO	59204.UQ49_18345	GO Component	GO:0009288	Bacterial-type flagellum
+spaO	59204.UQ49_18345	GO Component	GO:0009425	Bacterial-type flagellum basal body
+spaO	59204.UQ49_18345	GO Component	GO:0042995	Cell projection
+spaO	59204.UQ49_18345	GO Component	GO:0043226	Organelle
+spaO	59204.UQ49_18345	GO Component	GO:0043228	Non-membrane-bounded organelle
+spaO	59204.UQ49_18345	GO Component	GO:0110165	Cellular anatomical entity
+spaO	59204.UQ49_18345	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+spaO	59204.UQ49_18345	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+spaO	59204.UQ49_18345	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+spaO	59204.UQ49_18345	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+spaO	59204.UQ49_18345	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+spaO	59204.UQ49_18345	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+spaO	59204.UQ49_18345	KEGG	map03070	Bacterial secretion system
+spaO	59204.UQ49_18345	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+spaO	59204.UQ49_18345	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+spaO	59204.UQ49_18345	COMPARTMENTS	GOCC:0042995	Cell projection
+spaO	59204.UQ49_18345	COMPARTMENTS	GOCC:0043226	Organelle
+spaO	59204.UQ49_18345	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+spaO	59204.UQ49_18345	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+spaO	59204.UQ49_18345	Pfam	PF01052	Type III flagellar switch regulator (C-ring) FliN C-term
+spaO	59204.UQ49_18345	InterPro	IPR001543	Flagellar motor switch protein FliN-like, C-terminal domain
+spaO	59204.UQ49_18345	InterPro	IPR003283	Type III secretion system outer membrane, SpaO
+spaO	59204.UQ49_18345	InterPro	IPR013385	Type III secretion system apparatus protein YscQ/HrcQ/SpaO
+spaO	59204.UQ49_18345	InterPro	IPR036429	SpoA-like superfamily
+spaP	59204.UQ49_18340	GO Process	GO:0006810	Transport
+spaP	59204.UQ49_18340	GO Process	GO:0008104	Protein localization
+spaP	59204.UQ49_18340	GO Process	GO:0009306	Protein secretion
+spaP	59204.UQ49_18340	GO Process	GO:0009987	Cellular process
+spaP	59204.UQ49_18340	GO Process	GO:0015031	Protein transport
+spaP	59204.UQ49_18340	GO Process	GO:0032940	Secretion by cell
+spaP	59204.UQ49_18340	GO Process	GO:0033036	Macromolecule localization
+spaP	59204.UQ49_18340	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+spaP	59204.UQ49_18340	GO Process	GO:0045184	Establishment of protein localization
+spaP	59204.UQ49_18340	GO Process	GO:0046903	Secretion
+spaP	59204.UQ49_18340	GO Process	GO:0051179	Localization
+spaP	59204.UQ49_18340	GO Process	GO:0051234	Establishment of localization
+spaP	59204.UQ49_18340	GO Process	GO:0051641	Cellular localization
+spaP	59204.UQ49_18340	GO Process	GO:0070727	Cellular macromolecule localization
+spaP	59204.UQ49_18340	GO Process	GO:0071692	Protein localization to extracellular region
+spaP	59204.UQ49_18340	GO Process	GO:0071702	Organic substance transport
+spaP	59204.UQ49_18340	GO Process	GO:0071705	Nitrogen compound transport
+spaP	59204.UQ49_18340	GO Process	GO:0140352	Export from cell
+spaP	59204.UQ49_18340	GO Component	GO:0005886	Plasma membrane
+spaP	59204.UQ49_18340	GO Component	GO:0016020	Membrane
+spaP	59204.UQ49_18340	GO Component	GO:0016021	Integral component of membrane
+spaP	59204.UQ49_18340	GO Component	GO:0031224	Intrinsic component of membrane
+spaP	59204.UQ49_18340	GO Component	GO:0071944	Cell periphery
+spaP	59204.UQ49_18340	GO Component	GO:0110165	Cellular anatomical entity
+spaP	59204.UQ49_18340	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+spaP	59204.UQ49_18340	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+spaP	59204.UQ49_18340	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+spaP	59204.UQ49_18340	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+spaP	59204.UQ49_18340	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+spaP	59204.UQ49_18340	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+spaP	59204.UQ49_18340	STRING clusters	CL:5293	Mixed, incl. Type III secretion protein HrcV, and Protein-exporting ATPase activity
+spaP	59204.UQ49_18340	KEGG	map03070	Bacterial secretion system
+spaP	59204.UQ49_18340	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+spaP	59204.UQ49_18340	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+spaP	59204.UQ49_18340	COMPARTMENTS	GOCC:0042995	Cell projection
+spaP	59204.UQ49_18340	COMPARTMENTS	GOCC:0043226	Organelle
+spaP	59204.UQ49_18340	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+spaP	59204.UQ49_18340	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+spaP	59204.UQ49_18340	UniProt Keywords	KW-0175	Coiled coil
+spaP	59204.UQ49_18340	UniProt Keywords	KW-0472	Membrane
+spaP	59204.UQ49_18340	UniProt Keywords	KW-0812	Transmembrane
+spaP	59204.UQ49_18340	UniProt Keywords	KW-1003	Cell membrane
+spaP	59204.UQ49_18340	UniProt Keywords	KW-1133	Transmembrane helix
+spaP	59204.UQ49_18340	Pfam	PF00813	FliP family
+spaP	59204.UQ49_18340	InterPro	IPR005773	Yop virulence translocation protein R
+spaP	59204.UQ49_18340	InterPro	IPR005838	Type III secretion system inner membrane P protein
+spaQ	59204.UQ49_18335	GO Process	GO:0006810	Transport
+spaQ	59204.UQ49_18335	GO Process	GO:0008104	Protein localization
+spaQ	59204.UQ49_18335	GO Process	GO:0009306	Protein secretion
+spaQ	59204.UQ49_18335	GO Process	GO:0009987	Cellular process
+spaQ	59204.UQ49_18335	GO Process	GO:0015031	Protein transport
+spaQ	59204.UQ49_18335	GO Process	GO:0032940	Secretion by cell
+spaQ	59204.UQ49_18335	GO Process	GO:0033036	Macromolecule localization
+spaQ	59204.UQ49_18335	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+spaQ	59204.UQ49_18335	GO Process	GO:0045184	Establishment of protein localization
+spaQ	59204.UQ49_18335	GO Process	GO:0046903	Secretion
+spaQ	59204.UQ49_18335	GO Process	GO:0051179	Localization
+spaQ	59204.UQ49_18335	GO Process	GO:0051234	Establishment of localization
+spaQ	59204.UQ49_18335	GO Process	GO:0051641	Cellular localization
+spaQ	59204.UQ49_18335	GO Process	GO:0070727	Cellular macromolecule localization
+spaQ	59204.UQ49_18335	GO Process	GO:0071692	Protein localization to extracellular region
+spaQ	59204.UQ49_18335	GO Process	GO:0071702	Organic substance transport
+spaQ	59204.UQ49_18335	GO Process	GO:0071705	Nitrogen compound transport
+spaQ	59204.UQ49_18335	GO Process	GO:0140352	Export from cell
+spaQ	59204.UQ49_18335	GO Component	GO:0005886	Plasma membrane
+spaQ	59204.UQ49_18335	GO Component	GO:0016020	Membrane
+spaQ	59204.UQ49_18335	GO Component	GO:0016021	Integral component of membrane
+spaQ	59204.UQ49_18335	GO Component	GO:0031224	Intrinsic component of membrane
+spaQ	59204.UQ49_18335	GO Component	GO:0071944	Cell periphery
+spaQ	59204.UQ49_18335	GO Component	GO:0110165	Cellular anatomical entity
+spaQ	59204.UQ49_18335	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+spaQ	59204.UQ49_18335	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+spaQ	59204.UQ49_18335	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+spaQ	59204.UQ49_18335	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+spaQ	59204.UQ49_18335	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+spaQ	59204.UQ49_18335	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+spaQ	59204.UQ49_18335	STRING clusters	CL:5293	Mixed, incl. Type III secretion protein HrcV, and Protein-exporting ATPase activity
+spaQ	59204.UQ49_18335	KEGG	map03070	Bacterial secretion system
+spaQ	59204.UQ49_18335	UniProt Keywords	KW-0472	Membrane
+spaQ	59204.UQ49_18335	UniProt Keywords	KW-0812	Transmembrane
+spaQ	59204.UQ49_18335	UniProt Keywords	KW-1133	Transmembrane helix
+spaQ	59204.UQ49_18335	Pfam	PF01313	Bacterial export proteins, family 3
+spaQ	59204.UQ49_18335	InterPro	IPR002191	Bacterial export protein family 3
+spaQ	59204.UQ49_18335	InterPro	IPR006306	Type III secretion protein HrpO
+spaR	59204.UQ49_18330	GO Process	GO:0006605	Protein targeting
+spaR	59204.UQ49_18330	GO Process	GO:0006810	Transport
+spaR	59204.UQ49_18330	GO Process	GO:0006886	Intracellular protein transport
+spaR	59204.UQ49_18330	GO Process	GO:0008104	Protein localization
+spaR	59204.UQ49_18330	GO Process	GO:0009987	Cellular process
+spaR	59204.UQ49_18330	GO Process	GO:0015031	Protein transport
+spaR	59204.UQ49_18330	GO Process	GO:0033036	Macromolecule localization
+spaR	59204.UQ49_18330	GO Process	GO:0045184	Establishment of protein localization
+spaR	59204.UQ49_18330	GO Process	GO:0046907	Intracellular transport
+spaR	59204.UQ49_18330	GO Process	GO:0051179	Localization
+spaR	59204.UQ49_18330	GO Process	GO:0051234	Establishment of localization
+spaR	59204.UQ49_18330	GO Process	GO:0051641	Cellular localization
+spaR	59204.UQ49_18330	GO Process	GO:0051649	Establishment of localization in cell
+spaR	59204.UQ49_18330	GO Process	GO:0070727	Cellular macromolecule localization
+spaR	59204.UQ49_18330	GO Process	GO:0071702	Organic substance transport
+spaR	59204.UQ49_18330	GO Process	GO:0071705	Nitrogen compound transport
+spaR	59204.UQ49_18330	GO Component	GO:0005886	Plasma membrane
+spaR	59204.UQ49_18330	GO Component	GO:0016020	Membrane
+spaR	59204.UQ49_18330	GO Component	GO:0016021	Integral component of membrane
+spaR	59204.UQ49_18330	GO Component	GO:0031224	Intrinsic component of membrane
+spaR	59204.UQ49_18330	GO Component	GO:0071944	Cell periphery
+spaR	59204.UQ49_18330	GO Component	GO:0110165	Cellular anatomical entity
+spaR	59204.UQ49_18330	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+spaR	59204.UQ49_18330	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+spaR	59204.UQ49_18330	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+spaR	59204.UQ49_18330	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+spaR	59204.UQ49_18330	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+spaR	59204.UQ49_18330	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+spaR	59204.UQ49_18330	STRING clusters	CL:5293	Mixed, incl. Type III secretion protein HrcV, and Protein-exporting ATPase activity
+spaR	59204.UQ49_18330	KEGG	map03070	Bacterial secretion system
+spaR	59204.UQ49_18330	UniProt Keywords	KW-0472	Membrane
+spaR	59204.UQ49_18330	UniProt Keywords	KW-0812	Transmembrane
+spaR	59204.UQ49_18330	UniProt Keywords	KW-1003	Cell membrane
+spaR	59204.UQ49_18330	UniProt Keywords	KW-1133	Transmembrane helix
+spaR	59204.UQ49_18330	Pfam	PF01311	Bacterial export proteins, family 1
+spaR	59204.UQ49_18330	InterPro	IPR002010	Type III secretion system inner membrane R protein
+spaR	59204.UQ49_18330	InterPro	IPR006304	Type III secretion protein SpaR/YscT
+spaS	59204.UQ49_18325	GO Process	GO:0006810	Transport
+spaS	59204.UQ49_18325	GO Process	GO:0008104	Protein localization
+spaS	59204.UQ49_18325	GO Process	GO:0009306	Protein secretion
+spaS	59204.UQ49_18325	GO Process	GO:0009987	Cellular process
+spaS	59204.UQ49_18325	GO Process	GO:0015031	Protein transport
+spaS	59204.UQ49_18325	GO Process	GO:0032940	Secretion by cell
+spaS	59204.UQ49_18325	GO Process	GO:0033036	Macromolecule localization
+spaS	59204.UQ49_18325	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+spaS	59204.UQ49_18325	GO Process	GO:0045184	Establishment of protein localization
+spaS	59204.UQ49_18325	GO Process	GO:0046903	Secretion
+spaS	59204.UQ49_18325	GO Process	GO:0051179	Localization
+spaS	59204.UQ49_18325	GO Process	GO:0051234	Establishment of localization
+spaS	59204.UQ49_18325	GO Process	GO:0051641	Cellular localization
+spaS	59204.UQ49_18325	GO Process	GO:0070727	Cellular macromolecule localization
+spaS	59204.UQ49_18325	GO Process	GO:0071692	Protein localization to extracellular region
+spaS	59204.UQ49_18325	GO Process	GO:0071702	Organic substance transport
+spaS	59204.UQ49_18325	GO Process	GO:0071705	Nitrogen compound transport
+spaS	59204.UQ49_18325	GO Process	GO:0140352	Export from cell
+spaS	59204.UQ49_18325	GO Component	GO:0005886	Plasma membrane
+spaS	59204.UQ49_18325	GO Component	GO:0016020	Membrane
+spaS	59204.UQ49_18325	GO Component	GO:0016021	Integral component of membrane
+spaS	59204.UQ49_18325	GO Component	GO:0031224	Intrinsic component of membrane
+spaS	59204.UQ49_18325	GO Component	GO:0071944	Cell periphery
+spaS	59204.UQ49_18325	GO Component	GO:0110165	Cellular anatomical entity
+spaS	59204.UQ49_18325	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+spaS	59204.UQ49_18325	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+spaS	59204.UQ49_18325	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+spaS	59204.UQ49_18325	STRING clusters	CL:5286	Mixed, incl. Bacterial invasion of epithelial cells, and Protein secretion by the type III secretion system
+spaS	59204.UQ49_18325	STRING clusters	CL:5289	Mixed, incl. Bacterial invasion of epithelial cells, and Type III protein secretion system complex
+spaS	59204.UQ49_18325	STRING clusters	CL:5290	Type III protein secretion system complex, and Secretion by cell
+spaS	59204.UQ49_18325	STRING clusters	CL:5293	Mixed, incl. Type III secretion protein HrcV, and Protein-exporting ATPase activity
+spaS	59204.UQ49_18325	KEGG	map02040	Flagellar assembly
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0005886	Plasma membrane
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0016020	Membrane
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0042995	Cell projection
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0043226	Organelle
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0071944	Cell periphery
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+spaS	59204.UQ49_18325	COMPARTMENTS	GOCC:0120102	Bacterial-type flagellum secretion apparatus
+spaS	59204.UQ49_18325	UniProt Keywords	KW-0175	Coiled coil
+spaS	59204.UQ49_18325	UniProt Keywords	KW-0472	Membrane
+spaS	59204.UQ49_18325	UniProt Keywords	KW-0812	Transmembrane
+spaS	59204.UQ49_18325	UniProt Keywords	KW-1133	Transmembrane helix
+spaS	59204.UQ49_18325	Pfam	PF01312	FlhB HrpN YscU SpaS Family
+spaS	59204.UQ49_18325	InterPro	IPR006135	Type III secretion system substrate exporter
+spaS	59204.UQ49_18325	InterPro	IPR006307	Type III exporter system, secretion apparatus protein BsaZ
+spaS	59204.UQ49_18325	InterPro	IPR029025	Type III secretion system substrate exporter, C-terminal
+yopJ	59204.UQ49_18215	GO Process	GO:0006508	Proteolysis
+yopJ	59204.UQ49_18215	GO Process	GO:0006807	Nitrogen compound metabolic process
+yopJ	59204.UQ49_18215	GO Process	GO:0008152	Metabolic process
+yopJ	59204.UQ49_18215	GO Process	GO:0019538	Protein metabolic process
+yopJ	59204.UQ49_18215	GO Process	GO:0043170	Macromolecule metabolic process
+yopJ	59204.UQ49_18215	GO Process	GO:0044238	Primary metabolic process
+yopJ	59204.UQ49_18215	GO Process	GO:0071704	Organic substance metabolic process
+yopJ	59204.UQ49_18215	GO Process	GO:1901564	Organonitrogen compound metabolic process
+yopJ	59204.UQ49_18215	GO Function	GO:0003824	Catalytic activity
+yopJ	59204.UQ49_18215	GO Function	GO:0016740	Transferase activity
+yopJ	59204.UQ49_18215	GO Function	GO:0016746	Acyltransferase activity
+yopJ	59204.UQ49_18215	STRING clusters	CL:5282	Mixed, incl. Secretion, and Salmonella infection
+yopJ	59204.UQ49_18215	STRING clusters	CL:5283	Mixed, incl. Secretion, and Salmonella infection
+yopJ	59204.UQ49_18215	STRING clusters	CL:5284	Mixed, incl. Salmonella infection, and Protein secretion by the type III secretion system
+yopJ	59204.UQ49_18215	STRING clusters	CL:5354	Mixed, incl. Host intracellular organelle, and Salmonella outer protein D
+yopJ	59204.UQ49_18215	KEGG	map05132	Salmonella infection
+yopJ	59204.UQ49_18215	Pfam	PF03421	YopJ Serine/Threonine acetyltransferase
+yopJ	59204.UQ49_18215	InterPro	IPR005083	Serine/Threonine acetyltransferase, YopJ

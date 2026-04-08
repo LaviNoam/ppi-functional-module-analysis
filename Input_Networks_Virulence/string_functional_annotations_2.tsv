@@ -1,0 +1,544 @@
+#node	identifier	category	term ID	term description
+hpaB	267608.RSp0853	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hpaB	267608.RSp0853	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hpaB	267608.RSp0853	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hpaB	267608.RSp0853	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hpaB	267608.RSp0853	STRING clusters	CL:5332	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hpaB	267608.RSp0853	Pfam	PF05932	Tir chaperone protein (CesT) family
+hpaB	267608.RSp0853	InterPro	IPR010261	Tir chaperone protein (CesT) family
+hpaP	267608.RSp0862	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hpaP	267608.RSp0862	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hpaP	267608.RSp0862	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hpaP	267608.RSp0862	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hpaP	267608.RSp0862	STRING clusters	CL:5351	Mixed, incl. Flagellar hook-length control protein FliK
+hpaP	267608.RSp0862	Pfam	PF02120	Flagellar hook-length control protein FliK
+hpaP	267608.RSp0862	InterPro	IPR013390	Type III secretion protein HpaP
+hrcC	267608.RSp0874	GO Process	GO:0006810	Transport
+hrcC	267608.RSp0874	GO Process	GO:0008104	Protein localization
+hrcC	267608.RSp0874	GO Process	GO:0009306	Protein secretion
+hrcC	267608.RSp0874	GO Process	GO:0009605	Response to external stimulus
+hrcC	267608.RSp0874	GO Process	GO:0009607	Response to biotic stimulus
+hrcC	267608.RSp0874	GO Process	GO:0009987	Cellular process
+hrcC	267608.RSp0874	GO Process	GO:0015031	Protein transport
+hrcC	267608.RSp0874	GO Process	GO:0030254	Protein secretion by the type III secretion system
+hrcC	267608.RSp0874	GO Process	GO:0032940	Secretion by cell
+hrcC	267608.RSp0874	GO Process	GO:0033036	Macromolecule localization
+hrcC	267608.RSp0874	GO Process	GO:0034053	Modulation by symbiont of host defense-related programmed cell death
+hrcC	267608.RSp0874	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcC	267608.RSp0874	GO Process	GO:0035821	Modulation of process of another organism
+hrcC	267608.RSp0874	GO Process	GO:0043207	Response to external biotic stimulus
+hrcC	267608.RSp0874	GO Process	GO:0044003	Modulation by symbiont of host process
+hrcC	267608.RSp0874	GO Process	GO:0044068	Modulation by symbiont of host cellular process
+hrcC	267608.RSp0874	GO Process	GO:0044403	Biological process involved in symbiotic interaction
+hrcC	267608.RSp0874	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+hrcC	267608.RSp0874	GO Process	GO:0045184	Establishment of protein localization
+hrcC	267608.RSp0874	GO Process	GO:0046903	Secretion
+hrcC	267608.RSp0874	GO Process	GO:0050896	Response to stimulus
+hrcC	267608.RSp0874	GO Process	GO:0051179	Localization
+hrcC	267608.RSp0874	GO Process	GO:0051234	Establishment of localization
+hrcC	267608.RSp0874	GO Process	GO:0051641	Cellular localization
+hrcC	267608.RSp0874	GO Process	GO:0051701	Biological process involved in interaction with host
+hrcC	267608.RSp0874	GO Process	GO:0051707	Response to other organism
+hrcC	267608.RSp0874	GO Process	GO:0052031	Modulation by symbiont of host defense response
+hrcC	267608.RSp0874	GO Process	GO:0052040	Modulation by symbiont of host programmed cell death
+hrcC	267608.RSp0874	GO Process	GO:0052173	Response to defenses of other organism
+hrcC	267608.RSp0874	GO Process	GO:0052200	Response to host defenses
+hrcC	267608.RSp0874	GO Process	GO:0055085	Transmembrane transport
+hrcC	267608.RSp0874	GO Process	GO:0070727	Cellular macromolecule localization
+hrcC	267608.RSp0874	GO Process	GO:0071692	Protein localization to extracellular region
+hrcC	267608.RSp0874	GO Process	GO:0071702	Organic substance transport
+hrcC	267608.RSp0874	GO Process	GO:0071705	Nitrogen compound transport
+hrcC	267608.RSp0874	GO Process	GO:0071806	Protein transmembrane transport
+hrcC	267608.RSp0874	GO Process	GO:0075136	Response to host
+hrcC	267608.RSp0874	GO Process	GO:0140352	Export from cell
+hrcC	267608.RSp0874	GO Function	GO:0005488	Binding
+hrcC	267608.RSp0874	GO Function	GO:0005515	Protein binding
+hrcC	267608.RSp0874	GO Function	GO:0042802	Identical protein binding
+hrcC	267608.RSp0874	GO Component	GO:0009279	Cell outer membrane
+hrcC	267608.RSp0874	GO Component	GO:0016020	Membrane
+hrcC	267608.RSp0874	GO Component	GO:0019867	Outer membrane
+hrcC	267608.RSp0874	GO Component	GO:0030257	Type III protein secretion system complex
+hrcC	267608.RSp0874	GO Component	GO:0030312	External encapsulating structure
+hrcC	267608.RSp0874	GO Component	GO:0030313	Cell envelope
+hrcC	267608.RSp0874	GO Component	GO:0031975	Envelope
+hrcC	267608.RSp0874	GO Component	GO:0032991	Protein-containing complex
+hrcC	267608.RSp0874	GO Component	GO:0071944	Cell periphery
+hrcC	267608.RSp0874	GO Component	GO:0110165	Cellular anatomical entity
+hrcC	267608.RSp0874	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrcC	267608.RSp0874	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrcC	267608.RSp0874	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrcC	267608.RSp0874	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcC	267608.RSp0874	STRING clusters	CL:5332	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcC	267608.RSp0874	KEGG	rso03070	Bacterial secretion system
+hrcC	267608.RSp0874	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+hrcC	267608.RSp0874	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+hrcC	267608.RSp0874	UniProt Keywords	KW-0472	Membrane
+hrcC	267608.RSp0874	UniProt Keywords	KW-0653	Protein transport
+hrcC	267608.RSp0874	UniProt Keywords	KW-0732	Signal
+hrcC	267608.RSp0874	UniProt Keywords	KW-0811	Translocation
+hrcC	267608.RSp0874	UniProt Keywords	KW-0813	Transport
+hrcC	267608.RSp0874	UniProt Keywords	KW-0843	Virulence
+hrcC	267608.RSp0874	UniProt Keywords	KW-0928	Hypersensitive response elicitation
+hrcC	267608.RSp0874	UniProt Keywords	KW-0998	Cell outer membrane
+hrcC	267608.RSp0874	Pfam	PF00263	Bacterial type II and III secretion system protein
+hrcC	267608.RSp0874	Pfam	PF03958	Bacterial type II/III secretion system short domain
+hrcC	267608.RSp0874	InterPro	IPR003522	Type III secretion system outer membrane pore YscC/HrcC
+hrcC	267608.RSp0874	InterPro	IPR004845	Type II secretion system protein GspD, conserved site
+hrcC	267608.RSp0874	InterPro	IPR004846	Type II/III secretion system
+hrcC	267608.RSp0874	InterPro	IPR005644	NolW-like
+hrcC	267608.RSp0874	InterPro	IPR038591	NolW-like superfamily
+hrcJ	267608.RSp0867	GO Process	GO:0006810	Transport
+hrcJ	267608.RSp0867	GO Process	GO:0008104	Protein localization
+hrcJ	267608.RSp0867	GO Process	GO:0009306	Protein secretion
+hrcJ	267608.RSp0867	GO Process	GO:0009987	Cellular process
+hrcJ	267608.RSp0867	GO Process	GO:0015031	Protein transport
+hrcJ	267608.RSp0867	GO Process	GO:0032940	Secretion by cell
+hrcJ	267608.RSp0867	GO Process	GO:0033036	Macromolecule localization
+hrcJ	267608.RSp0867	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcJ	267608.RSp0867	GO Process	GO:0045184	Establishment of protein localization
+hrcJ	267608.RSp0867	GO Process	GO:0046903	Secretion
+hrcJ	267608.RSp0867	GO Process	GO:0051179	Localization
+hrcJ	267608.RSp0867	GO Process	GO:0051234	Establishment of localization
+hrcJ	267608.RSp0867	GO Process	GO:0051641	Cellular localization
+hrcJ	267608.RSp0867	GO Process	GO:0070727	Cellular macromolecule localization
+hrcJ	267608.RSp0867	GO Process	GO:0071692	Protein localization to extracellular region
+hrcJ	267608.RSp0867	GO Process	GO:0071702	Organic substance transport
+hrcJ	267608.RSp0867	GO Process	GO:0071705	Nitrogen compound transport
+hrcJ	267608.RSp0867	GO Process	GO:0140352	Export from cell
+hrcJ	267608.RSp0867	GO Component	GO:0009279	Cell outer membrane
+hrcJ	267608.RSp0867	GO Component	GO:0016020	Membrane
+hrcJ	267608.RSp0867	GO Component	GO:0016021	Integral component of membrane
+hrcJ	267608.RSp0867	GO Component	GO:0019867	Outer membrane
+hrcJ	267608.RSp0867	GO Component	GO:0030312	External encapsulating structure
+hrcJ	267608.RSp0867	GO Component	GO:0030313	Cell envelope
+hrcJ	267608.RSp0867	GO Component	GO:0031224	Intrinsic component of membrane
+hrcJ	267608.RSp0867	GO Component	GO:0031975	Envelope
+hrcJ	267608.RSp0867	GO Component	GO:0071944	Cell periphery
+hrcJ	267608.RSp0867	GO Component	GO:0110165	Cellular anatomical entity
+hrcJ	267608.RSp0867	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrcJ	267608.RSp0867	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrcJ	267608.RSp0867	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrcJ	267608.RSp0867	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcJ	267608.RSp0867	STRING clusters	CL:5332	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcJ	267608.RSp0867	STRING clusters	CL:5335	Hypersensitive response elicitation, and Flagellar M-ring , N-terminal
+hrcJ	267608.RSp0867	KEGG	rso03070	Bacterial secretion system
+hrcJ	267608.RSp0867	COMPARTMENTS	GOCC:0009279	Cell outer membrane
+hrcJ	267608.RSp0867	COMPARTMENTS	GOCC:0016020	Membrane
+hrcJ	267608.RSp0867	COMPARTMENTS	GOCC:0019867	Outer membrane
+hrcJ	267608.RSp0867	COMPARTMENTS	GOCC:0030312	External encapsulating structure
+hrcJ	267608.RSp0867	COMPARTMENTS	GOCC:0030313	Cell envelope
+hrcJ	267608.RSp0867	COMPARTMENTS	GOCC:0031975	Envelope
+hrcJ	267608.RSp0867	COMPARTMENTS	GOCC:0071944	Cell periphery
+hrcJ	267608.RSp0867	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hrcJ	267608.RSp0867	UniProt Keywords	KW-0449	Lipoprotein
+hrcJ	267608.RSp0867	UniProt Keywords	KW-0472	Membrane
+hrcJ	267608.RSp0867	UniProt Keywords	KW-0564	Palmitate
+hrcJ	267608.RSp0867	UniProt Keywords	KW-0732	Signal
+hrcJ	267608.RSp0867	UniProt Keywords	KW-0812	Transmembrane
+hrcJ	267608.RSp0867	UniProt Keywords	KW-0998	Cell outer membrane
+hrcJ	267608.RSp0867	UniProt Keywords	KW-1133	Transmembrane helix
+hrcJ	267608.RSp0867	Pfam	PF01514	Secretory protein of YscJ/FliF family
+hrcJ	267608.RSp0867	InterPro	IPR003282	Type III secretion system lipoprotein HrcJ/YscJ
+hrcJ	267608.RSp0867	InterPro	IPR006182	Flagellar M-ring , N-terminal
+hrcJ	267608.RSp0867	InterPro	IPR043427	Lipoprotein YscJ/Flagellar M-ring protein
+hrcJ	267608.RSp0867	InterPro	IPR045851	AMP-binding enzyme, C-terminal domain superfamily
+hrcR	267608.RSp0860	GO Process	GO:0006810	Transport
+hrcR	267608.RSp0860	GO Process	GO:0008104	Protein localization
+hrcR	267608.RSp0860	GO Process	GO:0009306	Protein secretion
+hrcR	267608.RSp0860	GO Process	GO:0009605	Response to external stimulus
+hrcR	267608.RSp0860	GO Process	GO:0009607	Response to biotic stimulus
+hrcR	267608.RSp0860	GO Process	GO:0009987	Cellular process
+hrcR	267608.RSp0860	GO Process	GO:0015031	Protein transport
+hrcR	267608.RSp0860	GO Process	GO:0032940	Secretion by cell
+hrcR	267608.RSp0860	GO Process	GO:0033036	Macromolecule localization
+hrcR	267608.RSp0860	GO Process	GO:0034053	Modulation by symbiont of host defense-related programmed cell death
+hrcR	267608.RSp0860	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcR	267608.RSp0860	GO Process	GO:0035821	Modulation of process of another organism
+hrcR	267608.RSp0860	GO Process	GO:0043207	Response to external biotic stimulus
+hrcR	267608.RSp0860	GO Process	GO:0044003	Modulation by symbiont of host process
+hrcR	267608.RSp0860	GO Process	GO:0044068	Modulation by symbiont of host cellular process
+hrcR	267608.RSp0860	GO Process	GO:0044403	Biological process involved in symbiotic interaction
+hrcR	267608.RSp0860	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+hrcR	267608.RSp0860	GO Process	GO:0045184	Establishment of protein localization
+hrcR	267608.RSp0860	GO Process	GO:0046903	Secretion
+hrcR	267608.RSp0860	GO Process	GO:0050896	Response to stimulus
+hrcR	267608.RSp0860	GO Process	GO:0051179	Localization
+hrcR	267608.RSp0860	GO Process	GO:0051234	Establishment of localization
+hrcR	267608.RSp0860	GO Process	GO:0051641	Cellular localization
+hrcR	267608.RSp0860	GO Process	GO:0051701	Biological process involved in interaction with host
+hrcR	267608.RSp0860	GO Process	GO:0051707	Response to other organism
+hrcR	267608.RSp0860	GO Process	GO:0052031	Modulation by symbiont of host defense response
+hrcR	267608.RSp0860	GO Process	GO:0052040	Modulation by symbiont of host programmed cell death
+hrcR	267608.RSp0860	GO Process	GO:0052173	Response to defenses of other organism
+hrcR	267608.RSp0860	GO Process	GO:0052200	Response to host defenses
+hrcR	267608.RSp0860	GO Process	GO:0070727	Cellular macromolecule localization
+hrcR	267608.RSp0860	GO Process	GO:0071692	Protein localization to extracellular region
+hrcR	267608.RSp0860	GO Process	GO:0071702	Organic substance transport
+hrcR	267608.RSp0860	GO Process	GO:0071705	Nitrogen compound transport
+hrcR	267608.RSp0860	GO Process	GO:0075136	Response to host
+hrcR	267608.RSp0860	GO Process	GO:0140352	Export from cell
+hrcR	267608.RSp0860	GO Component	GO:0005886	Plasma membrane
+hrcR	267608.RSp0860	GO Component	GO:0016020	Membrane
+hrcR	267608.RSp0860	GO Component	GO:0016021	Integral component of membrane
+hrcR	267608.RSp0860	GO Component	GO:0031224	Intrinsic component of membrane
+hrcR	267608.RSp0860	GO Component	GO:0071944	Cell periphery
+hrcR	267608.RSp0860	GO Component	GO:0110165	Cellular anatomical entity
+hrcR	267608.RSp0860	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrcR	267608.RSp0860	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrcR	267608.RSp0860	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrcR	267608.RSp0860	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcR	267608.RSp0860	STRING clusters	CL:5332	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcR	267608.RSp0860	STRING clusters	CL:5335	Hypersensitive response elicitation, and Flagellar M-ring , N-terminal
+hrcR	267608.RSp0860	KEGG	rso03070	Bacterial secretion system
+hrcR	267608.RSp0860	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+hrcR	267608.RSp0860	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+hrcR	267608.RSp0860	COMPARTMENTS	GOCC:0042995	Cell projection
+hrcR	267608.RSp0860	COMPARTMENTS	GOCC:0043226	Organelle
+hrcR	267608.RSp0860	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+hrcR	267608.RSp0860	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hrcR	267608.RSp0860	UniProt Keywords	KW-0472	Membrane
+hrcR	267608.RSp0860	UniProt Keywords	KW-0812	Transmembrane
+hrcR	267608.RSp0860	UniProt Keywords	KW-0928	Hypersensitive response elicitation
+hrcR	267608.RSp0860	UniProt Keywords	KW-1003	Cell membrane
+hrcR	267608.RSp0860	UniProt Keywords	KW-1133	Transmembrane helix
+hrcR	267608.RSp0860	Pfam	PF00813	FliP family
+hrcR	267608.RSp0860	InterPro	IPR005773	Yop virulence translocation protein R
+hrcR	267608.RSp0860	InterPro	IPR005838	Type III secretion system inner membrane P protein
+hrcS	267608.RSp0859	GO Process	GO:0006810	Transport
+hrcS	267608.RSp0859	GO Process	GO:0008104	Protein localization
+hrcS	267608.RSp0859	GO Process	GO:0009306	Protein secretion
+hrcS	267608.RSp0859	GO Process	GO:0009987	Cellular process
+hrcS	267608.RSp0859	GO Process	GO:0015031	Protein transport
+hrcS	267608.RSp0859	GO Process	GO:0032940	Secretion by cell
+hrcS	267608.RSp0859	GO Process	GO:0033036	Macromolecule localization
+hrcS	267608.RSp0859	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcS	267608.RSp0859	GO Process	GO:0045184	Establishment of protein localization
+hrcS	267608.RSp0859	GO Process	GO:0046903	Secretion
+hrcS	267608.RSp0859	GO Process	GO:0051179	Localization
+hrcS	267608.RSp0859	GO Process	GO:0051234	Establishment of localization
+hrcS	267608.RSp0859	GO Process	GO:0051641	Cellular localization
+hrcS	267608.RSp0859	GO Process	GO:0070727	Cellular macromolecule localization
+hrcS	267608.RSp0859	GO Process	GO:0071692	Protein localization to extracellular region
+hrcS	267608.RSp0859	GO Process	GO:0071702	Organic substance transport
+hrcS	267608.RSp0859	GO Process	GO:0071705	Nitrogen compound transport
+hrcS	267608.RSp0859	GO Process	GO:0140352	Export from cell
+hrcS	267608.RSp0859	GO Component	GO:0005886	Plasma membrane
+hrcS	267608.RSp0859	GO Component	GO:0016020	Membrane
+hrcS	267608.RSp0859	GO Component	GO:0016021	Integral component of membrane
+hrcS	267608.RSp0859	GO Component	GO:0031224	Intrinsic component of membrane
+hrcS	267608.RSp0859	GO Component	GO:0071944	Cell periphery
+hrcS	267608.RSp0859	GO Component	GO:0110165	Cellular anatomical entity
+hrcS	267608.RSp0859	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrcS	267608.RSp0859	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrcS	267608.RSp0859	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrcS	267608.RSp0859	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcS	267608.RSp0859	STRING clusters	CL:5332	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcS	267608.RSp0859	STRING clusters	CL:5335	Hypersensitive response elicitation, and Flagellar M-ring , N-terminal
+hrcS	267608.RSp0859	KEGG	rso03070	Bacterial secretion system
+hrcS	267608.RSp0859	UniProt Keywords	KW-0472	Membrane
+hrcS	267608.RSp0859	UniProt Keywords	KW-0812	Transmembrane
+hrcS	267608.RSp0859	UniProt Keywords	KW-1133	Transmembrane helix
+hrcS	267608.RSp0859	Pfam	PF01313	Bacterial export proteins, family 3
+hrcS	267608.RSp0859	InterPro	IPR002191	Bacterial export protein family 3
+hrcS	267608.RSp0859	InterPro	IPR006306	Type III secretion protein HrpO
+hrcT	267608.RSp0872	GO Process	GO:0006605	Protein targeting
+hrcT	267608.RSp0872	GO Process	GO:0006810	Transport
+hrcT	267608.RSp0872	GO Process	GO:0006886	Intracellular protein transport
+hrcT	267608.RSp0872	GO Process	GO:0008104	Protein localization
+hrcT	267608.RSp0872	GO Process	GO:0009987	Cellular process
+hrcT	267608.RSp0872	GO Process	GO:0015031	Protein transport
+hrcT	267608.RSp0872	GO Process	GO:0033036	Macromolecule localization
+hrcT	267608.RSp0872	GO Process	GO:0045184	Establishment of protein localization
+hrcT	267608.RSp0872	GO Process	GO:0046907	Intracellular transport
+hrcT	267608.RSp0872	GO Process	GO:0051179	Localization
+hrcT	267608.RSp0872	GO Process	GO:0051234	Establishment of localization
+hrcT	267608.RSp0872	GO Process	GO:0051641	Cellular localization
+hrcT	267608.RSp0872	GO Process	GO:0051649	Establishment of localization in cell
+hrcT	267608.RSp0872	GO Process	GO:0070727	Cellular macromolecule localization
+hrcT	267608.RSp0872	GO Process	GO:0071702	Organic substance transport
+hrcT	267608.RSp0872	GO Process	GO:0071705	Nitrogen compound transport
+hrcT	267608.RSp0872	GO Component	GO:0005886	Plasma membrane
+hrcT	267608.RSp0872	GO Component	GO:0016020	Membrane
+hrcT	267608.RSp0872	GO Component	GO:0016021	Integral component of membrane
+hrcT	267608.RSp0872	GO Component	GO:0031224	Intrinsic component of membrane
+hrcT	267608.RSp0872	GO Component	GO:0071944	Cell periphery
+hrcT	267608.RSp0872	GO Component	GO:0110165	Cellular anatomical entity
+hrcT	267608.RSp0872	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrcT	267608.RSp0872	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrcT	267608.RSp0872	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrcT	267608.RSp0872	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcT	267608.RSp0872	STRING clusters	CL:5332	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcT	267608.RSp0872	STRING clusters	CL:5335	Hypersensitive response elicitation, and Flagellar M-ring , N-terminal
+hrcT	267608.RSp0872	KEGG	rso03070	Bacterial secretion system
+hrcT	267608.RSp0872	UniProt Keywords	KW-0472	Membrane
+hrcT	267608.RSp0872	UniProt Keywords	KW-0812	Transmembrane
+hrcT	267608.RSp0872	UniProt Keywords	KW-1003	Cell membrane
+hrcT	267608.RSp0872	UniProt Keywords	KW-1133	Transmembrane helix
+hrcT	267608.RSp0872	Pfam	PF01311	Bacterial export proteins, family 1
+hrcT	267608.RSp0872	InterPro	IPR002010	Type III secretion system inner membrane R protein
+hrcT	267608.RSp0872	InterPro	IPR006304	Type III secretion protein SpaR/YscT
+hrcV	267608.RSp0863	GO Process	GO:0006810	Transport
+hrcV	267608.RSp0863	GO Process	GO:0008104	Protein localization
+hrcV	267608.RSp0863	GO Process	GO:0009306	Protein secretion
+hrcV	267608.RSp0863	GO Process	GO:0009605	Response to external stimulus
+hrcV	267608.RSp0863	GO Process	GO:0009607	Response to biotic stimulus
+hrcV	267608.RSp0863	GO Process	GO:0009987	Cellular process
+hrcV	267608.RSp0863	GO Process	GO:0015031	Protein transport
+hrcV	267608.RSp0863	GO Process	GO:0032940	Secretion by cell
+hrcV	267608.RSp0863	GO Process	GO:0033036	Macromolecule localization
+hrcV	267608.RSp0863	GO Process	GO:0034053	Modulation by symbiont of host defense-related programmed cell death
+hrcV	267608.RSp0863	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcV	267608.RSp0863	GO Process	GO:0035821	Modulation of process of another organism
+hrcV	267608.RSp0863	GO Process	GO:0043207	Response to external biotic stimulus
+hrcV	267608.RSp0863	GO Process	GO:0044003	Modulation by symbiont of host process
+hrcV	267608.RSp0863	GO Process	GO:0044068	Modulation by symbiont of host cellular process
+hrcV	267608.RSp0863	GO Process	GO:0044403	Biological process involved in symbiotic interaction
+hrcV	267608.RSp0863	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+hrcV	267608.RSp0863	GO Process	GO:0045184	Establishment of protein localization
+hrcV	267608.RSp0863	GO Process	GO:0046903	Secretion
+hrcV	267608.RSp0863	GO Process	GO:0050896	Response to stimulus
+hrcV	267608.RSp0863	GO Process	GO:0051179	Localization
+hrcV	267608.RSp0863	GO Process	GO:0051234	Establishment of localization
+hrcV	267608.RSp0863	GO Process	GO:0051641	Cellular localization
+hrcV	267608.RSp0863	GO Process	GO:0051701	Biological process involved in interaction with host
+hrcV	267608.RSp0863	GO Process	GO:0051707	Response to other organism
+hrcV	267608.RSp0863	GO Process	GO:0052031	Modulation by symbiont of host defense response
+hrcV	267608.RSp0863	GO Process	GO:0052040	Modulation by symbiont of host programmed cell death
+hrcV	267608.RSp0863	GO Process	GO:0052173	Response to defenses of other organism
+hrcV	267608.RSp0863	GO Process	GO:0052200	Response to host defenses
+hrcV	267608.RSp0863	GO Process	GO:0070727	Cellular macromolecule localization
+hrcV	267608.RSp0863	GO Process	GO:0071692	Protein localization to extracellular region
+hrcV	267608.RSp0863	GO Process	GO:0071702	Organic substance transport
+hrcV	267608.RSp0863	GO Process	GO:0071705	Nitrogen compound transport
+hrcV	267608.RSp0863	GO Process	GO:0075136	Response to host
+hrcV	267608.RSp0863	GO Process	GO:0140352	Export from cell
+hrcV	267608.RSp0863	GO Function	GO:0000166	Nucleotide binding
+hrcV	267608.RSp0863	GO Function	GO:0005488	Binding
+hrcV	267608.RSp0863	GO Function	GO:0005524	ATP binding
+hrcV	267608.RSp0863	GO Function	GO:0017076	Purine nucleotide binding
+hrcV	267608.RSp0863	GO Function	GO:0030554	Adenyl nucleotide binding
+hrcV	267608.RSp0863	GO Function	GO:0032553	Ribonucleotide binding
+hrcV	267608.RSp0863	GO Function	GO:0032555	Purine ribonucleotide binding
+hrcV	267608.RSp0863	GO Function	GO:0032559	Adenyl ribonucleotide binding
+hrcV	267608.RSp0863	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+hrcV	267608.RSp0863	GO Function	GO:0036094	Small molecule binding
+hrcV	267608.RSp0863	GO Function	GO:0043167	Ion binding
+hrcV	267608.RSp0863	GO Function	GO:0043168	Anion binding
+hrcV	267608.RSp0863	GO Function	GO:0097159	Organic cyclic compound binding
+hrcV	267608.RSp0863	GO Function	GO:0097367	Carbohydrate derivative binding
+hrcV	267608.RSp0863	GO Function	GO:1901265	Nucleoside phosphate binding
+hrcV	267608.RSp0863	GO Function	GO:1901363	Heterocyclic compound binding
+hrcV	267608.RSp0863	GO Component	GO:0005886	Plasma membrane
+hrcV	267608.RSp0863	GO Component	GO:0016020	Membrane
+hrcV	267608.RSp0863	GO Component	GO:0016021	Integral component of membrane
+hrcV	267608.RSp0863	GO Component	GO:0031224	Intrinsic component of membrane
+hrcV	267608.RSp0863	GO Component	GO:0071944	Cell periphery
+hrcV	267608.RSp0863	GO Component	GO:0110165	Cellular anatomical entity
+hrcV	267608.RSp0863	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrcV	267608.RSp0863	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrcV	267608.RSp0863	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrcV	267608.RSp0863	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcV	267608.RSp0863	STRING clusters	CL:5332	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrcV	267608.RSp0863	STRING clusters	CL:5335	Hypersensitive response elicitation, and Flagellar M-ring , N-terminal
+hrcV	267608.RSp0863	KEGG	rso03070	Bacterial secretion system
+hrcV	267608.RSp0863	UniProt Keywords	KW-0472	Membrane
+hrcV	267608.RSp0863	UniProt Keywords	KW-0653	Protein transport
+hrcV	267608.RSp0863	UniProt Keywords	KW-0812	Transmembrane
+hrcV	267608.RSp0863	UniProt Keywords	KW-0813	Transport
+hrcV	267608.RSp0863	UniProt Keywords	KW-0928	Hypersensitive response elicitation
+hrcV	267608.RSp0863	UniProt Keywords	KW-0997	Cell inner membrane
+hrcV	267608.RSp0863	UniProt Keywords	KW-1003	Cell membrane
+hrcV	267608.RSp0863	UniProt Keywords	KW-1133	Transmembrane helix
+hrcV	267608.RSp0863	Pfam	PF00771	FHIPEP family
+hrcV	267608.RSp0863	InterPro	IPR001712	Type III secretion system FHIPEP
+hrcV	267608.RSp0863	InterPro	IPR006302	Type III secretion protein HrcV
+hrcV	267608.RSp0863	InterPro	IPR025505	FHIPEP conserved site
+hrcV	267608.RSp0863	InterPro	IPR042193	FHIPEP, domain 3
+hrcV	267608.RSp0863	InterPro	IPR042194	FHIPEP, domain 1
+hrcV	267608.RSp0863	InterPro	IPR042196	FHIPEP, domain 4
+hrpB	267608.RSp0873	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+hrpB	267608.RSp0873	GO Process	GO:0009605	Response to external stimulus
+hrpB	267608.RSp0873	GO Process	GO:0009607	Response to biotic stimulus
+hrpB	267608.RSp0873	GO Process	GO:0009889	Regulation of biosynthetic process
+hrpB	267608.RSp0873	GO Process	GO:0009891	Positive regulation of biosynthetic process
+hrpB	267608.RSp0873	GO Process	GO:0009893	Positive regulation of metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0010468	Regulation of gene expression
+hrpB	267608.RSp0873	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+hrpB	267608.RSp0873	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+hrpB	267608.RSp0873	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0019222	Regulation of metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0031323	Regulation of cellular metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0031325	Positive regulation of cellular metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+hrpB	267608.RSp0873	GO Process	GO:0031328	Positive regulation of cellular biosynthetic process
+hrpB	267608.RSp0873	GO Process	GO:0034053	Modulation by symbiont of host defense-related programmed cell death
+hrpB	267608.RSp0873	GO Process	GO:0035821	Modulation of process of another organism
+hrpB	267608.RSp0873	GO Process	GO:0043207	Response to external biotic stimulus
+hrpB	267608.RSp0873	GO Process	GO:0044003	Modulation by symbiont of host process
+hrpB	267608.RSp0873	GO Process	GO:0044068	Modulation by symbiont of host cellular process
+hrpB	267608.RSp0873	GO Process	GO:0044403	Biological process involved in symbiotic interaction
+hrpB	267608.RSp0873	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+hrpB	267608.RSp0873	GO Process	GO:0045893	Positive regulation of transcription, DNA-templated
+hrpB	267608.RSp0873	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0048518	Positive regulation of biological process
+hrpB	267608.RSp0873	GO Process	GO:0048522	Positive regulation of cellular process
+hrpB	267608.RSp0873	GO Process	GO:0050789	Regulation of biological process
+hrpB	267608.RSp0873	GO Process	GO:0050794	Regulation of cellular process
+hrpB	267608.RSp0873	GO Process	GO:0050896	Response to stimulus
+hrpB	267608.RSp0873	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0051173	Positive regulation of nitrogen compound metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0051252	Regulation of RNA metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0051701	Biological process involved in interaction with host
+hrpB	267608.RSp0873	GO Process	GO:0051707	Response to other organism
+hrpB	267608.RSp0873	GO Process	GO:0052031	Modulation by symbiont of host defense response
+hrpB	267608.RSp0873	GO Process	GO:0052040	Modulation by symbiont of host programmed cell death
+hrpB	267608.RSp0873	GO Process	GO:0052173	Response to defenses of other organism
+hrpB	267608.RSp0873	GO Process	GO:0052200	Response to host defenses
+hrpB	267608.RSp0873	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+hrpB	267608.RSp0873	GO Process	GO:0065007	Biological regulation
+hrpB	267608.RSp0873	GO Process	GO:0075136	Response to host
+hrpB	267608.RSp0873	GO Process	GO:0080090	Regulation of primary metabolic process
+hrpB	267608.RSp0873	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+hrpB	267608.RSp0873	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+hrpB	267608.RSp0873	GO Process	GO:1903508	Positive regulation of nucleic acid-templated transcription
+hrpB	267608.RSp0873	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+hrpB	267608.RSp0873	GO Function	GO:0003676	Nucleic acid binding
+hrpB	267608.RSp0873	GO Function	GO:0003677	DNA binding
+hrpB	267608.RSp0873	GO Function	GO:0003700	DNA-binding transcription factor activity
+hrpB	267608.RSp0873	GO Function	GO:0005488	Binding
+hrpB	267608.RSp0873	GO Function	GO:0043565	Sequence-specific DNA binding
+hrpB	267608.RSp0873	GO Function	GO:0097159	Organic cyclic compound binding
+hrpB	267608.RSp0873	GO Function	GO:0140110	Transcription regulator activity
+hrpB	267608.RSp0873	GO Function	GO:1901363	Heterocyclic compound binding
+hrpB	267608.RSp0873	GO Component	GO:0005622	Intracellular anatomical structure
+hrpB	267608.RSp0873	GO Component	GO:0005737	Cytoplasm
+hrpB	267608.RSp0873	GO Component	GO:0110165	Cellular anatomical entity
+hrpB	267608.RSp0873	STRING clusters	CL:3620	Mixed, incl. Iron ion transport, and Biosynthesis of various secondary metabolites - part 3
+hrpB	267608.RSp0873	STRING clusters	CL:3621	Mixed, incl. Iron ion transport, and Biosynthesis of various secondary metabolites - part 3
+hrpB	267608.RSp0873	STRING clusters	CL:3622	Mixed, incl. TonB box, and Biosynthesis of various secondary metabolites - part 3
+hrpB	267608.RSp0873	STRING clusters	CL:3686	Mixed, incl. Siderophore transmembrane transport, and Biosynthesis of various secondary metabolites - part 3
+hrpB	267608.RSp0873	STRING clusters	CL:3687	Mixed, incl. Siderophore transmembrane transport, and RNA polymerase sigma-70 like
+hrpB	267608.RSp0873	STRING clusters	CL:3708	Mixed, incl. Fe(2+)-dicitrate sensor, transmembrane component, and Transcription cis-regulatory region binding
+hrpB	267608.RSp0873	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hrpB	267608.RSp0873	UniProt Keywords	KW-0010	Activator
+hrpB	267608.RSp0873	UniProt Keywords	KW-0238	DNA-binding
+hrpB	267608.RSp0873	UniProt Keywords	KW-0804	Transcription
+hrpB	267608.RSp0873	UniProt Keywords	KW-0805	Transcription regulation
+hrpB	267608.RSp0873	UniProt Keywords	KW-0928	Hypersensitive response elicitation
+hrpB	267608.RSp0873	InterPro	IPR018060	DNA binding HTH domain, AraC-type
+hrpB	267608.RSp0873	InterPro	IPR018062	HTH domain AraC-type, conserved site
+hrpB	267608.RSp0873	SMART	SM00342	Helix_turn_helix, arabinose operon control protein
+hrpD	267608.RSp0871	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrpD	267608.RSp0871	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrpD	267608.RSp0871	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrpD	267608.RSp0871	STRING clusters	CL:5360	Mixed, incl. Flagellar FliJ protein, and Flagellar assembly protein FliH
+hrpD	267608.RSp0871	UniProt Keywords	KW-0175	Coiled coil
+hrpD	267608.RSp0871	Pfam	PF02050	Flagellar FliJ protein
+hrpD	267608.RSp0871	InterPro	IPR013392	Type III secretion protein HrpB7
+hrpH	267608.RSp0868	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrpH	267608.RSp0868	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrpH	267608.RSp0868	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrpH	267608.RSp0868	STRING clusters	CL:5360	Mixed, incl. Flagellar FliJ protein, and Flagellar assembly protein FliH
+hrpH	267608.RSp0868	Pfam	PF09502	Bacterial type III secretion protein (HrpB4)
+hrpH	267608.RSp0868	InterPro	IPR013393	Type III secretion protein HrpB4
+hrpJ	267608.RSp0866	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrpJ	267608.RSp0866	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrpJ	267608.RSp0866	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrpJ	267608.RSp0866	STRING clusters	CL:5360	Mixed, incl. Flagellar FliJ protein, and Flagellar assembly protein FliH
+hrpJ	267608.RSp0866	Pfam	PF09487	Bacterial type III secretion protein (HrpB2)
+hrpJ	267608.RSp0866	InterPro	IPR013391	Type III secretion protein HrpB2
+hrpK	267608.RSp0865	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrpK	267608.RSp0865	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrpK	267608.RSp0865	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrpK	267608.RSp0865	STRING clusters	CL:5360	Mixed, incl. Flagellar FliJ protein, and Flagellar assembly protein FliH
+hrpK	267608.RSp0865	Pfam	PF09613	Bacterial type III secretion protein (HrpB1_HrpK)
+hrpK	267608.RSp0865	InterPro	IPR013394	Type III secretion system, HrpB1/HrpK
+hrpV	267608.RSp0858	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrpV	267608.RSp0858	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrpV	267608.RSp0858	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrpV	267608.RSp0858	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrpV	267608.RSp0858	STRING clusters	CL:5351	Mixed, incl. Flagellar hook-length control protein FliK
+hrpX	267608.RSp0856	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrpX	267608.RSp0856	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrpX	267608.RSp0856	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrpX	267608.RSp0856	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrpX	267608.RSp0856	STRING clusters	CL:5351	Mixed, incl. Flagellar hook-length control protein FliK
+hrpY	267608.RSp0855	STRING clusters	CL:5098	Signal transduction, and Flagellar assembly
+hrpY	267608.RSp0855	STRING clusters	CL:5100	Mixed, incl. Flagellar assembly, and Taxis
+hrpY	267608.RSp0855	STRING clusters	CL:5330	Mixed, incl. Hypersensitive response elicitation, and Bacterial secretion system
+hrpY	267608.RSp0855	STRING clusters	CL:5331	Mixed, incl. Hypersensitive response elicitation, and T3SS EscN ATPase, C-terminal
+hrpY	267608.RSp0855	STRING clusters	CL:5351	Mixed, incl. Flagellar hook-length control protein FliK
+hrpZ	267608.RSp0854	STRING clusters	CL:856	Mixed, incl. RNA processing, and Inosine triphosphate pyrophosphatase-like
+hrpZ	267608.RSp0854	STRING clusters	CL:857	Mixed, incl. RNA methyltransferase activity, and Inosine triphosphate pyrophosphatase-like
+hrpZ	267608.RSp0854	STRING clusters	CL:858	Mixed, incl. RNA methyltransferase activity, and Maf-like protein
+hrpZ	267608.RSp0854	STRING clusters	CL:859	RNA methyltransferase activity, and DUS-like, FMN-binding domain
+popA	267608.RSp0877	GO Process	GO:0009605	Response to external stimulus
+popA	267608.RSp0877	GO Process	GO:0009607	Response to biotic stimulus
+popA	267608.RSp0877	GO Process	GO:0034053	Modulation by symbiont of host defense-related programmed cell death
+popA	267608.RSp0877	GO Process	GO:0035821	Modulation of process of another organism
+popA	267608.RSp0877	GO Process	GO:0043207	Response to external biotic stimulus
+popA	267608.RSp0877	GO Process	GO:0044003	Modulation by symbiont of host process
+popA	267608.RSp0877	GO Process	GO:0044068	Modulation by symbiont of host cellular process
+popA	267608.RSp0877	GO Process	GO:0044403	Biological process involved in symbiotic interaction
+popA	267608.RSp0877	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+popA	267608.RSp0877	GO Process	GO:0050896	Response to stimulus
+popA	267608.RSp0877	GO Process	GO:0051701	Biological process involved in interaction with host
+popA	267608.RSp0877	GO Process	GO:0051707	Response to other organism
+popA	267608.RSp0877	GO Process	GO:0052031	Modulation by symbiont of host defense response
+popA	267608.RSp0877	GO Process	GO:0052040	Modulation by symbiont of host programmed cell death
+popA	267608.RSp0877	GO Process	GO:0052173	Response to defenses of other organism
+popA	267608.RSp0877	GO Process	GO:0052200	Response to host defenses
+popA	267608.RSp0877	GO Process	GO:0075136	Response to host
+popA	267608.RSp0877	GO Component	GO:0005576	Extracellular region
+popA	267608.RSp0877	GO Component	GO:0110165	Cellular anatomical entity
+popA	267608.RSp0877	STRING clusters	CL:7591	Mixed, incl. Transmembrane transporter activity, and Serralysin-like metalloprotease, C-terminal
+popA	267608.RSp0877	STRING clusters	CL:7881	Mostly uncharacterized, incl. DoxX family, and RNA polymerase sigma-70 like
+popA	267608.RSp0877	COMPARTMENTS	GOCC:0005576	Extracellular region
+popA	267608.RSp0877	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+popA	267608.RSp0877	UniProt Keywords	KW-0928	Hypersensitive response elicitation
+popA	267608.RSp0877	UniProt Keywords	KW-0964	Secreted
+popB	267608.RSp0876	GO Component	GO:0005576	Extracellular region
+popB	267608.RSp0876	GO Component	GO:0110165	Cellular anatomical entity
+popB	267608.RSp0876	STRING clusters	CL:7591	Mixed, incl. Transmembrane transporter activity, and Serralysin-like metalloprotease, C-terminal
+popB	267608.RSp0876	STRING clusters	CL:7881	Mostly uncharacterized, incl. DoxX family, and RNA polymerase sigma-70 like
+popB	267608.RSp0876	COMPARTMENTS	GOCC:0005576	Extracellular region
+popB	267608.RSp0876	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+popB	267608.RSp0876	UniProt Keywords	KW-0964	Secreted
+popC	267608.RSp0875	GO Process	GO:0006807	Nitrogen compound metabolic process
+popC	267608.RSp0875	GO Process	GO:0008152	Metabolic process
+popC	267608.RSp0875	GO Process	GO:0016567	Protein ubiquitination
+popC	267608.RSp0875	GO Process	GO:0019538	Protein metabolic process
+popC	267608.RSp0875	GO Process	GO:0032446	Protein modification by small protein conjugation
+popC	267608.RSp0875	GO Process	GO:0036211	Protein modification process
+popC	267608.RSp0875	GO Process	GO:0043170	Macromolecule metabolic process
+popC	267608.RSp0875	GO Process	GO:0043412	Macromolecule modification
+popC	267608.RSp0875	GO Process	GO:0044238	Primary metabolic process
+popC	267608.RSp0875	GO Process	GO:0070647	Protein modification by small protein conjugation or removal
+popC	267608.RSp0875	GO Process	GO:0071704	Organic substance metabolic process
+popC	267608.RSp0875	GO Process	GO:1901564	Organonitrogen compound metabolic process
+popC	267608.RSp0875	GO Function	GO:0003824	Catalytic activity
+popC	267608.RSp0875	GO Function	GO:0004842	Ubiquitin-protein transferase activity
+popC	267608.RSp0875	GO Function	GO:0016740	Transferase activity
+popC	267608.RSp0875	GO Function	GO:0019787	Ubiquitin-like protein transferase activity
+popC	267608.RSp0875	GO Function	GO:0140096	Catalytic activity, acting on a protein
+popC	267608.RSp0875	GO Component	GO:0005576	Extracellular region
+popC	267608.RSp0875	GO Component	GO:0110165	Cellular anatomical entity
+popC	267608.RSp0875	STRING clusters	CL:1867	Mixed, incl. Leucine-rich repeat domain superfamily, and Ankyrin repeats
+popC	267608.RSp0875	STRING clusters	CL:1868	Mixed, incl. Leucine-rich repeat domain superfamily, and Ankyrin repeats
+popC	267608.RSp0875	STRING clusters	CL:1939	Leucine-rich repeat domain superfamily, and Ankyrin repeats
+popC	267608.RSp0875	STRING clusters	CL:1941	Leucine-rich repeat domain superfamily, and Ankyrin repeats
+popC	267608.RSp0875	STRING clusters	CL:1944	Leucine-rich repeat, and Ankyrin repeats
+popC	267608.RSp0875	Reactome	MAP-1643685	Disease
+popC	267608.RSp0875	Reactome	MAP-5663205	Infectious disease
+popC	267608.RSp0875	Reactome	MAP-8876384	Listeria monocytogenes entry into host cells
+popC	267608.RSp0875	COMPARTMENTS	GOCC:0005576	Extracellular region
+popC	267608.RSp0875	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+popC	267608.RSp0875	UniProt Keywords	KW-0433	Leucine-rich repeat
+popC	267608.RSp0875	UniProt Keywords	KW-0677	Repeat
+popC	267608.RSp0875	UniProt Keywords	KW-0964	Secreted
+popC	267608.RSp0875	InterPro	IPR001611	Leucine-rich repeat
+popC	267608.RSp0875	InterPro	IPR003591	Leucine-rich repeat, typical subtype
+popC	267608.RSp0875	InterPro	IPR032675	Leucine-rich repeat domain superfamily
+popC	267608.RSp0875	SMART	SM00370	Leucine-rich repeats, outliers

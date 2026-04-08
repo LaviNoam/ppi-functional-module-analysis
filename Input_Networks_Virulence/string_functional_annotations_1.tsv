@@ -1,0 +1,2032 @@
+#node	identifier	category	term ID	term description
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0009889	Regulation of biosynthetic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0010468	Regulation of gene expression
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0019222	Regulation of metabolic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0031323	Regulation of cellular metabolic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0050789	Regulation of biological process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0050794	Regulation of cellular process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0051252	Regulation of RNA metabolic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0065007	Biological regulation
+EAMY_2864	665029.EAMY_2864	GO Process	GO:0080090	Regulation of primary metabolic process
+EAMY_2864	665029.EAMY_2864	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+EAMY_2864	665029.EAMY_2864	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+EAMY_2864	665029.EAMY_2864	GO Function	GO:0003676	Nucleic acid binding
+EAMY_2864	665029.EAMY_2864	GO Function	GO:0003677	DNA binding
+EAMY_2864	665029.EAMY_2864	GO Function	GO:0005488	Binding
+EAMY_2864	665029.EAMY_2864	GO Function	GO:0097159	Organic cyclic compound binding
+EAMY_2864	665029.EAMY_2864	GO Function	GO:1901363	Heterocyclic compound binding
+EAMY_2864	665029.EAMY_2864	GO Component	GO:0016020	Membrane
+EAMY_2864	665029.EAMY_2864	GO Component	GO:0016021	Integral component of membrane
+EAMY_2864	665029.EAMY_2864	GO Component	GO:0031224	Intrinsic component of membrane
+EAMY_2864	665029.EAMY_2864	GO Component	GO:0110165	Cellular anatomical entity
+EAMY_2864	665029.EAMY_2864	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+EAMY_2864	665029.EAMY_2864	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+EAMY_2864	665029.EAMY_2864	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+EAMY_2864	665029.EAMY_2864	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+EAMY_2864	665029.EAMY_2864	InterPro	IPR016032	Signal transduction response regulator, C-terminal effector
+EAMY_2864	665029.EAMY_2864	InterPro	IPR036388	Winged helix-like DNA-binding domain superfamily
+acrA	665029.EAMY_1009	GO Process	GO:0006810	Transport
+acrA	665029.EAMY_1009	GO Process	GO:0009987	Cellular process
+acrA	665029.EAMY_1009	GO Process	GO:0051179	Localization
+acrA	665029.EAMY_1009	GO Process	GO:0051234	Establishment of localization
+acrA	665029.EAMY_1009	GO Process	GO:0055085	Transmembrane transport
+acrA	665029.EAMY_1009	GO Function	GO:0005215	Transporter activity
+acrA	665029.EAMY_1009	GO Function	GO:0022857	Transmembrane transporter activity
+acrA	665029.EAMY_1009	GO Component	GO:0005886	Plasma membrane
+acrA	665029.EAMY_1009	GO Component	GO:0016020	Membrane
+acrA	665029.EAMY_1009	GO Component	GO:0071944	Cell periphery
+acrA	665029.EAMY_1009	GO Component	GO:0110165	Cellular anatomical entity
+acrA	665029.EAMY_1009	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+acrA	665029.EAMY_1009	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrA	665029.EAMY_1009	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrA	665029.EAMY_1009	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrA	665029.EAMY_1009	KEGG	eam01501	beta-Lactam resistance
+acrA	665029.EAMY_1009	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0016020	Membrane
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:1990195	Macrolide transmembrane transporter complex
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:1990351	Transporter complex
+acrA	665029.EAMY_1009	UniProt Keywords	KW-0732	Signal
+acrA	665029.EAMY_1009	Pfam	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion
+acrA	665029.EAMY_1009	InterPro	IPR006143	RND efflux pump, membrane fusion protein
+acrA	665029.EAMY_1009	InterPro	IPR032317	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrA	665029.EAMY_1009	InterPro	IPR043602	Cation efflux system protein CusB, domain 1
+acrB	665029.EAMY_1008	GO Process	GO:0006810	Transport
+acrB	665029.EAMY_1008	GO Process	GO:0009987	Cellular process
+acrB	665029.EAMY_1008	GO Process	GO:0042908	Xenobiotic transport
+acrB	665029.EAMY_1008	GO Process	GO:0051179	Localization
+acrB	665029.EAMY_1008	GO Process	GO:0051234	Establishment of localization
+acrB	665029.EAMY_1008	GO Process	GO:0055085	Transmembrane transport
+acrB	665029.EAMY_1008	GO Function	GO:0005215	Transporter activity
+acrB	665029.EAMY_1008	GO Function	GO:0015562	Efflux transmembrane transporter activity
+acrB	665029.EAMY_1008	GO Function	GO:0022857	Transmembrane transporter activity
+acrB	665029.EAMY_1008	GO Component	GO:0005886	Plasma membrane
+acrB	665029.EAMY_1008	GO Component	GO:0016020	Membrane
+acrB	665029.EAMY_1008	GO Component	GO:0016021	Integral component of membrane
+acrB	665029.EAMY_1008	GO Component	GO:0031224	Intrinsic component of membrane
+acrB	665029.EAMY_1008	GO Component	GO:0071944	Cell periphery
+acrB	665029.EAMY_1008	GO Component	GO:0110165	Cellular anatomical entity
+acrB	665029.EAMY_1008	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+acrB	665029.EAMY_1008	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrB	665029.EAMY_1008	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrB	665029.EAMY_1008	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrB	665029.EAMY_1008	KEGG	eam01501	beta-Lactam resistance
+acrB	665029.EAMY_1008	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+acrB	665029.EAMY_1008	COMPARTMENTS	GOCC:0005886	Plasma membrane
+acrB	665029.EAMY_1008	COMPARTMENTS	GOCC:0016020	Membrane
+acrB	665029.EAMY_1008	COMPARTMENTS	GOCC:0071944	Cell periphery
+acrB	665029.EAMY_1008	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+acrB	665029.EAMY_1008	UniProt Keywords	KW-0472	Membrane
+acrB	665029.EAMY_1008	UniProt Keywords	KW-0812	Transmembrane
+acrB	665029.EAMY_1008	UniProt Keywords	KW-0813	Transport
+acrB	665029.EAMY_1008	UniProt Keywords	KW-0997	Cell inner membrane
+acrB	665029.EAMY_1008	UniProt Keywords	KW-1003	Cell membrane
+acrB	665029.EAMY_1008	UniProt Keywords	KW-1133	Transmembrane helix
+acrB	665029.EAMY_1008	Pfam	PF02355	Protein export membrane protein
+acrB	665029.EAMY_1008	Pfam	PF03176	MMPL family
+acrB	665029.EAMY_1008	InterPro	IPR001036	Acriflavin resistance protein
+acrB	665029.EAMY_1008	InterPro	IPR004764	Hydrophobe/amphiphile efflux-1 HAE1
+acrB	665029.EAMY_1008	InterPro	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains
+ampC	665029.EAMY_0516	GO Process	GO:0008152	Metabolic process
+ampC	665029.EAMY_0516	GO Function	GO:0003824	Catalytic activity
+ampC	665029.EAMY_0516	GO Function	GO:0016787	Hydrolase activity
+ampC	665029.EAMY_0516	GO Component	GO:0110165	Cellular anatomical entity
+ampC	665029.EAMY_0516	STRING clusters	CL:5060	Mixed, incl. Organic acid catabolic process, and Signal
+ampC	665029.EAMY_0516	STRING clusters	CL:5061	Mixed, incl. Signal, and Biological process involved in interspecies interaction between organisms
+ampC	665029.EAMY_0516	STRING clusters	CL:5251	Mostly uncharacterized, incl. ABC-type xenobiotic transporter activity, and DNA geometric change
+ampC	665029.EAMY_0516	STRING clusters	CL:5252	Mixed, incl. ABC-type xenobiotic transporter activity, and GNAT domain
+ampC	665029.EAMY_0516	STRING clusters	CL:5280	Mixed, incl. ABC-type xenobiotic transporter activity, and Beta-lactamase
+ampC	665029.EAMY_0516	KEGG	eam01501	beta-Lactam resistance
+ampC	665029.EAMY_0516	KEGG	eam02020	Two-component system
+ampC	665029.EAMY_0516	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ampC	665029.EAMY_0516	UniProt Keywords	KW-0046	Antibiotic resistance
+ampC	665029.EAMY_0516	UniProt Keywords	KW-0378	Hydrolase
+ampC	665029.EAMY_0516	UniProt Keywords	KW-0732	Signal
+ampC	665029.EAMY_0516	Pfam	PF00144	Beta-lactamase
+ampC	665029.EAMY_0516	InterPro	IPR001466	Beta-lactamase-related
+ampC	665029.EAMY_0516	InterPro	IPR001586	Beta-lactamase, class-C active site
+ampC	665029.EAMY_0516	InterPro	IPR012338	Beta-lactamase/transpeptidase-like
+dspF	665029.EAMY_0558	GO Process	GO:0006810	Transport
+dspF	665029.EAMY_0558	GO Process	GO:0008104	Protein localization
+dspF	665029.EAMY_0558	GO Process	GO:0009306	Protein secretion
+dspF	665029.EAMY_0558	GO Process	GO:0009987	Cellular process
+dspF	665029.EAMY_0558	GO Process	GO:0015031	Protein transport
+dspF	665029.EAMY_0558	GO Process	GO:0030254	Protein secretion by the type III secretion system
+dspF	665029.EAMY_0558	GO Process	GO:0032940	Secretion by cell
+dspF	665029.EAMY_0558	GO Process	GO:0033036	Macromolecule localization
+dspF	665029.EAMY_0558	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+dspF	665029.EAMY_0558	GO Process	GO:0045184	Establishment of protein localization
+dspF	665029.EAMY_0558	GO Process	GO:0046903	Secretion
+dspF	665029.EAMY_0558	GO Process	GO:0051179	Localization
+dspF	665029.EAMY_0558	GO Process	GO:0051234	Establishment of localization
+dspF	665029.EAMY_0558	GO Process	GO:0051641	Cellular localization
+dspF	665029.EAMY_0558	GO Process	GO:0055085	Transmembrane transport
+dspF	665029.EAMY_0558	GO Process	GO:0070727	Cellular macromolecule localization
+dspF	665029.EAMY_0558	GO Process	GO:0071692	Protein localization to extracellular region
+dspF	665029.EAMY_0558	GO Process	GO:0071702	Organic substance transport
+dspF	665029.EAMY_0558	GO Process	GO:0071705	Nitrogen compound transport
+dspF	665029.EAMY_0558	GO Process	GO:0071806	Protein transmembrane transport
+dspF	665029.EAMY_0558	GO Process	GO:0140352	Export from cell
+dspF	665029.EAMY_0558	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+dspF	665029.EAMY_0558	STRING clusters	CL:4818	Mixed, incl. Protein secretion by the type III secretion system, and Pectate lyase activity
+dspF	665029.EAMY_0558	STRING clusters	CL:4839	Mixed, incl. Pectate lyase activity, and Tir chaperone protein (CesT) family
+dspF	665029.EAMY_0558	Pfam	PF05932	Tir chaperone protein (CesT) family
+dspF	665029.EAMY_0558	InterPro	IPR010261	Tir chaperone protein (CesT) family
+fliI1	665029.EAMY_1508	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0006163	Purine nucleotide metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0006164	Purine nucleotide biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0006725	Cellular aromatic compound metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0006753	Nucleoside phosphate metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0006754	ATP biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0006793	Phosphorus metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0006807	Nitrogen compound metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0006810	Transport
+fliI1	665029.EAMY_1508	GO Process	GO:0006811	Ion transport
+fliI1	665029.EAMY_1508	GO Process	GO:0006812	Cation transport
+fliI1	665029.EAMY_1508	GO Process	GO:0006996	Organelle organization
+fliI1	665029.EAMY_1508	GO Process	GO:0008104	Protein localization
+fliI1	665029.EAMY_1508	GO Process	GO:0008152	Metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009058	Biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009117	Nucleotide metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009141	Nucleoside triphosphate metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009142	Nucleoside triphosphate biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009144	Purine nucleoside triphosphate metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009145	Purine nucleoside triphosphate biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009150	Purine ribonucleotide metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009152	Purine ribonucleotide biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009165	Nucleotide biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009199	Ribonucleoside triphosphate metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009201	Ribonucleoside triphosphate biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009205	Purine ribonucleoside triphosphate metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009206	Purine ribonucleoside triphosphate biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009259	Ribonucleotide metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009260	Ribonucleotide biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0009306	Protein secretion
+fliI1	665029.EAMY_1508	GO Process	GO:0009987	Cellular process
+fliI1	665029.EAMY_1508	GO Process	GO:0015031	Protein transport
+fliI1	665029.EAMY_1508	GO Process	GO:0015986	Proton motive force-driven ATP synthesis
+fliI1	665029.EAMY_1508	GO Process	GO:0016043	Cellular component organization
+fliI1	665029.EAMY_1508	GO Process	GO:0018130	Heterocycle biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0019438	Aromatic compound biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0019637	Organophosphate metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0019693	Ribose phosphate metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0030030	Cell projection organization
+fliI1	665029.EAMY_1508	GO Process	GO:0030254	Protein secretion by the type III secretion system
+fliI1	665029.EAMY_1508	GO Process	GO:0032940	Secretion by cell
+fliI1	665029.EAMY_1508	GO Process	GO:0033036	Macromolecule localization
+fliI1	665029.EAMY_1508	GO Process	GO:0034220	Ion transmembrane transport
+fliI1	665029.EAMY_1508	GO Process	GO:0034641	Cellular nitrogen compound metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+fliI1	665029.EAMY_1508	GO Process	GO:0044237	Cellular metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0044238	Primary metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0044249	Cellular biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0044271	Cellular nitrogen compound biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0044281	Small molecule metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0044781	Bacterial-type flagellum organization
+fliI1	665029.EAMY_1508	GO Process	GO:0045184	Establishment of protein localization
+fliI1	665029.EAMY_1508	GO Process	GO:0046034	ATP metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0046390	Ribose phosphate biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0046483	Heterocycle metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0046903	Secretion
+fliI1	665029.EAMY_1508	GO Process	GO:0051179	Localization
+fliI1	665029.EAMY_1508	GO Process	GO:0051234	Establishment of localization
+fliI1	665029.EAMY_1508	GO Process	GO:0051641	Cellular localization
+fliI1	665029.EAMY_1508	GO Process	GO:0055085	Transmembrane transport
+fliI1	665029.EAMY_1508	GO Process	GO:0055086	Nucleobase-containing small molecule metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0070727	Cellular macromolecule localization
+fliI1	665029.EAMY_1508	GO Process	GO:0071692	Protein localization to extracellular region
+fliI1	665029.EAMY_1508	GO Process	GO:0071702	Organic substance transport
+fliI1	665029.EAMY_1508	GO Process	GO:0071704	Organic substance metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0071705	Nitrogen compound transport
+fliI1	665029.EAMY_1508	GO Process	GO:0071806	Protein transmembrane transport
+fliI1	665029.EAMY_1508	GO Process	GO:0071840	Cellular component organization or biogenesis
+fliI1	665029.EAMY_1508	GO Process	GO:0072521	Purine-containing compound metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:0072522	Purine-containing compound biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0090407	Organophosphate biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:0098655	Cation transmembrane transport
+fliI1	665029.EAMY_1508	GO Process	GO:0098660	Inorganic ion transmembrane transport
+fliI1	665029.EAMY_1508	GO Process	GO:0098662	Inorganic cation transmembrane transport
+fliI1	665029.EAMY_1508	GO Process	GO:0140352	Export from cell
+fliI1	665029.EAMY_1508	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:1901293	Nucleoside phosphate biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:1901360	Organic cyclic compound metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:1901362	Organic cyclic compound biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:1901564	Organonitrogen compound metabolic process
+fliI1	665029.EAMY_1508	GO Process	GO:1901566	Organonitrogen compound biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:1901576	Organic substance biosynthetic process
+fliI1	665029.EAMY_1508	GO Process	GO:1902600	Proton transmembrane transport
+fliI1	665029.EAMY_1508	GO Function	GO:0000166	Nucleotide binding
+fliI1	665029.EAMY_1508	GO Function	GO:0003824	Catalytic activity
+fliI1	665029.EAMY_1508	GO Function	GO:0005215	Transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0005216	Ion channel activity
+fliI1	665029.EAMY_1508	GO Function	GO:0005261	Cation channel activity
+fliI1	665029.EAMY_1508	GO Function	GO:0005488	Binding
+fliI1	665029.EAMY_1508	GO Function	GO:0005524	ATP binding
+fliI1	665029.EAMY_1508	GO Function	GO:0008324	Cation transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0009678	Pyrophosphate hydrolysis-driven proton transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0015075	Ion transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0015078	Proton transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0015252	Proton channel activity
+fliI1	665029.EAMY_1508	GO Function	GO:0015267	Channel activity
+fliI1	665029.EAMY_1508	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0015399	Primary active transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0016462	Pyrophosphatase activity
+fliI1	665029.EAMY_1508	GO Function	GO:0016787	Hydrolase activity
+fliI1	665029.EAMY_1508	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+fliI1	665029.EAMY_1508	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+fliI1	665029.EAMY_1508	GO Function	GO:0016874	Ligase activity
+fliI1	665029.EAMY_1508	GO Function	GO:0016887	ATP hydrolysis activity
+fliI1	665029.EAMY_1508	GO Function	GO:0017076	Purine nucleotide binding
+fliI1	665029.EAMY_1508	GO Function	GO:0017111	Nucleoside-triphosphatase activity
+fliI1	665029.EAMY_1508	GO Function	GO:0019829	ATPase-coupled cation transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0022803	Passive transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0022804	Active transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0022853	Active ion transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0022857	Transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0030554	Adenyl nucleotide binding
+fliI1	665029.EAMY_1508	GO Function	GO:0032553	Ribonucleotide binding
+fliI1	665029.EAMY_1508	GO Function	GO:0032555	Purine ribonucleotide binding
+fliI1	665029.EAMY_1508	GO Function	GO:0032559	Adenyl ribonucleotide binding
+fliI1	665029.EAMY_1508	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+fliI1	665029.EAMY_1508	GO Function	GO:0036094	Small molecule binding
+fliI1	665029.EAMY_1508	GO Function	GO:0042625	ATPase-coupled ion transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0042626	ATPase-coupled transmembrane transporter activity
+fliI1	665029.EAMY_1508	GO Function	GO:0043167	Ion binding
+fliI1	665029.EAMY_1508	GO Function	GO:0043168	Anion binding
+fliI1	665029.EAMY_1508	GO Function	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism
+fliI1	665029.EAMY_1508	GO Function	GO:0046933	Proton-transporting ATP synthase activity, rotational mechanism
+fliI1	665029.EAMY_1508	GO Function	GO:0046961	Proton-transporting ATPase activity, rotational mechanism
+fliI1	665029.EAMY_1508	GO Function	GO:0097159	Organic cyclic compound binding
+fliI1	665029.EAMY_1508	GO Function	GO:0097367	Carbohydrate derivative binding
+fliI1	665029.EAMY_1508	GO Function	GO:0140657	ATP-dependent activity
+fliI1	665029.EAMY_1508	GO Function	GO:1901265	Nucleoside phosphate binding
+fliI1	665029.EAMY_1508	GO Function	GO:1901363	Heterocyclic compound binding
+fliI1	665029.EAMY_1508	GO Component	GO:0005622	Intracellular anatomical structure
+fliI1	665029.EAMY_1508	GO Component	GO:0005737	Cytoplasm
+fliI1	665029.EAMY_1508	GO Component	GO:0030257	Type III protein secretion system complex
+fliI1	665029.EAMY_1508	GO Component	GO:0032991	Protein-containing complex
+fliI1	665029.EAMY_1508	GO Component	GO:0110165	Cellular anatomical entity
+fliI1	665029.EAMY_1508	STRING clusters	CL:4395	Cilium, and Signal transduction
+fliI1	665029.EAMY_1508	STRING clusters	CL:4397	Cilium, and Signal transduction
+fliI1	665029.EAMY_1508	STRING clusters	CL:4399	Cilium, and Taxis
+fliI1	665029.EAMY_1508	STRING clusters	CL:4400	Cilium
+fliI1	665029.EAMY_1508	STRING clusters	CL:4401	Cilium
+fliI1	665029.EAMY_1508	STRING clusters	CL:4403	Cilium
+fliI1	665029.EAMY_1508	STRING clusters	CL:4404	Bacterial-type flagellum
+fliI1	665029.EAMY_1508	STRING clusters	CL:4405	Flagellar assembly, and Bacterial-type flagellum basal body, rod
+fliI1	665029.EAMY_1508	STRING clusters	CL:4455	Cytoskeletal motor activity, and Bacterial-type flagellum organization
+fliI1	665029.EAMY_1508	STRING clusters	CL:4457	Cytoskeletal motor activity, and Flagellar export ATPase FliI, clade 1
+fliI1	665029.EAMY_1508	KEGG	eam02040	Flagellar assembly
+fliI1	665029.EAMY_1508	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+fliI1	665029.EAMY_1508	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+fliI1	665029.EAMY_1508	UniProt Keywords	KW-0378	Hydrolase
+fliI1	665029.EAMY_1508	InterPro	IPR000194	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain
+fliI1	665029.EAMY_1508	InterPro	IPR003593	AAA+ ATPase domain
+fliI1	665029.EAMY_1508	InterPro	IPR005714	ATPase, type III secretion system, FliI/YscN
+fliI1	665029.EAMY_1508	InterPro	IPR020003	ATPase, alpha/beta subunit, nucleotide-binding domain, active site
+fliI1	665029.EAMY_1508	InterPro	IPR020005	Flagellar export ATPase FliI, clade 1
+fliI1	665029.EAMY_1508	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+fliI1	665029.EAMY_1508	InterPro	IPR040627	T3SS EscN ATPase, C-terminal
+fliI1	665029.EAMY_1508	SMART	SM00382	ATPases associated with a variety of cellular activities
+hcrR	665029.EAMY_0528	GO Process	GO:0006810	Transport
+hcrR	665029.EAMY_0528	GO Process	GO:0008104	Protein localization
+hcrR	665029.EAMY_0528	GO Process	GO:0009306	Protein secretion
+hcrR	665029.EAMY_0528	GO Process	GO:0009987	Cellular process
+hcrR	665029.EAMY_0528	GO Process	GO:0015031	Protein transport
+hcrR	665029.EAMY_0528	GO Process	GO:0032940	Secretion by cell
+hcrR	665029.EAMY_0528	GO Process	GO:0033036	Macromolecule localization
+hcrR	665029.EAMY_0528	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hcrR	665029.EAMY_0528	GO Process	GO:0045184	Establishment of protein localization
+hcrR	665029.EAMY_0528	GO Process	GO:0046903	Secretion
+hcrR	665029.EAMY_0528	GO Process	GO:0051179	Localization
+hcrR	665029.EAMY_0528	GO Process	GO:0051234	Establishment of localization
+hcrR	665029.EAMY_0528	GO Process	GO:0051641	Cellular localization
+hcrR	665029.EAMY_0528	GO Process	GO:0070727	Cellular macromolecule localization
+hcrR	665029.EAMY_0528	GO Process	GO:0071692	Protein localization to extracellular region
+hcrR	665029.EAMY_0528	GO Process	GO:0071702	Organic substance transport
+hcrR	665029.EAMY_0528	GO Process	GO:0071705	Nitrogen compound transport
+hcrR	665029.EAMY_0528	GO Process	GO:0140352	Export from cell
+hcrR	665029.EAMY_0528	GO Component	GO:0005886	Plasma membrane
+hcrR	665029.EAMY_0528	GO Component	GO:0016020	Membrane
+hcrR	665029.EAMY_0528	GO Component	GO:0016021	Integral component of membrane
+hcrR	665029.EAMY_0528	GO Component	GO:0031224	Intrinsic component of membrane
+hcrR	665029.EAMY_0528	GO Component	GO:0071944	Cell periphery
+hcrR	665029.EAMY_0528	GO Component	GO:0110165	Cellular anatomical entity
+hcrR	665029.EAMY_0528	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hcrR	665029.EAMY_0528	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hcrR	665029.EAMY_0528	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hcrR	665029.EAMY_0528	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hcrR	665029.EAMY_0528	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hcrR	665029.EAMY_0528	STRING clusters	CL:4777	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+hcrR	665029.EAMY_0528	KEGG	eam03070	Bacterial secretion system
+hcrR	665029.EAMY_0528	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+hcrR	665029.EAMY_0528	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+hcrR	665029.EAMY_0528	COMPARTMENTS	GOCC:0042995	Cell projection
+hcrR	665029.EAMY_0528	COMPARTMENTS	GOCC:0043226	Organelle
+hcrR	665029.EAMY_0528	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+hcrR	665029.EAMY_0528	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hcrR	665029.EAMY_0528	UniProt Keywords	KW-0472	Membrane
+hcrR	665029.EAMY_0528	UniProt Keywords	KW-0812	Transmembrane
+hcrR	665029.EAMY_0528	UniProt Keywords	KW-1003	Cell membrane
+hcrR	665029.EAMY_0528	UniProt Keywords	KW-1133	Transmembrane helix
+hcrR	665029.EAMY_0528	Pfam	PF00813	FliP family
+hcrR	665029.EAMY_0528	InterPro	IPR005773	Yop virulence translocation protein R
+hcrR	665029.EAMY_0528	InterPro	IPR005838	Type III secretion system inner membrane P protein
+hofB	665029.EAMY_2857	GO Process	GO:0006810	Transport
+hofB	665029.EAMY_2857	GO Process	GO:0008104	Protein localization
+hofB	665029.EAMY_2857	GO Process	GO:0009306	Protein secretion
+hofB	665029.EAMY_2857	GO Process	GO:0009987	Cellular process
+hofB	665029.EAMY_2857	GO Process	GO:0015031	Protein transport
+hofB	665029.EAMY_2857	GO Process	GO:0015628	Protein secretion by the type II secretion system
+hofB	665029.EAMY_2857	GO Process	GO:0032940	Secretion by cell
+hofB	665029.EAMY_2857	GO Process	GO:0033036	Macromolecule localization
+hofB	665029.EAMY_2857	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hofB	665029.EAMY_2857	GO Process	GO:0045184	Establishment of protein localization
+hofB	665029.EAMY_2857	GO Process	GO:0046903	Secretion
+hofB	665029.EAMY_2857	GO Process	GO:0051179	Localization
+hofB	665029.EAMY_2857	GO Process	GO:0051234	Establishment of localization
+hofB	665029.EAMY_2857	GO Process	GO:0051641	Cellular localization
+hofB	665029.EAMY_2857	GO Process	GO:0055085	Transmembrane transport
+hofB	665029.EAMY_2857	GO Process	GO:0070727	Cellular macromolecule localization
+hofB	665029.EAMY_2857	GO Process	GO:0071692	Protein localization to extracellular region
+hofB	665029.EAMY_2857	GO Process	GO:0071702	Organic substance transport
+hofB	665029.EAMY_2857	GO Process	GO:0071705	Nitrogen compound transport
+hofB	665029.EAMY_2857	GO Process	GO:0071806	Protein transmembrane transport
+hofB	665029.EAMY_2857	GO Process	GO:0098776	Protein transport across the cell outer membrane
+hofB	665029.EAMY_2857	GO Process	GO:0140352	Export from cell
+hofB	665029.EAMY_2857	GO Function	GO:0000166	Nucleotide binding
+hofB	665029.EAMY_2857	GO Function	GO:0005488	Binding
+hofB	665029.EAMY_2857	GO Function	GO:0005524	ATP binding
+hofB	665029.EAMY_2857	GO Function	GO:0017076	Purine nucleotide binding
+hofB	665029.EAMY_2857	GO Function	GO:0030554	Adenyl nucleotide binding
+hofB	665029.EAMY_2857	GO Function	GO:0032553	Ribonucleotide binding
+hofB	665029.EAMY_2857	GO Function	GO:0032555	Purine ribonucleotide binding
+hofB	665029.EAMY_2857	GO Function	GO:0032559	Adenyl ribonucleotide binding
+hofB	665029.EAMY_2857	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+hofB	665029.EAMY_2857	GO Function	GO:0036094	Small molecule binding
+hofB	665029.EAMY_2857	GO Function	GO:0043167	Ion binding
+hofB	665029.EAMY_2857	GO Function	GO:0043168	Anion binding
+hofB	665029.EAMY_2857	GO Function	GO:0097159	Organic cyclic compound binding
+hofB	665029.EAMY_2857	GO Function	GO:0097367	Carbohydrate derivative binding
+hofB	665029.EAMY_2857	GO Function	GO:1901265	Nucleoside phosphate binding
+hofB	665029.EAMY_2857	GO Function	GO:1901363	Heterocyclic compound binding
+hofB	665029.EAMY_2857	GO Component	GO:0005886	Plasma membrane
+hofB	665029.EAMY_2857	GO Component	GO:0015627	Type II protein secretion system complex
+hofB	665029.EAMY_2857	GO Component	GO:0016020	Membrane
+hofB	665029.EAMY_2857	GO Component	GO:0032991	Protein-containing complex
+hofB	665029.EAMY_2857	GO Component	GO:0071944	Cell periphery
+hofB	665029.EAMY_2857	GO Component	GO:0110165	Cellular anatomical entity
+hofB	665029.EAMY_2857	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+hofB	665029.EAMY_2857	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+hofB	665029.EAMY_2857	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+hofB	665029.EAMY_2857	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+hofB	665029.EAMY_2857	Pfam	PF00437	Type II/IV secretion system protein
+hofB	665029.EAMY_2857	InterPro	IPR001482	Type II/IV secretion system protein
+hofB	665029.EAMY_2857	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+hrcC	665029.EAMY_0549	GO Process	GO:0006810	Transport
+hrcC	665029.EAMY_0549	GO Process	GO:0008104	Protein localization
+hrcC	665029.EAMY_0549	GO Process	GO:0009306	Protein secretion
+hrcC	665029.EAMY_0549	GO Process	GO:0009987	Cellular process
+hrcC	665029.EAMY_0549	GO Process	GO:0015031	Protein transport
+hrcC	665029.EAMY_0549	GO Process	GO:0032940	Secretion by cell
+hrcC	665029.EAMY_0549	GO Process	GO:0033036	Macromolecule localization
+hrcC	665029.EAMY_0549	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcC	665029.EAMY_0549	GO Process	GO:0045184	Establishment of protein localization
+hrcC	665029.EAMY_0549	GO Process	GO:0046903	Secretion
+hrcC	665029.EAMY_0549	GO Process	GO:0051179	Localization
+hrcC	665029.EAMY_0549	GO Process	GO:0051234	Establishment of localization
+hrcC	665029.EAMY_0549	GO Process	GO:0051641	Cellular localization
+hrcC	665029.EAMY_0549	GO Process	GO:0055085	Transmembrane transport
+hrcC	665029.EAMY_0549	GO Process	GO:0070727	Cellular macromolecule localization
+hrcC	665029.EAMY_0549	GO Process	GO:0071692	Protein localization to extracellular region
+hrcC	665029.EAMY_0549	GO Process	GO:0071702	Organic substance transport
+hrcC	665029.EAMY_0549	GO Process	GO:0071705	Nitrogen compound transport
+hrcC	665029.EAMY_0549	GO Process	GO:0071806	Protein transmembrane transport
+hrcC	665029.EAMY_0549	GO Process	GO:0140352	Export from cell
+hrcC	665029.EAMY_0549	GO Function	GO:0005488	Binding
+hrcC	665029.EAMY_0549	GO Function	GO:0005515	Protein binding
+hrcC	665029.EAMY_0549	GO Function	GO:0042802	Identical protein binding
+hrcC	665029.EAMY_0549	GO Component	GO:0009279	Cell outer membrane
+hrcC	665029.EAMY_0549	GO Component	GO:0016020	Membrane
+hrcC	665029.EAMY_0549	GO Component	GO:0019867	Outer membrane
+hrcC	665029.EAMY_0549	GO Component	GO:0030312	External encapsulating structure
+hrcC	665029.EAMY_0549	GO Component	GO:0030313	Cell envelope
+hrcC	665029.EAMY_0549	GO Component	GO:0031975	Envelope
+hrcC	665029.EAMY_0549	GO Component	GO:0032991	Protein-containing complex
+hrcC	665029.EAMY_0549	GO Component	GO:0071944	Cell periphery
+hrcC	665029.EAMY_0549	GO Component	GO:0110165	Cellular anatomical entity
+hrcC	665029.EAMY_0549	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrcC	665029.EAMY_0549	STRING clusters	CL:4818	Mixed, incl. Protein secretion by the type III secretion system, and Pectate lyase activity
+hrcC	665029.EAMY_0549	STRING clusters	CL:4821	Mixed, incl. Type III secretion system lipoprotein HrcJ/YscJ, and Type III secretion system outer membrane pore YscC/HrcC
+hrcC	665029.EAMY_0549	KEGG	eam03070	Bacterial secretion system
+hrcC	665029.EAMY_0549	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+hrcC	665029.EAMY_0549	UniProt Keywords	KW-0732	Signal
+hrcC	665029.EAMY_0549	UniProt Keywords	KW-0813	Transport
+hrcC	665029.EAMY_0549	Pfam	PF00263	Bacterial type II and III secretion system protein
+hrcC	665029.EAMY_0549	Pfam	PF03958	Bacterial type II/III secretion system short domain
+hrcC	665029.EAMY_0549	Pfam	PF06586	TraK protein
+hrcC	665029.EAMY_0549	InterPro	IPR003522	Type III secretion system outer membrane pore YscC/HrcC
+hrcC	665029.EAMY_0549	InterPro	IPR004846	Type II/III secretion system
+hrcC	665029.EAMY_0549	InterPro	IPR005644	NolW-like
+hrcC	665029.EAMY_0549	InterPro	IPR010563	Pilus assembly TraK
+hrcC	665029.EAMY_0549	InterPro	IPR038591	NolW-like superfamily
+hrcJ	665029.EAMY_0544	GO Process	GO:0006810	Transport
+hrcJ	665029.EAMY_0544	GO Process	GO:0008104	Protein localization
+hrcJ	665029.EAMY_0544	GO Process	GO:0009306	Protein secretion
+hrcJ	665029.EAMY_0544	GO Process	GO:0009987	Cellular process
+hrcJ	665029.EAMY_0544	GO Process	GO:0015031	Protein transport
+hrcJ	665029.EAMY_0544	GO Process	GO:0032940	Secretion by cell
+hrcJ	665029.EAMY_0544	GO Process	GO:0033036	Macromolecule localization
+hrcJ	665029.EAMY_0544	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcJ	665029.EAMY_0544	GO Process	GO:0045184	Establishment of protein localization
+hrcJ	665029.EAMY_0544	GO Process	GO:0046903	Secretion
+hrcJ	665029.EAMY_0544	GO Process	GO:0051179	Localization
+hrcJ	665029.EAMY_0544	GO Process	GO:0051234	Establishment of localization
+hrcJ	665029.EAMY_0544	GO Process	GO:0051641	Cellular localization
+hrcJ	665029.EAMY_0544	GO Process	GO:0070727	Cellular macromolecule localization
+hrcJ	665029.EAMY_0544	GO Process	GO:0071692	Protein localization to extracellular region
+hrcJ	665029.EAMY_0544	GO Process	GO:0071702	Organic substance transport
+hrcJ	665029.EAMY_0544	GO Process	GO:0071705	Nitrogen compound transport
+hrcJ	665029.EAMY_0544	GO Process	GO:0140352	Export from cell
+hrcJ	665029.EAMY_0544	GO Component	GO:0009279	Cell outer membrane
+hrcJ	665029.EAMY_0544	GO Component	GO:0016020	Membrane
+hrcJ	665029.EAMY_0544	GO Component	GO:0016021	Integral component of membrane
+hrcJ	665029.EAMY_0544	GO Component	GO:0019867	Outer membrane
+hrcJ	665029.EAMY_0544	GO Component	GO:0030312	External encapsulating structure
+hrcJ	665029.EAMY_0544	GO Component	GO:0030313	Cell envelope
+hrcJ	665029.EAMY_0544	GO Component	GO:0031224	Intrinsic component of membrane
+hrcJ	665029.EAMY_0544	GO Component	GO:0031975	Envelope
+hrcJ	665029.EAMY_0544	GO Component	GO:0071944	Cell periphery
+hrcJ	665029.EAMY_0544	GO Component	GO:0110165	Cellular anatomical entity
+hrcJ	665029.EAMY_0544	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrcJ	665029.EAMY_0544	STRING clusters	CL:4818	Mixed, incl. Protein secretion by the type III secretion system, and Pectate lyase activity
+hrcJ	665029.EAMY_0544	STRING clusters	CL:4821	Mixed, incl. Type III secretion system lipoprotein HrcJ/YscJ, and Type III secretion system outer membrane pore YscC/HrcC
+hrcJ	665029.EAMY_0544	KEGG	eam03070	Bacterial secretion system
+hrcJ	665029.EAMY_0544	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+hrcJ	665029.EAMY_0544	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+hrcJ	665029.EAMY_0544	COMPARTMENTS	GOCC:0042597	Periplasmic space
+hrcJ	665029.EAMY_0544	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hrcJ	665029.EAMY_0544	UniProt Keywords	KW-0449	Lipoprotein
+hrcJ	665029.EAMY_0544	UniProt Keywords	KW-0472	Membrane
+hrcJ	665029.EAMY_0544	UniProt Keywords	KW-0564	Palmitate
+hrcJ	665029.EAMY_0544	UniProt Keywords	KW-0732	Signal
+hrcJ	665029.EAMY_0544	UniProt Keywords	KW-0812	Transmembrane
+hrcJ	665029.EAMY_0544	UniProt Keywords	KW-0998	Cell outer membrane
+hrcJ	665029.EAMY_0544	UniProt Keywords	KW-1133	Transmembrane helix
+hrcJ	665029.EAMY_0544	Pfam	PF01514	Secretory protein of YscJ/FliF family
+hrcJ	665029.EAMY_0544	InterPro	IPR003282	Type III secretion system lipoprotein HrcJ/YscJ
+hrcJ	665029.EAMY_0544	InterPro	IPR006182	Flagellar M-ring , N-terminal
+hrcJ	665029.EAMY_0544	InterPro	IPR043427	Lipoprotein YscJ/Flagellar M-ring protein
+hrcJ	665029.EAMY_0544	InterPro	IPR045851	AMP-binding enzyme, C-terminal domain superfamily
+hrcN	665029.EAMY_0532	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0006163	Purine nucleotide metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0006164	Purine nucleotide biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0006725	Cellular aromatic compound metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0006753	Nucleoside phosphate metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0006754	ATP biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0006793	Phosphorus metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0006807	Nitrogen compound metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0006810	Transport
+hrcN	665029.EAMY_0532	GO Process	GO:0006811	Ion transport
+hrcN	665029.EAMY_0532	GO Process	GO:0006812	Cation transport
+hrcN	665029.EAMY_0532	GO Process	GO:0008104	Protein localization
+hrcN	665029.EAMY_0532	GO Process	GO:0008152	Metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009058	Biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009117	Nucleotide metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009141	Nucleoside triphosphate metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009142	Nucleoside triphosphate biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009144	Purine nucleoside triphosphate metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009145	Purine nucleoside triphosphate biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009150	Purine ribonucleotide metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009152	Purine ribonucleotide biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009165	Nucleotide biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009199	Ribonucleoside triphosphate metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009201	Ribonucleoside triphosphate biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009205	Purine ribonucleoside triphosphate metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009206	Purine ribonucleoside triphosphate biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009259	Ribonucleotide metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009260	Ribonucleotide biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0009306	Protein secretion
+hrcN	665029.EAMY_0532	GO Process	GO:0009987	Cellular process
+hrcN	665029.EAMY_0532	GO Process	GO:0015031	Protein transport
+hrcN	665029.EAMY_0532	GO Process	GO:0015986	Proton motive force-driven ATP synthesis
+hrcN	665029.EAMY_0532	GO Process	GO:0018130	Heterocycle biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0019438	Aromatic compound biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0019637	Organophosphate metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0019693	Ribose phosphate metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0030254	Protein secretion by the type III secretion system
+hrcN	665029.EAMY_0532	GO Process	GO:0032940	Secretion by cell
+hrcN	665029.EAMY_0532	GO Process	GO:0033036	Macromolecule localization
+hrcN	665029.EAMY_0532	GO Process	GO:0034220	Ion transmembrane transport
+hrcN	665029.EAMY_0532	GO Process	GO:0034641	Cellular nitrogen compound metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcN	665029.EAMY_0532	GO Process	GO:0044237	Cellular metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0044238	Primary metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0044249	Cellular biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0044271	Cellular nitrogen compound biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0044281	Small molecule metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0045184	Establishment of protein localization
+hrcN	665029.EAMY_0532	GO Process	GO:0046034	ATP metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0046390	Ribose phosphate biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0046483	Heterocycle metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0046903	Secretion
+hrcN	665029.EAMY_0532	GO Process	GO:0051179	Localization
+hrcN	665029.EAMY_0532	GO Process	GO:0051234	Establishment of localization
+hrcN	665029.EAMY_0532	GO Process	GO:0051641	Cellular localization
+hrcN	665029.EAMY_0532	GO Process	GO:0055085	Transmembrane transport
+hrcN	665029.EAMY_0532	GO Process	GO:0055086	Nucleobase-containing small molecule metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0070727	Cellular macromolecule localization
+hrcN	665029.EAMY_0532	GO Process	GO:0071692	Protein localization to extracellular region
+hrcN	665029.EAMY_0532	GO Process	GO:0071702	Organic substance transport
+hrcN	665029.EAMY_0532	GO Process	GO:0071704	Organic substance metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0071705	Nitrogen compound transport
+hrcN	665029.EAMY_0532	GO Process	GO:0071806	Protein transmembrane transport
+hrcN	665029.EAMY_0532	GO Process	GO:0072521	Purine-containing compound metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:0072522	Purine-containing compound biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0090407	Organophosphate biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:0098655	Cation transmembrane transport
+hrcN	665029.EAMY_0532	GO Process	GO:0098660	Inorganic ion transmembrane transport
+hrcN	665029.EAMY_0532	GO Process	GO:0098662	Inorganic cation transmembrane transport
+hrcN	665029.EAMY_0532	GO Process	GO:0140352	Export from cell
+hrcN	665029.EAMY_0532	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:1901293	Nucleoside phosphate biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:1901360	Organic cyclic compound metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:1901362	Organic cyclic compound biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:1901564	Organonitrogen compound metabolic process
+hrcN	665029.EAMY_0532	GO Process	GO:1901566	Organonitrogen compound biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:1901576	Organic substance biosynthetic process
+hrcN	665029.EAMY_0532	GO Process	GO:1902600	Proton transmembrane transport
+hrcN	665029.EAMY_0532	GO Function	GO:0000166	Nucleotide binding
+hrcN	665029.EAMY_0532	GO Function	GO:0003824	Catalytic activity
+hrcN	665029.EAMY_0532	GO Function	GO:0005215	Transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0005488	Binding
+hrcN	665029.EAMY_0532	GO Function	GO:0005524	ATP binding
+hrcN	665029.EAMY_0532	GO Function	GO:0008324	Cation transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0009678	Pyrophosphate hydrolysis-driven proton transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0015075	Ion transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0015078	Proton transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0015399	Primary active transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0016462	Pyrophosphatase activity
+hrcN	665029.EAMY_0532	GO Function	GO:0016787	Hydrolase activity
+hrcN	665029.EAMY_0532	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+hrcN	665029.EAMY_0532	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+hrcN	665029.EAMY_0532	GO Function	GO:0016887	ATP hydrolysis activity
+hrcN	665029.EAMY_0532	GO Function	GO:0017076	Purine nucleotide binding
+hrcN	665029.EAMY_0532	GO Function	GO:0017111	Nucleoside-triphosphatase activity
+hrcN	665029.EAMY_0532	GO Function	GO:0019829	ATPase-coupled cation transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0022804	Active transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0022853	Active ion transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0022857	Transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0030554	Adenyl nucleotide binding
+hrcN	665029.EAMY_0532	GO Function	GO:0032553	Ribonucleotide binding
+hrcN	665029.EAMY_0532	GO Function	GO:0032555	Purine ribonucleotide binding
+hrcN	665029.EAMY_0532	GO Function	GO:0032559	Adenyl ribonucleotide binding
+hrcN	665029.EAMY_0532	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+hrcN	665029.EAMY_0532	GO Function	GO:0036094	Small molecule binding
+hrcN	665029.EAMY_0532	GO Function	GO:0042625	ATPase-coupled ion transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0042626	ATPase-coupled transmembrane transporter activity
+hrcN	665029.EAMY_0532	GO Function	GO:0043167	Ion binding
+hrcN	665029.EAMY_0532	GO Function	GO:0043168	Anion binding
+hrcN	665029.EAMY_0532	GO Function	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism
+hrcN	665029.EAMY_0532	GO Function	GO:0046961	Proton-transporting ATPase activity, rotational mechanism
+hrcN	665029.EAMY_0532	GO Function	GO:0097159	Organic cyclic compound binding
+hrcN	665029.EAMY_0532	GO Function	GO:0097367	Carbohydrate derivative binding
+hrcN	665029.EAMY_0532	GO Function	GO:0140657	ATP-dependent activity
+hrcN	665029.EAMY_0532	GO Function	GO:1901265	Nucleoside phosphate binding
+hrcN	665029.EAMY_0532	GO Function	GO:1901363	Heterocyclic compound binding
+hrcN	665029.EAMY_0532	GO Component	GO:0005622	Intracellular anatomical structure
+hrcN	665029.EAMY_0532	GO Component	GO:0005737	Cytoplasm
+hrcN	665029.EAMY_0532	GO Component	GO:0030257	Type III protein secretion system complex
+hrcN	665029.EAMY_0532	GO Component	GO:0032991	Protein-containing complex
+hrcN	665029.EAMY_0532	GO Component	GO:0110165	Cellular anatomical entity
+hrcN	665029.EAMY_0532	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrcN	665029.EAMY_0532	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcN	665029.EAMY_0532	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcN	665029.EAMY_0532	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrcN	665029.EAMY_0532	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrcN	665029.EAMY_0532	STRING clusters	CL:4777	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+hrcN	665029.EAMY_0532	KEGG	eam03070	Bacterial secretion system
+hrcN	665029.EAMY_0532	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+hrcN	665029.EAMY_0532	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+hrcN	665029.EAMY_0532	UniProt Keywords	KW-0378	Hydrolase
+hrcN	665029.EAMY_0532	Pfam	PF02874	ATP synthase alpha/beta family, beta-barrel domain
+hrcN	665029.EAMY_0532	InterPro	IPR000194	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain
+hrcN	665029.EAMY_0532	InterPro	IPR003593	AAA+ ATPase domain
+hrcN	665029.EAMY_0532	InterPro	IPR005714	ATPase, type III secretion system, FliI/YscN
+hrcN	665029.EAMY_0532	InterPro	IPR013380	Type 3 secretion system ATPase SCTN
+hrcN	665029.EAMY_0532	InterPro	IPR020003	ATPase, alpha/beta subunit, nucleotide-binding domain, active site
+hrcN	665029.EAMY_0532	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+hrcN	665029.EAMY_0532	InterPro	IPR040627	T3SS EscN ATPase, C-terminal
+hrcN	665029.EAMY_0532	SMART	SM00382	ATPases associated with a variety of cellular activities
+hrcQ	665029.EAMY_0529	GO Process	GO:0006810	Transport
+hrcQ	665029.EAMY_0529	GO Process	GO:0008104	Protein localization
+hrcQ	665029.EAMY_0529	GO Process	GO:0009306	Protein secretion
+hrcQ	665029.EAMY_0529	GO Process	GO:0009987	Cellular process
+hrcQ	665029.EAMY_0529	GO Process	GO:0015031	Protein transport
+hrcQ	665029.EAMY_0529	GO Process	GO:0030254	Protein secretion by the type III secretion system
+hrcQ	665029.EAMY_0529	GO Process	GO:0032940	Secretion by cell
+hrcQ	665029.EAMY_0529	GO Process	GO:0033036	Macromolecule localization
+hrcQ	665029.EAMY_0529	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcQ	665029.EAMY_0529	GO Process	GO:0045184	Establishment of protein localization
+hrcQ	665029.EAMY_0529	GO Process	GO:0046903	Secretion
+hrcQ	665029.EAMY_0529	GO Process	GO:0051179	Localization
+hrcQ	665029.EAMY_0529	GO Process	GO:0051234	Establishment of localization
+hrcQ	665029.EAMY_0529	GO Process	GO:0051641	Cellular localization
+hrcQ	665029.EAMY_0529	GO Process	GO:0055085	Transmembrane transport
+hrcQ	665029.EAMY_0529	GO Process	GO:0070727	Cellular macromolecule localization
+hrcQ	665029.EAMY_0529	GO Process	GO:0071692	Protein localization to extracellular region
+hrcQ	665029.EAMY_0529	GO Process	GO:0071702	Organic substance transport
+hrcQ	665029.EAMY_0529	GO Process	GO:0071705	Nitrogen compound transport
+hrcQ	665029.EAMY_0529	GO Process	GO:0071806	Protein transmembrane transport
+hrcQ	665029.EAMY_0529	GO Process	GO:0140352	Export from cell
+hrcQ	665029.EAMY_0529	GO Function	GO:0003774	Cytoskeletal motor activity
+hrcQ	665029.EAMY_0529	GO Component	GO:0110165	Cellular anatomical entity
+hrcQ	665029.EAMY_0529	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrcQ	665029.EAMY_0529	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcQ	665029.EAMY_0529	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcQ	665029.EAMY_0529	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrcQ	665029.EAMY_0529	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrcQ	665029.EAMY_0529	KEGG	eam03070	Bacterial secretion system
+hrcQ	665029.EAMY_0529	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+hrcQ	665029.EAMY_0529	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+hrcQ	665029.EAMY_0529	COMPARTMENTS	GOCC:0042995	Cell projection
+hrcQ	665029.EAMY_0529	COMPARTMENTS	GOCC:0043226	Organelle
+hrcQ	665029.EAMY_0529	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+hrcQ	665029.EAMY_0529	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hrcQ	665029.EAMY_0529	Pfam	PF01052	Type III flagellar switch regulator (C-ring) FliN C-term
+hrcQ	665029.EAMY_0529	InterPro	IPR001172	Flagellar motor switch FliN/Type III secretion HrcQb
+hrcQ	665029.EAMY_0529	InterPro	IPR001543	Flagellar motor switch protein FliN-like, C-terminal domain
+hrcQ	665029.EAMY_0529	InterPro	IPR036429	SpoA-like superfamily
+hrcS	665029.EAMY_0527	GO Process	GO:0006810	Transport
+hrcS	665029.EAMY_0527	GO Process	GO:0008104	Protein localization
+hrcS	665029.EAMY_0527	GO Process	GO:0009306	Protein secretion
+hrcS	665029.EAMY_0527	GO Process	GO:0009987	Cellular process
+hrcS	665029.EAMY_0527	GO Process	GO:0015031	Protein transport
+hrcS	665029.EAMY_0527	GO Process	GO:0032940	Secretion by cell
+hrcS	665029.EAMY_0527	GO Process	GO:0033036	Macromolecule localization
+hrcS	665029.EAMY_0527	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcS	665029.EAMY_0527	GO Process	GO:0045184	Establishment of protein localization
+hrcS	665029.EAMY_0527	GO Process	GO:0046903	Secretion
+hrcS	665029.EAMY_0527	GO Process	GO:0051179	Localization
+hrcS	665029.EAMY_0527	GO Process	GO:0051234	Establishment of localization
+hrcS	665029.EAMY_0527	GO Process	GO:0051641	Cellular localization
+hrcS	665029.EAMY_0527	GO Process	GO:0070727	Cellular macromolecule localization
+hrcS	665029.EAMY_0527	GO Process	GO:0071692	Protein localization to extracellular region
+hrcS	665029.EAMY_0527	GO Process	GO:0071702	Organic substance transport
+hrcS	665029.EAMY_0527	GO Process	GO:0071705	Nitrogen compound transport
+hrcS	665029.EAMY_0527	GO Process	GO:0140352	Export from cell
+hrcS	665029.EAMY_0527	GO Component	GO:0005886	Plasma membrane
+hrcS	665029.EAMY_0527	GO Component	GO:0016020	Membrane
+hrcS	665029.EAMY_0527	GO Component	GO:0016021	Integral component of membrane
+hrcS	665029.EAMY_0527	GO Component	GO:0031224	Intrinsic component of membrane
+hrcS	665029.EAMY_0527	GO Component	GO:0071944	Cell periphery
+hrcS	665029.EAMY_0527	GO Component	GO:0110165	Cellular anatomical entity
+hrcS	665029.EAMY_0527	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrcS	665029.EAMY_0527	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcS	665029.EAMY_0527	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcS	665029.EAMY_0527	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrcS	665029.EAMY_0527	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrcS	665029.EAMY_0527	STRING clusters	CL:4777	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+hrcS	665029.EAMY_0527	KEGG	eam03070	Bacterial secretion system
+hrcS	665029.EAMY_0527	UniProt Keywords	KW-0472	Membrane
+hrcS	665029.EAMY_0527	UniProt Keywords	KW-0812	Transmembrane
+hrcS	665029.EAMY_0527	UniProt Keywords	KW-1133	Transmembrane helix
+hrcS	665029.EAMY_0527	Pfam	PF01313	Bacterial export proteins, family 3
+hrcS	665029.EAMY_0527	InterPro	IPR002191	Bacterial export protein family 3
+hrcS	665029.EAMY_0527	InterPro	IPR006306	Type III secretion protein HrpO
+hrcT	665029.EAMY_0526	GO Process	GO:0006605	Protein targeting
+hrcT	665029.EAMY_0526	GO Process	GO:0006810	Transport
+hrcT	665029.EAMY_0526	GO Process	GO:0006886	Intracellular protein transport
+hrcT	665029.EAMY_0526	GO Process	GO:0008104	Protein localization
+hrcT	665029.EAMY_0526	GO Process	GO:0009987	Cellular process
+hrcT	665029.EAMY_0526	GO Process	GO:0015031	Protein transport
+hrcT	665029.EAMY_0526	GO Process	GO:0033036	Macromolecule localization
+hrcT	665029.EAMY_0526	GO Process	GO:0045184	Establishment of protein localization
+hrcT	665029.EAMY_0526	GO Process	GO:0046907	Intracellular transport
+hrcT	665029.EAMY_0526	GO Process	GO:0051179	Localization
+hrcT	665029.EAMY_0526	GO Process	GO:0051234	Establishment of localization
+hrcT	665029.EAMY_0526	GO Process	GO:0051641	Cellular localization
+hrcT	665029.EAMY_0526	GO Process	GO:0051649	Establishment of localization in cell
+hrcT	665029.EAMY_0526	GO Process	GO:0070727	Cellular macromolecule localization
+hrcT	665029.EAMY_0526	GO Process	GO:0071702	Organic substance transport
+hrcT	665029.EAMY_0526	GO Process	GO:0071705	Nitrogen compound transport
+hrcT	665029.EAMY_0526	GO Component	GO:0005886	Plasma membrane
+hrcT	665029.EAMY_0526	GO Component	GO:0016020	Membrane
+hrcT	665029.EAMY_0526	GO Component	GO:0016021	Integral component of membrane
+hrcT	665029.EAMY_0526	GO Component	GO:0031224	Intrinsic component of membrane
+hrcT	665029.EAMY_0526	GO Component	GO:0071944	Cell periphery
+hrcT	665029.EAMY_0526	GO Component	GO:0110165	Cellular anatomical entity
+hrcT	665029.EAMY_0526	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrcT	665029.EAMY_0526	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcT	665029.EAMY_0526	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcT	665029.EAMY_0526	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrcT	665029.EAMY_0526	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrcT	665029.EAMY_0526	STRING clusters	CL:4777	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+hrcT	665029.EAMY_0526	KEGG	eam03070	Bacterial secretion system
+hrcT	665029.EAMY_0526	UniProt Keywords	KW-0472	Membrane
+hrcT	665029.EAMY_0526	UniProt Keywords	KW-0812	Transmembrane
+hrcT	665029.EAMY_0526	UniProt Keywords	KW-1003	Cell membrane
+hrcT	665029.EAMY_0526	UniProt Keywords	KW-1133	Transmembrane helix
+hrcT	665029.EAMY_0526	Pfam	PF01311	Bacterial export proteins, family 1
+hrcT	665029.EAMY_0526	InterPro	IPR002010	Type III secretion system inner membrane R protein
+hrcT	665029.EAMY_0526	InterPro	IPR006304	Type III secretion protein SpaR/YscT
+hrcU	665029.EAMY_0525	GO Process	GO:0006810	Transport
+hrcU	665029.EAMY_0525	GO Process	GO:0006996	Organelle organization
+hrcU	665029.EAMY_0525	GO Process	GO:0008104	Protein localization
+hrcU	665029.EAMY_0525	GO Process	GO:0009306	Protein secretion
+hrcU	665029.EAMY_0525	GO Process	GO:0009987	Cellular process
+hrcU	665029.EAMY_0525	GO Process	GO:0015031	Protein transport
+hrcU	665029.EAMY_0525	GO Process	GO:0016043	Cellular component organization
+hrcU	665029.EAMY_0525	GO Process	GO:0030030	Cell projection organization
+hrcU	665029.EAMY_0525	GO Process	GO:0032940	Secretion by cell
+hrcU	665029.EAMY_0525	GO Process	GO:0033036	Macromolecule localization
+hrcU	665029.EAMY_0525	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcU	665029.EAMY_0525	GO Process	GO:0044781	Bacterial-type flagellum organization
+hrcU	665029.EAMY_0525	GO Process	GO:0045184	Establishment of protein localization
+hrcU	665029.EAMY_0525	GO Process	GO:0046903	Secretion
+hrcU	665029.EAMY_0525	GO Process	GO:0051179	Localization
+hrcU	665029.EAMY_0525	GO Process	GO:0051234	Establishment of localization
+hrcU	665029.EAMY_0525	GO Process	GO:0051641	Cellular localization
+hrcU	665029.EAMY_0525	GO Process	GO:0070727	Cellular macromolecule localization
+hrcU	665029.EAMY_0525	GO Process	GO:0071692	Protein localization to extracellular region
+hrcU	665029.EAMY_0525	GO Process	GO:0071702	Organic substance transport
+hrcU	665029.EAMY_0525	GO Process	GO:0071705	Nitrogen compound transport
+hrcU	665029.EAMY_0525	GO Process	GO:0071840	Cellular component organization or biogenesis
+hrcU	665029.EAMY_0525	GO Process	GO:0140352	Export from cell
+hrcU	665029.EAMY_0525	GO Component	GO:0005886	Plasma membrane
+hrcU	665029.EAMY_0525	GO Component	GO:0016020	Membrane
+hrcU	665029.EAMY_0525	GO Component	GO:0016021	Integral component of membrane
+hrcU	665029.EAMY_0525	GO Component	GO:0031224	Intrinsic component of membrane
+hrcU	665029.EAMY_0525	GO Component	GO:0071944	Cell periphery
+hrcU	665029.EAMY_0525	GO Component	GO:0110165	Cellular anatomical entity
+hrcU	665029.EAMY_0525	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrcU	665029.EAMY_0525	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcU	665029.EAMY_0525	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcU	665029.EAMY_0525	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrcU	665029.EAMY_0525	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrcU	665029.EAMY_0525	STRING clusters	CL:4777	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+hrcU	665029.EAMY_0525	KEGG	eam03070	Bacterial secretion system
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0005886	Plasma membrane
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0016020	Membrane
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0042995	Cell projection
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0043226	Organelle
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0071944	Cell periphery
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hrcU	665029.EAMY_0525	COMPARTMENTS	GOCC:0120102	Bacterial-type flagellum secretion apparatus
+hrcU	665029.EAMY_0525	UniProt Keywords	KW-0175	Coiled coil
+hrcU	665029.EAMY_0525	UniProt Keywords	KW-0472	Membrane
+hrcU	665029.EAMY_0525	UniProt Keywords	KW-0812	Transmembrane
+hrcU	665029.EAMY_0525	UniProt Keywords	KW-1133	Transmembrane helix
+hrcU	665029.EAMY_0525	Pfam	PF01312	FlhB HrpN YscU SpaS Family
+hrcU	665029.EAMY_0525	InterPro	IPR006135	Type III secretion system substrate exporter
+hrcU	665029.EAMY_0525	InterPro	IPR006307	Type III exporter system, secretion apparatus protein BsaZ
+hrcU	665029.EAMY_0525	InterPro	IPR029025	Type III secretion system substrate exporter, C-terminal
+hrcV	665029.EAMY_0534	GO Process	GO:0006810	Transport
+hrcV	665029.EAMY_0534	GO Process	GO:0008104	Protein localization
+hrcV	665029.EAMY_0534	GO Process	GO:0009306	Protein secretion
+hrcV	665029.EAMY_0534	GO Process	GO:0009987	Cellular process
+hrcV	665029.EAMY_0534	GO Process	GO:0015031	Protein transport
+hrcV	665029.EAMY_0534	GO Process	GO:0032940	Secretion by cell
+hrcV	665029.EAMY_0534	GO Process	GO:0033036	Macromolecule localization
+hrcV	665029.EAMY_0534	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrcV	665029.EAMY_0534	GO Process	GO:0045184	Establishment of protein localization
+hrcV	665029.EAMY_0534	GO Process	GO:0046903	Secretion
+hrcV	665029.EAMY_0534	GO Process	GO:0051179	Localization
+hrcV	665029.EAMY_0534	GO Process	GO:0051234	Establishment of localization
+hrcV	665029.EAMY_0534	GO Process	GO:0051641	Cellular localization
+hrcV	665029.EAMY_0534	GO Process	GO:0070727	Cellular macromolecule localization
+hrcV	665029.EAMY_0534	GO Process	GO:0071692	Protein localization to extracellular region
+hrcV	665029.EAMY_0534	GO Process	GO:0071702	Organic substance transport
+hrcV	665029.EAMY_0534	GO Process	GO:0071705	Nitrogen compound transport
+hrcV	665029.EAMY_0534	GO Process	GO:0140352	Export from cell
+hrcV	665029.EAMY_0534	GO Function	GO:0000166	Nucleotide binding
+hrcV	665029.EAMY_0534	GO Function	GO:0005488	Binding
+hrcV	665029.EAMY_0534	GO Function	GO:0005524	ATP binding
+hrcV	665029.EAMY_0534	GO Function	GO:0017076	Purine nucleotide binding
+hrcV	665029.EAMY_0534	GO Function	GO:0030554	Adenyl nucleotide binding
+hrcV	665029.EAMY_0534	GO Function	GO:0032553	Ribonucleotide binding
+hrcV	665029.EAMY_0534	GO Function	GO:0032555	Purine ribonucleotide binding
+hrcV	665029.EAMY_0534	GO Function	GO:0032559	Adenyl ribonucleotide binding
+hrcV	665029.EAMY_0534	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+hrcV	665029.EAMY_0534	GO Function	GO:0036094	Small molecule binding
+hrcV	665029.EAMY_0534	GO Function	GO:0043167	Ion binding
+hrcV	665029.EAMY_0534	GO Function	GO:0043168	Anion binding
+hrcV	665029.EAMY_0534	GO Function	GO:0097159	Organic cyclic compound binding
+hrcV	665029.EAMY_0534	GO Function	GO:0097367	Carbohydrate derivative binding
+hrcV	665029.EAMY_0534	GO Function	GO:1901265	Nucleoside phosphate binding
+hrcV	665029.EAMY_0534	GO Function	GO:1901363	Heterocyclic compound binding
+hrcV	665029.EAMY_0534	GO Component	GO:0005886	Plasma membrane
+hrcV	665029.EAMY_0534	GO Component	GO:0016020	Membrane
+hrcV	665029.EAMY_0534	GO Component	GO:0016021	Integral component of membrane
+hrcV	665029.EAMY_0534	GO Component	GO:0031224	Intrinsic component of membrane
+hrcV	665029.EAMY_0534	GO Component	GO:0071944	Cell periphery
+hrcV	665029.EAMY_0534	GO Component	GO:0110165	Cellular anatomical entity
+hrcV	665029.EAMY_0534	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrcV	665029.EAMY_0534	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcV	665029.EAMY_0534	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrcV	665029.EAMY_0534	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrcV	665029.EAMY_0534	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrcV	665029.EAMY_0534	STRING clusters	CL:4777	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+hrcV	665029.EAMY_0534	KEGG	eam03070	Bacterial secretion system
+hrcV	665029.EAMY_0534	UniProt Keywords	KW-0472	Membrane
+hrcV	665029.EAMY_0534	UniProt Keywords	KW-0812	Transmembrane
+hrcV	665029.EAMY_0534	UniProt Keywords	KW-1133	Transmembrane helix
+hrcV	665029.EAMY_0534	Pfam	PF00771	FHIPEP family
+hrcV	665029.EAMY_0534	InterPro	IPR001712	Type III secretion system FHIPEP
+hrcV	665029.EAMY_0534	InterPro	IPR006302	Type III secretion protein HrcV
+hrcV	665029.EAMY_0534	InterPro	IPR025505	FHIPEP conserved site
+hrcV	665029.EAMY_0534	InterPro	IPR042193	FHIPEP, domain 3
+hrcV	665029.EAMY_0534	InterPro	IPR042194	FHIPEP, domain 1
+hrcV	665029.EAMY_0534	InterPro	IPR042196	FHIPEP, domain 4
+hrpB1	665029.EAMY_0543	GO Process	GO:0006810	Transport
+hrpB1	665029.EAMY_0543	GO Process	GO:0008104	Protein localization
+hrpB1	665029.EAMY_0543	GO Process	GO:0009306	Protein secretion
+hrpB1	665029.EAMY_0543	GO Process	GO:0009987	Cellular process
+hrpB1	665029.EAMY_0543	GO Process	GO:0015031	Protein transport
+hrpB1	665029.EAMY_0543	GO Process	GO:0030254	Protein secretion by the type III secretion system
+hrpB1	665029.EAMY_0543	GO Process	GO:0032940	Secretion by cell
+hrpB1	665029.EAMY_0543	GO Process	GO:0033036	Macromolecule localization
+hrpB1	665029.EAMY_0543	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrpB1	665029.EAMY_0543	GO Process	GO:0045184	Establishment of protein localization
+hrpB1	665029.EAMY_0543	GO Process	GO:0046903	Secretion
+hrpB1	665029.EAMY_0543	GO Process	GO:0051179	Localization
+hrpB1	665029.EAMY_0543	GO Process	GO:0051234	Establishment of localization
+hrpB1	665029.EAMY_0543	GO Process	GO:0051641	Cellular localization
+hrpB1	665029.EAMY_0543	GO Process	GO:0055085	Transmembrane transport
+hrpB1	665029.EAMY_0543	GO Process	GO:0070727	Cellular macromolecule localization
+hrpB1	665029.EAMY_0543	GO Process	GO:0071692	Protein localization to extracellular region
+hrpB1	665029.EAMY_0543	GO Process	GO:0071702	Organic substance transport
+hrpB1	665029.EAMY_0543	GO Process	GO:0071705	Nitrogen compound transport
+hrpB1	665029.EAMY_0543	GO Process	GO:0071806	Protein transmembrane transport
+hrpB1	665029.EAMY_0543	GO Process	GO:0140352	Export from cell
+hrpB1	665029.EAMY_0543	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrpB1	665029.EAMY_0543	STRING clusters	CL:4818	Mixed, incl. Protein secretion by the type III secretion system, and Pectate lyase activity
+hrpB1	665029.EAMY_0543	Pfam	PF17001	Type III secretion basal body protein I, YscI, HrpB, PscI
+hrpB1	665029.EAMY_0543	InterPro	IPR012670	Type III secretion system, YscI/HrpB
+hrpE	665029.EAMY_0546	GO Process	GO:0006810	Transport
+hrpE	665029.EAMY_0546	GO Process	GO:0008104	Protein localization
+hrpE	665029.EAMY_0546	GO Process	GO:0009306	Protein secretion
+hrpE	665029.EAMY_0546	GO Process	GO:0009987	Cellular process
+hrpE	665029.EAMY_0546	GO Process	GO:0015031	Protein transport
+hrpE	665029.EAMY_0546	GO Process	GO:0030254	Protein secretion by the type III secretion system
+hrpE	665029.EAMY_0546	GO Process	GO:0032940	Secretion by cell
+hrpE	665029.EAMY_0546	GO Process	GO:0033036	Macromolecule localization
+hrpE	665029.EAMY_0546	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrpE	665029.EAMY_0546	GO Process	GO:0045184	Establishment of protein localization
+hrpE	665029.EAMY_0546	GO Process	GO:0046903	Secretion
+hrpE	665029.EAMY_0546	GO Process	GO:0051179	Localization
+hrpE	665029.EAMY_0546	GO Process	GO:0051234	Establishment of localization
+hrpE	665029.EAMY_0546	GO Process	GO:0051641	Cellular localization
+hrpE	665029.EAMY_0546	GO Process	GO:0055085	Transmembrane transport
+hrpE	665029.EAMY_0546	GO Process	GO:0070727	Cellular macromolecule localization
+hrpE	665029.EAMY_0546	GO Process	GO:0071692	Protein localization to extracellular region
+hrpE	665029.EAMY_0546	GO Process	GO:0071702	Organic substance transport
+hrpE	665029.EAMY_0546	GO Process	GO:0071705	Nitrogen compound transport
+hrpE	665029.EAMY_0546	GO Process	GO:0071806	Protein transmembrane transport
+hrpE	665029.EAMY_0546	GO Process	GO:0140352	Export from cell
+hrpE	665029.EAMY_0546	GO Function	GO:0003774	Cytoskeletal motor activity
+hrpE	665029.EAMY_0546	GO Component	GO:0005622	Intracellular anatomical structure
+hrpE	665029.EAMY_0546	GO Component	GO:0005737	Cytoplasm
+hrpE	665029.EAMY_0546	GO Component	GO:0110165	Cellular anatomical entity
+hrpE	665029.EAMY_0546	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrpE	665029.EAMY_0546	STRING clusters	CL:4818	Mixed, incl. Protein secretion by the type III secretion system, and Pectate lyase activity
+hrpE	665029.EAMY_0546	KEGG	eam03070	Bacterial secretion system
+hrpE	665029.EAMY_0546	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+hrpE	665029.EAMY_0546	COMPARTMENTS	GOCC:0042995	Cell projection
+hrpE	665029.EAMY_0546	COMPARTMENTS	GOCC:0043226	Organelle
+hrpE	665029.EAMY_0546	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+hrpE	665029.EAMY_0546	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hrpE	665029.EAMY_0546	UniProt Keywords	KW-0175	Coiled coil
+hrpE	665029.EAMY_0546	Pfam	PF06188	HrpE/YscL/FliH and V-type ATPase subunit E
+hrpE	665029.EAMY_0546	InterPro	IPR009335	Type III secretion system HrpE /V-type ATP synthase subunit E
+hrpE	665029.EAMY_0546	InterPro	IPR012842	Type 3 secretion system stator protein SctL/SctL2
+hrpJ	665029.EAMY_0535	GO Process	GO:0006810	Transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0008104	Protein localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0009306	Protein secretion
+hrpJ	665029.EAMY_0535	GO Process	GO:0009987	Cellular process
+hrpJ	665029.EAMY_0535	GO Process	GO:0015031	Protein transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0030254	Protein secretion by the type III secretion system
+hrpJ	665029.EAMY_0535	GO Process	GO:0032879	Regulation of localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0032880	Regulation of protein localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0032940	Secretion by cell
+hrpJ	665029.EAMY_0535	GO Process	GO:0033036	Macromolecule localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+hrpJ	665029.EAMY_0535	GO Process	GO:0045184	Establishment of protein localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0046903	Secretion
+hrpJ	665029.EAMY_0535	GO Process	GO:0048519	Negative regulation of biological process
+hrpJ	665029.EAMY_0535	GO Process	GO:0048523	Negative regulation of cellular process
+hrpJ	665029.EAMY_0535	GO Process	GO:0050708	Regulation of protein secretion
+hrpJ	665029.EAMY_0535	GO Process	GO:0050709	Negative regulation of protein secretion
+hrpJ	665029.EAMY_0535	GO Process	GO:0050789	Regulation of biological process
+hrpJ	665029.EAMY_0535	GO Process	GO:0050794	Regulation of cellular process
+hrpJ	665029.EAMY_0535	GO Process	GO:0051046	Regulation of secretion
+hrpJ	665029.EAMY_0535	GO Process	GO:0051048	Negative regulation of secretion
+hrpJ	665029.EAMY_0535	GO Process	GO:0051049	Regulation of transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0051051	Negative regulation of transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0051179	Localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0051223	Regulation of protein transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0051224	Negative regulation of protein transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0051234	Establishment of localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0051641	Cellular localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0055085	Transmembrane transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0060341	Regulation of cellular localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0065007	Biological regulation
+hrpJ	665029.EAMY_0535	GO Process	GO:0070201	Regulation of establishment of protein localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0070727	Cellular macromolecule localization
+hrpJ	665029.EAMY_0535	GO Process	GO:0071692	Protein localization to extracellular region
+hrpJ	665029.EAMY_0535	GO Process	GO:0071702	Organic substance transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0071705	Nitrogen compound transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0071806	Protein transmembrane transport
+hrpJ	665029.EAMY_0535	GO Process	GO:0140352	Export from cell
+hrpJ	665029.EAMY_0535	GO Process	GO:1903530	Regulation of secretion by cell
+hrpJ	665029.EAMY_0535	GO Process	GO:1903531	Negative regulation of secretion by cell
+hrpJ	665029.EAMY_0535	GO Process	GO:1903828	Negative regulation of protein localization
+hrpJ	665029.EAMY_0535	GO Process	GO:1904950	Negative regulation of establishment of protein localization
+hrpJ	665029.EAMY_0535	GO Component	GO:0009986	Cell surface
+hrpJ	665029.EAMY_0535	GO Component	GO:0016020	Membrane
+hrpJ	665029.EAMY_0535	GO Component	GO:0019867	Outer membrane
+hrpJ	665029.EAMY_0535	GO Component	GO:0110165	Cellular anatomical entity
+hrpJ	665029.EAMY_0535	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrpJ	665029.EAMY_0535	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrpJ	665029.EAMY_0535	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrpJ	665029.EAMY_0535	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrpJ	665029.EAMY_0535	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrpJ	665029.EAMY_0535	KEGG	eam03070	Bacterial secretion system
+hrpJ	665029.EAMY_0535	COMPARTMENTS	GOCC:0009986	Cell surface
+hrpJ	665029.EAMY_0535	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hrpJ	665029.EAMY_0535	Pfam	PF07201	HrpJ-like domain
+hrpJ	665029.EAMY_0535	InterPro	IPR010812	Hypersensitivity response secretion-like, HrpJ
+hrpJ	665029.EAMY_0535	InterPro	IPR013351	Type III secretion system effector delivery regulator TyeA-related
+hrpJ	665029.EAMY_0535	InterPro	IPR013401	Type III secretion regulator, YopN/LcrE/InvE/MxiC
+hrpO	665029.EAMY_0531	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrpO	665029.EAMY_0531	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrpO	665029.EAMY_0531	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrpO	665029.EAMY_0531	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrpO	665029.EAMY_0531	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrpO	665029.EAMY_0531	UniProt Keywords	KW-0175	Coiled coil
+hrpP	665029.EAMY_0530	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrpP	665029.EAMY_0530	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrpP	665029.EAMY_0530	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrpP	665029.EAMY_0530	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrpP	665029.EAMY_0530	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrpQ	665029.EAMY_0533	GO Function	GO:0005488	Binding
+hrpQ	665029.EAMY_0533	GO Component	GO:0110165	Cellular anatomical entity
+hrpQ	665029.EAMY_0533	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+hrpQ	665029.EAMY_0533	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrpQ	665029.EAMY_0533	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+hrpQ	665029.EAMY_0533	STRING clusters	CL:4772	Mixed, incl. Bacterial secretion system, and Histidine kinase
+hrpQ	665029.EAMY_0533	STRING clusters	CL:4774	Bacterial secretion system, and SMAD/FHA domain superfamily
+hrpQ	665029.EAMY_0533	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+hrpQ	665029.EAMY_0533	Pfam	PF16697	Inner membrane component of T3SS, cytoplasmic domain
+hrpQ	665029.EAMY_0533	InterPro	IPR000253	Forkhead-associated (FHA) domain
+hrpQ	665029.EAMY_0533	InterPro	IPR008984	SMAD/FHA domain superfamily
+hrpQ	665029.EAMY_0533	InterPro	IPR012843	Type III secretion system YscD/HrpQ
+hrpQ	665029.EAMY_0533	InterPro	IPR032030	YscD, cytoplasmic domain
+invA1	665029.EAMY_0779	GO Process	GO:0006810	Transport
+invA1	665029.EAMY_0779	GO Process	GO:0008104	Protein localization
+invA1	665029.EAMY_0779	GO Process	GO:0009306	Protein secretion
+invA1	665029.EAMY_0779	GO Process	GO:0009987	Cellular process
+invA1	665029.EAMY_0779	GO Process	GO:0015031	Protein transport
+invA1	665029.EAMY_0779	GO Process	GO:0032940	Secretion by cell
+invA1	665029.EAMY_0779	GO Process	GO:0033036	Macromolecule localization
+invA1	665029.EAMY_0779	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+invA1	665029.EAMY_0779	GO Process	GO:0045184	Establishment of protein localization
+invA1	665029.EAMY_0779	GO Process	GO:0046903	Secretion
+invA1	665029.EAMY_0779	GO Process	GO:0051179	Localization
+invA1	665029.EAMY_0779	GO Process	GO:0051234	Establishment of localization
+invA1	665029.EAMY_0779	GO Process	GO:0051641	Cellular localization
+invA1	665029.EAMY_0779	GO Process	GO:0070727	Cellular macromolecule localization
+invA1	665029.EAMY_0779	GO Process	GO:0071692	Protein localization to extracellular region
+invA1	665029.EAMY_0779	GO Process	GO:0071702	Organic substance transport
+invA1	665029.EAMY_0779	GO Process	GO:0071705	Nitrogen compound transport
+invA1	665029.EAMY_0779	GO Process	GO:0140352	Export from cell
+invA1	665029.EAMY_0779	GO Function	GO:0000166	Nucleotide binding
+invA1	665029.EAMY_0779	GO Function	GO:0005488	Binding
+invA1	665029.EAMY_0779	GO Function	GO:0005524	ATP binding
+invA1	665029.EAMY_0779	GO Function	GO:0017076	Purine nucleotide binding
+invA1	665029.EAMY_0779	GO Function	GO:0030554	Adenyl nucleotide binding
+invA1	665029.EAMY_0779	GO Function	GO:0032553	Ribonucleotide binding
+invA1	665029.EAMY_0779	GO Function	GO:0032555	Purine ribonucleotide binding
+invA1	665029.EAMY_0779	GO Function	GO:0032559	Adenyl ribonucleotide binding
+invA1	665029.EAMY_0779	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+invA1	665029.EAMY_0779	GO Function	GO:0036094	Small molecule binding
+invA1	665029.EAMY_0779	GO Function	GO:0043167	Ion binding
+invA1	665029.EAMY_0779	GO Function	GO:0043168	Anion binding
+invA1	665029.EAMY_0779	GO Function	GO:0097159	Organic cyclic compound binding
+invA1	665029.EAMY_0779	GO Function	GO:0097367	Carbohydrate derivative binding
+invA1	665029.EAMY_0779	GO Function	GO:1901265	Nucleoside phosphate binding
+invA1	665029.EAMY_0779	GO Function	GO:1901363	Heterocyclic compound binding
+invA1	665029.EAMY_0779	GO Component	GO:0005886	Plasma membrane
+invA1	665029.EAMY_0779	GO Component	GO:0016020	Membrane
+invA1	665029.EAMY_0779	GO Component	GO:0016021	Integral component of membrane
+invA1	665029.EAMY_0779	GO Component	GO:0031224	Intrinsic component of membrane
+invA1	665029.EAMY_0779	GO Component	GO:0071944	Cell periphery
+invA1	665029.EAMY_0779	GO Component	GO:0110165	Cellular anatomical entity
+invA1	665029.EAMY_0779	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+invA1	665029.EAMY_0779	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+invA1	665029.EAMY_0779	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+invA1	665029.EAMY_0779	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+invA1	665029.EAMY_0779	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+invA1	665029.EAMY_0779	STRING clusters	CL:4696	Secretion, and Type III secretion protein SpaR/YscT
+invA1	665029.EAMY_0779	STRING clusters	CL:4697	Secretion
+invA1	665029.EAMY_0779	STRING clusters	CL:4699	Mixed, incl. Tetratricopeptide TPR-3, and Type III secretion protein HrcV
+invA1	665029.EAMY_0779	STRING clusters	CL:4716	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+invA1	665029.EAMY_0779	KEGG	eam03070	Bacterial secretion system
+invA1	665029.EAMY_0779	UniProt Keywords	KW-0175	Coiled coil
+invA1	665029.EAMY_0779	UniProt Keywords	KW-0472	Membrane
+invA1	665029.EAMY_0779	UniProt Keywords	KW-0812	Transmembrane
+invA1	665029.EAMY_0779	UniProt Keywords	KW-1133	Transmembrane helix
+invA1	665029.EAMY_0779	Pfam	PF00771	FHIPEP family
+invA1	665029.EAMY_0779	InterPro	IPR001712	Type III secretion system FHIPEP
+invA1	665029.EAMY_0779	InterPro	IPR006302	Type III secretion protein HrcV
+invA1	665029.EAMY_0779	InterPro	IPR025505	FHIPEP conserved site
+invA1	665029.EAMY_0779	InterPro	IPR042193	FHIPEP, domain 3
+invA1	665029.EAMY_0779	InterPro	IPR042194	FHIPEP, domain 1
+invA1	665029.EAMY_0779	InterPro	IPR042196	FHIPEP, domain 4
+invA3	665029.EAMY_1580	GO Process	GO:0006810	Transport
+invA3	665029.EAMY_1580	GO Process	GO:0008104	Protein localization
+invA3	665029.EAMY_1580	GO Process	GO:0009306	Protein secretion
+invA3	665029.EAMY_1580	GO Process	GO:0009987	Cellular process
+invA3	665029.EAMY_1580	GO Process	GO:0015031	Protein transport
+invA3	665029.EAMY_1580	GO Process	GO:0032940	Secretion by cell
+invA3	665029.EAMY_1580	GO Process	GO:0033036	Macromolecule localization
+invA3	665029.EAMY_1580	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+invA3	665029.EAMY_1580	GO Process	GO:0045184	Establishment of protein localization
+invA3	665029.EAMY_1580	GO Process	GO:0046903	Secretion
+invA3	665029.EAMY_1580	GO Process	GO:0051179	Localization
+invA3	665029.EAMY_1580	GO Process	GO:0051234	Establishment of localization
+invA3	665029.EAMY_1580	GO Process	GO:0051641	Cellular localization
+invA3	665029.EAMY_1580	GO Process	GO:0070727	Cellular macromolecule localization
+invA3	665029.EAMY_1580	GO Process	GO:0071692	Protein localization to extracellular region
+invA3	665029.EAMY_1580	GO Process	GO:0071702	Organic substance transport
+invA3	665029.EAMY_1580	GO Process	GO:0071705	Nitrogen compound transport
+invA3	665029.EAMY_1580	GO Process	GO:0140352	Export from cell
+invA3	665029.EAMY_1580	GO Function	GO:0000166	Nucleotide binding
+invA3	665029.EAMY_1580	GO Function	GO:0005488	Binding
+invA3	665029.EAMY_1580	GO Function	GO:0005524	ATP binding
+invA3	665029.EAMY_1580	GO Function	GO:0017076	Purine nucleotide binding
+invA3	665029.EAMY_1580	GO Function	GO:0030554	Adenyl nucleotide binding
+invA3	665029.EAMY_1580	GO Function	GO:0032553	Ribonucleotide binding
+invA3	665029.EAMY_1580	GO Function	GO:0032555	Purine ribonucleotide binding
+invA3	665029.EAMY_1580	GO Function	GO:0032559	Adenyl ribonucleotide binding
+invA3	665029.EAMY_1580	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+invA3	665029.EAMY_1580	GO Function	GO:0036094	Small molecule binding
+invA3	665029.EAMY_1580	GO Function	GO:0043167	Ion binding
+invA3	665029.EAMY_1580	GO Function	GO:0043168	Anion binding
+invA3	665029.EAMY_1580	GO Function	GO:0097159	Organic cyclic compound binding
+invA3	665029.EAMY_1580	GO Function	GO:0097367	Carbohydrate derivative binding
+invA3	665029.EAMY_1580	GO Function	GO:1901265	Nucleoside phosphate binding
+invA3	665029.EAMY_1580	GO Function	GO:1901363	Heterocyclic compound binding
+invA3	665029.EAMY_1580	GO Component	GO:0005886	Plasma membrane
+invA3	665029.EAMY_1580	GO Component	GO:0016020	Membrane
+invA3	665029.EAMY_1580	GO Component	GO:0016021	Integral component of membrane
+invA3	665029.EAMY_1580	GO Component	GO:0031224	Intrinsic component of membrane
+invA3	665029.EAMY_1580	GO Component	GO:0071944	Cell periphery
+invA3	665029.EAMY_1580	GO Component	GO:0110165	Cellular anatomical entity
+invA3	665029.EAMY_1580	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+invA3	665029.EAMY_1580	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+invA3	665029.EAMY_1580	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+invA3	665029.EAMY_1580	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+invA3	665029.EAMY_1580	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+invA3	665029.EAMY_1580	STRING clusters	CL:4696	Secretion, and Type III secretion protein SpaR/YscT
+invA3	665029.EAMY_1580	STRING clusters	CL:4697	Secretion
+invA3	665029.EAMY_1580	STRING clusters	CL:4699	Mixed, incl. Tetratricopeptide TPR-3, and Type III secretion protein HrcV
+invA3	665029.EAMY_1580	STRING clusters	CL:4701	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+invA3	665029.EAMY_1580	KEGG	eam03070	Bacterial secretion system
+invA3	665029.EAMY_1580	UniProt Keywords	KW-0175	Coiled coil
+invA3	665029.EAMY_1580	UniProt Keywords	KW-0472	Membrane
+invA3	665029.EAMY_1580	UniProt Keywords	KW-0812	Transmembrane
+invA3	665029.EAMY_1580	UniProt Keywords	KW-1133	Transmembrane helix
+invA3	665029.EAMY_1580	Pfam	PF00771	FHIPEP family
+invA3	665029.EAMY_1580	InterPro	IPR001712	Type III secretion system FHIPEP
+invA3	665029.EAMY_1580	InterPro	IPR006302	Type III secretion protein HrcV
+invA3	665029.EAMY_1580	InterPro	IPR025505	FHIPEP conserved site
+invA3	665029.EAMY_1580	InterPro	IPR042193	FHIPEP, domain 3
+invA3	665029.EAMY_1580	InterPro	IPR042194	FHIPEP, domain 1
+invA3	665029.EAMY_1580	InterPro	IPR042196	FHIPEP, domain 4
+invG1	665029.EAMY_0777	GO Process	GO:0006810	Transport
+invG1	665029.EAMY_0777	GO Process	GO:0008104	Protein localization
+invG1	665029.EAMY_0777	GO Process	GO:0009306	Protein secretion
+invG1	665029.EAMY_0777	GO Process	GO:0009987	Cellular process
+invG1	665029.EAMY_0777	GO Process	GO:0015031	Protein transport
+invG1	665029.EAMY_0777	GO Process	GO:0032940	Secretion by cell
+invG1	665029.EAMY_0777	GO Process	GO:0033036	Macromolecule localization
+invG1	665029.EAMY_0777	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+invG1	665029.EAMY_0777	GO Process	GO:0045184	Establishment of protein localization
+invG1	665029.EAMY_0777	GO Process	GO:0046903	Secretion
+invG1	665029.EAMY_0777	GO Process	GO:0051179	Localization
+invG1	665029.EAMY_0777	GO Process	GO:0051234	Establishment of localization
+invG1	665029.EAMY_0777	GO Process	GO:0051641	Cellular localization
+invG1	665029.EAMY_0777	GO Process	GO:0055085	Transmembrane transport
+invG1	665029.EAMY_0777	GO Process	GO:0070727	Cellular macromolecule localization
+invG1	665029.EAMY_0777	GO Process	GO:0071692	Protein localization to extracellular region
+invG1	665029.EAMY_0777	GO Process	GO:0071702	Organic substance transport
+invG1	665029.EAMY_0777	GO Process	GO:0071705	Nitrogen compound transport
+invG1	665029.EAMY_0777	GO Process	GO:0071806	Protein transmembrane transport
+invG1	665029.EAMY_0777	GO Process	GO:0140352	Export from cell
+invG1	665029.EAMY_0777	GO Function	GO:0005488	Binding
+invG1	665029.EAMY_0777	GO Function	GO:0005515	Protein binding
+invG1	665029.EAMY_0777	GO Function	GO:0042802	Identical protein binding
+invG1	665029.EAMY_0777	GO Component	GO:0009279	Cell outer membrane
+invG1	665029.EAMY_0777	GO Component	GO:0016020	Membrane
+invG1	665029.EAMY_0777	GO Component	GO:0019867	Outer membrane
+invG1	665029.EAMY_0777	GO Component	GO:0030312	External encapsulating structure
+invG1	665029.EAMY_0777	GO Component	GO:0030313	Cell envelope
+invG1	665029.EAMY_0777	GO Component	GO:0031975	Envelope
+invG1	665029.EAMY_0777	GO Component	GO:0032991	Protein-containing complex
+invG1	665029.EAMY_0777	GO Component	GO:0071944	Cell periphery
+invG1	665029.EAMY_0777	GO Component	GO:0110165	Cellular anatomical entity
+invG1	665029.EAMY_0777	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+invG1	665029.EAMY_0777	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+invG1	665029.EAMY_0777	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+invG1	665029.EAMY_0777	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+invG1	665029.EAMY_0777	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+invG1	665029.EAMY_0777	STRING clusters	CL:4696	Secretion, and Type III secretion protein SpaR/YscT
+invG1	665029.EAMY_0777	STRING clusters	CL:4736	Mixed, incl. Invasion protein B family, and Salmonella/Shigella invasion protein E
+invG1	665029.EAMY_0777	KEGG	eam03070	Bacterial secretion system
+invG1	665029.EAMY_0777	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+invG1	665029.EAMY_0777	UniProt Keywords	KW-0732	Signal
+invG1	665029.EAMY_0777	UniProt Keywords	KW-0813	Transport
+invG1	665029.EAMY_0777	Pfam	PF00263	Bacterial type II and III secretion system protein
+invG1	665029.EAMY_0777	Pfam	PF03958	Bacterial type II/III secretion system short domain
+invG1	665029.EAMY_0777	InterPro	IPR003522	Type III secretion system outer membrane pore YscC/HrcC
+invG1	665029.EAMY_0777	InterPro	IPR004846	Type II/III secretion system
+invG1	665029.EAMY_0777	InterPro	IPR005644	NolW-like
+invG1	665029.EAMY_0777	InterPro	IPR038591	NolW-like superfamily
+outC	665029.EAMY_2865	GO Process	GO:0006810	Transport
+outC	665029.EAMY_2865	GO Process	GO:0008104	Protein localization
+outC	665029.EAMY_2865	GO Process	GO:0009306	Protein secretion
+outC	665029.EAMY_2865	GO Process	GO:0009987	Cellular process
+outC	665029.EAMY_2865	GO Process	GO:0015031	Protein transport
+outC	665029.EAMY_2865	GO Process	GO:0015628	Protein secretion by the type II secretion system
+outC	665029.EAMY_2865	GO Process	GO:0032940	Secretion by cell
+outC	665029.EAMY_2865	GO Process	GO:0033036	Macromolecule localization
+outC	665029.EAMY_2865	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+outC	665029.EAMY_2865	GO Process	GO:0045184	Establishment of protein localization
+outC	665029.EAMY_2865	GO Process	GO:0046903	Secretion
+outC	665029.EAMY_2865	GO Process	GO:0051179	Localization
+outC	665029.EAMY_2865	GO Process	GO:0051234	Establishment of localization
+outC	665029.EAMY_2865	GO Process	GO:0051641	Cellular localization
+outC	665029.EAMY_2865	GO Process	GO:0055085	Transmembrane transport
+outC	665029.EAMY_2865	GO Process	GO:0070727	Cellular macromolecule localization
+outC	665029.EAMY_2865	GO Process	GO:0071692	Protein localization to extracellular region
+outC	665029.EAMY_2865	GO Process	GO:0071702	Organic substance transport
+outC	665029.EAMY_2865	GO Process	GO:0071705	Nitrogen compound transport
+outC	665029.EAMY_2865	GO Process	GO:0071806	Protein transmembrane transport
+outC	665029.EAMY_2865	GO Process	GO:0098776	Protein transport across the cell outer membrane
+outC	665029.EAMY_2865	GO Process	GO:0140352	Export from cell
+outC	665029.EAMY_2865	GO Function	GO:0003824	Catalytic activity
+outC	665029.EAMY_2865	GO Function	GO:0016787	Hydrolase activity
+outC	665029.EAMY_2865	GO Component	GO:0005886	Plasma membrane
+outC	665029.EAMY_2865	GO Component	GO:0015627	Type II protein secretion system complex
+outC	665029.EAMY_2865	GO Component	GO:0016020	Membrane
+outC	665029.EAMY_2865	GO Component	GO:0016021	Integral component of membrane
+outC	665029.EAMY_2865	GO Component	GO:0031224	Intrinsic component of membrane
+outC	665029.EAMY_2865	GO Component	GO:0032991	Protein-containing complex
+outC	665029.EAMY_2865	GO Component	GO:0071944	Cell periphery
+outC	665029.EAMY_2865	GO Component	GO:0110165	Cellular anatomical entity
+outC	665029.EAMY_2865	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outC	665029.EAMY_2865	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outC	665029.EAMY_2865	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outC	665029.EAMY_2865	KEGG	eam03070	Bacterial secretion system
+outC	665029.EAMY_2865	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+outC	665029.EAMY_2865	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+outC	665029.EAMY_2865	UniProt Keywords	KW-0472	Membrane
+outC	665029.EAMY_2865	UniProt Keywords	KW-0812	Transmembrane
+outC	665029.EAMY_2865	UniProt Keywords	KW-1133	Transmembrane helix
+outC	665029.EAMY_2865	Pfam	PF11356	Type II secretion system protein C
+outC	665029.EAMY_2865	InterPro	IPR024961	Type II secretion system protein GspC, N-terminal
+outD	665029.EAMY_2866	GO Process	GO:0006810	Transport
+outD	665029.EAMY_2866	GO Process	GO:0008104	Protein localization
+outD	665029.EAMY_2866	GO Process	GO:0009306	Protein secretion
+outD	665029.EAMY_2866	GO Process	GO:0009987	Cellular process
+outD	665029.EAMY_2866	GO Process	GO:0015031	Protein transport
+outD	665029.EAMY_2866	GO Process	GO:0032940	Secretion by cell
+outD	665029.EAMY_2866	GO Process	GO:0033036	Macromolecule localization
+outD	665029.EAMY_2866	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+outD	665029.EAMY_2866	GO Process	GO:0045184	Establishment of protein localization
+outD	665029.EAMY_2866	GO Process	GO:0046903	Secretion
+outD	665029.EAMY_2866	GO Process	GO:0051179	Localization
+outD	665029.EAMY_2866	GO Process	GO:0051234	Establishment of localization
+outD	665029.EAMY_2866	GO Process	GO:0051641	Cellular localization
+outD	665029.EAMY_2866	GO Process	GO:0055085	Transmembrane transport
+outD	665029.EAMY_2866	GO Process	GO:0070727	Cellular macromolecule localization
+outD	665029.EAMY_2866	GO Process	GO:0071692	Protein localization to extracellular region
+outD	665029.EAMY_2866	GO Process	GO:0071702	Organic substance transport
+outD	665029.EAMY_2866	GO Process	GO:0071705	Nitrogen compound transport
+outD	665029.EAMY_2866	GO Process	GO:0071806	Protein transmembrane transport
+outD	665029.EAMY_2866	GO Process	GO:0140352	Export from cell
+outD	665029.EAMY_2866	GO Function	GO:0005488	Binding
+outD	665029.EAMY_2866	GO Function	GO:0005515	Protein binding
+outD	665029.EAMY_2866	GO Function	GO:0042802	Identical protein binding
+outD	665029.EAMY_2866	GO Component	GO:0009279	Cell outer membrane
+outD	665029.EAMY_2866	GO Component	GO:0016020	Membrane
+outD	665029.EAMY_2866	GO Component	GO:0019867	Outer membrane
+outD	665029.EAMY_2866	GO Component	GO:0030312	External encapsulating structure
+outD	665029.EAMY_2866	GO Component	GO:0030313	Cell envelope
+outD	665029.EAMY_2866	GO Component	GO:0031975	Envelope
+outD	665029.EAMY_2866	GO Component	GO:0032991	Protein-containing complex
+outD	665029.EAMY_2866	GO Component	GO:0071944	Cell periphery
+outD	665029.EAMY_2866	GO Component	GO:0110165	Cellular anatomical entity
+outD	665029.EAMY_2866	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outD	665029.EAMY_2866	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outD	665029.EAMY_2866	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outD	665029.EAMY_2866	STRING clusters	CL:3441	Type II protein secretion system complex, and GspF/PilC family
+outD	665029.EAMY_2866	KEGG	eam03070	Bacterial secretion system
+outD	665029.EAMY_2866	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+outD	665029.EAMY_2866	UniProt Keywords	KW-0732	Signal
+outD	665029.EAMY_2866	UniProt Keywords	KW-0813	Transport
+outD	665029.EAMY_2866	Pfam	PF00263	Bacterial type II and III secretion system protein
+outD	665029.EAMY_2866	Pfam	PF03958	Bacterial type II/III secretion system short domain
+outD	665029.EAMY_2866	InterPro	IPR001775	GspD/PilQ family
+outD	665029.EAMY_2866	InterPro	IPR004845	Type II secretion system protein GspD, conserved site
+outD	665029.EAMY_2866	InterPro	IPR004846	Type II/III secretion system
+outD	665029.EAMY_2866	InterPro	IPR005644	NolW-like
+outD	665029.EAMY_2866	InterPro	IPR013356	Type II secretion system protein GspD
+outD	665029.EAMY_2866	InterPro	IPR038591	NolW-like superfamily
+outE	665029.EAMY_2867	GO Process	GO:0006810	Transport
+outE	665029.EAMY_2867	GO Process	GO:0008104	Protein localization
+outE	665029.EAMY_2867	GO Process	GO:0009306	Protein secretion
+outE	665029.EAMY_2867	GO Process	GO:0009987	Cellular process
+outE	665029.EAMY_2867	GO Process	GO:0015031	Protein transport
+outE	665029.EAMY_2867	GO Process	GO:0015628	Protein secretion by the type II secretion system
+outE	665029.EAMY_2867	GO Process	GO:0032940	Secretion by cell
+outE	665029.EAMY_2867	GO Process	GO:0033036	Macromolecule localization
+outE	665029.EAMY_2867	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+outE	665029.EAMY_2867	GO Process	GO:0045184	Establishment of protein localization
+outE	665029.EAMY_2867	GO Process	GO:0046903	Secretion
+outE	665029.EAMY_2867	GO Process	GO:0051179	Localization
+outE	665029.EAMY_2867	GO Process	GO:0051234	Establishment of localization
+outE	665029.EAMY_2867	GO Process	GO:0051641	Cellular localization
+outE	665029.EAMY_2867	GO Process	GO:0055085	Transmembrane transport
+outE	665029.EAMY_2867	GO Process	GO:0070727	Cellular macromolecule localization
+outE	665029.EAMY_2867	GO Process	GO:0071692	Protein localization to extracellular region
+outE	665029.EAMY_2867	GO Process	GO:0071702	Organic substance transport
+outE	665029.EAMY_2867	GO Process	GO:0071705	Nitrogen compound transport
+outE	665029.EAMY_2867	GO Process	GO:0071806	Protein transmembrane transport
+outE	665029.EAMY_2867	GO Process	GO:0098776	Protein transport across the cell outer membrane
+outE	665029.EAMY_2867	GO Process	GO:0140352	Export from cell
+outE	665029.EAMY_2867	GO Function	GO:0000166	Nucleotide binding
+outE	665029.EAMY_2867	GO Function	GO:0005488	Binding
+outE	665029.EAMY_2867	GO Function	GO:0005524	ATP binding
+outE	665029.EAMY_2867	GO Function	GO:0017076	Purine nucleotide binding
+outE	665029.EAMY_2867	GO Function	GO:0030554	Adenyl nucleotide binding
+outE	665029.EAMY_2867	GO Function	GO:0032553	Ribonucleotide binding
+outE	665029.EAMY_2867	GO Function	GO:0032555	Purine ribonucleotide binding
+outE	665029.EAMY_2867	GO Function	GO:0032559	Adenyl ribonucleotide binding
+outE	665029.EAMY_2867	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+outE	665029.EAMY_2867	GO Function	GO:0036094	Small molecule binding
+outE	665029.EAMY_2867	GO Function	GO:0043167	Ion binding
+outE	665029.EAMY_2867	GO Function	GO:0043168	Anion binding
+outE	665029.EAMY_2867	GO Function	GO:0097159	Organic cyclic compound binding
+outE	665029.EAMY_2867	GO Function	GO:0097367	Carbohydrate derivative binding
+outE	665029.EAMY_2867	GO Function	GO:1901265	Nucleoside phosphate binding
+outE	665029.EAMY_2867	GO Function	GO:1901363	Heterocyclic compound binding
+outE	665029.EAMY_2867	GO Component	GO:0005886	Plasma membrane
+outE	665029.EAMY_2867	GO Component	GO:0015627	Type II protein secretion system complex
+outE	665029.EAMY_2867	GO Component	GO:0016020	Membrane
+outE	665029.EAMY_2867	GO Component	GO:0032991	Protein-containing complex
+outE	665029.EAMY_2867	GO Component	GO:0071944	Cell periphery
+outE	665029.EAMY_2867	GO Component	GO:0110165	Cellular anatomical entity
+outE	665029.EAMY_2867	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outE	665029.EAMY_2867	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outE	665029.EAMY_2867	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outE	665029.EAMY_2867	STRING clusters	CL:3441	Type II protein secretion system complex, and GspF/PilC family
+outE	665029.EAMY_2867	KEGG	eam03070	Bacterial secretion system
+outE	665029.EAMY_2867	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+outE	665029.EAMY_2867	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+outE	665029.EAMY_2867	UniProt Keywords	KW-0067	ATP-binding
+outE	665029.EAMY_2867	UniProt Keywords	KW-0547	Nucleotide-binding
+outE	665029.EAMY_2867	UniProt Keywords	KW-0653	Protein transport
+outE	665029.EAMY_2867	UniProt Keywords	KW-0813	Transport
+outE	665029.EAMY_2867	UniProt Keywords	KW-0963	Cytoplasm
+outE	665029.EAMY_2867	InterPro	IPR001482	Type II/IV secretion system protein
+outE	665029.EAMY_2867	InterPro	IPR003593	AAA+ ATPase domain
+outE	665029.EAMY_2867	InterPro	IPR013369	Type II secretion system protein GspE
+outE	665029.EAMY_2867	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+outE	665029.EAMY_2867	InterPro	IPR037257	Type II secretion system protein GspE, N-terminal superfamily
+outE	665029.EAMY_2867	SMART	SM00382	ATPases associated with a variety of cellular activities
+outF	665029.EAMY_2868	GO Process	GO:0006810	Transport
+outF	665029.EAMY_2868	GO Process	GO:0008104	Protein localization
+outF	665029.EAMY_2868	GO Process	GO:0009306	Protein secretion
+outF	665029.EAMY_2868	GO Process	GO:0009987	Cellular process
+outF	665029.EAMY_2868	GO Process	GO:0015031	Protein transport
+outF	665029.EAMY_2868	GO Process	GO:0032940	Secretion by cell
+outF	665029.EAMY_2868	GO Process	GO:0033036	Macromolecule localization
+outF	665029.EAMY_2868	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+outF	665029.EAMY_2868	GO Process	GO:0045184	Establishment of protein localization
+outF	665029.EAMY_2868	GO Process	GO:0046903	Secretion
+outF	665029.EAMY_2868	GO Process	GO:0051179	Localization
+outF	665029.EAMY_2868	GO Process	GO:0051234	Establishment of localization
+outF	665029.EAMY_2868	GO Process	GO:0051641	Cellular localization
+outF	665029.EAMY_2868	GO Process	GO:0070727	Cellular macromolecule localization
+outF	665029.EAMY_2868	GO Process	GO:0071692	Protein localization to extracellular region
+outF	665029.EAMY_2868	GO Process	GO:0071702	Organic substance transport
+outF	665029.EAMY_2868	GO Process	GO:0071705	Nitrogen compound transport
+outF	665029.EAMY_2868	GO Process	GO:0140352	Export from cell
+outF	665029.EAMY_2868	GO Function	GO:0005488	Binding
+outF	665029.EAMY_2868	GO Function	GO:0043167	Ion binding
+outF	665029.EAMY_2868	GO Function	GO:0043169	Cation binding
+outF	665029.EAMY_2868	GO Function	GO:0046872	Metal ion binding
+outF	665029.EAMY_2868	GO Component	GO:0005886	Plasma membrane
+outF	665029.EAMY_2868	GO Component	GO:0016020	Membrane
+outF	665029.EAMY_2868	GO Component	GO:0016021	Integral component of membrane
+outF	665029.EAMY_2868	GO Component	GO:0031224	Intrinsic component of membrane
+outF	665029.EAMY_2868	GO Component	GO:0071944	Cell periphery
+outF	665029.EAMY_2868	GO Component	GO:0110165	Cellular anatomical entity
+outF	665029.EAMY_2868	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outF	665029.EAMY_2868	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outF	665029.EAMY_2868	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outF	665029.EAMY_2868	STRING clusters	CL:3441	Type II protein secretion system complex, and GspF/PilC family
+outF	665029.EAMY_2868	KEGG	eam03070	Bacterial secretion system
+outF	665029.EAMY_2868	COMPARTMENTS	GOCC:0005886	Plasma membrane
+outF	665029.EAMY_2868	COMPARTMENTS	GOCC:0016020	Membrane
+outF	665029.EAMY_2868	COMPARTMENTS	GOCC:0071944	Cell periphery
+outF	665029.EAMY_2868	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+outF	665029.EAMY_2868	UniProt Keywords	KW-0175	Coiled coil
+outF	665029.EAMY_2868	UniProt Keywords	KW-0472	Membrane
+outF	665029.EAMY_2868	UniProt Keywords	KW-0812	Transmembrane
+outF	665029.EAMY_2868	UniProt Keywords	KW-0813	Transport
+outF	665029.EAMY_2868	UniProt Keywords	KW-1133	Transmembrane helix
+outF	665029.EAMY_2868	Pfam	PF00482	Type II secretion system (T2SS), protein F
+outF	665029.EAMY_2868	InterPro	IPR001992	T2SS_GspF/T4SS_PilC conserved site
+outF	665029.EAMY_2868	InterPro	IPR003004	GspF/PilC family
+outF	665029.EAMY_2868	InterPro	IPR011850	Type II secretion system protein GspF
+outF	665029.EAMY_2868	InterPro	IPR018076	Type II secretion system protein GspF domain
+outF	665029.EAMY_2868	InterPro	IPR042094	Type II secretion system GspF domain superfamily
+outG	665029.EAMY_2869	GO Process	GO:0006810	Transport
+outG	665029.EAMY_2869	GO Process	GO:0008104	Protein localization
+outG	665029.EAMY_2869	GO Process	GO:0009306	Protein secretion
+outG	665029.EAMY_2869	GO Process	GO:0009987	Cellular process
+outG	665029.EAMY_2869	GO Process	GO:0015031	Protein transport
+outG	665029.EAMY_2869	GO Process	GO:0015628	Protein secretion by the type II secretion system
+outG	665029.EAMY_2869	GO Process	GO:0032940	Secretion by cell
+outG	665029.EAMY_2869	GO Process	GO:0033036	Macromolecule localization
+outG	665029.EAMY_2869	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+outG	665029.EAMY_2869	GO Process	GO:0045184	Establishment of protein localization
+outG	665029.EAMY_2869	GO Process	GO:0046903	Secretion
+outG	665029.EAMY_2869	GO Process	GO:0051179	Localization
+outG	665029.EAMY_2869	GO Process	GO:0051234	Establishment of localization
+outG	665029.EAMY_2869	GO Process	GO:0051641	Cellular localization
+outG	665029.EAMY_2869	GO Process	GO:0055085	Transmembrane transport
+outG	665029.EAMY_2869	GO Process	GO:0070727	Cellular macromolecule localization
+outG	665029.EAMY_2869	GO Process	GO:0071692	Protein localization to extracellular region
+outG	665029.EAMY_2869	GO Process	GO:0071702	Organic substance transport
+outG	665029.EAMY_2869	GO Process	GO:0071705	Nitrogen compound transport
+outG	665029.EAMY_2869	GO Process	GO:0071806	Protein transmembrane transport
+outG	665029.EAMY_2869	GO Process	GO:0098776	Protein transport across the cell outer membrane
+outG	665029.EAMY_2869	GO Process	GO:0140352	Export from cell
+outG	665029.EAMY_2869	GO Function	GO:0005488	Binding
+outG	665029.EAMY_2869	GO Component	GO:0005886	Plasma membrane
+outG	665029.EAMY_2869	GO Component	GO:0015627	Type II protein secretion system complex
+outG	665029.EAMY_2869	GO Component	GO:0016020	Membrane
+outG	665029.EAMY_2869	GO Component	GO:0016021	Integral component of membrane
+outG	665029.EAMY_2869	GO Component	GO:0031224	Intrinsic component of membrane
+outG	665029.EAMY_2869	GO Component	GO:0032991	Protein-containing complex
+outG	665029.EAMY_2869	GO Component	GO:0071944	Cell periphery
+outG	665029.EAMY_2869	GO Component	GO:0110165	Cellular anatomical entity
+outG	665029.EAMY_2869	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outG	665029.EAMY_2869	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outG	665029.EAMY_2869	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outG	665029.EAMY_2869	STRING clusters	CL:3441	Type II protein secretion system complex, and GspF/PilC family
+outG	665029.EAMY_2869	KEGG	eam03070	Bacterial secretion system
+outG	665029.EAMY_2869	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+outG	665029.EAMY_2869	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+outG	665029.EAMY_2869	UniProt Keywords	KW-0472	Membrane
+outG	665029.EAMY_2869	UniProt Keywords	KW-0812	Transmembrane
+outG	665029.EAMY_2869	UniProt Keywords	KW-1133	Transmembrane helix
+outG	665029.EAMY_2869	Pfam	PF07963	Prokaryotic N-terminal methylation motif
+outG	665029.EAMY_2869	Pfam	PF08334	Type II secretion system (T2SS), protein G
+outG	665029.EAMY_2869	InterPro	IPR000983	Bacterial general secretion pathway protein G-type pilin
+outG	665029.EAMY_2869	InterPro	IPR010054	Type II secretion system protein GspG
+outG	665029.EAMY_2869	InterPro	IPR012902	Prokaryotic N-terminal methylation site
+outG	665029.EAMY_2869	InterPro	IPR013545	Type II secretion system protein GspG, C-terminal
+outG	665029.EAMY_2869	InterPro	IPR045584	Pilin-like
+outH	665029.EAMY_2870	GO Process	GO:0006810	Transport
+outH	665029.EAMY_2870	GO Process	GO:0008104	Protein localization
+outH	665029.EAMY_2870	GO Process	GO:0009306	Protein secretion
+outH	665029.EAMY_2870	GO Process	GO:0009987	Cellular process
+outH	665029.EAMY_2870	GO Process	GO:0015031	Protein transport
+outH	665029.EAMY_2870	GO Process	GO:0015628	Protein secretion by the type II secretion system
+outH	665029.EAMY_2870	GO Process	GO:0032940	Secretion by cell
+outH	665029.EAMY_2870	GO Process	GO:0033036	Macromolecule localization
+outH	665029.EAMY_2870	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+outH	665029.EAMY_2870	GO Process	GO:0045184	Establishment of protein localization
+outH	665029.EAMY_2870	GO Process	GO:0046903	Secretion
+outH	665029.EAMY_2870	GO Process	GO:0051179	Localization
+outH	665029.EAMY_2870	GO Process	GO:0051234	Establishment of localization
+outH	665029.EAMY_2870	GO Process	GO:0051641	Cellular localization
+outH	665029.EAMY_2870	GO Process	GO:0055085	Transmembrane transport
+outH	665029.EAMY_2870	GO Process	GO:0070727	Cellular macromolecule localization
+outH	665029.EAMY_2870	GO Process	GO:0071692	Protein localization to extracellular region
+outH	665029.EAMY_2870	GO Process	GO:0071702	Organic substance transport
+outH	665029.EAMY_2870	GO Process	GO:0071705	Nitrogen compound transport
+outH	665029.EAMY_2870	GO Process	GO:0071806	Protein transmembrane transport
+outH	665029.EAMY_2870	GO Process	GO:0098776	Protein transport across the cell outer membrane
+outH	665029.EAMY_2870	GO Process	GO:0140352	Export from cell
+outH	665029.EAMY_2870	GO Function	GO:0005488	Binding
+outH	665029.EAMY_2870	GO Component	GO:0005886	Plasma membrane
+outH	665029.EAMY_2870	GO Component	GO:0015627	Type II protein secretion system complex
+outH	665029.EAMY_2870	GO Component	GO:0016020	Membrane
+outH	665029.EAMY_2870	GO Component	GO:0016021	Integral component of membrane
+outH	665029.EAMY_2870	GO Component	GO:0031224	Intrinsic component of membrane
+outH	665029.EAMY_2870	GO Component	GO:0032991	Protein-containing complex
+outH	665029.EAMY_2870	GO Component	GO:0071944	Cell periphery
+outH	665029.EAMY_2870	GO Component	GO:0110165	Cellular anatomical entity
+outH	665029.EAMY_2870	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outH	665029.EAMY_2870	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outH	665029.EAMY_2870	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outH	665029.EAMY_2870	KEGG	eam03070	Bacterial secretion system
+outH	665029.EAMY_2870	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+outH	665029.EAMY_2870	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+outH	665029.EAMY_2870	Pfam	PF07963	Prokaryotic N-terminal methylation motif
+outH	665029.EAMY_2870	InterPro	IPR002416	Type II secretion system protein GspH
+outH	665029.EAMY_2870	InterPro	IPR012902	Prokaryotic N-terminal methylation site
+outH	665029.EAMY_2870	InterPro	IPR045584	Pilin-like
+outI	665029.EAMY_2871	GO Process	GO:0006810	Transport
+outI	665029.EAMY_2871	GO Process	GO:0008104	Protein localization
+outI	665029.EAMY_2871	GO Process	GO:0009306	Protein secretion
+outI	665029.EAMY_2871	GO Process	GO:0009987	Cellular process
+outI	665029.EAMY_2871	GO Process	GO:0015031	Protein transport
+outI	665029.EAMY_2871	GO Process	GO:0015628	Protein secretion by the type II secretion system
+outI	665029.EAMY_2871	GO Process	GO:0032940	Secretion by cell
+outI	665029.EAMY_2871	GO Process	GO:0033036	Macromolecule localization
+outI	665029.EAMY_2871	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+outI	665029.EAMY_2871	GO Process	GO:0045184	Establishment of protein localization
+outI	665029.EAMY_2871	GO Process	GO:0046903	Secretion
+outI	665029.EAMY_2871	GO Process	GO:0051179	Localization
+outI	665029.EAMY_2871	GO Process	GO:0051234	Establishment of localization
+outI	665029.EAMY_2871	GO Process	GO:0051641	Cellular localization
+outI	665029.EAMY_2871	GO Process	GO:0055085	Transmembrane transport
+outI	665029.EAMY_2871	GO Process	GO:0070727	Cellular macromolecule localization
+outI	665029.EAMY_2871	GO Process	GO:0071692	Protein localization to extracellular region
+outI	665029.EAMY_2871	GO Process	GO:0071702	Organic substance transport
+outI	665029.EAMY_2871	GO Process	GO:0071705	Nitrogen compound transport
+outI	665029.EAMY_2871	GO Process	GO:0071806	Protein transmembrane transport
+outI	665029.EAMY_2871	GO Process	GO:0098776	Protein transport across the cell outer membrane
+outI	665029.EAMY_2871	GO Process	GO:0140352	Export from cell
+outI	665029.EAMY_2871	GO Function	GO:0005488	Binding
+outI	665029.EAMY_2871	GO Component	GO:0005886	Plasma membrane
+outI	665029.EAMY_2871	GO Component	GO:0015627	Type II protein secretion system complex
+outI	665029.EAMY_2871	GO Component	GO:0016020	Membrane
+outI	665029.EAMY_2871	GO Component	GO:0016021	Integral component of membrane
+outI	665029.EAMY_2871	GO Component	GO:0031224	Intrinsic component of membrane
+outI	665029.EAMY_2871	GO Component	GO:0032991	Protein-containing complex
+outI	665029.EAMY_2871	GO Component	GO:0071944	Cell periphery
+outI	665029.EAMY_2871	GO Component	GO:0110165	Cellular anatomical entity
+outI	665029.EAMY_2871	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outI	665029.EAMY_2871	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outI	665029.EAMY_2871	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outI	665029.EAMY_2871	STRING clusters	CL:3441	Type II protein secretion system complex, and GspF/PilC family
+outI	665029.EAMY_2871	KEGG	eam03070	Bacterial secretion system
+outI	665029.EAMY_2871	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+outI	665029.EAMY_2871	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+outI	665029.EAMY_2871	Pfam	PF02501	Type II secretion system (T2SS), protein I
+outI	665029.EAMY_2871	Pfam	PF07963	Prokaryotic N-terminal methylation motif
+outI	665029.EAMY_2871	InterPro	IPR003413	Type II secretion system protein GspI, C-terminal
+outI	665029.EAMY_2871	InterPro	IPR010052	Type II secretion system protein GspI
+outI	665029.EAMY_2871	InterPro	IPR012902	Prokaryotic N-terminal methylation site
+outI	665029.EAMY_2871	InterPro	IPR045584	Pilin-like
+outJ	665029.EAMY_2872	GO Process	GO:0006810	Transport
+outJ	665029.EAMY_2872	GO Process	GO:0008104	Protein localization
+outJ	665029.EAMY_2872	GO Process	GO:0009306	Protein secretion
+outJ	665029.EAMY_2872	GO Process	GO:0009987	Cellular process
+outJ	665029.EAMY_2872	GO Process	GO:0015031	Protein transport
+outJ	665029.EAMY_2872	GO Process	GO:0015628	Protein secretion by the type II secretion system
+outJ	665029.EAMY_2872	GO Process	GO:0032940	Secretion by cell
+outJ	665029.EAMY_2872	GO Process	GO:0033036	Macromolecule localization
+outJ	665029.EAMY_2872	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+outJ	665029.EAMY_2872	GO Process	GO:0045184	Establishment of protein localization
+outJ	665029.EAMY_2872	GO Process	GO:0046903	Secretion
+outJ	665029.EAMY_2872	GO Process	GO:0051179	Localization
+outJ	665029.EAMY_2872	GO Process	GO:0051234	Establishment of localization
+outJ	665029.EAMY_2872	GO Process	GO:0051641	Cellular localization
+outJ	665029.EAMY_2872	GO Process	GO:0055085	Transmembrane transport
+outJ	665029.EAMY_2872	GO Process	GO:0070727	Cellular macromolecule localization
+outJ	665029.EAMY_2872	GO Process	GO:0071692	Protein localization to extracellular region
+outJ	665029.EAMY_2872	GO Process	GO:0071702	Organic substance transport
+outJ	665029.EAMY_2872	GO Process	GO:0071705	Nitrogen compound transport
+outJ	665029.EAMY_2872	GO Process	GO:0071806	Protein transmembrane transport
+outJ	665029.EAMY_2872	GO Process	GO:0098776	Protein transport across the cell outer membrane
+outJ	665029.EAMY_2872	GO Process	GO:0140352	Export from cell
+outJ	665029.EAMY_2872	GO Function	GO:0005215	Transporter activity
+outJ	665029.EAMY_2872	GO Function	GO:0008320	Protein transmembrane transporter activity
+outJ	665029.EAMY_2872	GO Function	GO:0022857	Transmembrane transporter activity
+outJ	665029.EAMY_2872	GO Function	GO:0022884	Macromolecule transmembrane transporter activity
+outJ	665029.EAMY_2872	GO Function	GO:0140318	Protein transporter activity
+outJ	665029.EAMY_2872	GO Component	GO:0005886	Plasma membrane
+outJ	665029.EAMY_2872	GO Component	GO:0015627	Type II protein secretion system complex
+outJ	665029.EAMY_2872	GO Component	GO:0016020	Membrane
+outJ	665029.EAMY_2872	GO Component	GO:0016021	Integral component of membrane
+outJ	665029.EAMY_2872	GO Component	GO:0031224	Intrinsic component of membrane
+outJ	665029.EAMY_2872	GO Component	GO:0032991	Protein-containing complex
+outJ	665029.EAMY_2872	GO Component	GO:0071944	Cell periphery
+outJ	665029.EAMY_2872	GO Component	GO:0110165	Cellular anatomical entity
+outJ	665029.EAMY_2872	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outJ	665029.EAMY_2872	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outJ	665029.EAMY_2872	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outJ	665029.EAMY_2872	STRING clusters	CL:3441	Type II protein secretion system complex, and GspF/PilC family
+outJ	665029.EAMY_2872	KEGG	eam03070	Bacterial secretion system
+outJ	665029.EAMY_2872	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+outJ	665029.EAMY_2872	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+outJ	665029.EAMY_2872	UniProt Keywords	KW-0472	Membrane
+outJ	665029.EAMY_2872	UniProt Keywords	KW-0812	Transmembrane
+outJ	665029.EAMY_2872	UniProt Keywords	KW-1133	Transmembrane helix
+outJ	665029.EAMY_2872	Pfam	PF07963	Prokaryotic N-terminal methylation motif
+outJ	665029.EAMY_2872	Pfam	PF11612	Type II secretion system (T2SS), protein J
+outJ	665029.EAMY_2872	InterPro	IPR010055	Type II secretion system protein GspJ
+outJ	665029.EAMY_2872	InterPro	IPR012902	Prokaryotic N-terminal methylation site
+outJ	665029.EAMY_2872	InterPro	IPR045584	Pilin-like
+outL	665029.EAMY_2874	GO Process	GO:0006810	Transport
+outL	665029.EAMY_2874	GO Process	GO:0008104	Protein localization
+outL	665029.EAMY_2874	GO Process	GO:0009306	Protein secretion
+outL	665029.EAMY_2874	GO Process	GO:0009987	Cellular process
+outL	665029.EAMY_2874	GO Process	GO:0015031	Protein transport
+outL	665029.EAMY_2874	GO Process	GO:0015628	Protein secretion by the type II secretion system
+outL	665029.EAMY_2874	GO Process	GO:0032940	Secretion by cell
+outL	665029.EAMY_2874	GO Process	GO:0033036	Macromolecule localization
+outL	665029.EAMY_2874	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+outL	665029.EAMY_2874	GO Process	GO:0045184	Establishment of protein localization
+outL	665029.EAMY_2874	GO Process	GO:0046903	Secretion
+outL	665029.EAMY_2874	GO Process	GO:0051179	Localization
+outL	665029.EAMY_2874	GO Process	GO:0051234	Establishment of localization
+outL	665029.EAMY_2874	GO Process	GO:0051641	Cellular localization
+outL	665029.EAMY_2874	GO Process	GO:0055085	Transmembrane transport
+outL	665029.EAMY_2874	GO Process	GO:0070727	Cellular macromolecule localization
+outL	665029.EAMY_2874	GO Process	GO:0071692	Protein localization to extracellular region
+outL	665029.EAMY_2874	GO Process	GO:0071702	Organic substance transport
+outL	665029.EAMY_2874	GO Process	GO:0071705	Nitrogen compound transport
+outL	665029.EAMY_2874	GO Process	GO:0071806	Protein transmembrane transport
+outL	665029.EAMY_2874	GO Process	GO:0098776	Protein transport across the cell outer membrane
+outL	665029.EAMY_2874	GO Process	GO:0140352	Export from cell
+outL	665029.EAMY_2874	GO Component	GO:0005618	Cell wall
+outL	665029.EAMY_2874	GO Component	GO:0005886	Plasma membrane
+outL	665029.EAMY_2874	GO Component	GO:0009274	Peptidoglycan-based cell wall
+outL	665029.EAMY_2874	GO Component	GO:0009276	Gram-negative-bacterium-type cell wall
+outL	665029.EAMY_2874	GO Component	GO:0015627	Type II protein secretion system complex
+outL	665029.EAMY_2874	GO Component	GO:0016020	Membrane
+outL	665029.EAMY_2874	GO Component	GO:0016021	Integral component of membrane
+outL	665029.EAMY_2874	GO Component	GO:0030312	External encapsulating structure
+outL	665029.EAMY_2874	GO Component	GO:0030313	Cell envelope
+outL	665029.EAMY_2874	GO Component	GO:0031224	Intrinsic component of membrane
+outL	665029.EAMY_2874	GO Component	GO:0031975	Envelope
+outL	665029.EAMY_2874	GO Component	GO:0032991	Protein-containing complex
+outL	665029.EAMY_2874	GO Component	GO:0071944	Cell periphery
+outL	665029.EAMY_2874	GO Component	GO:0110165	Cellular anatomical entity
+outL	665029.EAMY_2874	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outL	665029.EAMY_2874	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outL	665029.EAMY_2874	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outL	665029.EAMY_2874	KEGG	eam03070	Bacterial secretion system
+outL	665029.EAMY_2874	COMPARTMENTS	GOCC:0005886	Plasma membrane
+outL	665029.EAMY_2874	COMPARTMENTS	GOCC:0016020	Membrane
+outL	665029.EAMY_2874	COMPARTMENTS	GOCC:0071944	Cell periphery
+outL	665029.EAMY_2874	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+outL	665029.EAMY_2874	UniProt Keywords	KW-0472	Membrane
+outL	665029.EAMY_2874	UniProt Keywords	KW-0812	Transmembrane
+outL	665029.EAMY_2874	UniProt Keywords	KW-1133	Transmembrane helix
+outL	665029.EAMY_2874	Pfam	PF05134	Type II secretion system (T2SS), protein L
+outL	665029.EAMY_2874	Pfam	PF12693	GspL periplasmic domain
+outL	665029.EAMY_2874	InterPro	IPR024230	GspL, cytoplasmic actin-ATPase-like domain
+outL	665029.EAMY_2874	InterPro	IPR025691	GspL periplasmic domain
+outL	665029.EAMY_2874	InterPro	IPR043129	ATPase, nucleotide binding domain
+outM	665029.EAMY_2875	STRING clusters	CL:3433	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outM	665029.EAMY_2875	STRING clusters	CL:3434	Mixed, incl. Type II protein secretion system complex, and GspF/PilC family
+outM	665029.EAMY_2875	STRING clusters	CL:3436	Type II protein secretion system complex, and GspF/PilC family
+outM	665029.EAMY_2875	UniProt Keywords	KW-0175	Coiled coil
+outM	665029.EAMY_2875	UniProt Keywords	KW-0472	Membrane
+outM	665029.EAMY_2875	UniProt Keywords	KW-0812	Transmembrane
+outM	665029.EAMY_2875	UniProt Keywords	KW-1133	Transmembrane helix
+prgI	665029.EAMY_0774	GO Process	GO:0006810	Transport
+prgI	665029.EAMY_0774	GO Process	GO:0008104	Protein localization
+prgI	665029.EAMY_0774	GO Process	GO:0009306	Protein secretion
+prgI	665029.EAMY_0774	GO Process	GO:0009987	Cellular process
+prgI	665029.EAMY_0774	GO Process	GO:0015031	Protein transport
+prgI	665029.EAMY_0774	GO Process	GO:0030254	Protein secretion by the type III secretion system
+prgI	665029.EAMY_0774	GO Process	GO:0032940	Secretion by cell
+prgI	665029.EAMY_0774	GO Process	GO:0033036	Macromolecule localization
+prgI	665029.EAMY_0774	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+prgI	665029.EAMY_0774	GO Process	GO:0045184	Establishment of protein localization
+prgI	665029.EAMY_0774	GO Process	GO:0046903	Secretion
+prgI	665029.EAMY_0774	GO Process	GO:0051179	Localization
+prgI	665029.EAMY_0774	GO Process	GO:0051234	Establishment of localization
+prgI	665029.EAMY_0774	GO Process	GO:0051641	Cellular localization
+prgI	665029.EAMY_0774	GO Process	GO:0055085	Transmembrane transport
+prgI	665029.EAMY_0774	GO Process	GO:0070727	Cellular macromolecule localization
+prgI	665029.EAMY_0774	GO Process	GO:0071692	Protein localization to extracellular region
+prgI	665029.EAMY_0774	GO Process	GO:0071702	Organic substance transport
+prgI	665029.EAMY_0774	GO Process	GO:0071705	Nitrogen compound transport
+prgI	665029.EAMY_0774	GO Process	GO:0071806	Protein transmembrane transport
+prgI	665029.EAMY_0774	GO Process	GO:0140352	Export from cell
+prgI	665029.EAMY_0774	GO Function	GO:0005488	Binding
+prgI	665029.EAMY_0774	GO Function	GO:0005515	Protein binding
+prgI	665029.EAMY_0774	GO Function	GO:0042802	Identical protein binding
+prgI	665029.EAMY_0774	GO Component	GO:0030257	Type III protein secretion system complex
+prgI	665029.EAMY_0774	GO Component	GO:0032991	Protein-containing complex
+prgI	665029.EAMY_0774	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+prgI	665029.EAMY_0774	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+prgI	665029.EAMY_0774	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+prgI	665029.EAMY_0774	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+prgI	665029.EAMY_0774	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+prgI	665029.EAMY_0774	STRING clusters	CL:4754	Type III secretion, needle-protein-like superfamily, and Type III secretion system, PrgH/EprH-like
+prgI	665029.EAMY_0774	KEGG	eam03070	Bacterial secretion system
+prgI	665029.EAMY_0774	Pfam	PF09392	Type III secretion needle MxiH, YscF, SsaG, EprI, PscF, EscF
+prgI	665029.EAMY_0774	InterPro	IPR011841	Type III secretion system, needle protein
+prgI	665029.EAMY_0774	InterPro	IPR021123	Type III secretion, needle-protein-like
+prgI	665029.EAMY_0774	InterPro	IPR037203	Type III secretion, needle-protein-like superfamily
+prgK1	665029.EAMY_0772	GO Process	GO:0006810	Transport
+prgK1	665029.EAMY_0772	GO Process	GO:0008104	Protein localization
+prgK1	665029.EAMY_0772	GO Process	GO:0009306	Protein secretion
+prgK1	665029.EAMY_0772	GO Process	GO:0009987	Cellular process
+prgK1	665029.EAMY_0772	GO Process	GO:0015031	Protein transport
+prgK1	665029.EAMY_0772	GO Process	GO:0032940	Secretion by cell
+prgK1	665029.EAMY_0772	GO Process	GO:0033036	Macromolecule localization
+prgK1	665029.EAMY_0772	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+prgK1	665029.EAMY_0772	GO Process	GO:0045184	Establishment of protein localization
+prgK1	665029.EAMY_0772	GO Process	GO:0046903	Secretion
+prgK1	665029.EAMY_0772	GO Process	GO:0051179	Localization
+prgK1	665029.EAMY_0772	GO Process	GO:0051234	Establishment of localization
+prgK1	665029.EAMY_0772	GO Process	GO:0051641	Cellular localization
+prgK1	665029.EAMY_0772	GO Process	GO:0070727	Cellular macromolecule localization
+prgK1	665029.EAMY_0772	GO Process	GO:0071692	Protein localization to extracellular region
+prgK1	665029.EAMY_0772	GO Process	GO:0071702	Organic substance transport
+prgK1	665029.EAMY_0772	GO Process	GO:0071705	Nitrogen compound transport
+prgK1	665029.EAMY_0772	GO Process	GO:0140352	Export from cell
+prgK1	665029.EAMY_0772	GO Component	GO:0009279	Cell outer membrane
+prgK1	665029.EAMY_0772	GO Component	GO:0016020	Membrane
+prgK1	665029.EAMY_0772	GO Component	GO:0016021	Integral component of membrane
+prgK1	665029.EAMY_0772	GO Component	GO:0019867	Outer membrane
+prgK1	665029.EAMY_0772	GO Component	GO:0030312	External encapsulating structure
+prgK1	665029.EAMY_0772	GO Component	GO:0030313	Cell envelope
+prgK1	665029.EAMY_0772	GO Component	GO:0031224	Intrinsic component of membrane
+prgK1	665029.EAMY_0772	GO Component	GO:0031975	Envelope
+prgK1	665029.EAMY_0772	GO Component	GO:0071944	Cell periphery
+prgK1	665029.EAMY_0772	GO Component	GO:0110165	Cellular anatomical entity
+prgK1	665029.EAMY_0772	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+prgK1	665029.EAMY_0772	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+prgK1	665029.EAMY_0772	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+prgK1	665029.EAMY_0772	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+prgK1	665029.EAMY_0772	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+prgK1	665029.EAMY_0772	STRING clusters	CL:4754	Type III secretion, needle-protein-like superfamily, and Type III secretion system, PrgH/EprH-like
+prgK1	665029.EAMY_0772	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+prgK1	665029.EAMY_0772	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+prgK1	665029.EAMY_0772	COMPARTMENTS	GOCC:0042597	Periplasmic space
+prgK1	665029.EAMY_0772	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+prgK1	665029.EAMY_0772	UniProt Keywords	KW-0449	Lipoprotein
+prgK1	665029.EAMY_0772	UniProt Keywords	KW-0472	Membrane
+prgK1	665029.EAMY_0772	UniProt Keywords	KW-0564	Palmitate
+prgK1	665029.EAMY_0772	UniProt Keywords	KW-0732	Signal
+prgK1	665029.EAMY_0772	UniProt Keywords	KW-0812	Transmembrane
+prgK1	665029.EAMY_0772	UniProt Keywords	KW-0998	Cell outer membrane
+prgK1	665029.EAMY_0772	UniProt Keywords	KW-1133	Transmembrane helix
+prgK1	665029.EAMY_0772	Pfam	PF01514	Secretory protein of YscJ/FliF family
+prgK1	665029.EAMY_0772	InterPro	IPR003282	Type III secretion system lipoprotein HrcJ/YscJ
+prgK1	665029.EAMY_0772	InterPro	IPR006182	Flagellar M-ring , N-terminal
+prgK1	665029.EAMY_0772	InterPro	IPR043427	Lipoprotein YscJ/Flagellar M-ring protein
+prgK1	665029.EAMY_0772	InterPro	IPR045851	AMP-binding enzyme, C-terminal domain superfamily
+spaP1	665029.EAMY_0785	GO Process	GO:0006810	Transport
+spaP1	665029.EAMY_0785	GO Process	GO:0008104	Protein localization
+spaP1	665029.EAMY_0785	GO Process	GO:0009306	Protein secretion
+spaP1	665029.EAMY_0785	GO Process	GO:0009987	Cellular process
+spaP1	665029.EAMY_0785	GO Process	GO:0015031	Protein transport
+spaP1	665029.EAMY_0785	GO Process	GO:0032940	Secretion by cell
+spaP1	665029.EAMY_0785	GO Process	GO:0033036	Macromolecule localization
+spaP1	665029.EAMY_0785	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+spaP1	665029.EAMY_0785	GO Process	GO:0045184	Establishment of protein localization
+spaP1	665029.EAMY_0785	GO Process	GO:0046903	Secretion
+spaP1	665029.EAMY_0785	GO Process	GO:0051179	Localization
+spaP1	665029.EAMY_0785	GO Process	GO:0051234	Establishment of localization
+spaP1	665029.EAMY_0785	GO Process	GO:0051641	Cellular localization
+spaP1	665029.EAMY_0785	GO Process	GO:0070727	Cellular macromolecule localization
+spaP1	665029.EAMY_0785	GO Process	GO:0071692	Protein localization to extracellular region
+spaP1	665029.EAMY_0785	GO Process	GO:0071702	Organic substance transport
+spaP1	665029.EAMY_0785	GO Process	GO:0071705	Nitrogen compound transport
+spaP1	665029.EAMY_0785	GO Process	GO:0140352	Export from cell
+spaP1	665029.EAMY_0785	GO Component	GO:0005886	Plasma membrane
+spaP1	665029.EAMY_0785	GO Component	GO:0016020	Membrane
+spaP1	665029.EAMY_0785	GO Component	GO:0016021	Integral component of membrane
+spaP1	665029.EAMY_0785	GO Component	GO:0031224	Intrinsic component of membrane
+spaP1	665029.EAMY_0785	GO Component	GO:0071944	Cell periphery
+spaP1	665029.EAMY_0785	GO Component	GO:0110165	Cellular anatomical entity
+spaP1	665029.EAMY_0785	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+spaP1	665029.EAMY_0785	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaP1	665029.EAMY_0785	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaP1	665029.EAMY_0785	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+spaP1	665029.EAMY_0785	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+spaP1	665029.EAMY_0785	STRING clusters	CL:4696	Secretion, and Type III secretion protein SpaR/YscT
+spaP1	665029.EAMY_0785	STRING clusters	CL:4697	Secretion
+spaP1	665029.EAMY_0785	STRING clusters	CL:4699	Mixed, incl. Tetratricopeptide TPR-3, and Type III secretion protein HrcV
+spaP1	665029.EAMY_0785	STRING clusters	CL:4716	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+spaP1	665029.EAMY_0785	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+spaP1	665029.EAMY_0785	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+spaP1	665029.EAMY_0785	COMPARTMENTS	GOCC:0042995	Cell projection
+spaP1	665029.EAMY_0785	COMPARTMENTS	GOCC:0043226	Organelle
+spaP1	665029.EAMY_0785	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+spaP1	665029.EAMY_0785	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+spaP1	665029.EAMY_0785	UniProt Keywords	KW-0472	Membrane
+spaP1	665029.EAMY_0785	UniProt Keywords	KW-0812	Transmembrane
+spaP1	665029.EAMY_0785	UniProt Keywords	KW-1003	Cell membrane
+spaP1	665029.EAMY_0785	UniProt Keywords	KW-1133	Transmembrane helix
+spaP1	665029.EAMY_0785	Pfam	PF00813	FliP family
+spaP1	665029.EAMY_0785	InterPro	IPR005773	Yop virulence translocation protein R
+spaP1	665029.EAMY_0785	InterPro	IPR005838	Type III secretion system inner membrane P protein
+spaP3	665029.EAMY_1586	GO Process	GO:0006810	Transport
+spaP3	665029.EAMY_1586	GO Process	GO:0008104	Protein localization
+spaP3	665029.EAMY_1586	GO Process	GO:0009306	Protein secretion
+spaP3	665029.EAMY_1586	GO Process	GO:0009987	Cellular process
+spaP3	665029.EAMY_1586	GO Process	GO:0015031	Protein transport
+spaP3	665029.EAMY_1586	GO Process	GO:0032940	Secretion by cell
+spaP3	665029.EAMY_1586	GO Process	GO:0033036	Macromolecule localization
+spaP3	665029.EAMY_1586	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+spaP3	665029.EAMY_1586	GO Process	GO:0045184	Establishment of protein localization
+spaP3	665029.EAMY_1586	GO Process	GO:0046903	Secretion
+spaP3	665029.EAMY_1586	GO Process	GO:0051179	Localization
+spaP3	665029.EAMY_1586	GO Process	GO:0051234	Establishment of localization
+spaP3	665029.EAMY_1586	GO Process	GO:0051641	Cellular localization
+spaP3	665029.EAMY_1586	GO Process	GO:0070727	Cellular macromolecule localization
+spaP3	665029.EAMY_1586	GO Process	GO:0071692	Protein localization to extracellular region
+spaP3	665029.EAMY_1586	GO Process	GO:0071702	Organic substance transport
+spaP3	665029.EAMY_1586	GO Process	GO:0071705	Nitrogen compound transport
+spaP3	665029.EAMY_1586	GO Process	GO:0140352	Export from cell
+spaP3	665029.EAMY_1586	GO Component	GO:0005886	Plasma membrane
+spaP3	665029.EAMY_1586	GO Component	GO:0016020	Membrane
+spaP3	665029.EAMY_1586	GO Component	GO:0016021	Integral component of membrane
+spaP3	665029.EAMY_1586	GO Component	GO:0031224	Intrinsic component of membrane
+spaP3	665029.EAMY_1586	GO Component	GO:0071944	Cell periphery
+spaP3	665029.EAMY_1586	GO Component	GO:0110165	Cellular anatomical entity
+spaP3	665029.EAMY_1586	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+spaP3	665029.EAMY_1586	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaP3	665029.EAMY_1586	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaP3	665029.EAMY_1586	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+spaP3	665029.EAMY_1586	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+spaP3	665029.EAMY_1586	STRING clusters	CL:4696	Secretion, and Type III secretion protein SpaR/YscT
+spaP3	665029.EAMY_1586	STRING clusters	CL:4697	Secretion
+spaP3	665029.EAMY_1586	STRING clusters	CL:4699	Mixed, incl. Tetratricopeptide TPR-3, and Type III secretion protein HrcV
+spaP3	665029.EAMY_1586	STRING clusters	CL:4701	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+spaP3	665029.EAMY_1586	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+spaP3	665029.EAMY_1586	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+spaP3	665029.EAMY_1586	COMPARTMENTS	GOCC:0042995	Cell projection
+spaP3	665029.EAMY_1586	COMPARTMENTS	GOCC:0043226	Organelle
+spaP3	665029.EAMY_1586	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+spaP3	665029.EAMY_1586	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+spaP3	665029.EAMY_1586	UniProt Keywords	KW-0472	Membrane
+spaP3	665029.EAMY_1586	UniProt Keywords	KW-0812	Transmembrane
+spaP3	665029.EAMY_1586	UniProt Keywords	KW-1003	Cell membrane
+spaP3	665029.EAMY_1586	UniProt Keywords	KW-1133	Transmembrane helix
+spaP3	665029.EAMY_1586	Pfam	PF00813	FliP family
+spaP3	665029.EAMY_1586	InterPro	IPR005773	Yop virulence translocation protein R
+spaP3	665029.EAMY_1586	InterPro	IPR005838	Type III secretion system inner membrane P protein
+spaQ1	665029.EAMY_0786	GO Process	GO:0006810	Transport
+spaQ1	665029.EAMY_0786	GO Process	GO:0008104	Protein localization
+spaQ1	665029.EAMY_0786	GO Process	GO:0009306	Protein secretion
+spaQ1	665029.EAMY_0786	GO Process	GO:0009987	Cellular process
+spaQ1	665029.EAMY_0786	GO Process	GO:0015031	Protein transport
+spaQ1	665029.EAMY_0786	GO Process	GO:0032940	Secretion by cell
+spaQ1	665029.EAMY_0786	GO Process	GO:0033036	Macromolecule localization
+spaQ1	665029.EAMY_0786	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+spaQ1	665029.EAMY_0786	GO Process	GO:0045184	Establishment of protein localization
+spaQ1	665029.EAMY_0786	GO Process	GO:0046903	Secretion
+spaQ1	665029.EAMY_0786	GO Process	GO:0051179	Localization
+spaQ1	665029.EAMY_0786	GO Process	GO:0051234	Establishment of localization
+spaQ1	665029.EAMY_0786	GO Process	GO:0051641	Cellular localization
+spaQ1	665029.EAMY_0786	GO Process	GO:0070727	Cellular macromolecule localization
+spaQ1	665029.EAMY_0786	GO Process	GO:0071692	Protein localization to extracellular region
+spaQ1	665029.EAMY_0786	GO Process	GO:0071702	Organic substance transport
+spaQ1	665029.EAMY_0786	GO Process	GO:0071705	Nitrogen compound transport
+spaQ1	665029.EAMY_0786	GO Process	GO:0140352	Export from cell
+spaQ1	665029.EAMY_0786	GO Component	GO:0005886	Plasma membrane
+spaQ1	665029.EAMY_0786	GO Component	GO:0016020	Membrane
+spaQ1	665029.EAMY_0786	GO Component	GO:0016021	Integral component of membrane
+spaQ1	665029.EAMY_0786	GO Component	GO:0031224	Intrinsic component of membrane
+spaQ1	665029.EAMY_0786	GO Component	GO:0071944	Cell periphery
+spaQ1	665029.EAMY_0786	GO Component	GO:0110165	Cellular anatomical entity
+spaQ1	665029.EAMY_0786	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+spaQ1	665029.EAMY_0786	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaQ1	665029.EAMY_0786	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaQ1	665029.EAMY_0786	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+spaQ1	665029.EAMY_0786	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+spaQ1	665029.EAMY_0786	STRING clusters	CL:4696	Secretion, and Type III secretion protein SpaR/YscT
+spaQ1	665029.EAMY_0786	STRING clusters	CL:4697	Secretion
+spaQ1	665029.EAMY_0786	STRING clusters	CL:4699	Mixed, incl. Tetratricopeptide TPR-3, and Type III secretion protein HrcV
+spaQ1	665029.EAMY_0786	STRING clusters	CL:4716	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+spaQ1	665029.EAMY_0786	UniProt Keywords	KW-0472	Membrane
+spaQ1	665029.EAMY_0786	UniProt Keywords	KW-0812	Transmembrane
+spaQ1	665029.EAMY_0786	UniProt Keywords	KW-1133	Transmembrane helix
+spaQ1	665029.EAMY_0786	Pfam	PF01313	Bacterial export proteins, family 3
+spaQ1	665029.EAMY_0786	InterPro	IPR002191	Bacterial export protein family 3
+spaQ1	665029.EAMY_0786	InterPro	IPR006306	Type III secretion protein HrpO
+spaR1	665029.EAMY_0787	GO Process	GO:0006605	Protein targeting
+spaR1	665029.EAMY_0787	GO Process	GO:0006810	Transport
+spaR1	665029.EAMY_0787	GO Process	GO:0006886	Intracellular protein transport
+spaR1	665029.EAMY_0787	GO Process	GO:0008104	Protein localization
+spaR1	665029.EAMY_0787	GO Process	GO:0009987	Cellular process
+spaR1	665029.EAMY_0787	GO Process	GO:0015031	Protein transport
+spaR1	665029.EAMY_0787	GO Process	GO:0033036	Macromolecule localization
+spaR1	665029.EAMY_0787	GO Process	GO:0045184	Establishment of protein localization
+spaR1	665029.EAMY_0787	GO Process	GO:0046907	Intracellular transport
+spaR1	665029.EAMY_0787	GO Process	GO:0051179	Localization
+spaR1	665029.EAMY_0787	GO Process	GO:0051234	Establishment of localization
+spaR1	665029.EAMY_0787	GO Process	GO:0051641	Cellular localization
+spaR1	665029.EAMY_0787	GO Process	GO:0051649	Establishment of localization in cell
+spaR1	665029.EAMY_0787	GO Process	GO:0070727	Cellular macromolecule localization
+spaR1	665029.EAMY_0787	GO Process	GO:0071702	Organic substance transport
+spaR1	665029.EAMY_0787	GO Process	GO:0071705	Nitrogen compound transport
+spaR1	665029.EAMY_0787	GO Component	GO:0005886	Plasma membrane
+spaR1	665029.EAMY_0787	GO Component	GO:0016020	Membrane
+spaR1	665029.EAMY_0787	GO Component	GO:0016021	Integral component of membrane
+spaR1	665029.EAMY_0787	GO Component	GO:0031224	Intrinsic component of membrane
+spaR1	665029.EAMY_0787	GO Component	GO:0071944	Cell periphery
+spaR1	665029.EAMY_0787	GO Component	GO:0110165	Cellular anatomical entity
+spaR1	665029.EAMY_0787	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+spaR1	665029.EAMY_0787	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaR1	665029.EAMY_0787	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaR1	665029.EAMY_0787	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+spaR1	665029.EAMY_0787	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+spaR1	665029.EAMY_0787	STRING clusters	CL:4696	Secretion, and Type III secretion protein SpaR/YscT
+spaR1	665029.EAMY_0787	STRING clusters	CL:4697	Secretion
+spaR1	665029.EAMY_0787	STRING clusters	CL:4699	Mixed, incl. Tetratricopeptide TPR-3, and Type III secretion protein HrcV
+spaR1	665029.EAMY_0787	STRING clusters	CL:4716	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+spaR1	665029.EAMY_0787	UniProt Keywords	KW-0472	Membrane
+spaR1	665029.EAMY_0787	UniProt Keywords	KW-0812	Transmembrane
+spaR1	665029.EAMY_0787	UniProt Keywords	KW-1003	Cell membrane
+spaR1	665029.EAMY_0787	UniProt Keywords	KW-1133	Transmembrane helix
+spaR1	665029.EAMY_0787	Pfam	PF01311	Bacterial export proteins, family 1
+spaR1	665029.EAMY_0787	InterPro	IPR002010	Type III secretion system inner membrane R protein
+spaR1	665029.EAMY_0787	InterPro	IPR006304	Type III secretion protein SpaR/YscT
+spaR3	665029.EAMY_1588	GO Process	GO:0006605	Protein targeting
+spaR3	665029.EAMY_1588	GO Process	GO:0006810	Transport
+spaR3	665029.EAMY_1588	GO Process	GO:0006886	Intracellular protein transport
+spaR3	665029.EAMY_1588	GO Process	GO:0008104	Protein localization
+spaR3	665029.EAMY_1588	GO Process	GO:0009987	Cellular process
+spaR3	665029.EAMY_1588	GO Process	GO:0015031	Protein transport
+spaR3	665029.EAMY_1588	GO Process	GO:0033036	Macromolecule localization
+spaR3	665029.EAMY_1588	GO Process	GO:0045184	Establishment of protein localization
+spaR3	665029.EAMY_1588	GO Process	GO:0046907	Intracellular transport
+spaR3	665029.EAMY_1588	GO Process	GO:0051179	Localization
+spaR3	665029.EAMY_1588	GO Process	GO:0051234	Establishment of localization
+spaR3	665029.EAMY_1588	GO Process	GO:0051641	Cellular localization
+spaR3	665029.EAMY_1588	GO Process	GO:0051649	Establishment of localization in cell
+spaR3	665029.EAMY_1588	GO Process	GO:0070727	Cellular macromolecule localization
+spaR3	665029.EAMY_1588	GO Process	GO:0071702	Organic substance transport
+spaR3	665029.EAMY_1588	GO Process	GO:0071705	Nitrogen compound transport
+spaR3	665029.EAMY_1588	GO Component	GO:0005886	Plasma membrane
+spaR3	665029.EAMY_1588	GO Component	GO:0016020	Membrane
+spaR3	665029.EAMY_1588	GO Component	GO:0016021	Integral component of membrane
+spaR3	665029.EAMY_1588	GO Component	GO:0031224	Intrinsic component of membrane
+spaR3	665029.EAMY_1588	GO Component	GO:0071944	Cell periphery
+spaR3	665029.EAMY_1588	GO Component	GO:0110165	Cellular anatomical entity
+spaR3	665029.EAMY_1588	STRING clusters	CL:4690	Mixed, incl. Secretion, and Extracellular region
+spaR3	665029.EAMY_1588	STRING clusters	CL:4691	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaR3	665029.EAMY_1588	STRING clusters	CL:4692	Mixed, incl. Secretion, and Type III secretion protein SpaR/YscT
+spaR3	665029.EAMY_1588	STRING clusters	CL:4693	Mixed, incl. Secretion, and Invasion protein B family
+spaR3	665029.EAMY_1588	STRING clusters	CL:4694	Secretion, and Invasion protein B family
+spaR3	665029.EAMY_1588	STRING clusters	CL:4696	Secretion, and Type III secretion protein SpaR/YscT
+spaR3	665029.EAMY_1588	STRING clusters	CL:4697	Secretion
+spaR3	665029.EAMY_1588	STRING clusters	CL:4699	Mixed, incl. Tetratricopeptide TPR-3, and Type III secretion protein HrcV
+spaR3	665029.EAMY_1588	STRING clusters	CL:4701	Mixed, incl. Type III secretion protein HrcV, and Type III secretion protein HrpO
+spaR3	665029.EAMY_1588	UniProt Keywords	KW-0472	Membrane
+spaR3	665029.EAMY_1588	UniProt Keywords	KW-0812	Transmembrane
+spaR3	665029.EAMY_1588	UniProt Keywords	KW-1003	Cell membrane
+spaR3	665029.EAMY_1588	UniProt Keywords	KW-1133	Transmembrane helix
+spaR3	665029.EAMY_1588	Pfam	PF01311	Bacterial export proteins, family 1
+spaR3	665029.EAMY_1588	InterPro	IPR002010	Type III secretion system inner membrane R protein
+spaR3	665029.EAMY_1588	InterPro	IPR006304	Type III secretion protein SpaR/YscT
+tolC	665029.EAMY_0433	GO Process	GO:0006810	Transport
+tolC	665029.EAMY_0433	GO Process	GO:0009987	Cellular process
+tolC	665029.EAMY_0433	GO Process	GO:0051179	Localization
+tolC	665029.EAMY_0433	GO Process	GO:0051234	Establishment of localization
+tolC	665029.EAMY_0433	GO Process	GO:0055085	Transmembrane transport
+tolC	665029.EAMY_0433	GO Function	GO:0005215	Transporter activity
+tolC	665029.EAMY_0433	GO Function	GO:0015562	Efflux transmembrane transporter activity
+tolC	665029.EAMY_0433	GO Function	GO:0022857	Transmembrane transporter activity
+tolC	665029.EAMY_0433	GO Component	GO:0016020	Membrane
+tolC	665029.EAMY_0433	GO Component	GO:0019867	Outer membrane
+tolC	665029.EAMY_0433	GO Component	GO:0110165	Cellular anatomical entity
+tolC	665029.EAMY_0433	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+tolC	665029.EAMY_0433	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+tolC	665029.EAMY_0433	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+tolC	665029.EAMY_0433	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+tolC	665029.EAMY_0433	KEGG	eam01501	beta-Lactam resistance
+tolC	665029.EAMY_0433	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+tolC	665029.EAMY_0433	KEGG	eam02020	Two-component system
+tolC	665029.EAMY_0433	KEGG	eam03070	Bacterial secretion system
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0016020	Membrane
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:1990351	Transporter complex
+tolC	665029.EAMY_0433	UniProt Keywords	KW-0732	Signal
+tolC	665029.EAMY_0433	Pfam	PF02321	Outer membrane efflux protein
+tolC	665029.EAMY_0433	InterPro	IPR003423	Outer membrane efflux protein
+tolC	665029.EAMY_0433	InterPro	IPR010130	Type I secretion outer membrane protein, TolC
+vgrG1	665029.EAMY_3000	GO Process	GO:0006810	Transport
+vgrG1	665029.EAMY_3000	GO Process	GO:0008104	Protein localization
+vgrG1	665029.EAMY_3000	GO Process	GO:0009306	Protein secretion
+vgrG1	665029.EAMY_3000	GO Process	GO:0009987	Cellular process
+vgrG1	665029.EAMY_3000	GO Process	GO:0015031	Protein transport
+vgrG1	665029.EAMY_3000	GO Process	GO:0032940	Secretion by cell
+vgrG1	665029.EAMY_3000	GO Process	GO:0033036	Macromolecule localization
+vgrG1	665029.EAMY_3000	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+vgrG1	665029.EAMY_3000	GO Process	GO:0045184	Establishment of protein localization
+vgrG1	665029.EAMY_3000	GO Process	GO:0046903	Secretion
+vgrG1	665029.EAMY_3000	GO Process	GO:0051179	Localization
+vgrG1	665029.EAMY_3000	GO Process	GO:0051234	Establishment of localization
+vgrG1	665029.EAMY_3000	GO Process	GO:0051641	Cellular localization
+vgrG1	665029.EAMY_3000	GO Process	GO:0055085	Transmembrane transport
+vgrG1	665029.EAMY_3000	GO Process	GO:0070727	Cellular macromolecule localization
+vgrG1	665029.EAMY_3000	GO Process	GO:0071692	Protein localization to extracellular region
+vgrG1	665029.EAMY_3000	GO Process	GO:0071702	Organic substance transport
+vgrG1	665029.EAMY_3000	GO Process	GO:0071705	Nitrogen compound transport
+vgrG1	665029.EAMY_3000	GO Process	GO:0071806	Protein transmembrane transport
+vgrG1	665029.EAMY_3000	GO Process	GO:0140352	Export from cell
+vgrG1	665029.EAMY_3000	GO Component	GO:0005576	Extracellular region
+vgrG1	665029.EAMY_3000	GO Component	GO:0032991	Protein-containing complex
+vgrG1	665029.EAMY_3000	GO Component	GO:0110165	Cellular anatomical entity
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5936	Mixed, incl. Protein transmembrane transport, and Iron ion transport
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5937	Mixed, incl. Protein transmembrane transport, and Extracellular region
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5939	Mixed, incl. Protein transmembrane transport, and Protein of unknown function DUF2931
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5941	Mixed, incl. Protein transmembrane transport, and Rhs repeat-associated core
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5942	Mixed, incl. Protein transmembrane transport, and Rhs repeat-associated core
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5944	Mixed, incl. Protein transmembrane transport, and T6SS superfamily
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5945	Protein transmembrane transport, and T6SS superfamily
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5946	Protein transmembrane transport, and Hcp1-like superfamily
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5948	Protein transmembrane transport, and T6S-associated protein TagF
+vgrG1	665029.EAMY_3000	STRING clusters	CL:5949	Mixed, incl. T6S-associated protein TagF, and IcmF-related, N-terminal domain
+vgrG1	665029.EAMY_3000	KEGG	eam03070	Bacterial secretion system
+vgrG1	665029.EAMY_3000	COMPARTMENTS	GOCC:0018995	Host cellular component
+vgrG1	665029.EAMY_3000	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+vgrG1	665029.EAMY_3000	Pfam	PF05954	Phage tail baseplate hub (GPD)
+vgrG1	665029.EAMY_3000	InterPro	IPR006531	Gp5/Type VI secretion system Vgr protein, OB-fold domain
+vgrG1	665029.EAMY_3000	InterPro	IPR006533	Type VI secretion system, RhsGE-associated Vgr protein
+vgrG1	665029.EAMY_3000	InterPro	IPR017847	Type VI secretion system, RhsGE-associated Vgr family subset
+vgrG1	665029.EAMY_3000	InterPro	IPR037026	Vgr protein, OB-fold domain superfamily
+vgrG3	665029.EAMY_3003	GO Process	GO:0006810	Transport
+vgrG3	665029.EAMY_3003	GO Process	GO:0008104	Protein localization
+vgrG3	665029.EAMY_3003	GO Process	GO:0009306	Protein secretion
+vgrG3	665029.EAMY_3003	GO Process	GO:0009987	Cellular process
+vgrG3	665029.EAMY_3003	GO Process	GO:0015031	Protein transport
+vgrG3	665029.EAMY_3003	GO Process	GO:0032940	Secretion by cell
+vgrG3	665029.EAMY_3003	GO Process	GO:0033036	Macromolecule localization
+vgrG3	665029.EAMY_3003	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+vgrG3	665029.EAMY_3003	GO Process	GO:0045184	Establishment of protein localization
+vgrG3	665029.EAMY_3003	GO Process	GO:0046903	Secretion
+vgrG3	665029.EAMY_3003	GO Process	GO:0051179	Localization
+vgrG3	665029.EAMY_3003	GO Process	GO:0051234	Establishment of localization
+vgrG3	665029.EAMY_3003	GO Process	GO:0051641	Cellular localization
+vgrG3	665029.EAMY_3003	GO Process	GO:0055085	Transmembrane transport
+vgrG3	665029.EAMY_3003	GO Process	GO:0070727	Cellular macromolecule localization
+vgrG3	665029.EAMY_3003	GO Process	GO:0071692	Protein localization to extracellular region
+vgrG3	665029.EAMY_3003	GO Process	GO:0071702	Organic substance transport
+vgrG3	665029.EAMY_3003	GO Process	GO:0071705	Nitrogen compound transport
+vgrG3	665029.EAMY_3003	GO Process	GO:0071806	Protein transmembrane transport
+vgrG3	665029.EAMY_3003	GO Process	GO:0140352	Export from cell
+vgrG3	665029.EAMY_3003	GO Component	GO:0005576	Extracellular region
+vgrG3	665029.EAMY_3003	GO Component	GO:0032991	Protein-containing complex
+vgrG3	665029.EAMY_3003	GO Component	GO:0110165	Cellular anatomical entity
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5936	Mixed, incl. Protein transmembrane transport, and Iron ion transport
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5937	Mixed, incl. Protein transmembrane transport, and Extracellular region
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5939	Mixed, incl. Protein transmembrane transport, and Protein of unknown function DUF2931
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5941	Mixed, incl. Protein transmembrane transport, and Rhs repeat-associated core
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5942	Mixed, incl. Protein transmembrane transport, and Rhs repeat-associated core
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5944	Mixed, incl. Protein transmembrane transport, and T6SS superfamily
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5945	Protein transmembrane transport, and T6SS superfamily
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5946	Protein transmembrane transport, and Hcp1-like superfamily
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5948	Protein transmembrane transport, and T6S-associated protein TagF
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5949	Mixed, incl. T6S-associated protein TagF, and IcmF-related, N-terminal domain
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5951	Protein transmembrane transport
+vgrG3	665029.EAMY_3003	STRING clusters	CL:5961	Mixed, incl. TssC1, C-terminal, and Hcp1-like superfamily
+vgrG3	665029.EAMY_3003	KEGG	eam03070	Bacterial secretion system
+vgrG3	665029.EAMY_3003	COMPARTMENTS	GOCC:0018995	Host cellular component
+vgrG3	665029.EAMY_3003	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+vgrG3	665029.EAMY_3003	Pfam	PF05954	Phage tail baseplate hub (GPD)
+vgrG3	665029.EAMY_3003	InterPro	IPR006531	Gp5/Type VI secretion system Vgr protein, OB-fold domain
+vgrG3	665029.EAMY_3003	InterPro	IPR006533	Type VI secretion system, RhsGE-associated Vgr protein
+vgrG3	665029.EAMY_3003	InterPro	IPR017847	Type VI secretion system, RhsGE-associated Vgr family subset
+vgrG3	665029.EAMY_3003	InterPro	IPR037026	Vgr protein, OB-fold domain superfamily

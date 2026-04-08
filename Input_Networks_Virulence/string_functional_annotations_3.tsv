@@ -1,0 +1,1647 @@
+#node	identifier	category	term ID	term description
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0006810	Transport
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0008104	Protein localization
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0009306	Protein secretion
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0009987	Cellular process
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0015031	Protein transport
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0015628	Protein secretion by the type II secretion system
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0032940	Secretion by cell
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0033036	Macromolecule localization
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0045184	Establishment of protein localization
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0046903	Secretion
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0051179	Localization
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0051234	Establishment of localization
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0051641	Cellular localization
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0055085	Transmembrane transport
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0070727	Cellular macromolecule localization
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0071692	Protein localization to extracellular region
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0071702	Organic substance transport
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0071705	Nitrogen compound transport
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0071806	Protein transmembrane transport
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0098776	Protein transport across the cell outer membrane
+SBV49760.1	56449.XBLMG947_0534	GO Process	GO:0140352	Export from cell
+SBV49760.1	56449.XBLMG947_0534	GO Function	GO:0005488	Binding
+SBV49760.1	56449.XBLMG947_0534	GO Function	GO:0005515	Protein binding
+SBV49760.1	56449.XBLMG947_0534	GO Function	GO:0042802	Identical protein binding
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0009279	Cell outer membrane
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0015627	Type II protein secretion system complex
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0016020	Membrane
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0016021	Integral component of membrane
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0019867	Outer membrane
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0030312	External encapsulating structure
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0030313	Cell envelope
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0031224	Intrinsic component of membrane
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0031975	Envelope
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0032991	Protein-containing complex
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0071944	Cell periphery
+SBV49760.1	56449.XBLMG947_0534	GO Component	GO:0110165	Cellular anatomical entity
+SBV49760.1	56449.XBLMG947_0534	STRING clusters	CL:3889	Mixed, incl. Protein transport across the cell outer membrane, and Pilus organization
+SBV49760.1	56449.XBLMG947_0534	STRING clusters	CL:3891	Mixed, incl. Protein transport across the cell outer membrane, and Pilus organization
+SBV49760.1	56449.XBLMG947_0534	STRING clusters	CL:3943	Protein transport across the cell outer membrane, and GspK, central domain superfamily
+SBV49760.1	56449.XBLMG947_0534	STRING clusters	CL:3944	Mixed, incl. Type II protein secretion system complex, and GspK, central domain superfamily
+SBV49760.1	56449.XBLMG947_0534	KEGG	map03070	Bacterial secretion system
+SBV49760.1	56449.XBLMG947_0534	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+SBV49760.1	56449.XBLMG947_0534	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+SBV49760.1	56449.XBLMG947_0534	UniProt Keywords	KW-0813	Transport
+SBV49760.1	56449.XBLMG947_0534	Pfam	PF00263	Bacterial type II and III secretion system protein
+SBV49760.1	56449.XBLMG947_0534	Pfam	PF03958	Bacterial type II/III secretion system short domain
+SBV49760.1	56449.XBLMG947_0534	InterPro	IPR001775	GspD/PilQ family
+SBV49760.1	56449.XBLMG947_0534	InterPro	IPR004845	Type II secretion system protein GspD, conserved site
+SBV49760.1	56449.XBLMG947_0534	InterPro	IPR004846	Type II/III secretion system
+SBV49760.1	56449.XBLMG947_0534	InterPro	IPR005644	NolW-like
+SBV49760.1	56449.XBLMG947_0534	InterPro	IPR013356	Type II secretion system protein GspD
+SBV49760.1	56449.XBLMG947_0534	InterPro	IPR038591	NolW-like superfamily
+SBV50058.1	56449.XBLMG947_0834	GO Function	GO:0005488	Binding
+SBV50058.1	56449.XBLMG947_0834	GO Component	GO:0016020	Membrane
+SBV50058.1	56449.XBLMG947_0834	GO Component	GO:0016021	Integral component of membrane
+SBV50058.1	56449.XBLMG947_0834	GO Component	GO:0031224	Intrinsic component of membrane
+SBV50058.1	56449.XBLMG947_0834	GO Component	GO:0110165	Cellular anatomical entity
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3241	Mixed, incl. Signal, and Transmembrane helix
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3242	Mixed, incl. Signal, and Transmembrane helix
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3243	Mixed, incl. Signal, and Transmembrane helix
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3244	Mixed, incl. Signal, and Cell cycle process
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3245	Mixed, incl. Signal, and Cell cycle process
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3246	Mixed, incl. Signal, and Cell cycle process
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3247	Mixed, incl. Signal, and Cell cycle process
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3248	Mixed, incl. Signal, and Cell cycle process
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3249	Mixed, incl. Cell cycle process, and Signal
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3250	Mixed, incl. Cell cycle process, and Signal
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3252	Mixed, incl. Signal, and Cell cycle process
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3254	Mixed, incl. Cell cycle process, and Signal
+SBV50058.1	56449.XBLMG947_0834	STRING clusters	CL:3384	Mixed, incl. Restriction endonuclease, and Polysaccharide biosynthesis protein
+SBV50058.1	56449.XBLMG947_0834	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV50058.1	56449.XBLMG947_0834	UniProt Keywords	KW-0472	Membrane
+SBV50058.1	56449.XBLMG947_0834	UniProt Keywords	KW-0812	Transmembrane
+SBV50058.1	56449.XBLMG947_0834	UniProt Keywords	KW-1133	Transmembrane helix
+SBV50058.1	56449.XBLMG947_0834	InterPro	IPR000253	Forkhead-associated (FHA) domain
+SBV50058.1	56449.XBLMG947_0834	InterPro	IPR008984	SMAD/FHA domain superfamily
+SBV50058.1	56449.XBLMG947_0834	InterPro	IPR032030	YscD, cytoplasmic domain
+SBV50058.1	56449.XBLMG947_0834	SMART	SM00240	Forkhead associated domain
+SBV50200.1	56449.XBLMG947_0977	GO Process	GO:0009987	Cellular process
+SBV50200.1	56449.XBLMG947_0977	GO Function	GO:0003824	Catalytic activity
+SBV50200.1	56449.XBLMG947_0977	GO Component	GO:0110165	Cellular anatomical entity
+SBV50200.1	56449.XBLMG947_0977	STRING clusters	CL:6616	Mixed, incl. Protein transmembrane transport, and Domain of unknown function DUF2235
+SBV50200.1	56449.XBLMG947_0977	STRING clusters	CL:6617	Mixed, incl. Protein transmembrane transport, and Domain of unknown function DUF2235
+SBV50200.1	56449.XBLMG947_0977	STRING clusters	CL:6618	Mixed, incl. Protein transmembrane transport, and Domain of unknown function DUF2235
+SBV50200.1	56449.XBLMG947_0977	STRING clusters	CL:6619	Mixed, incl. Protein transmembrane transport, and Domain of unknown function DUF2235
+SBV50200.1	56449.XBLMG947_0977	STRING clusters	CL:6621	Mixed, incl. Protein transmembrane transport, and Domain of unknown function DUF2235
+SBV50200.1	56449.XBLMG947_0977	STRING clusters	CL:6623	Mixed, incl. Protein transmembrane transport, and Domain of unknown function DUF2235
+SBV50200.1	56449.XBLMG947_0977	STRING clusters	CL:6673	Mixed, incl. Domain of unknown function DUF2235, and Cytokinin biosynthesis
+SBV50200.1	56449.XBLMG947_0977	KEGG	map02024	Quorum sensing
+SBV50200.1	56449.XBLMG947_0977	COMPARTMENTS	GOCC:0005576	Extracellular region
+SBV50200.1	56449.XBLMG947_0977	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV50200.1	56449.XBLMG947_0977	InterPro	IPR007685	RelA/SpoT
+SBV50200.1	56449.XBLMG947_0977	InterPro	IPR011989	Armadillo-like helical
+SBV50200.1	56449.XBLMG947_0977	InterPro	IPR016024	Armadillo-type fold
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0006807	Nitrogen compound metabolic process
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0008152	Metabolic process
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0016567	Protein ubiquitination
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0019538	Protein metabolic process
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0032446	Protein modification by small protein conjugation
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0036211	Protein modification process
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0043170	Macromolecule metabolic process
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0043412	Macromolecule modification
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0044238	Primary metabolic process
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0070647	Protein modification by small protein conjugation or removal
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:0071704	Organic substance metabolic process
+SBV50480.1	56449.XBLMG947_1260	GO Process	GO:1901564	Organonitrogen compound metabolic process
+SBV50480.1	56449.XBLMG947_1260	GO Function	GO:0003824	Catalytic activity
+SBV50480.1	56449.XBLMG947_1260	GO Function	GO:0004842	Ubiquitin-protein transferase activity
+SBV50480.1	56449.XBLMG947_1260	GO Function	GO:0016740	Transferase activity
+SBV50480.1	56449.XBLMG947_1260	GO Function	GO:0019787	Ubiquitin-like protein transferase activity
+SBV50480.1	56449.XBLMG947_1260	GO Function	GO:0140096	Catalytic activity, acting on a protein
+SBV50480.1	56449.XBLMG947_1260	GO Component	GO:0005576	Extracellular region
+SBV50480.1	56449.XBLMG947_1260	GO Component	GO:0018995	Host cellular component
+SBV50480.1	56449.XBLMG947_1260	GO Component	GO:0030430	Host cell cytoplasm
+SBV50480.1	56449.XBLMG947_1260	GO Component	GO:0033643	Host cell part
+SBV50480.1	56449.XBLMG947_1260	GO Component	GO:0033646	Host intracellular part
+SBV50480.1	56449.XBLMG947_1260	GO Component	GO:0043656	Host intracellular region
+SBV50480.1	56449.XBLMG947_1260	GO Component	GO:0043657	Host cell
+SBV50480.1	56449.XBLMG947_1260	GO Component	GO:0110165	Cellular anatomical entity
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4810	Mixed, incl. Signal, and DNA binding
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4811	Mixed, incl. Signal, and Protein kinase domain
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4812	Mixed, incl. Signal, and Pfam phage integrase family
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4815	Mixed, incl. Signal, and IucA / IucC family
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4817	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4819	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4821	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4823	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4824	Mostly uncharacterized, incl. Putative MetA-pathway of phenol degradation, and Leucine-rich repeats, outliers
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4826	Mostly uncharacterized, incl. Leucine-rich repeats, outliers, and Putative MetA-pathway of phenol degradation
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4828	Mostly uncharacterized, incl. Leucine-rich repeats, outliers, and Papain-like cysteine peptidase superfamily
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4832	Mostly uncharacterized, incl. START-like domain superfamily, and Leucine-rich repeats, outliers
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4834	Mostly uncharacterized, incl. START-like domain superfamily, and Leucine-rich repeats, outliers
+SBV50480.1	56449.XBLMG947_1260	STRING clusters	CL:4837	Mixed, incl. Leucine-rich repeats, outliers, and Protein kinase, ATP binding site
+SBV50480.1	56449.XBLMG947_1260	KEGG	map05132	Salmonella infection
+SBV50480.1	56449.XBLMG947_1260	Reactome	MAP-1643685	Disease
+SBV50480.1	56449.XBLMG947_1260	Reactome	MAP-5663205	Infectious disease
+SBV50480.1	56449.XBLMG947_1260	Reactome	MAP-8876384	Listeria monocytogenes entry into host cells
+SBV50480.1	56449.XBLMG947_1260	COMPARTMENTS	GOCC:0018995	Host cellular component
+SBV50480.1	56449.XBLMG947_1260	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV50480.1	56449.XBLMG947_1260	InterPro	IPR003591	Leucine-rich repeat, typical subtype
+SBV50480.1	56449.XBLMG947_1260	InterPro	IPR032675	Leucine-rich repeat domain superfamily
+SBV50480.1	56449.XBLMG947_1260	SMART	SM00370	Leucine-rich repeats, outliers
+SBV50713.1	56449.XBLMG947_1495	STRING clusters	CL:6408	Mostly uncharacterized, incl. Cellular response to DNA damage stimulus, and Vitamin B6 metabolic process
+SBV50713.1	56449.XBLMG947_1495	STRING clusters	CL:6518	Mostly uncharacterized, incl. Regulation of transport, and Ferroxidase activity
+SBV50713.1	56449.XBLMG947_1495	STRING clusters	CL:6519	Mostly uncharacterized, incl. Ferroxidase activity, and Regulation of protein targeting
+SBV50713.1	56449.XBLMG947_1495	STRING clusters	CL:6520	Mostly uncharacterized, incl. Ferroxidase activity, and Regulation of protein targeting
+SBV50713.1	56449.XBLMG947_1495	STRING clusters	CL:6574	Mixed, incl. CorA, cytoplasmic domain, and Electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity
+SBV50736.1	56449.XBLMG947_1518	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0006725	Cellular aromatic compound metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0006807	Nitrogen compound metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0008152	Metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0009987	Cellular process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0034641	Cellular nitrogen compound metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0044237	Cellular metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0044238	Primary metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0046483	Heterocycle metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:0071704	Organic substance metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:1901360	Organic cyclic compound metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Process	GO:1901564	Organonitrogen compound metabolic process
+SBV50755.1	56449.XBLMG947_1537	GO Function	GO:0003824	Catalytic activity
+SBV50755.1	56449.XBLMG947_1537	GO Function	GO:0016787	Hydrolase activity
+SBV50755.1	56449.XBLMG947_1537	GO Function	GO:0016798	Hydrolase activity, acting on glycosyl bonds
+SBV50755.1	56449.XBLMG947_1537	GO Function	GO:0016799	Hydrolase activity, hydrolyzing N-glycosyl compounds
+SBV50755.1	56449.XBLMG947_1537	GO Component	GO:0005622	Intracellular anatomical structure
+SBV50755.1	56449.XBLMG947_1537	GO Component	GO:0005737	Cytoplasm
+SBV50755.1	56449.XBLMG947_1537	GO Component	GO:0005829	Cytosol
+SBV50755.1	56449.XBLMG947_1537	GO Component	GO:0110165	Cellular anatomical entity
+SBV50755.1	56449.XBLMG947_1537	STRING clusters	CL:7901	Mostly uncharacterized, incl. Ribonucleoside hydrolase-like, and Putative transposase of IS4/5 family (DUF4096)
+SBV50755.1	56449.XBLMG947_1537	STRING clusters	CL:7905	Ribonucleoside hydrolase-like, and Extracellular region
+SBV50755.1	56449.XBLMG947_1537	KEGG	map00230	Purine metabolism
+SBV50755.1	56449.XBLMG947_1537	KEGG	map00760	Nicotinate and nicotinamide metabolism
+SBV50755.1	56449.XBLMG947_1537	KEGG	map01100	Metabolic pathways
+SBV50755.1	56449.XBLMG947_1537	Pfam	PF01156	Inosine-uridine preferring nucleoside hydrolase
+SBV50755.1	56449.XBLMG947_1537	InterPro	IPR001910	Inosine/uridine-preferring nucleoside hydrolase domain
+SBV50755.1	56449.XBLMG947_1537	InterPro	IPR036452	Ribonucleoside hydrolase-like
+SBV50971.1	56449.XBLMG947_1754	GO Process	GO:0001539	Cilium or flagellum-dependent cell motility
+SBV50971.1	56449.XBLMG947_1754	GO Process	GO:0009987	Cellular process
+SBV50971.1	56449.XBLMG947_1754	GO Process	GO:0048870	Cell motility
+SBV50971.1	56449.XBLMG947_1754	GO Process	GO:0071973	Bacterial-type flagellum-dependent cell motility
+SBV50971.1	56449.XBLMG947_1754	GO Process	GO:0097588	Archaeal or bacterial-type flagellum-dependent cell motility
+SBV50971.1	56449.XBLMG947_1754	GO Component	GO:0009288	Bacterial-type flagellum
+SBV50971.1	56449.XBLMG947_1754	GO Component	GO:0009425	Bacterial-type flagellum basal body
+SBV50971.1	56449.XBLMG947_1754	GO Component	GO:0030694	Bacterial-type flagellum basal body, rod
+SBV50971.1	56449.XBLMG947_1754	GO Component	GO:0042995	Cell projection
+SBV50971.1	56449.XBLMG947_1754	GO Component	GO:0043226	Organelle
+SBV50971.1	56449.XBLMG947_1754	GO Component	GO:0043228	Non-membrane-bounded organelle
+SBV50971.1	56449.XBLMG947_1754	GO Component	GO:0110165	Cellular anatomical entity
+SBV50971.1	56449.XBLMG947_1754	STRING clusters	CL:4470	Cilium, and STAS domain
+SBV50971.1	56449.XBLMG947_1754	STRING clusters	CL:4471	Cilium
+SBV50971.1	56449.XBLMG947_1754	STRING clusters	CL:4474	Cilium
+SBV50971.1	56449.XBLMG947_1754	STRING clusters	CL:4477	Cilium
+SBV50971.1	56449.XBLMG947_1754	STRING clusters	CL:4479	Cilium
+SBV50971.1	56449.XBLMG947_1754	STRING clusters	CL:4480	Cilium
+SBV50971.1	56449.XBLMG947_1754	STRING clusters	CL:4482	Bacterial flagellum
+SBV50971.1	56449.XBLMG947_1754	STRING clusters	CL:4484	Flagellar basal-body/hook protein, C-terminal domain, and Bacterial flagellum biogenesis
+SBV50971.1	56449.XBLMG947_1754	KEGG	map02040	Flagellar assembly
+SBV50971.1	56449.XBLMG947_1754	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV50971.1	56449.XBLMG947_1754	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV50971.1	56449.XBLMG947_1754	COMPARTMENTS	GOCC:0043226	Organelle
+SBV50971.1	56449.XBLMG947_1754	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV50971.1	56449.XBLMG947_1754	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV50971.1	56449.XBLMG947_1754	UniProt Keywords	KW-0282	Flagellum
+SBV50971.1	56449.XBLMG947_1754	UniProt Keywords	KW-0966	Cell projection
+SBV50971.1	56449.XBLMG947_1754	UniProt Keywords	KW-0969	Cilium
+SBV50971.1	56449.XBLMG947_1754	UniProt Keywords	KW-0975	Bacterial flagellum
+SBV50971.1	56449.XBLMG947_1754	Pfam	PF00460	Flagella basal body rod protein
+SBV50971.1	56449.XBLMG947_1754	Pfam	PF06429	Flagellar basal body rod FlgEFG protein C-terminal
+SBV50971.1	56449.XBLMG947_1754	InterPro	IPR001444	Flagellar basal body rod protein, N-terminal
+SBV50971.1	56449.XBLMG947_1754	InterPro	IPR006299	Flagellar basal-body rod protein FlgC
+SBV50971.1	56449.XBLMG947_1754	InterPro	IPR010930	Flagellar basal-body/hook protein, C-terminal domain
+SBV50971.1	56449.XBLMG947_1754	InterPro	IPR019776	Flagellar basal body rod protein, conserved site
+SBV51003.1	56449.XBLMG947_1786	STRING clusters	CL:7901	Mostly uncharacterized, incl. Ribonucleoside hydrolase-like, and Putative transposase of IS4/5 family (DUF4096)
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0001539	Cilium or flagellum-dependent cell motility
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0006935	Chemotaxis
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0009605	Response to external stimulus
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0009987	Cellular process
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0040011	Locomotion
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0042221	Response to chemical
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0042330	Taxis
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0048870	Cell motility
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0050896	Response to stimulus
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0071973	Bacterial-type flagellum-dependent cell motility
+SBV51010.1	56449.XBLMG947_1793	GO Process	GO:0097588	Archaeal or bacterial-type flagellum-dependent cell motility
+SBV51010.1	56449.XBLMG947_1793	GO Function	GO:0003774	Cytoskeletal motor activity
+SBV51010.1	56449.XBLMG947_1793	GO Component	GO:0005886	Plasma membrane
+SBV51010.1	56449.XBLMG947_1793	GO Component	GO:0009288	Bacterial-type flagellum
+SBV51010.1	56449.XBLMG947_1793	GO Component	GO:0009425	Bacterial-type flagellum basal body
+SBV51010.1	56449.XBLMG947_1793	GO Component	GO:0016020	Membrane
+SBV51010.1	56449.XBLMG947_1793	GO Component	GO:0042995	Cell projection
+SBV51010.1	56449.XBLMG947_1793	GO Component	GO:0043226	Organelle
+SBV51010.1	56449.XBLMG947_1793	GO Component	GO:0043228	Non-membrane-bounded organelle
+SBV51010.1	56449.XBLMG947_1793	GO Component	GO:0071944	Cell periphery
+SBV51010.1	56449.XBLMG947_1793	GO Component	GO:0110165	Cellular anatomical entity
+SBV51010.1	56449.XBLMG947_1793	STRING clusters	CL:4470	Cilium, and STAS domain
+SBV51010.1	56449.XBLMG947_1793	STRING clusters	CL:4471	Cilium
+SBV51010.1	56449.XBLMG947_1793	STRING clusters	CL:4474	Cilium
+SBV51010.1	56449.XBLMG947_1793	STRING clusters	CL:4477	Cilium
+SBV51010.1	56449.XBLMG947_1793	STRING clusters	CL:4479	Cilium
+SBV51010.1	56449.XBLMG947_1793	STRING clusters	CL:4480	Cilium
+SBV51010.1	56449.XBLMG947_1793	STRING clusters	CL:4505	Flagellar rotation
+SBV51010.1	56449.XBLMG947_1793	KEGG	map02030	Bacterial chemotaxis
+SBV51010.1	56449.XBLMG947_1793	KEGG	map02040	Flagellar assembly
+SBV51010.1	56449.XBLMG947_1793	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV51010.1	56449.XBLMG947_1793	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+SBV51010.1	56449.XBLMG947_1793	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV51010.1	56449.XBLMG947_1793	COMPARTMENTS	GOCC:0043226	Organelle
+SBV51010.1	56449.XBLMG947_1793	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV51010.1	56449.XBLMG947_1793	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51010.1	56449.XBLMG947_1793	UniProt Keywords	KW-0145	Chemotaxis
+SBV51010.1	56449.XBLMG947_1793	UniProt Keywords	KW-0282	Flagellum
+SBV51010.1	56449.XBLMG947_1793	UniProt Keywords	KW-0283	Flagellar rotation
+SBV51010.1	56449.XBLMG947_1793	UniProt Keywords	KW-0472	Membrane
+SBV51010.1	56449.XBLMG947_1793	UniProt Keywords	KW-0966	Cell projection
+SBV51010.1	56449.XBLMG947_1793	UniProt Keywords	KW-0969	Cilium
+SBV51010.1	56449.XBLMG947_1793	UniProt Keywords	KW-0975	Bacterial flagellum
+SBV51010.1	56449.XBLMG947_1793	UniProt Keywords	KW-0997	Cell inner membrane
+SBV51010.1	56449.XBLMG947_1793	UniProt Keywords	KW-1003	Cell membrane
+SBV51010.1	56449.XBLMG947_1793	Pfam	PF01706	FliG C-terminal domain
+SBV51010.1	56449.XBLMG947_1793	Pfam	PF14842	FliG N-terminal domain
+SBV51010.1	56449.XBLMG947_1793	InterPro	IPR000090	Flagellar motor switch protein FliG
+SBV51010.1	56449.XBLMG947_1793	InterPro	IPR011002	Flagellar motor switch protein FliG, alpha-helical
+SBV51010.1	56449.XBLMG947_1793	InterPro	IPR023087	Flagellar motor switch protein FliG, C-terminal
+SBV51010.1	56449.XBLMG947_1793	InterPro	IPR028263	Flagellar motor switch protein FliG, N-terminal domain
+SBV51010.1	56449.XBLMG947_1793	InterPro	IPR032779	Flagellar motor switch protein FliG, middle domain
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0001539	Cilium or flagellum-dependent cell motility
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0006996	Organelle organization
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0009987	Cellular process
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0016043	Cellular component organization
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0030030	Cell projection organization
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0044781	Bacterial-type flagellum organization
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0048870	Cell motility
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0071840	Cellular component organization or biogenesis
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0071973	Bacterial-type flagellum-dependent cell motility
+SBV51011.1	56449.XBLMG947_1794	GO Process	GO:0097588	Archaeal or bacterial-type flagellum-dependent cell motility
+SBV51011.1	56449.XBLMG947_1794	GO Function	GO:0003774	Cytoskeletal motor activity
+SBV51011.1	56449.XBLMG947_1794	GO Component	GO:0005622	Intracellular anatomical structure
+SBV51011.1	56449.XBLMG947_1794	GO Component	GO:0005737	Cytoplasm
+SBV51011.1	56449.XBLMG947_1794	GO Component	GO:0009288	Bacterial-type flagellum
+SBV51011.1	56449.XBLMG947_1794	GO Component	GO:0042995	Cell projection
+SBV51011.1	56449.XBLMG947_1794	GO Component	GO:0043226	Organelle
+SBV51011.1	56449.XBLMG947_1794	GO Component	GO:0043228	Non-membrane-bounded organelle
+SBV51011.1	56449.XBLMG947_1794	GO Component	GO:0110165	Cellular anatomical entity
+SBV51011.1	56449.XBLMG947_1794	STRING clusters	CL:4470	Cilium, and STAS domain
+SBV51011.1	56449.XBLMG947_1794	STRING clusters	CL:4471	Cilium
+SBV51011.1	56449.XBLMG947_1794	STRING clusters	CL:4474	Cilium
+SBV51011.1	56449.XBLMG947_1794	STRING clusters	CL:4477	Cilium
+SBV51011.1	56449.XBLMG947_1794	STRING clusters	CL:4479	Cilium
+SBV51011.1	56449.XBLMG947_1794	STRING clusters	CL:4480	Cilium
+SBV51011.1	56449.XBLMG947_1794	KEGG	map02040	Flagellar assembly
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0005622	Intracellular
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0005737	Cytoplasm
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0005829	Cytosol
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0043226	Organelle
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51011.1	56449.XBLMG947_1794	COMPARTMENTS	GOCC:0120102	Bacterial-type flagellum secretion apparatus
+SBV51011.1	56449.XBLMG947_1794	UniProt Keywords	KW-0282	Flagellum
+SBV51011.1	56449.XBLMG947_1794	UniProt Keywords	KW-0966	Cell projection
+SBV51011.1	56449.XBLMG947_1794	UniProt Keywords	KW-0969	Cilium
+SBV51011.1	56449.XBLMG947_1794	Pfam	PF02108	Flagellar assembly protein FliH
+SBV51011.1	56449.XBLMG947_1794	InterPro	IPR018035	Flagellar assembly protein FliH/Type III secretion system HrpE
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006163	Purine nucleotide metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006164	Purine nucleotide biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006725	Cellular aromatic compound metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006753	Nucleoside phosphate metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006754	ATP biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006793	Phosphorus metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006807	Nitrogen compound metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006810	Transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006811	Ion transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0006812	Cation transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0008104	Protein localization
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0008152	Metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009058	Biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009117	Nucleotide metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009141	Nucleoside triphosphate metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009142	Nucleoside triphosphate biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009144	Purine nucleoside triphosphate metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009145	Purine nucleoside triphosphate biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009150	Purine ribonucleotide metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009152	Purine ribonucleotide biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009165	Nucleotide biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009199	Ribonucleoside triphosphate metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009201	Ribonucleoside triphosphate biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009205	Purine ribonucleoside triphosphate metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009206	Purine ribonucleoside triphosphate biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009259	Ribonucleotide metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009260	Ribonucleotide biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009306	Protein secretion
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0009987	Cellular process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0015031	Protein transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0015986	Proton motive force-driven ATP synthesis
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0018130	Heterocycle biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0019438	Aromatic compound biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0019637	Organophosphate metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0019693	Ribose phosphate metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0030254	Protein secretion by the type III secretion system
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0032940	Secretion by cell
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0033036	Macromolecule localization
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0034220	Ion transmembrane transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0034641	Cellular nitrogen compound metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0044237	Cellular metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0044238	Primary metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0044249	Cellular biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0044271	Cellular nitrogen compound biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0044281	Small molecule metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0045184	Establishment of protein localization
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0046034	ATP metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0046390	Ribose phosphate biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0046483	Heterocycle metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0046903	Secretion
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0051179	Localization
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0051234	Establishment of localization
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0051641	Cellular localization
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0055085	Transmembrane transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0055086	Nucleobase-containing small molecule metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0071702	Organic substance transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0071704	Organic substance metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0071705	Nitrogen compound transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0071806	Protein transmembrane transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0072521	Purine-containing compound metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0072522	Purine-containing compound biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0090407	Organophosphate biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0098655	Cation transmembrane transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0098660	Inorganic ion transmembrane transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0098662	Inorganic cation transmembrane transport
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:0140352	Export from cell
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:1901293	Nucleoside phosphate biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:1901360	Organic cyclic compound metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:1901362	Organic cyclic compound biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:1901564	Organonitrogen compound metabolic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:1901566	Organonitrogen compound biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:1901576	Organic substance biosynthetic process
+SBV51012.1	56449.XBLMG947_1795	GO Process	GO:1902600	Proton transmembrane transport
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0000166	Nucleotide binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0003824	Catalytic activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0005215	Transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0005488	Binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0005524	ATP binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0008324	Cation transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0009678	Pyrophosphate hydrolysis-driven proton transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0015075	Ion transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0015078	Proton transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0015399	Primary active transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0016462	Pyrophosphatase activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0016787	Hydrolase activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0016887	ATP hydrolysis activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0017076	Purine nucleotide binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0017111	Nucleoside-triphosphatase activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0019829	ATPase-coupled cation transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0022804	Active transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0022853	Active ion transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0022857	Transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0030554	Adenyl nucleotide binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0032553	Ribonucleotide binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0032555	Purine ribonucleotide binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0032559	Adenyl ribonucleotide binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0036094	Small molecule binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0042625	ATPase-coupled ion transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0042626	ATPase-coupled transmembrane transporter activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0043167	Ion binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0043168	Anion binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0046961	Proton-transporting ATPase activity, rotational mechanism
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0097159	Organic cyclic compound binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0097367	Carbohydrate derivative binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:0140657	ATP-dependent activity
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:1901265	Nucleoside phosphate binding
+SBV51012.1	56449.XBLMG947_1795	GO Function	GO:1901363	Heterocyclic compound binding
+SBV51012.1	56449.XBLMG947_1795	GO Component	GO:0005622	Intracellular anatomical structure
+SBV51012.1	56449.XBLMG947_1795	GO Component	GO:0005737	Cytoplasm
+SBV51012.1	56449.XBLMG947_1795	GO Component	GO:0030257	Type III protein secretion system complex
+SBV51012.1	56449.XBLMG947_1795	GO Component	GO:0032991	Protein-containing complex
+SBV51012.1	56449.XBLMG947_1795	GO Component	GO:0110165	Cellular anatomical entity
+SBV51012.1	56449.XBLMG947_1795	STRING clusters	CL:4470	Cilium, and STAS domain
+SBV51012.1	56449.XBLMG947_1795	STRING clusters	CL:4471	Cilium
+SBV51012.1	56449.XBLMG947_1795	STRING clusters	CL:4474	Cilium
+SBV51012.1	56449.XBLMG947_1795	STRING clusters	CL:4477	Cilium
+SBV51012.1	56449.XBLMG947_1795	STRING clusters	CL:4479	Cilium
+SBV51012.1	56449.XBLMG947_1795	STRING clusters	CL:4480	Cilium
+SBV51012.1	56449.XBLMG947_1795	KEGG	map02040	Flagellar assembly
+SBV51012.1	56449.XBLMG947_1795	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+SBV51012.1	56449.XBLMG947_1795	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+SBV51012.1	56449.XBLMG947_1795	InterPro	IPR000194	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain
+SBV51012.1	56449.XBLMG947_1795	InterPro	IPR003593	AAA+ ATPase domain
+SBV51012.1	56449.XBLMG947_1795	InterPro	IPR005714	ATPase, type III secretion system, FliI/YscN
+SBV51012.1	56449.XBLMG947_1795	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+SBV51012.1	56449.XBLMG947_1795	InterPro	IPR040627	T3SS EscN ATPase, C-terminal
+SBV51012.1	56449.XBLMG947_1795	SMART	SM00382	ATPases associated with a variety of cellular activities
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0001539	Cilium or flagellum-dependent cell motility
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0006935	Chemotaxis
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0009605	Response to external stimulus
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0009987	Cellular process
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0040011	Locomotion
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0042221	Response to chemical
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0042330	Taxis
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0048870	Cell motility
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0050896	Response to stimulus
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0071973	Bacterial-type flagellum-dependent cell motility
+SBV51017.1	56449.XBLMG947_1800	GO Process	GO:0097588	Archaeal or bacterial-type flagellum-dependent cell motility
+SBV51017.1	56449.XBLMG947_1800	GO Function	GO:0003774	Cytoskeletal motor activity
+SBV51017.1	56449.XBLMG947_1800	GO Component	GO:0005886	Plasma membrane
+SBV51017.1	56449.XBLMG947_1800	GO Component	GO:0009288	Bacterial-type flagellum
+SBV51017.1	56449.XBLMG947_1800	GO Component	GO:0009425	Bacterial-type flagellum basal body
+SBV51017.1	56449.XBLMG947_1800	GO Component	GO:0016020	Membrane
+SBV51017.1	56449.XBLMG947_1800	GO Component	GO:0042995	Cell projection
+SBV51017.1	56449.XBLMG947_1800	GO Component	GO:0043226	Organelle
+SBV51017.1	56449.XBLMG947_1800	GO Component	GO:0043228	Non-membrane-bounded organelle
+SBV51017.1	56449.XBLMG947_1800	GO Component	GO:0071944	Cell periphery
+SBV51017.1	56449.XBLMG947_1800	GO Component	GO:0110165	Cellular anatomical entity
+SBV51017.1	56449.XBLMG947_1800	STRING clusters	CL:4470	Cilium, and STAS domain
+SBV51017.1	56449.XBLMG947_1800	STRING clusters	CL:4471	Cilium
+SBV51017.1	56449.XBLMG947_1800	STRING clusters	CL:4474	Cilium
+SBV51017.1	56449.XBLMG947_1800	STRING clusters	CL:4477	Cilium
+SBV51017.1	56449.XBLMG947_1800	STRING clusters	CL:4479	Cilium
+SBV51017.1	56449.XBLMG947_1800	STRING clusters	CL:4480	Cilium
+SBV51017.1	56449.XBLMG947_1800	STRING clusters	CL:4505	Flagellar rotation
+SBV51017.1	56449.XBLMG947_1800	KEGG	map02030	Bacterial chemotaxis
+SBV51017.1	56449.XBLMG947_1800	KEGG	map02040	Flagellar assembly
+SBV51017.1	56449.XBLMG947_1800	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV51017.1	56449.XBLMG947_1800	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+SBV51017.1	56449.XBLMG947_1800	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV51017.1	56449.XBLMG947_1800	COMPARTMENTS	GOCC:0043226	Organelle
+SBV51017.1	56449.XBLMG947_1800	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV51017.1	56449.XBLMG947_1800	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51017.1	56449.XBLMG947_1800	UniProt Keywords	KW-0145	Chemotaxis
+SBV51017.1	56449.XBLMG947_1800	UniProt Keywords	KW-0282	Flagellum
+SBV51017.1	56449.XBLMG947_1800	UniProt Keywords	KW-0283	Flagellar rotation
+SBV51017.1	56449.XBLMG947_1800	UniProt Keywords	KW-0472	Membrane
+SBV51017.1	56449.XBLMG947_1800	UniProt Keywords	KW-0966	Cell projection
+SBV51017.1	56449.XBLMG947_1800	UniProt Keywords	KW-0969	Cilium
+SBV51017.1	56449.XBLMG947_1800	UniProt Keywords	KW-0975	Bacterial flagellum
+SBV51017.1	56449.XBLMG947_1800	UniProt Keywords	KW-1003	Cell membrane
+SBV51017.1	56449.XBLMG947_1800	Pfam	PF01052	Type III flagellar switch regulator (C-ring) FliN C-term
+SBV51017.1	56449.XBLMG947_1800	InterPro	IPR001172	Flagellar motor switch FliN/Type III secretion HrcQb
+SBV51017.1	56449.XBLMG947_1800	InterPro	IPR001543	Flagellar motor switch protein FliN-like, C-terminal domain
+SBV51017.1	56449.XBLMG947_1800	InterPro	IPR012826	Flagellar motor switch FliN
+SBV51017.1	56449.XBLMG947_1800	InterPro	IPR036429	SpoA-like superfamily
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0006810	Transport
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0006996	Organelle organization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0008104	Protein localization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0009306	Protein secretion
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0009987	Cellular process
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0015031	Protein transport
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0016043	Cellular component organization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0030030	Cell projection organization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0032940	Secretion by cell
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0033036	Macromolecule localization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0044781	Bacterial-type flagellum organization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0045184	Establishment of protein localization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0046903	Secretion
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0051179	Localization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0051234	Establishment of localization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0051641	Cellular localization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0071702	Organic substance transport
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0071705	Nitrogen compound transport
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0071840	Cellular component organization or biogenesis
+SBV51019.1	56449.XBLMG947_1803	GO Process	GO:0140352	Export from cell
+SBV51019.1	56449.XBLMG947_1803	GO Function	GO:0003824	Catalytic activity
+SBV51019.1	56449.XBLMG947_1803	GO Function	GO:0016787	Hydrolase activity
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0005886	Plasma membrane
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0009288	Bacterial-type flagellum
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0009425	Bacterial-type flagellum basal body
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0016020	Membrane
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0016021	Integral component of membrane
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0031224	Intrinsic component of membrane
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0042995	Cell projection
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0043226	Organelle
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0043228	Non-membrane-bounded organelle
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0071944	Cell periphery
+SBV51019.1	56449.XBLMG947_1803	GO Component	GO:0110165	Cellular anatomical entity
+SBV51019.1	56449.XBLMG947_1803	STRING clusters	CL:4470	Cilium, and STAS domain
+SBV51019.1	56449.XBLMG947_1803	STRING clusters	CL:4471	Cilium
+SBV51019.1	56449.XBLMG947_1803	STRING clusters	CL:4474	Cilium
+SBV51019.1	56449.XBLMG947_1803	STRING clusters	CL:4477	Cilium
+SBV51019.1	56449.XBLMG947_1803	KEGG	map02040	Flagellar assembly
+SBV51019.1	56449.XBLMG947_1803	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV51019.1	56449.XBLMG947_1803	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+SBV51019.1	56449.XBLMG947_1803	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV51019.1	56449.XBLMG947_1803	COMPARTMENTS	GOCC:0043226	Organelle
+SBV51019.1	56449.XBLMG947_1803	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV51019.1	56449.XBLMG947_1803	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51019.1	56449.XBLMG947_1803	UniProt Keywords	KW-0282	Flagellum
+SBV51019.1	56449.XBLMG947_1803	UniProt Keywords	KW-0472	Membrane
+SBV51019.1	56449.XBLMG947_1803	UniProt Keywords	KW-0812	Transmembrane
+SBV51019.1	56449.XBLMG947_1803	UniProt Keywords	KW-0966	Cell projection
+SBV51019.1	56449.XBLMG947_1803	UniProt Keywords	KW-0969	Cilium
+SBV51019.1	56449.XBLMG947_1803	UniProt Keywords	KW-1133	Transmembrane helix
+SBV51019.1	56449.XBLMG947_1803	Pfam	PF00813	FliP family
+SBV51019.1	56449.XBLMG947_1803	InterPro	IPR005838	Type III secretion system inner membrane P protein
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0006605	Protein targeting
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0006810	Transport
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0006886	Intracellular protein transport
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0006996	Organelle organization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0008104	Protein localization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0009987	Cellular process
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0015031	Protein transport
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0016043	Cellular component organization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0022607	Cellular component assembly
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0030030	Cell projection organization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0030031	Cell projection assembly
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0033036	Macromolecule localization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0044085	Cellular component biogenesis
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0044780	Bacterial-type flagellum assembly
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0044781	Bacterial-type flagellum organization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0045184	Establishment of protein localization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0046907	Intracellular transport
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0051179	Localization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0051234	Establishment of localization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0051641	Cellular localization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0051649	Establishment of localization in cell
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0070925	Organelle assembly
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0071702	Organic substance transport
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0071705	Nitrogen compound transport
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0071840	Cellular component organization or biogenesis
+SBV51021.1	56449.XBLMG947_1805	GO Process	GO:0140694	Non-membrane-bounded organelle assembly
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0005886	Plasma membrane
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0009288	Bacterial-type flagellum
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0009425	Bacterial-type flagellum basal body
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0016020	Membrane
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0016021	Integral component of membrane
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0031224	Intrinsic component of membrane
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0042995	Cell projection
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0043226	Organelle
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0043228	Non-membrane-bounded organelle
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0071944	Cell periphery
+SBV51021.1	56449.XBLMG947_1805	GO Component	GO:0110165	Cellular anatomical entity
+SBV51021.1	56449.XBLMG947_1805	STRING clusters	CL:4470	Cilium, and STAS domain
+SBV51021.1	56449.XBLMG947_1805	STRING clusters	CL:4471	Cilium
+SBV51021.1	56449.XBLMG947_1805	STRING clusters	CL:4474	Cilium
+SBV51021.1	56449.XBLMG947_1805	STRING clusters	CL:4477	Cilium
+SBV51021.1	56449.XBLMG947_1805	KEGG	map02040	Flagellar assembly
+SBV51021.1	56449.XBLMG947_1805	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV51021.1	56449.XBLMG947_1805	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+SBV51021.1	56449.XBLMG947_1805	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV51021.1	56449.XBLMG947_1805	COMPARTMENTS	GOCC:0043226	Organelle
+SBV51021.1	56449.XBLMG947_1805	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV51021.1	56449.XBLMG947_1805	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51021.1	56449.XBLMG947_1805	UniProt Keywords	KW-0282	Flagellum
+SBV51021.1	56449.XBLMG947_1805	UniProt Keywords	KW-0472	Membrane
+SBV51021.1	56449.XBLMG947_1805	UniProt Keywords	KW-0812	Transmembrane
+SBV51021.1	56449.XBLMG947_1805	UniProt Keywords	KW-0966	Cell projection
+SBV51021.1	56449.XBLMG947_1805	UniProt Keywords	KW-0969	Cilium
+SBV51021.1	56449.XBLMG947_1805	UniProt Keywords	KW-0975	Bacterial flagellum
+SBV51021.1	56449.XBLMG947_1805	UniProt Keywords	KW-1003	Cell membrane
+SBV51021.1	56449.XBLMG947_1805	UniProt Keywords	KW-1133	Transmembrane helix
+SBV51021.1	56449.XBLMG947_1805	Pfam	PF01311	Bacterial export proteins, family 1
+SBV51021.1	56449.XBLMG947_1805	InterPro	IPR002010	Type III secretion system inner membrane R protein
+SBV51021.1	56449.XBLMG947_1805	InterPro	IPR006303	Flagellar biosynthesis protein FliR
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0006807	Nitrogen compound metabolic process
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0008152	Metabolic process
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0016567	Protein ubiquitination
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0019538	Protein metabolic process
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0032446	Protein modification by small protein conjugation
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0036211	Protein modification process
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0043170	Macromolecule metabolic process
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0043412	Macromolecule modification
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0044238	Primary metabolic process
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0070647	Protein modification by small protein conjugation or removal
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:0071704	Organic substance metabolic process
+SBV51235.1	56449.XBLMG947_2021	GO Process	GO:1901564	Organonitrogen compound metabolic process
+SBV51235.1	56449.XBLMG947_2021	GO Function	GO:0003824	Catalytic activity
+SBV51235.1	56449.XBLMG947_2021	GO Function	GO:0004842	Ubiquitin-protein transferase activity
+SBV51235.1	56449.XBLMG947_2021	GO Function	GO:0016740	Transferase activity
+SBV51235.1	56449.XBLMG947_2021	GO Function	GO:0019787	Ubiquitin-like protein transferase activity
+SBV51235.1	56449.XBLMG947_2021	GO Function	GO:0140096	Catalytic activity, acting on a protein
+SBV51235.1	56449.XBLMG947_2021	GO Component	GO:0005576	Extracellular region
+SBV51235.1	56449.XBLMG947_2021	GO Component	GO:0018995	Host cellular component
+SBV51235.1	56449.XBLMG947_2021	GO Component	GO:0030430	Host cell cytoplasm
+SBV51235.1	56449.XBLMG947_2021	GO Component	GO:0033643	Host cell part
+SBV51235.1	56449.XBLMG947_2021	GO Component	GO:0033646	Host intracellular part
+SBV51235.1	56449.XBLMG947_2021	GO Component	GO:0043656	Host intracellular region
+SBV51235.1	56449.XBLMG947_2021	GO Component	GO:0043657	Host cell
+SBV51235.1	56449.XBLMG947_2021	GO Component	GO:0110165	Cellular anatomical entity
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4810	Mixed, incl. Signal, and DNA binding
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4811	Mixed, incl. Signal, and Protein kinase domain
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4812	Mixed, incl. Signal, and Pfam phage integrase family
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4815	Mixed, incl. Signal, and IucA / IucC family
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4817	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4819	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4821	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4823	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4824	Mostly uncharacterized, incl. Putative MetA-pathway of phenol degradation, and Leucine-rich repeats, outliers
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4826	Mostly uncharacterized, incl. Leucine-rich repeats, outliers, and Putative MetA-pathway of phenol degradation
+SBV51235.1	56449.XBLMG947_2021	STRING clusters	CL:4828	Mostly uncharacterized, incl. Leucine-rich repeats, outliers, and Papain-like cysteine peptidase superfamily
+SBV51235.1	56449.XBLMG947_2021	KEGG	map05132	Salmonella infection
+SBV51235.1	56449.XBLMG947_2021	Reactome	MAP-1643685	Disease
+SBV51235.1	56449.XBLMG947_2021	Reactome	MAP-5663205	Infectious disease
+SBV51235.1	56449.XBLMG947_2021	Reactome	MAP-8876384	Listeria monocytogenes entry into host cells
+SBV51235.1	56449.XBLMG947_2021	COMPARTMENTS	GOCC:0018995	Host cellular component
+SBV51235.1	56449.XBLMG947_2021	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51235.1	56449.XBLMG947_2021	UniProt Keywords	KW-0175	Coiled coil
+SBV51235.1	56449.XBLMG947_2021	InterPro	IPR003591	Leucine-rich repeat, typical subtype
+SBV51235.1	56449.XBLMG947_2021	InterPro	IPR032675	Leucine-rich repeat domain superfamily
+SBV51235.1	56449.XBLMG947_2021	SMART	SM00370	Leucine-rich repeats, outliers
+SBV51236.1	56449.XBLMG947_2022	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51236.1	56449.XBLMG947_2022	Pfam	PF05819	NolX protein
+SBV51236.1	56449.XBLMG947_2022	InterPro	IPR008718	NolX
+SBV51239.1	56449.XBLMG947_2026	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51239.1	56449.XBLMG947_2026	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51239.1	56449.XBLMG947_2026	STRING clusters	CL:4678	Uncharacterized
+SBV51239.1	56449.XBLMG947_2026	Pfam	PF05932	Tir chaperone protein (CesT) family
+SBV51239.1	56449.XBLMG947_2026	InterPro	IPR010261	Tir chaperone protein (CesT) family
+SBV51240.1	56449.XBLMG947_2027	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51240.1	56449.XBLMG947_2027	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51240.1	56449.XBLMG947_2027	STRING clusters	CL:4678	Uncharacterized
+SBV51241.1	56449.XBLMG947_2028	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51241.1	56449.XBLMG947_2028	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51241.1	56449.XBLMG947_2028	STRING clusters	CL:4678	Uncharacterized
+SBV51242.1	56449.XBLMG947_2029	GO Function	GO:0005488	Binding
+SBV51242.1	56449.XBLMG947_2029	GO Component	GO:0016020	Membrane
+SBV51242.1	56449.XBLMG947_2029	GO Component	GO:0016021	Integral component of membrane
+SBV51242.1	56449.XBLMG947_2029	GO Component	GO:0031224	Intrinsic component of membrane
+SBV51242.1	56449.XBLMG947_2029	GO Component	GO:0110165	Cellular anatomical entity
+SBV51242.1	56449.XBLMG947_2029	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51242.1	56449.XBLMG947_2029	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51242.1	56449.XBLMG947_2029	STRING clusters	CL:4678	Uncharacterized
+SBV51242.1	56449.XBLMG947_2029	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51243.1	56449.XBLMG947_2030	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51243.1	56449.XBLMG947_2030	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51243.1	56449.XBLMG947_2030	STRING clusters	CL:4678	Uncharacterized
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0006810	Transport
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0008104	Protein localization
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0009306	Protein secretion
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0009987	Cellular process
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0015031	Protein transport
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0032940	Secretion by cell
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0033036	Macromolecule localization
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0045184	Establishment of protein localization
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0046903	Secretion
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0051179	Localization
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0051234	Establishment of localization
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0051641	Cellular localization
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0071702	Organic substance transport
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0071705	Nitrogen compound transport
+SBV51244.1	56449.XBLMG947_2031	GO Process	GO:0140352	Export from cell
+SBV51244.1	56449.XBLMG947_2031	GO Component	GO:0005886	Plasma membrane
+SBV51244.1	56449.XBLMG947_2031	GO Component	GO:0016020	Membrane
+SBV51244.1	56449.XBLMG947_2031	GO Component	GO:0016021	Integral component of membrane
+SBV51244.1	56449.XBLMG947_2031	GO Component	GO:0031224	Intrinsic component of membrane
+SBV51244.1	56449.XBLMG947_2031	GO Component	GO:0071944	Cell periphery
+SBV51244.1	56449.XBLMG947_2031	GO Component	GO:0110165	Cellular anatomical entity
+SBV51244.1	56449.XBLMG947_2031	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51244.1	56449.XBLMG947_2031	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51244.1	56449.XBLMG947_2031	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51244.1	56449.XBLMG947_2031	STRING clusters	CL:4656	Mixed, incl. FliP family, and FHIPEP family
+SBV51244.1	56449.XBLMG947_2031	KEGG	map03070	Bacterial secretion system
+SBV51244.1	56449.XBLMG947_2031	UniProt Keywords	KW-0472	Membrane
+SBV51244.1	56449.XBLMG947_2031	UniProt Keywords	KW-0812	Transmembrane
+SBV51244.1	56449.XBLMG947_2031	UniProt Keywords	KW-1133	Transmembrane helix
+SBV51244.1	56449.XBLMG947_2031	Pfam	PF01313	Bacterial export proteins, family 3
+SBV51244.1	56449.XBLMG947_2031	InterPro	IPR002191	Bacterial export protein family 3
+SBV51244.1	56449.XBLMG947_2031	InterPro	IPR006306	Type III secretion protein HrpO
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0006810	Transport
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0008104	Protein localization
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0009306	Protein secretion
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0009987	Cellular process
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0015031	Protein transport
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0032940	Secretion by cell
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0033036	Macromolecule localization
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0045184	Establishment of protein localization
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0046903	Secretion
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0051179	Localization
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0051234	Establishment of localization
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0051641	Cellular localization
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0071702	Organic substance transport
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0071705	Nitrogen compound transport
+SBV51245.1	56449.XBLMG947_2032	GO Process	GO:0140352	Export from cell
+SBV51245.1	56449.XBLMG947_2032	GO Component	GO:0005886	Plasma membrane
+SBV51245.1	56449.XBLMG947_2032	GO Component	GO:0016020	Membrane
+SBV51245.1	56449.XBLMG947_2032	GO Component	GO:0016021	Integral component of membrane
+SBV51245.1	56449.XBLMG947_2032	GO Component	GO:0031224	Intrinsic component of membrane
+SBV51245.1	56449.XBLMG947_2032	GO Component	GO:0071944	Cell periphery
+SBV51245.1	56449.XBLMG947_2032	GO Component	GO:0110165	Cellular anatomical entity
+SBV51245.1	56449.XBLMG947_2032	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51245.1	56449.XBLMG947_2032	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51245.1	56449.XBLMG947_2032	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51245.1	56449.XBLMG947_2032	STRING clusters	CL:4656	Mixed, incl. FliP family, and FHIPEP family
+SBV51245.1	56449.XBLMG947_2032	KEGG	map03070	Bacterial secretion system
+SBV51245.1	56449.XBLMG947_2032	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV51245.1	56449.XBLMG947_2032	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+SBV51245.1	56449.XBLMG947_2032	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV51245.1	56449.XBLMG947_2032	COMPARTMENTS	GOCC:0043226	Organelle
+SBV51245.1	56449.XBLMG947_2032	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV51245.1	56449.XBLMG947_2032	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51245.1	56449.XBLMG947_2032	UniProt Keywords	KW-0472	Membrane
+SBV51245.1	56449.XBLMG947_2032	UniProt Keywords	KW-0812	Transmembrane
+SBV51245.1	56449.XBLMG947_2032	UniProt Keywords	KW-1003	Cell membrane
+SBV51245.1	56449.XBLMG947_2032	UniProt Keywords	KW-1133	Transmembrane helix
+SBV51245.1	56449.XBLMG947_2032	Pfam	PF00813	FliP family
+SBV51245.1	56449.XBLMG947_2032	InterPro	IPR005773	Yop virulence translocation protein R
+SBV51245.1	56449.XBLMG947_2032	InterPro	IPR005838	Type III secretion system inner membrane P protein
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0006810	Transport
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0008104	Protein localization
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0009306	Protein secretion
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0009987	Cellular process
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0015031	Protein transport
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0030254	Protein secretion by the type III secretion system
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0032940	Secretion by cell
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0033036	Macromolecule localization
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0045184	Establishment of protein localization
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0046903	Secretion
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0051179	Localization
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0051234	Establishment of localization
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0051641	Cellular localization
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0055085	Transmembrane transport
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0071702	Organic substance transport
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0071705	Nitrogen compound transport
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0071806	Protein transmembrane transport
+SBV51246.1	56449.XBLMG947_2033	GO Process	GO:0140352	Export from cell
+SBV51246.1	56449.XBLMG947_2033	GO Function	GO:0003774	Cytoskeletal motor activity
+SBV51246.1	56449.XBLMG947_2033	GO Component	GO:0009288	Bacterial-type flagellum
+SBV51246.1	56449.XBLMG947_2033	GO Component	GO:0009425	Bacterial-type flagellum basal body
+SBV51246.1	56449.XBLMG947_2033	GO Component	GO:0042995	Cell projection
+SBV51246.1	56449.XBLMG947_2033	GO Component	GO:0043226	Organelle
+SBV51246.1	56449.XBLMG947_2033	GO Component	GO:0043228	Non-membrane-bounded organelle
+SBV51246.1	56449.XBLMG947_2033	GO Component	GO:0110165	Cellular anatomical entity
+SBV51246.1	56449.XBLMG947_2033	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51246.1	56449.XBLMG947_2033	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51246.1	56449.XBLMG947_2033	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51246.1	56449.XBLMG947_2033	KEGG	map03070	Bacterial secretion system
+SBV51246.1	56449.XBLMG947_2033	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV51246.1	56449.XBLMG947_2033	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+SBV51246.1	56449.XBLMG947_2033	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV51246.1	56449.XBLMG947_2033	COMPARTMENTS	GOCC:0043226	Organelle
+SBV51246.1	56449.XBLMG947_2033	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV51246.1	56449.XBLMG947_2033	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51246.1	56449.XBLMG947_2033	UniProt Keywords	KW-0175	Coiled coil
+SBV51246.1	56449.XBLMG947_2033	Pfam	PF01052	Type III flagellar switch regulator (C-ring) FliN C-term
+SBV51246.1	56449.XBLMG947_2033	InterPro	IPR001543	Flagellar motor switch protein FliN-like, C-terminal domain
+SBV51246.1	56449.XBLMG947_2033	InterPro	IPR013385	Type III secretion system apparatus protein YscQ/HrcQ/SpaO
+SBV51246.1	56449.XBLMG947_2033	InterPro	IPR036429	SpoA-like superfamily
+SBV51247.1	56449.XBLMG947_2034	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51247.1	56449.XBLMG947_2034	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51247.1	56449.XBLMG947_2034	STRING clusters	CL:4678	Uncharacterized
+SBV51247.1	56449.XBLMG947_2034	Pfam	PF09483	Type III secretion protein (HpaP)
+SBV51247.1	56449.XBLMG947_2034	InterPro	IPR013390	Type III secretion protein HpaP
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0006810	Transport
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0008104	Protein localization
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0009306	Protein secretion
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0009987	Cellular process
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0015031	Protein transport
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0032940	Secretion by cell
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0033036	Macromolecule localization
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0045184	Establishment of protein localization
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0046903	Secretion
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0051179	Localization
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0051234	Establishment of localization
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0051641	Cellular localization
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0071702	Organic substance transport
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0071705	Nitrogen compound transport
+SBV51248.1	56449.XBLMG947_2035	GO Process	GO:0140352	Export from cell
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0000166	Nucleotide binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0005488	Binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0005524	ATP binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0017076	Purine nucleotide binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0030554	Adenyl nucleotide binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0032553	Ribonucleotide binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0032555	Purine ribonucleotide binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0032559	Adenyl ribonucleotide binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0036094	Small molecule binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0043167	Ion binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0043168	Anion binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0097159	Organic cyclic compound binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:0097367	Carbohydrate derivative binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:1901265	Nucleoside phosphate binding
+SBV51248.1	56449.XBLMG947_2035	GO Function	GO:1901363	Heterocyclic compound binding
+SBV51248.1	56449.XBLMG947_2035	GO Component	GO:0005886	Plasma membrane
+SBV51248.1	56449.XBLMG947_2035	GO Component	GO:0016020	Membrane
+SBV51248.1	56449.XBLMG947_2035	GO Component	GO:0016021	Integral component of membrane
+SBV51248.1	56449.XBLMG947_2035	GO Component	GO:0031224	Intrinsic component of membrane
+SBV51248.1	56449.XBLMG947_2035	GO Component	GO:0071944	Cell periphery
+SBV51248.1	56449.XBLMG947_2035	GO Component	GO:0110165	Cellular anatomical entity
+SBV51248.1	56449.XBLMG947_2035	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51248.1	56449.XBLMG947_2035	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51248.1	56449.XBLMG947_2035	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51248.1	56449.XBLMG947_2035	STRING clusters	CL:4656	Mixed, incl. FliP family, and FHIPEP family
+SBV51248.1	56449.XBLMG947_2035	KEGG	map03070	Bacterial secretion system
+SBV51248.1	56449.XBLMG947_2035	UniProt Keywords	KW-0472	Membrane
+SBV51248.1	56449.XBLMG947_2035	UniProt Keywords	KW-0812	Transmembrane
+SBV51248.1	56449.XBLMG947_2035	UniProt Keywords	KW-1133	Transmembrane helix
+SBV51248.1	56449.XBLMG947_2035	Pfam	PF00771	FHIPEP family
+SBV51248.1	56449.XBLMG947_2035	InterPro	IPR001712	Type III secretion system FHIPEP
+SBV51248.1	56449.XBLMG947_2035	InterPro	IPR025505	FHIPEP conserved site
+SBV51248.1	56449.XBLMG947_2035	InterPro	IPR042193	FHIPEP, domain 3
+SBV51248.1	56449.XBLMG947_2035	InterPro	IPR042194	FHIPEP, domain 1
+SBV51248.1	56449.XBLMG947_2035	InterPro	IPR042196	FHIPEP, domain 4
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0006810	Transport
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0008104	Protein localization
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0009306	Protein secretion
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0009987	Cellular process
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0015031	Protein transport
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0032940	Secretion by cell
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0033036	Macromolecule localization
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0045184	Establishment of protein localization
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0046903	Secretion
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0051179	Localization
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0051234	Establishment of localization
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0051641	Cellular localization
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0071702	Organic substance transport
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0071705	Nitrogen compound transport
+SBV51249.1	56449.XBLMG947_2036	GO Process	GO:0140352	Export from cell
+SBV51249.1	56449.XBLMG947_2036	GO Component	GO:0005886	Plasma membrane
+SBV51249.1	56449.XBLMG947_2036	GO Component	GO:0016020	Membrane
+SBV51249.1	56449.XBLMG947_2036	GO Component	GO:0016021	Integral component of membrane
+SBV51249.1	56449.XBLMG947_2036	GO Component	GO:0031224	Intrinsic component of membrane
+SBV51249.1	56449.XBLMG947_2036	GO Component	GO:0071944	Cell periphery
+SBV51249.1	56449.XBLMG947_2036	GO Component	GO:0110165	Cellular anatomical entity
+SBV51249.1	56449.XBLMG947_2036	STRING clusters	CL:4470	Cilium, and STAS domain
+SBV51249.1	56449.XBLMG947_2036	STRING clusters	CL:4471	Cilium
+SBV51249.1	56449.XBLMG947_2036	STRING clusters	CL:4474	Cilium
+SBV51249.1	56449.XBLMG947_2036	STRING clusters	CL:4477	Cilium
+SBV51249.1	56449.XBLMG947_2036	KEGG	map03070	Bacterial secretion system
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0005886	Plasma membrane
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0016020	Membrane
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0043226	Organelle
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0071944	Cell periphery
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51249.1	56449.XBLMG947_2036	COMPARTMENTS	GOCC:0120102	Bacterial-type flagellum secretion apparatus
+SBV51249.1	56449.XBLMG947_2036	UniProt Keywords	KW-0472	Membrane
+SBV51249.1	56449.XBLMG947_2036	UniProt Keywords	KW-0812	Transmembrane
+SBV51249.1	56449.XBLMG947_2036	UniProt Keywords	KW-1133	Transmembrane helix
+SBV51249.1	56449.XBLMG947_2036	Pfam	PF01312	FlhB HrpN YscU SpaS Family
+SBV51249.1	56449.XBLMG947_2036	InterPro	IPR006135	Type III secretion system substrate exporter
+SBV51249.1	56449.XBLMG947_2036	InterPro	IPR006307	Type III exporter system, secretion apparatus protein BsaZ
+SBV51249.1	56449.XBLMG947_2036	InterPro	IPR029025	Type III secretion system substrate exporter, C-terminal
+SBV51250.1	56449.XBLMG947_2037	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51250.1	56449.XBLMG947_2037	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51250.1	56449.XBLMG947_2037	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51250.1	56449.XBLMG947_2037	Pfam	PF09613	Bacterial type III secretion protein (HrpB1_HrpK)
+SBV51250.1	56449.XBLMG947_2037	InterPro	IPR013394	Type III secretion system, HrpB1/HrpK
+SBV51251.1	56449.XBLMG947_2038	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51251.1	56449.XBLMG947_2038	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51251.1	56449.XBLMG947_2038	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51251.1	56449.XBLMG947_2038	Pfam	PF09487	Bacterial type III secretion protein (HrpB2)
+SBV51251.1	56449.XBLMG947_2038	InterPro	IPR013391	Type III secretion protein HrpB2
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0006810	Transport
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0008104	Protein localization
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0009306	Protein secretion
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0009987	Cellular process
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0015031	Protein transport
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0032940	Secretion by cell
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0033036	Macromolecule localization
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0045184	Establishment of protein localization
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0046903	Secretion
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0051179	Localization
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0051234	Establishment of localization
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0051641	Cellular localization
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0071702	Organic substance transport
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0071705	Nitrogen compound transport
+SBV51252.1	56449.XBLMG947_2039	GO Process	GO:0140352	Export from cell
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0009279	Cell outer membrane
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0016020	Membrane
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0016021	Integral component of membrane
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0019867	Outer membrane
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0030312	External encapsulating structure
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0030313	Cell envelope
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0031224	Intrinsic component of membrane
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0031975	Envelope
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0071944	Cell periphery
+SBV51252.1	56449.XBLMG947_2039	GO Component	GO:0110165	Cellular anatomical entity
+SBV51252.1	56449.XBLMG947_2039	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51252.1	56449.XBLMG947_2039	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51252.1	56449.XBLMG947_2039	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51252.1	56449.XBLMG947_2039	STRING clusters	CL:4656	Mixed, incl. FliP family, and FHIPEP family
+SBV51252.1	56449.XBLMG947_2039	KEGG	map03070	Bacterial secretion system
+SBV51252.1	56449.XBLMG947_2039	COMPARTMENTS	GOCC:0009279	Cell outer membrane
+SBV51252.1	56449.XBLMG947_2039	COMPARTMENTS	GOCC:0016020	Membrane
+SBV51252.1	56449.XBLMG947_2039	COMPARTMENTS	GOCC:0019867	Outer membrane
+SBV51252.1	56449.XBLMG947_2039	COMPARTMENTS	GOCC:0030312	External encapsulating structure
+SBV51252.1	56449.XBLMG947_2039	COMPARTMENTS	GOCC:0030313	Cell envelope
+SBV51252.1	56449.XBLMG947_2039	COMPARTMENTS	GOCC:0031975	Envelope
+SBV51252.1	56449.XBLMG947_2039	COMPARTMENTS	GOCC:0071944	Cell periphery
+SBV51252.1	56449.XBLMG947_2039	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51252.1	56449.XBLMG947_2039	UniProt Keywords	KW-0449	Lipoprotein
+SBV51252.1	56449.XBLMG947_2039	UniProt Keywords	KW-0472	Membrane
+SBV51252.1	56449.XBLMG947_2039	UniProt Keywords	KW-0564	Palmitate
+SBV51252.1	56449.XBLMG947_2039	UniProt Keywords	KW-0732	Signal
+SBV51252.1	56449.XBLMG947_2039	UniProt Keywords	KW-0812	Transmembrane
+SBV51252.1	56449.XBLMG947_2039	UniProt Keywords	KW-0998	Cell outer membrane
+SBV51252.1	56449.XBLMG947_2039	UniProt Keywords	KW-1133	Transmembrane helix
+SBV51252.1	56449.XBLMG947_2039	Pfam	PF01514	Secretory protein of YscJ/FliF family
+SBV51252.1	56449.XBLMG947_2039	InterPro	IPR003282	Type III secretion system lipoprotein HrcJ/YscJ
+SBV51252.1	56449.XBLMG947_2039	InterPro	IPR006182	Flagellar M-ring , N-terminal
+SBV51252.1	56449.XBLMG947_2039	InterPro	IPR043427	Lipoprotein YscJ/Flagellar M-ring protein
+SBV51252.1	56449.XBLMG947_2039	InterPro	IPR045851	AMP-binding enzyme, C-terminal domain superfamily
+SBV51253.1	56449.XBLMG947_2040	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51253.1	56449.XBLMG947_2040	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51253.1	56449.XBLMG947_2040	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51253.1	56449.XBLMG947_2040	Pfam	PF09502	Bacterial type III secretion protein (HrpB4)
+SBV51253.1	56449.XBLMG947_2040	InterPro	IPR013393	Type III secretion protein HrpB4
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0006810	Transport
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0008104	Protein localization
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0009306	Protein secretion
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0009987	Cellular process
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0015031	Protein transport
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0030254	Protein secretion by the type III secretion system
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0032940	Secretion by cell
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0033036	Macromolecule localization
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0045184	Establishment of protein localization
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0046903	Secretion
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0051179	Localization
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0051234	Establishment of localization
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0051641	Cellular localization
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0055085	Transmembrane transport
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0071702	Organic substance transport
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0071705	Nitrogen compound transport
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0071806	Protein transmembrane transport
+SBV51254.1	56449.XBLMG947_2041	GO Process	GO:0140352	Export from cell
+SBV51254.1	56449.XBLMG947_2041	GO Function	GO:0003774	Cytoskeletal motor activity
+SBV51254.1	56449.XBLMG947_2041	GO Component	GO:0005622	Intracellular anatomical structure
+SBV51254.1	56449.XBLMG947_2041	GO Component	GO:0005737	Cytoplasm
+SBV51254.1	56449.XBLMG947_2041	GO Component	GO:0005829	Cytosol
+SBV51254.1	56449.XBLMG947_2041	GO Component	GO:0110165	Cellular anatomical entity
+SBV51254.1	56449.XBLMG947_2041	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51254.1	56449.XBLMG947_2041	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51254.1	56449.XBLMG947_2041	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51254.1	56449.XBLMG947_2041	KEGG	map03070	Bacterial secretion system
+SBV51254.1	56449.XBLMG947_2041	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+SBV51254.1	56449.XBLMG947_2041	COMPARTMENTS	GOCC:0042995	Cell projection
+SBV51254.1	56449.XBLMG947_2041	COMPARTMENTS	GOCC:0043226	Organelle
+SBV51254.1	56449.XBLMG947_2041	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+SBV51254.1	56449.XBLMG947_2041	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51254.1	56449.XBLMG947_2041	UniProt Keywords	KW-0175	Coiled coil
+SBV51254.1	56449.XBLMG947_2041	Pfam	PF02108	Flagellar assembly protein FliH
+SBV51254.1	56449.XBLMG947_2041	InterPro	IPR012842	Type 3 secretion system stator protein SctL/SctL2
+SBV51254.1	56449.XBLMG947_2041	InterPro	IPR018035	Flagellar assembly protein FliH/Type III secretion system HrpE
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006163	Purine nucleotide metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006164	Purine nucleotide biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006725	Cellular aromatic compound metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006753	Nucleoside phosphate metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006754	ATP biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006793	Phosphorus metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006807	Nitrogen compound metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006810	Transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006811	Ion transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0006812	Cation transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0008104	Protein localization
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0008152	Metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009058	Biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009117	Nucleotide metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009141	Nucleoside triphosphate metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009142	Nucleoside triphosphate biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009144	Purine nucleoside triphosphate metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009145	Purine nucleoside triphosphate biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009150	Purine ribonucleotide metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009152	Purine ribonucleotide biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009165	Nucleotide biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009199	Ribonucleoside triphosphate metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009201	Ribonucleoside triphosphate biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009205	Purine ribonucleoside triphosphate metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009206	Purine ribonucleoside triphosphate biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009259	Ribonucleotide metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009260	Ribonucleotide biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009306	Protein secretion
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0009987	Cellular process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0015031	Protein transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0015986	Proton motive force-driven ATP synthesis
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0018130	Heterocycle biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0019438	Aromatic compound biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0019637	Organophosphate metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0019693	Ribose phosphate metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0030254	Protein secretion by the type III secretion system
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0032940	Secretion by cell
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0033036	Macromolecule localization
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0034220	Ion transmembrane transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0034641	Cellular nitrogen compound metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0044237	Cellular metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0044238	Primary metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0044249	Cellular biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0044271	Cellular nitrogen compound biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0044281	Small molecule metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0045184	Establishment of protein localization
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0046034	ATP metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0046390	Ribose phosphate biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0046483	Heterocycle metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0046903	Secretion
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0051179	Localization
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0051234	Establishment of localization
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0051641	Cellular localization
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0055085	Transmembrane transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0055086	Nucleobase-containing small molecule metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0071702	Organic substance transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0071704	Organic substance metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0071705	Nitrogen compound transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0071806	Protein transmembrane transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0072521	Purine-containing compound metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0072522	Purine-containing compound biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0090407	Organophosphate biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0098655	Cation transmembrane transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0098660	Inorganic ion transmembrane transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0098662	Inorganic cation transmembrane transport
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:0140352	Export from cell
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:1901293	Nucleoside phosphate biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:1901360	Organic cyclic compound metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:1901362	Organic cyclic compound biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:1901564	Organonitrogen compound metabolic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:1901566	Organonitrogen compound biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:1901576	Organic substance biosynthetic process
+SBV51255.1	56449.XBLMG947_2042	GO Process	GO:1902600	Proton transmembrane transport
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0000166	Nucleotide binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0003824	Catalytic activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0005215	Transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0005488	Binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0005524	ATP binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0008324	Cation transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0009678	Pyrophosphate hydrolysis-driven proton transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0015075	Ion transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0015078	Proton transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0015399	Primary active transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0016462	Pyrophosphatase activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0016787	Hydrolase activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0016887	ATP hydrolysis activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0017076	Purine nucleotide binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0017111	Nucleoside-triphosphatase activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0019829	ATPase-coupled cation transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0022804	Active transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0022853	Active ion transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0022857	Transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0030554	Adenyl nucleotide binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0032553	Ribonucleotide binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0032555	Purine ribonucleotide binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0032559	Adenyl ribonucleotide binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0036094	Small molecule binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0042625	ATPase-coupled ion transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0042626	ATPase-coupled transmembrane transporter activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0043167	Ion binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0043168	Anion binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0046961	Proton-transporting ATPase activity, rotational mechanism
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0097159	Organic cyclic compound binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0097367	Carbohydrate derivative binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:0140657	ATP-dependent activity
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:1901265	Nucleoside phosphate binding
+SBV51255.1	56449.XBLMG947_2042	GO Function	GO:1901363	Heterocyclic compound binding
+SBV51255.1	56449.XBLMG947_2042	GO Component	GO:0005622	Intracellular anatomical structure
+SBV51255.1	56449.XBLMG947_2042	GO Component	GO:0005737	Cytoplasm
+SBV51255.1	56449.XBLMG947_2042	GO Component	GO:0030257	Type III protein secretion system complex
+SBV51255.1	56449.XBLMG947_2042	GO Component	GO:0032991	Protein-containing complex
+SBV51255.1	56449.XBLMG947_2042	GO Component	GO:0110165	Cellular anatomical entity
+SBV51255.1	56449.XBLMG947_2042	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51255.1	56449.XBLMG947_2042	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51255.1	56449.XBLMG947_2042	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51255.1	56449.XBLMG947_2042	KEGG	map03070	Bacterial secretion system
+SBV51255.1	56449.XBLMG947_2042	COMPARTMENTS	GOCC:0005622	Intracellular
+SBV51255.1	56449.XBLMG947_2042	COMPARTMENTS	GOCC:0016020	Membrane
+SBV51255.1	56449.XBLMG947_2042	COMPARTMENTS	GOCC:0016469	Proton-transporting two-sector ATPase complex
+SBV51255.1	56449.XBLMG947_2042	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+SBV51255.1	56449.XBLMG947_2042	COMPARTMENTS	GOCC:0033178	Proton-transporting two-sector ATPase complex, catalytic domain
+SBV51255.1	56449.XBLMG947_2042	COMPARTMENTS	GOCC:0045259	Proton-transporting ATP synthase complex
+SBV51255.1	56449.XBLMG947_2042	COMPARTMENTS	GOCC:0045261	Proton-transporting ATP synthase complex, catalytic core F(1)
+SBV51255.1	56449.XBLMG947_2042	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+SBV51255.1	56449.XBLMG947_2042	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51255.1	56449.XBLMG947_2042	Pfam	PF02874	ATP synthase alpha/beta family, beta-barrel domain
+SBV51255.1	56449.XBLMG947_2042	InterPro	IPR000194	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain
+SBV51255.1	56449.XBLMG947_2042	InterPro	IPR003593	AAA+ ATPase domain
+SBV51255.1	56449.XBLMG947_2042	InterPro	IPR004100	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+SBV51255.1	56449.XBLMG947_2042	InterPro	IPR005714	ATPase, type III secretion system, FliI/YscN
+SBV51255.1	56449.XBLMG947_2042	InterPro	IPR013380	Type 3 secretion system ATPase SCTN
+SBV51255.1	56449.XBLMG947_2042	InterPro	IPR020003	ATPase, alpha/beta subunit, nucleotide-binding domain, active site
+SBV51255.1	56449.XBLMG947_2042	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+SBV51255.1	56449.XBLMG947_2042	InterPro	IPR040627	T3SS EscN ATPase, C-terminal
+SBV51255.1	56449.XBLMG947_2042	SMART	SM00382	ATPases associated with a variety of cellular activities
+SBV51256.1	56449.XBLMG947_2043	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51256.1	56449.XBLMG947_2043	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51256.1	56449.XBLMG947_2043	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51256.1	56449.XBLMG947_2043	UniProt Keywords	KW-0175	Coiled coil
+SBV51256.1	56449.XBLMG947_2043	Pfam	PF09486	Bacterial type III secretion protein (HrpB7)
+SBV51256.1	56449.XBLMG947_2043	InterPro	IPR013392	Type III secretion protein HrpB7
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0006605	Protein targeting
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0006810	Transport
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0006886	Intracellular protein transport
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0008104	Protein localization
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0009987	Cellular process
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0015031	Protein transport
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0033036	Macromolecule localization
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0045184	Establishment of protein localization
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0046907	Intracellular transport
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0051179	Localization
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0051234	Establishment of localization
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0051641	Cellular localization
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0051649	Establishment of localization in cell
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0071702	Organic substance transport
+SBV51257.1	56449.XBLMG947_2044	GO Process	GO:0071705	Nitrogen compound transport
+SBV51257.1	56449.XBLMG947_2044	GO Component	GO:0005886	Plasma membrane
+SBV51257.1	56449.XBLMG947_2044	GO Component	GO:0016020	Membrane
+SBV51257.1	56449.XBLMG947_2044	GO Component	GO:0016021	Integral component of membrane
+SBV51257.1	56449.XBLMG947_2044	GO Component	GO:0031224	Intrinsic component of membrane
+SBV51257.1	56449.XBLMG947_2044	GO Component	GO:0071944	Cell periphery
+SBV51257.1	56449.XBLMG947_2044	GO Component	GO:0110165	Cellular anatomical entity
+SBV51257.1	56449.XBLMG947_2044	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51257.1	56449.XBLMG947_2044	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51257.1	56449.XBLMG947_2044	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51257.1	56449.XBLMG947_2044	STRING clusters	CL:4656	Mixed, incl. FliP family, and FHIPEP family
+SBV51257.1	56449.XBLMG947_2044	KEGG	map03070	Bacterial secretion system
+SBV51257.1	56449.XBLMG947_2044	UniProt Keywords	KW-0472	Membrane
+SBV51257.1	56449.XBLMG947_2044	UniProt Keywords	KW-0812	Transmembrane
+SBV51257.1	56449.XBLMG947_2044	UniProt Keywords	KW-1003	Cell membrane
+SBV51257.1	56449.XBLMG947_2044	UniProt Keywords	KW-1133	Transmembrane helix
+SBV51257.1	56449.XBLMG947_2044	Pfam	PF01311	Bacterial export proteins, family 1
+SBV51257.1	56449.XBLMG947_2044	InterPro	IPR002010	Type III secretion system inner membrane R protein
+SBV51257.1	56449.XBLMG947_2044	InterPro	IPR006304	Type III secretion protein SpaR/YscT
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0006810	Transport
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0008104	Protein localization
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0009306	Protein secretion
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0009987	Cellular process
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0015031	Protein transport
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0032940	Secretion by cell
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0033036	Macromolecule localization
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0045184	Establishment of protein localization
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0046903	Secretion
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0051179	Localization
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0051234	Establishment of localization
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0051641	Cellular localization
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0055085	Transmembrane transport
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0070727	Cellular macromolecule localization
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0071692	Protein localization to extracellular region
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0071702	Organic substance transport
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0071705	Nitrogen compound transport
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0071806	Protein transmembrane transport
+SBV51258.1	56449.XBLMG947_2045	GO Process	GO:0140352	Export from cell
+SBV51258.1	56449.XBLMG947_2045	GO Function	GO:0005488	Binding
+SBV51258.1	56449.XBLMG947_2045	GO Function	GO:0005515	Protein binding
+SBV51258.1	56449.XBLMG947_2045	GO Function	GO:0042802	Identical protein binding
+SBV51258.1	56449.XBLMG947_2045	GO Component	GO:0009279	Cell outer membrane
+SBV51258.1	56449.XBLMG947_2045	GO Component	GO:0016020	Membrane
+SBV51258.1	56449.XBLMG947_2045	GO Component	GO:0019867	Outer membrane
+SBV51258.1	56449.XBLMG947_2045	GO Component	GO:0030312	External encapsulating structure
+SBV51258.1	56449.XBLMG947_2045	GO Component	GO:0030313	Cell envelope
+SBV51258.1	56449.XBLMG947_2045	GO Component	GO:0031975	Envelope
+SBV51258.1	56449.XBLMG947_2045	GO Component	GO:0032991	Protein-containing complex
+SBV51258.1	56449.XBLMG947_2045	GO Component	GO:0071944	Cell periphery
+SBV51258.1	56449.XBLMG947_2045	GO Component	GO:0110165	Cellular anatomical entity
+SBV51258.1	56449.XBLMG947_2045	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51258.1	56449.XBLMG947_2045	STRING clusters	CL:4652	Mixed, incl. Protein secretion by the type III secretion system, and Secretion
+SBV51258.1	56449.XBLMG947_2045	STRING clusters	CL:4653	Mixed, incl. Protein secretion by the type III secretion system, and FliP family
+SBV51258.1	56449.XBLMG947_2045	KEGG	map03070	Bacterial secretion system
+SBV51258.1	56449.XBLMG947_2045	COMPARTMENTS	GOCC:0015627	Type II protein secretion system complex
+SBV51258.1	56449.XBLMG947_2045	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+SBV51258.1	56449.XBLMG947_2045	UniProt Keywords	KW-0732	Signal
+SBV51258.1	56449.XBLMG947_2045	UniProt Keywords	KW-0813	Transport
+SBV51258.1	56449.XBLMG947_2045	Pfam	PF00263	Bacterial type II and III secretion system protein
+SBV51258.1	56449.XBLMG947_2045	Pfam	PF03958	Bacterial type II/III secretion system short domain
+SBV51258.1	56449.XBLMG947_2045	InterPro	IPR003522	Type III secretion system outer membrane pore YscC/HrcC
+SBV51258.1	56449.XBLMG947_2045	InterPro	IPR004845	Type II secretion system protein GspD, conserved site
+SBV51258.1	56449.XBLMG947_2045	InterPro	IPR004846	Type II/III secretion system
+SBV51258.1	56449.XBLMG947_2045	InterPro	IPR005644	NolW-like
+SBV51258.1	56449.XBLMG947_2045	InterPro	IPR038591	NolW-like superfamily
+SBV51260.1	56449.XBLMG947_2047	GO Process	GO:0000270	Peptidoglycan metabolic process
+SBV51260.1	56449.XBLMG947_2047	GO Process	GO:0006022	Aminoglycan metabolic process
+SBV51260.1	56449.XBLMG947_2047	GO Process	GO:0006807	Nitrogen compound metabolic process
+SBV51260.1	56449.XBLMG947_2047	GO Process	GO:0008152	Metabolic process
+SBV51260.1	56449.XBLMG947_2047	GO Process	GO:0030203	Glycosaminoglycan metabolic process
+SBV51260.1	56449.XBLMG947_2047	GO Process	GO:0043170	Macromolecule metabolic process
+SBV51260.1	56449.XBLMG947_2047	GO Process	GO:0071704	Organic substance metabolic process
+SBV51260.1	56449.XBLMG947_2047	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+SBV51260.1	56449.XBLMG947_2047	GO Process	GO:1901564	Organonitrogen compound metabolic process
+SBV51260.1	56449.XBLMG947_2047	GO Function	GO:0003824	Catalytic activity
+SBV51260.1	56449.XBLMG947_2047	GO Function	GO:0008933	Lytic transglycosylase activity
+SBV51260.1	56449.XBLMG947_2047	GO Function	GO:0016740	Transferase activity
+SBV51260.1	56449.XBLMG947_2047	GO Function	GO:0016757	Glycosyltransferase activity
+SBV51260.1	56449.XBLMG947_2047	GO Function	GO:0061783	Peptidoglycan muralytic activity
+SBV51260.1	56449.XBLMG947_2047	GO Component	GO:0042597	Periplasmic space
+SBV51260.1	56449.XBLMG947_2047	GO Component	GO:0110165	Cellular anatomical entity
+SBV51260.1	56449.XBLMG947_2047	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV51260.1	56449.XBLMG947_2047	KEGG	map03070	Bacterial secretion system
+SBV51260.1	56449.XBLMG947_2047	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51260.1	56449.XBLMG947_2047	Pfam	PF01464	Transglycosylase SLT domain
+SBV51260.1	56449.XBLMG947_2047	InterPro	IPR008258	Transglycosylase SLT domain 1
+SBV51260.1	56449.XBLMG947_2047	InterPro	IPR023346	Lysozyme-like domain superfamily
+SBV51316.1	56449.XBLMG947_2104	GO Component	GO:0005576	Extracellular region
+SBV51316.1	56449.XBLMG947_2104	GO Component	GO:0110165	Cellular anatomical entity
+SBV51316.1	56449.XBLMG947_2104	STRING clusters	CL:7901	Mostly uncharacterized, incl. Ribonucleoside hydrolase-like, and Putative transposase of IS4/5 family (DUF4096)
+SBV51316.1	56449.XBLMG947_2104	STRING clusters	CL:7905	Ribonucleoside hydrolase-like, and Extracellular region
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0006163	Purine nucleotide metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0006725	Cellular aromatic compound metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0006753	Nucleoside phosphate metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0006793	Phosphorus metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0006807	Nitrogen compound metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0008152	Metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0009117	Nucleotide metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0009150	Purine ribonucleotide metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0009259	Ribonucleotide metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0009987	Cellular process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0015969	Guanosine tetraphosphate metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0019637	Organophosphate metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0019693	Ribose phosphate metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0033865	Nucleoside bisphosphate metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0033875	Ribonucleoside bisphosphate metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0034032	Purine nucleoside bisphosphate metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0034035	Purine ribonucleoside bisphosphate metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0034641	Cellular nitrogen compound metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0044237	Cellular metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0044238	Primary metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0044281	Small molecule metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0046483	Heterocycle metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0055086	Nucleobase-containing small molecule metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0071704	Organic substance metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:0072521	Purine-containing compound metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:1901360	Organic cyclic compound metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Process	GO:1901564	Organonitrogen compound metabolic process
+SBV51443.1	56449.XBLMG947_2232	GO Function	GO:0003824	Catalytic activity
+SBV51443.1	56449.XBLMG947_2232	GO Function	GO:0016301	Kinase activity
+SBV51443.1	56449.XBLMG947_2232	GO Function	GO:0016740	Transferase activity
+SBV51443.1	56449.XBLMG947_2232	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+SBV51443.1	56449.XBLMG947_2232	STRING clusters	CL:7555	Mostly uncharacterized, incl. Viral process, and DNA integration
+SBV51443.1	56449.XBLMG947_2232	STRING clusters	CL:7557	Mostly uncharacterized, incl. Viral process, and Amino sugar and nucleotide sugar metabolism
+SBV51443.1	56449.XBLMG947_2232	STRING clusters	CL:7558	Mostly uncharacterized, incl. Viral process, and Cytolysis
+SBV51443.1	56449.XBLMG947_2232	STRING clusters	CL:7560	Mostly uncharacterized, incl. Viral process, and Cell death
+SBV51443.1	56449.XBLMG947_2232	STRING clusters	CL:7562	Mixed, incl. Viral process, and Cell death
+SBV51443.1	56449.XBLMG947_2232	KEGG	map00230	Purine metabolism
+SBV51443.1	56449.XBLMG947_2232	KEGG	map01100	Metabolic pathways
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0009889	Regulation of biosynthetic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0010468	Regulation of gene expression
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0019222	Regulation of metabolic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0031323	Regulation of cellular metabolic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0050789	Regulation of biological process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0050794	Regulation of cellular process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0051252	Regulation of RNA metabolic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0065007	Biological regulation
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:0080090	Regulation of primary metabolic process
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+SBV51944.1	56449.XBLMG947_2734	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+SBV51944.1	56449.XBLMG947_2734	GO Function	GO:0003676	Nucleic acid binding
+SBV51944.1	56449.XBLMG947_2734	GO Function	GO:0003677	DNA binding
+SBV51944.1	56449.XBLMG947_2734	GO Function	GO:0003700	DNA-binding transcription factor activity
+SBV51944.1	56449.XBLMG947_2734	GO Function	GO:0005488	Binding
+SBV51944.1	56449.XBLMG947_2734	GO Function	GO:0043565	Sequence-specific DNA binding
+SBV51944.1	56449.XBLMG947_2734	GO Function	GO:0097159	Organic cyclic compound binding
+SBV51944.1	56449.XBLMG947_2734	GO Function	GO:0140110	Transcription regulator activity
+SBV51944.1	56449.XBLMG947_2734	GO Function	GO:1901363	Heterocyclic compound binding
+SBV51944.1	56449.XBLMG947_2734	GO Component	GO:0005622	Intracellular anatomical structure
+SBV51944.1	56449.XBLMG947_2734	GO Component	GO:0005737	Cytoplasm
+SBV51944.1	56449.XBLMG947_2734	GO Component	GO:0110165	Cellular anatomical entity
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4810	Mixed, incl. Signal, and DNA binding
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4811	Mixed, incl. Signal, and Protein kinase domain
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4812	Mixed, incl. Signal, and Pfam phage integrase family
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4815	Mixed, incl. Signal, and IucA / IucC family
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4817	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4819	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4821	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4823	Mostly uncharacterized, incl. Riboflavin metabolism, and Putative MetA-pathway of phenol degradation
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4824	Mostly uncharacterized, incl. Putative MetA-pathway of phenol degradation, and Leucine-rich repeats, outliers
+SBV51944.1	56449.XBLMG947_2734	STRING clusters	CL:4826	Mostly uncharacterized, incl. Leucine-rich repeats, outliers, and Putative MetA-pathway of phenol degradation
+SBV51944.1	56449.XBLMG947_2734	KEGG	map01503	Cationic antimicrobial peptide (CAMP) resistance
+SBV51944.1	56449.XBLMG947_2734	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV51944.1	56449.XBLMG947_2734	UniProt Keywords	KW-0175	Coiled coil
+SBV51944.1	56449.XBLMG947_2734	UniProt Keywords	KW-0238	DNA-binding
+SBV51944.1	56449.XBLMG947_2734	UniProt Keywords	KW-0804	Transcription
+SBV51944.1	56449.XBLMG947_2734	UniProt Keywords	KW-0805	Transcription regulation
+SBV51944.1	56449.XBLMG947_2734	InterPro	IPR009057	Homeobox-like domain superfamily
+SBV51944.1	56449.XBLMG947_2734	InterPro	IPR011990	Tetratricopeptide-like helical domain superfamily
+SBV51944.1	56449.XBLMG947_2734	InterPro	IPR018060	DNA binding HTH domain, AraC-type
+SBV51944.1	56449.XBLMG947_2734	InterPro	IPR018062	HTH domain AraC-type, conserved site
+SBV51944.1	56449.XBLMG947_2734	SMART	SM00342	Helix_turn_helix, arabinose operon control protein
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0000160	Phosphorelay signal transduction system
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0007154	Cell communication
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0007165	Signal transduction
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0009889	Regulation of biosynthetic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0009987	Cellular process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0010468	Regulation of gene expression
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0019222	Regulation of metabolic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0023052	Signaling
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0031323	Regulation of cellular metabolic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0035556	Intracellular signal transduction
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0050789	Regulation of biological process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0050794	Regulation of cellular process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0050896	Response to stimulus
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0051252	Regulation of RNA metabolic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0051716	Cellular response to stimulus
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0065007	Biological regulation
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:0080090	Regulation of primary metabolic process
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+SBV51945.1	56449.XBLMG947_2735	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+SBV51945.1	56449.XBLMG947_2735	GO Function	GO:0003676	Nucleic acid binding
+SBV51945.1	56449.XBLMG947_2735	GO Function	GO:0003677	DNA binding
+SBV51945.1	56449.XBLMG947_2735	GO Function	GO:0005488	Binding
+SBV51945.1	56449.XBLMG947_2735	GO Function	GO:0097159	Organic cyclic compound binding
+SBV51945.1	56449.XBLMG947_2735	GO Function	GO:1901363	Heterocyclic compound binding
+SBV51945.1	56449.XBLMG947_2735	GO Component	GO:0005622	Intracellular anatomical structure
+SBV51945.1	56449.XBLMG947_2735	GO Component	GO:0005737	Cytoplasm
+SBV51945.1	56449.XBLMG947_2735	GO Component	GO:0110165	Cellular anatomical entity
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4134	Signaling, and Diguanylate cyclase activity
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4135	Signal transduction, and Diguanylate cyclase activity
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4136	Signal transduction
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4139	Signal transduction
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4141	Phosphorelay signal transduction system, and Nucleotide cyclase
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4143	Signal transduction
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4144	Phosphorelay signal transduction system, and Nucleotide cyclase
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4147	Phosphorelay signal transduction system, and Nucleotide cyclase
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4149	Phosphorelay signal transduction system, and Nucleotide cyclase
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4151	Phosphorelay sensor kinase activity, and Nucleotide cyclase
+SBV51945.1	56449.XBLMG947_2735	STRING clusters	CL:4274	OmpR/PhoB-type DNA-binding domain, and Two-component regulatory system
+SBV51945.1	56449.XBLMG947_2735	KEGG	map02020	Two-component system
+SBV51945.1	56449.XBLMG947_2735	UniProt Keywords	KW-0238	DNA-binding
+SBV51945.1	56449.XBLMG947_2735	UniProt Keywords	KW-0804	Transcription
+SBV51945.1	56449.XBLMG947_2735	UniProt Keywords	KW-0805	Transcription regulation
+SBV51945.1	56449.XBLMG947_2735	UniProt Keywords	KW-0902	Two-component regulatory system
+SBV51945.1	56449.XBLMG947_2735	InterPro	IPR001867	OmpR/PhoB-type DNA-binding domain
+SBV51945.1	56449.XBLMG947_2735	InterPro	IPR011006	CheY-like superfamily
+SBV51945.1	56449.XBLMG947_2735	InterPro	IPR016032	Signal transduction response regulator, C-terminal effector
+SBV51945.1	56449.XBLMG947_2735	InterPro	IPR036388	Winged helix-like DNA-binding domain superfamily
+SBV51945.1	56449.XBLMG947_2735	InterPro	IPR039420	Transcriptional regulatory protein WalR-like
+SBV51945.1	56449.XBLMG947_2735	SMART	SM00862	Transcriptional regulatory protein, C terminal
+SBV52070.1	56449.XBLMG947_2860	GO Process	GO:0007154	Cell communication
+SBV52070.1	56449.XBLMG947_2860	GO Process	GO:0007165	Signal transduction
+SBV52070.1	56449.XBLMG947_2860	GO Process	GO:0009987	Cellular process
+SBV52070.1	56449.XBLMG947_2860	GO Process	GO:0023052	Signaling
+SBV52070.1	56449.XBLMG947_2860	GO Process	GO:0050789	Regulation of biological process
+SBV52070.1	56449.XBLMG947_2860	GO Process	GO:0050794	Regulation of cellular process
+SBV52070.1	56449.XBLMG947_2860	GO Process	GO:0050896	Response to stimulus
+SBV52070.1	56449.XBLMG947_2860	GO Process	GO:0051716	Cellular response to stimulus
+SBV52070.1	56449.XBLMG947_2860	GO Process	GO:0065007	Biological regulation
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0000166	Nucleotide binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0003676	Nucleic acid binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0003677	DNA binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0005488	Binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0005524	ATP binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0017076	Purine nucleotide binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0030554	Adenyl nucleotide binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0032553	Ribonucleotide binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0032555	Purine ribonucleotide binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0032559	Adenyl ribonucleotide binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0036094	Small molecule binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0043167	Ion binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0043168	Anion binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0043565	Sequence-specific DNA binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0097159	Organic cyclic compound binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:0097367	Carbohydrate derivative binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:1901265	Nucleoside phosphate binding
+SBV52070.1	56449.XBLMG947_2860	GO Function	GO:1901363	Heterocyclic compound binding
+SBV52070.1	56449.XBLMG947_2860	GO Component	GO:0016020	Membrane
+SBV52070.1	56449.XBLMG947_2860	GO Component	GO:0016021	Integral component of membrane
+SBV52070.1	56449.XBLMG947_2860	GO Component	GO:0031224	Intrinsic component of membrane
+SBV52070.1	56449.XBLMG947_2860	GO Component	GO:0110165	Cellular anatomical entity
+SBV52070.1	56449.XBLMG947_2860	STRING clusters	CL:4134	Signaling, and Diguanylate cyclase activity
+SBV52070.1	56449.XBLMG947_2860	STRING clusters	CL:4135	Signal transduction, and Diguanylate cyclase activity
+SBV52070.1	56449.XBLMG947_2860	STRING clusters	CL:4136	Signal transduction
+SBV52070.1	56449.XBLMG947_2860	STRING clusters	CL:4139	Signal transduction
+SBV52070.1	56449.XBLMG947_2860	STRING clusters	CL:4141	Phosphorelay signal transduction system, and Nucleotide cyclase
+SBV52070.1	56449.XBLMG947_2860	STRING clusters	CL:4143	Signal transduction
+SBV52070.1	56449.XBLMG947_2860	STRING clusters	CL:4144	Phosphorelay signal transduction system, and Nucleotide cyclase
+SBV52070.1	56449.XBLMG947_2860	KEGG	map02020	Two-component system
+SBV52070.1	56449.XBLMG947_2860	KEGG	map02024	Quorum sensing
+SBV52070.1	56449.XBLMG947_2860	COMPARTMENTS	GOCC:0005622	Intracellular
+SBV52070.1	56449.XBLMG947_2860	COMPARTMENTS	GOCC:0005737	Cytoplasm
+SBV52070.1	56449.XBLMG947_2860	COMPARTMENTS	GOCC:0005829	Cytosol
+SBV52070.1	56449.XBLMG947_2860	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV52070.1	56449.XBLMG947_2860	UniProt Keywords	KW-0472	Membrane
+SBV52070.1	56449.XBLMG947_2860	UniProt Keywords	KW-0597	Phosphoprotein
+SBV52070.1	56449.XBLMG947_2860	UniProt Keywords	KW-0812	Transmembrane
+SBV52070.1	56449.XBLMG947_2860	UniProt Keywords	KW-1133	Transmembrane helix
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR001789	Signal transduction response regulator, receiver domain
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR003594	Histidine kinase/HSP90-like ATPase
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR004358	Signal transduction histidine kinase-related protein, C-terminal
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR005467	Histidine kinase domain
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR008207	Signal transduction histidine kinase, phosphotransfer (Hpt) domain
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR011006	CheY-like superfamily
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR036097	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR036641	HPT domain superfamily
+SBV52070.1	56449.XBLMG947_2860	InterPro	IPR036890	Histidine kinase/HSP90-like ATPase superfamily
+SBV52070.1	56449.XBLMG947_2860	SMART	SM00073	Histidine Phosphotransfer domain
+SBV52070.1	56449.XBLMG947_2860	SMART	SM00387	Histidine kinase-like ATPases
+SBV52070.1	56449.XBLMG947_2860	SMART	SM00388	His Kinase A (phosphoacceptor) domain
+SBV52070.1	56449.XBLMG947_2860	SMART	SM00448	cheY-homologous receiver domain
+SBV53170.1	56449.XBLMG947_3980	GO Function	GO:0005488	Binding
+SBV53170.1	56449.XBLMG947_3980	GO Component	GO:0110165	Cellular anatomical entity
+SBV53170.1	56449.XBLMG947_3980	STRING clusters	CL:6616	Mixed, incl. Protein transmembrane transport, and Domain of unknown function DUF2235
+SBV53170.1	56449.XBLMG947_3980	STRING clusters	CL:6617	Mixed, incl. Protein transmembrane transport, and Domain of unknown function DUF2235
+SBV53170.1	56449.XBLMG947_3980	STRING clusters	CL:6618	Mixed, incl. Protein transmembrane transport, and Domain of unknown function DUF2235
+SBV53170.1	56449.XBLMG947_3980	STRING clusters	CL:6722	Protein of unknown function DUF3304, and Domain of unknown function DUF4123
+SBV53170.1	56449.XBLMG947_3980	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV53170.1	56449.XBLMG947_3980	Pfam	PF13503	Domain of unknown function (DUF4123)
+SBV53170.1	56449.XBLMG947_3980	InterPro	IPR025391	Domain of unknown function DUF4123
+SBV53279.1	56449.XBLMG947_4098	GO Process	GO:0006793	Phosphorus metabolic process
+SBV53279.1	56449.XBLMG947_4098	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+SBV53279.1	56449.XBLMG947_4098	GO Process	GO:0008152	Metabolic process
+SBV53279.1	56449.XBLMG947_4098	GO Process	GO:0009987	Cellular process
+SBV53279.1	56449.XBLMG947_4098	GO Process	GO:0016311	Dephosphorylation
+SBV53279.1	56449.XBLMG947_4098	GO Process	GO:0044237	Cellular metabolic process
+SBV53279.1	56449.XBLMG947_4098	GO Function	GO:0003824	Catalytic activity
+SBV53279.1	56449.XBLMG947_4098	GO Function	GO:0016787	Hydrolase activity
+SBV53279.1	56449.XBLMG947_4098	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+SBV53279.1	56449.XBLMG947_4098	GO Function	GO:0016791	Phosphatase activity
+SBV53279.1	56449.XBLMG947_4098	GO Function	GO:0042578	Phosphoric ester hydrolase activity
+SBV53279.1	56449.XBLMG947_4098	GO Component	GO:0005576	Extracellular region
+SBV53279.1	56449.XBLMG947_4098	GO Component	GO:0110165	Cellular anatomical entity
+SBV53279.1	56449.XBLMG947_4098	STRING clusters	CL:773	Mixed, incl. Class I MHC mediated antigen processing & presentation, and Tetratricopeptide-like helical domain superfamily
+SBV53279.1	56449.XBLMG947_4098	STRING clusters	CL:774	Mixed, incl. Class I MHC mediated antigen processing & presentation, and Tetratricopeptide-like helical domain superfamily
+SBV53279.1	56449.XBLMG947_4098	STRING clusters	CL:776	Mixed, incl. GMC oxidoreductase, and Ankyrin repeat
+SBV53279.1	56449.XBLMG947_4098	STRING clusters	CL:778	Mixed, incl. DHHA1 domain, and Ankyrin repeat
+SBV53279.1	56449.XBLMG947_4098	KEGG	map04626	Plant-pathogen interaction
+SBV53279.1	56449.XBLMG947_4098	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV53279.1	56449.XBLMG947_4098	InterPro	IPR000387	Tyrosine-specific protein phosphatases domain
+SBV53279.1	56449.XBLMG947_4098	InterPro	IPR016130	Protein-tyrosine phosphatase, active site
+SBV53279.1	56449.XBLMG947_4098	InterPro	IPR029021	Protein-tyrosine phosphatase-like
+SBV53279.1	56449.XBLMG947_4098	SMART	SM01301	Inositol hexakisphosphate
+SBV53307.1	56449.XBLMG947_4131	GO Function	GO:0005488	Binding
+SBV53307.1	56449.XBLMG947_4131	GO Component	GO:0110165	Cellular anatomical entity
+SBV53307.1	56449.XBLMG947_4131	STRING clusters	CL:4650	Mostly uncharacterized, incl. Protein secretion by the type III secretion system, and Protein of unknown function DUF3304
+SBV53307.1	56449.XBLMG947_4131	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+SBV53307.1	56449.XBLMG947_4131	Pfam	PF13503	Domain of unknown function (DUF4123)
+SBV53307.1	56449.XBLMG947_4131	InterPro	IPR025391	Domain of unknown function DUF4123
+flhA	56449.XBLMG947_1810	GO Process	GO:0006810	Transport
+flhA	56449.XBLMG947_1810	GO Process	GO:0006996	Organelle organization
+flhA	56449.XBLMG947_1810	GO Process	GO:0008104	Protein localization
+flhA	56449.XBLMG947_1810	GO Process	GO:0009306	Protein secretion
+flhA	56449.XBLMG947_1810	GO Process	GO:0009987	Cellular process
+flhA	56449.XBLMG947_1810	GO Process	GO:0015031	Protein transport
+flhA	56449.XBLMG947_1810	GO Process	GO:0016043	Cellular component organization
+flhA	56449.XBLMG947_1810	GO Process	GO:0022607	Cellular component assembly
+flhA	56449.XBLMG947_1810	GO Process	GO:0030030	Cell projection organization
+flhA	56449.XBLMG947_1810	GO Process	GO:0030031	Cell projection assembly
+flhA	56449.XBLMG947_1810	GO Process	GO:0032940	Secretion by cell
+flhA	56449.XBLMG947_1810	GO Process	GO:0033036	Macromolecule localization
+flhA	56449.XBLMG947_1810	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+flhA	56449.XBLMG947_1810	GO Process	GO:0044085	Cellular component biogenesis
+flhA	56449.XBLMG947_1810	GO Process	GO:0044780	Bacterial-type flagellum assembly
+flhA	56449.XBLMG947_1810	GO Process	GO:0044781	Bacterial-type flagellum organization
+flhA	56449.XBLMG947_1810	GO Process	GO:0045184	Establishment of protein localization
+flhA	56449.XBLMG947_1810	GO Process	GO:0046903	Secretion
+flhA	56449.XBLMG947_1810	GO Process	GO:0051179	Localization
+flhA	56449.XBLMG947_1810	GO Process	GO:0051234	Establishment of localization
+flhA	56449.XBLMG947_1810	GO Process	GO:0051641	Cellular localization
+flhA	56449.XBLMG947_1810	GO Process	GO:0070727	Cellular macromolecule localization
+flhA	56449.XBLMG947_1810	GO Process	GO:0070925	Organelle assembly
+flhA	56449.XBLMG947_1810	GO Process	GO:0071692	Protein localization to extracellular region
+flhA	56449.XBLMG947_1810	GO Process	GO:0071702	Organic substance transport
+flhA	56449.XBLMG947_1810	GO Process	GO:0071705	Nitrogen compound transport
+flhA	56449.XBLMG947_1810	GO Process	GO:0071840	Cellular component organization or biogenesis
+flhA	56449.XBLMG947_1810	GO Process	GO:0140352	Export from cell
+flhA	56449.XBLMG947_1810	GO Process	GO:0140694	Non-membrane-bounded organelle assembly
+flhA	56449.XBLMG947_1810	GO Component	GO:0005886	Plasma membrane
+flhA	56449.XBLMG947_1810	GO Component	GO:0016020	Membrane
+flhA	56449.XBLMG947_1810	GO Component	GO:0016021	Integral component of membrane
+flhA	56449.XBLMG947_1810	GO Component	GO:0031224	Intrinsic component of membrane
+flhA	56449.XBLMG947_1810	GO Component	GO:0071944	Cell periphery
+flhA	56449.XBLMG947_1810	GO Component	GO:0110165	Cellular anatomical entity
+flhA	56449.XBLMG947_1810	STRING clusters	CL:4470	Cilium, and STAS domain
+flhA	56449.XBLMG947_1810	STRING clusters	CL:4471	Cilium
+flhA	56449.XBLMG947_1810	STRING clusters	CL:4474	Cilium
+flhA	56449.XBLMG947_1810	STRING clusters	CL:4477	Cilium
+flhA	56449.XBLMG947_1810	KEGG	map02040	Flagellar assembly
+flhA	56449.XBLMG947_1810	COMPARTMENTS	GOCC:0005886	Plasma membrane
+flhA	56449.XBLMG947_1810	COMPARTMENTS	GOCC:0016020	Membrane
+flhA	56449.XBLMG947_1810	COMPARTMENTS	GOCC:0071944	Cell periphery
+flhA	56449.XBLMG947_1810	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-0175	Coiled coil
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-0282	Flagellum
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-0472	Membrane
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-0653	Protein transport
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-0812	Transmembrane
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-0813	Transport
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-0966	Cell projection
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-0969	Cilium
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-1003	Cell membrane
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-1005	Bacterial flagellum biogenesis
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-1006	Bacterial flagellum protein export
+flhA	56449.XBLMG947_1810	UniProt Keywords	KW-1133	Transmembrane helix
+flhA	56449.XBLMG947_1810	Pfam	PF00771	FHIPEP family
+flhA	56449.XBLMG947_1810	InterPro	IPR001712	Type III secretion system FHIPEP
+flhA	56449.XBLMG947_1810	InterPro	IPR006301	Flagellar biosynthesis protein FlhA
+flhA	56449.XBLMG947_1810	InterPro	IPR042193	FHIPEP, domain 3
+flhA	56449.XBLMG947_1810	InterPro	IPR042194	FHIPEP, domain 1
+flhA	56449.XBLMG947_1810	InterPro	IPR042196	FHIPEP, domain 4
+flhB	56449.XBLMG947_1809	GO Process	GO:0006810	Transport
+flhB	56449.XBLMG947_1809	GO Process	GO:0008104	Protein localization
+flhB	56449.XBLMG947_1809	GO Process	GO:0009306	Protein secretion
+flhB	56449.XBLMG947_1809	GO Process	GO:0009987	Cellular process
+flhB	56449.XBLMG947_1809	GO Process	GO:0015031	Protein transport
+flhB	56449.XBLMG947_1809	GO Process	GO:0032940	Secretion by cell
+flhB	56449.XBLMG947_1809	GO Process	GO:0033036	Macromolecule localization
+flhB	56449.XBLMG947_1809	GO Process	GO:0035592	Establishment of protein localization to extracellular region
+flhB	56449.XBLMG947_1809	GO Process	GO:0045184	Establishment of protein localization
+flhB	56449.XBLMG947_1809	GO Process	GO:0046903	Secretion
+flhB	56449.XBLMG947_1809	GO Process	GO:0051179	Localization
+flhB	56449.XBLMG947_1809	GO Process	GO:0051234	Establishment of localization
+flhB	56449.XBLMG947_1809	GO Process	GO:0051641	Cellular localization
+flhB	56449.XBLMG947_1809	GO Process	GO:0070727	Cellular macromolecule localization
+flhB	56449.XBLMG947_1809	GO Process	GO:0071692	Protein localization to extracellular region
+flhB	56449.XBLMG947_1809	GO Process	GO:0071702	Organic substance transport
+flhB	56449.XBLMG947_1809	GO Process	GO:0071705	Nitrogen compound transport
+flhB	56449.XBLMG947_1809	GO Process	GO:0140352	Export from cell
+flhB	56449.XBLMG947_1809	GO Component	GO:0005886	Plasma membrane
+flhB	56449.XBLMG947_1809	GO Component	GO:0016020	Membrane
+flhB	56449.XBLMG947_1809	GO Component	GO:0016021	Integral component of membrane
+flhB	56449.XBLMG947_1809	GO Component	GO:0031224	Intrinsic component of membrane
+flhB	56449.XBLMG947_1809	GO Component	GO:0071944	Cell periphery
+flhB	56449.XBLMG947_1809	GO Component	GO:0110165	Cellular anatomical entity
+flhB	56449.XBLMG947_1809	STRING clusters	CL:4470	Cilium, and STAS domain
+flhB	56449.XBLMG947_1809	STRING clusters	CL:4471	Cilium
+flhB	56449.XBLMG947_1809	STRING clusters	CL:4474	Cilium
+flhB	56449.XBLMG947_1809	STRING clusters	CL:4477	Cilium
+flhB	56449.XBLMG947_1809	KEGG	map02040	Flagellar assembly
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0005886	Plasma membrane
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0009288	Bacterial-type flagellum
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0009425	Bacterial-type flagellum basal body
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0016020	Membrane
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0030257	Type III protein secretion system complex
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0042995	Cell projection
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0043226	Organelle
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0043228	Non-membrane-bounded organelle
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0071944	Cell periphery
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+flhB	56449.XBLMG947_1809	COMPARTMENTS	GOCC:0120102	Bacterial-type flagellum secretion apparatus
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-0175	Coiled coil
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-0282	Flagellum
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-0472	Membrane
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-0653	Protein transport
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-0812	Transmembrane
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-0813	Transport
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-0966	Cell projection
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-0969	Cilium
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-1003	Cell membrane
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-1005	Bacterial flagellum biogenesis
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-1006	Bacterial flagellum protein export
+flhB	56449.XBLMG947_1809	UniProt Keywords	KW-1133	Transmembrane helix
+flhB	56449.XBLMG947_1809	Pfam	PF01312	FlhB HrpN YscU SpaS Family
+flhB	56449.XBLMG947_1809	InterPro	IPR006135	Type III secretion system substrate exporter
+flhB	56449.XBLMG947_1809	InterPro	IPR006136	Flagellar biosynthetic protein FlhB
+flhB	56449.XBLMG947_1809	InterPro	IPR029025	Type III secretion system substrate exporter, C-terminal

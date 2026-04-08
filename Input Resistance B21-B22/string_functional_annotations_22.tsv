@@ -1,0 +1,2287 @@
+#node	identifier	category	term ID	term description
+EAMY_0509	665029.EAMY_0509	STRING clusters	CL:5592	Mixed, incl. Cytosine catabolic process, and ArsR-like helix-turn-helix domain
+EAMY_0509	665029.EAMY_0509	STRING clusters	CL:5593	Mixed, incl. Cytosine catabolic process, and Spermidine transport
+EAMY_0509	665029.EAMY_0509	STRING clusters	CL:5594	Mixed, incl. Spermidine transport, and PAS fold
+EAMY_0950	665029.EAMY_0950	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+EAMY_0950	665029.EAMY_0950	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+EAMY_0950	665029.EAMY_0950	STRING clusters	CL:3239	Lipid A biosynthesis, and Glucosyl transferase II
+EAMY_0950	665029.EAMY_0950	UniProt Keywords	KW-0472	Membrane
+EAMY_0950	665029.EAMY_0950	UniProt Keywords	KW-0812	Transmembrane
+EAMY_0950	665029.EAMY_0950	UniProt Keywords	KW-1133	Transmembrane helix
+EAMY_0950	665029.EAMY_0950	Pfam	PF14264	Glucosyl transferase GtrII
+EAMY_0950	665029.EAMY_0950	InterPro	IPR025686	Glucosyl transferase II
+EAMY_1281	665029.EAMY_1281	GO Process	GO:0006810	Transport
+EAMY_1281	665029.EAMY_1281	GO Process	GO:0009987	Cellular process
+EAMY_1281	665029.EAMY_1281	GO Process	GO:0051179	Localization
+EAMY_1281	665029.EAMY_1281	GO Process	GO:0051234	Establishment of localization
+EAMY_1281	665029.EAMY_1281	GO Process	GO:0055085	Transmembrane transport
+EAMY_1281	665029.EAMY_1281	GO Function	GO:0005215	Transporter activity
+EAMY_1281	665029.EAMY_1281	GO Function	GO:0015562	Efflux transmembrane transporter activity
+EAMY_1281	665029.EAMY_1281	GO Function	GO:0022857	Transmembrane transporter activity
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0009279	Cell outer membrane
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0016020	Membrane
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0016021	Integral component of membrane
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0019867	Outer membrane
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0030312	External encapsulating structure
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0030313	Cell envelope
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0031224	Intrinsic component of membrane
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0031975	Envelope
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0071944	Cell periphery
+EAMY_1281	665029.EAMY_1281	GO Component	GO:0110165	Cellular anatomical entity
+EAMY_1281	665029.EAMY_1281	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+EAMY_1281	665029.EAMY_1281	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+EAMY_1281	665029.EAMY_1281	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+EAMY_1281	665029.EAMY_1281	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+EAMY_1281	665029.EAMY_1281	STRING clusters	CL:4921	Drug resistance transporter EmrB-like, and Xenobiotic export from cell
+EAMY_1281	665029.EAMY_1281	COMPARTMENTS	GOCC:0009279	Cell outer membrane
+EAMY_1281	665029.EAMY_1281	COMPARTMENTS	GOCC:0016020	Membrane
+EAMY_1281	665029.EAMY_1281	COMPARTMENTS	GOCC:0019867	Outer membrane
+EAMY_1281	665029.EAMY_1281	COMPARTMENTS	GOCC:0030312	External encapsulating structure
+EAMY_1281	665029.EAMY_1281	COMPARTMENTS	GOCC:0030313	Cell envelope
+EAMY_1281	665029.EAMY_1281	COMPARTMENTS	GOCC:0031975	Envelope
+EAMY_1281	665029.EAMY_1281	COMPARTMENTS	GOCC:0071944	Cell periphery
+EAMY_1281	665029.EAMY_1281	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+EAMY_1281	665029.EAMY_1281	UniProt Keywords	KW-0175	Coiled coil
+EAMY_1281	665029.EAMY_1281	UniProt Keywords	KW-0449	Lipoprotein
+EAMY_1281	665029.EAMY_1281	UniProt Keywords	KW-0472	Membrane
+EAMY_1281	665029.EAMY_1281	UniProt Keywords	KW-0564	Palmitate
+EAMY_1281	665029.EAMY_1281	UniProt Keywords	KW-0812	Transmembrane
+EAMY_1281	665029.EAMY_1281	UniProt Keywords	KW-1134	Transmembrane beta strand
+EAMY_1281	665029.EAMY_1281	Pfam	PF02321	Outer membrane efflux protein
+EAMY_1281	665029.EAMY_1281	InterPro	IPR003423	Outer membrane efflux protein
+EAMY_1281	665029.EAMY_1281	InterPro	IPR010131	RND efflux system, outer membrane lipoprotein, NodT
+EAMY_1423	665029.EAMY_1423	GO Process	GO:0006810	Transport
+EAMY_1423	665029.EAMY_1423	GO Process	GO:0009987	Cellular process
+EAMY_1423	665029.EAMY_1423	GO Process	GO:0051179	Localization
+EAMY_1423	665029.EAMY_1423	GO Process	GO:0051234	Establishment of localization
+EAMY_1423	665029.EAMY_1423	GO Process	GO:0055085	Transmembrane transport
+EAMY_1423	665029.EAMY_1423	GO Function	GO:0005215	Transporter activity
+EAMY_1423	665029.EAMY_1423	GO Function	GO:0015562	Efflux transmembrane transporter activity
+EAMY_1423	665029.EAMY_1423	GO Function	GO:0022857	Transmembrane transporter activity
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0009279	Cell outer membrane
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0016020	Membrane
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0016021	Integral component of membrane
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0019867	Outer membrane
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0030312	External encapsulating structure
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0030313	Cell envelope
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0031224	Intrinsic component of membrane
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0031975	Envelope
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0071944	Cell periphery
+EAMY_1423	665029.EAMY_1423	GO Component	GO:0110165	Cellular anatomical entity
+EAMY_1423	665029.EAMY_1423	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+EAMY_1423	665029.EAMY_1423	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+EAMY_1423	665029.EAMY_1423	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+EAMY_1423	665029.EAMY_1423	STRING clusters	CL:4938	Mixed, incl. RND efflux system, outer membrane lipoprotein, NodT, and Transcription regulators MarR/SlyA-like
+EAMY_1423	665029.EAMY_1423	COMPARTMENTS	GOCC:0009279	Cell outer membrane
+EAMY_1423	665029.EAMY_1423	COMPARTMENTS	GOCC:0016020	Membrane
+EAMY_1423	665029.EAMY_1423	COMPARTMENTS	GOCC:0019867	Outer membrane
+EAMY_1423	665029.EAMY_1423	COMPARTMENTS	GOCC:0030312	External encapsulating structure
+EAMY_1423	665029.EAMY_1423	COMPARTMENTS	GOCC:0030313	Cell envelope
+EAMY_1423	665029.EAMY_1423	COMPARTMENTS	GOCC:0031975	Envelope
+EAMY_1423	665029.EAMY_1423	COMPARTMENTS	GOCC:0071944	Cell periphery
+EAMY_1423	665029.EAMY_1423	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+EAMY_1423	665029.EAMY_1423	UniProt Keywords	KW-0175	Coiled coil
+EAMY_1423	665029.EAMY_1423	UniProt Keywords	KW-0449	Lipoprotein
+EAMY_1423	665029.EAMY_1423	UniProt Keywords	KW-0472	Membrane
+EAMY_1423	665029.EAMY_1423	UniProt Keywords	KW-0564	Palmitate
+EAMY_1423	665029.EAMY_1423	UniProt Keywords	KW-0732	Signal
+EAMY_1423	665029.EAMY_1423	UniProt Keywords	KW-0812	Transmembrane
+EAMY_1423	665029.EAMY_1423	UniProt Keywords	KW-1134	Transmembrane beta strand
+EAMY_1423	665029.EAMY_1423	Pfam	PF02321	Outer membrane efflux protein
+EAMY_1423	665029.EAMY_1423	InterPro	IPR003423	Outer membrane efflux protein
+EAMY_1423	665029.EAMY_1423	InterPro	IPR010131	RND efflux system, outer membrane lipoprotein, NodT
+EAMY_2573	665029.EAMY_2573	STRING clusters	CL:3825	Mixed, incl. Prosthetic group metabolic process, and Molybdate ion transport
+EAMY_2573	665029.EAMY_2573	STRING clusters	CL:3898	Mixed, incl. Dehydroquinase class II, and Protein repair
+EAMY_2573	665029.EAMY_2573	STRING clusters	CL:3916	Dehydroquinase class II, and Quinoprotein dehydrogenase, conserved site
+EAMY_2854	665029.EAMY_2854	STRING clusters	CL:2998	Mixed, incl. Glucan biosynthesis protein MdoG/MdoD, and Protein of unknown function DUF1375
+EAMY_2855	665029.EAMY_2855	STRING clusters	CL:2998	Mixed, incl. Glucan biosynthesis protein MdoG/MdoD, and Protein of unknown function DUF1375
+aadK	665029.EAMY_2574	GO Process	GO:0009987	Cellular process
+aadK	665029.EAMY_2574	GO Process	GO:0010033	Response to organic substance
+aadK	665029.EAMY_2574	GO Process	GO:0042221	Response to chemical
+aadK	665029.EAMY_2574	GO Process	GO:0046677	Response to antibiotic
+aadK	665029.EAMY_2574	GO Process	GO:0050896	Response to stimulus
+aadK	665029.EAMY_2574	GO Process	GO:0051716	Cellular response to stimulus
+aadK	665029.EAMY_2574	GO Process	GO:0070887	Cellular response to chemical stimulus
+aadK	665029.EAMY_2574	GO Process	GO:0071236	Cellular response to antibiotic
+aadK	665029.EAMY_2574	GO Process	GO:1901700	Response to oxygen-containing compound
+aadK	665029.EAMY_2574	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+aadK	665029.EAMY_2574	GO Process	GO:1903416	Response to glycoside
+aadK	665029.EAMY_2574	GO Function	GO:0003824	Catalytic activity
+aadK	665029.EAMY_2574	GO Function	GO:0016740	Transferase activity
+aadK	665029.EAMY_2574	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+aadK	665029.EAMY_2574	GO Function	GO:0016779	Nucleotidyltransferase activity
+aadK	665029.EAMY_2574	GO Component	GO:0005622	Intracellular anatomical structure
+aadK	665029.EAMY_2574	GO Component	GO:0005737	Cytoplasm
+aadK	665029.EAMY_2574	GO Component	GO:0110165	Cellular anatomical entity
+aadK	665029.EAMY_2574	STRING clusters	CL:3825	Mixed, incl. Prosthetic group metabolic process, and Molybdate ion transport
+aadK	665029.EAMY_2574	STRING clusters	CL:3898	Mixed, incl. Dehydroquinase class II, and Protein repair
+aadK	665029.EAMY_2574	STRING clusters	CL:3916	Dehydroquinase class II, and Quinoprotein dehydrogenase, conserved site
+aadK	665029.EAMY_2574	COMPARTMENTS	GOCC:0005622	Intracellular
+aadK	665029.EAMY_2574	COMPARTMENTS	GOCC:0005737	Cytoplasm
+aadK	665029.EAMY_2574	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+aadK	665029.EAMY_2574	UniProt Keywords	KW-0175	Coiled coil
+aadK	665029.EAMY_2574	UniProt Keywords	KW-0548	Nucleotidyltransferase
+aadK	665029.EAMY_2574	UniProt Keywords	KW-0808	Transferase
+aadK	665029.EAMY_2574	Pfam	PF04439	Streptomycin adenylyltransferase
+aadK	665029.EAMY_2574	InterPro	IPR007530	Aminoglycoside 6-adenylyltransferase
+aadK	665029.EAMY_2574	InterPro	IPR043519	Nucleotidyltransferase superfamily
+aaeA	665029.EAMY_0292	GO Process	GO:0006810	Transport
+aaeA	665029.EAMY_0292	GO Process	GO:0009987	Cellular process
+aaeA	665029.EAMY_0292	GO Process	GO:0051179	Localization
+aaeA	665029.EAMY_0292	GO Process	GO:0051234	Establishment of localization
+aaeA	665029.EAMY_0292	GO Process	GO:0055085	Transmembrane transport
+aaeA	665029.EAMY_0292	GO Function	GO:0005215	Transporter activity
+aaeA	665029.EAMY_0292	GO Function	GO:0022857	Transmembrane transporter activity
+aaeA	665029.EAMY_0292	GO Component	GO:0005886	Plasma membrane
+aaeA	665029.EAMY_0292	GO Component	GO:0016020	Membrane
+aaeA	665029.EAMY_0292	GO Component	GO:0016021	Integral component of membrane
+aaeA	665029.EAMY_0292	GO Component	GO:0031224	Intrinsic component of membrane
+aaeA	665029.EAMY_0292	GO Component	GO:0071944	Cell periphery
+aaeA	665029.EAMY_0292	GO Component	GO:0110165	Cellular anatomical entity
+aaeA	665029.EAMY_0292	STRING clusters	CL:2576	Mixed, incl. Signal, and Integral component of membrane
+aaeA	665029.EAMY_0292	STRING clusters	CL:2577	Mixed, incl. Signal, and Regulation of biological process
+aaeA	665029.EAMY_0292	STRING clusters	CL:2578	Mixed, incl. Signal, and Cell division
+aaeA	665029.EAMY_0292	STRING clusters	CL:2579	Mixed, incl. Signal, and Integral component of membrane
+aaeA	665029.EAMY_0292	STRING clusters	CL:2580	Signal, and Integral component of membrane
+aaeA	665029.EAMY_0292	STRING clusters	CL:2582	Signal, and Integral component of membrane
+aaeA	665029.EAMY_0292	STRING clusters	CL:2584	Mixed, incl. Signal, and Fusaric acid resistance protein-like
+aaeA	665029.EAMY_0292	STRING clusters	CL:2585	Mixed, incl. Signal, and Fusaric acid resistance protein-like
+aaeA	665029.EAMY_0292	STRING clusters	CL:2586	Mixed, incl. Signal, and Fusaric acid resistance protein-like
+aaeA	665029.EAMY_0292	STRING clusters	CL:2710	Mixed, incl. Fusaric acid resistance protein-like, and RND efflux pump, membrane fusion protein
+aaeA	665029.EAMY_0292	COMPARTMENTS	GOCC:0005886	Plasma membrane
+aaeA	665029.EAMY_0292	COMPARTMENTS	GOCC:0016020	Membrane
+aaeA	665029.EAMY_0292	COMPARTMENTS	GOCC:0071944	Cell periphery
+aaeA	665029.EAMY_0292	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+aaeA	665029.EAMY_0292	UniProt Keywords	KW-0175	Coiled coil
+aaeA	665029.EAMY_0292	UniProt Keywords	KW-0472	Membrane
+aaeA	665029.EAMY_0292	UniProt Keywords	KW-0812	Transmembrane
+aaeA	665029.EAMY_0292	UniProt Keywords	KW-0813	Transport
+aaeA	665029.EAMY_0292	UniProt Keywords	KW-0997	Cell inner membrane
+aaeA	665029.EAMY_0292	UniProt Keywords	KW-1003	Cell membrane
+aaeA	665029.EAMY_0292	UniProt Keywords	KW-1133	Transmembrane helix
+aaeA	665029.EAMY_0292	Pfam	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion
+aaeA	665029.EAMY_0292	InterPro	IPR006143	RND efflux pump, membrane fusion protein
+aaeA	665029.EAMY_0292	InterPro	IPR022871	Para-hydroxybenzoic acid efflux pump, subunit AaeA
+aaeA	665029.EAMY_0292	InterPro	IPR039562	Membrane fusion protein, biotin-lipoyl like domain
+acrA	665029.EAMY_1009	GO Process	GO:0006810	Transport
+acrA	665029.EAMY_1009	GO Process	GO:0009987	Cellular process
+acrA	665029.EAMY_1009	GO Process	GO:0051179	Localization
+acrA	665029.EAMY_1009	GO Process	GO:0051234	Establishment of localization
+acrA	665029.EAMY_1009	GO Process	GO:0055085	Transmembrane transport
+acrA	665029.EAMY_1009	GO Function	GO:0005215	Transporter activity
+acrA	665029.EAMY_1009	GO Function	GO:0022857	Transmembrane transporter activity
+acrA	665029.EAMY_1009	GO Component	GO:0005886	Plasma membrane
+acrA	665029.EAMY_1009	GO Component	GO:0016020	Membrane
+acrA	665029.EAMY_1009	GO Component	GO:0071944	Cell periphery
+acrA	665029.EAMY_1009	GO Component	GO:0110165	Cellular anatomical entity
+acrA	665029.EAMY_1009	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+acrA	665029.EAMY_1009	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrA	665029.EAMY_1009	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrA	665029.EAMY_1009	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrA	665029.EAMY_1009	KEGG	eam01501	beta-Lactam resistance
+acrA	665029.EAMY_1009	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0016020	Membrane
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:1990195	Macrolide transmembrane transporter complex
+acrA	665029.EAMY_1009	COMPARTMENTS	GOCC:1990351	Transporter complex
+acrA	665029.EAMY_1009	UniProt Keywords	KW-0732	Signal
+acrA	665029.EAMY_1009	Pfam	PF16576	Barrel-sandwich domain of CusB or HlyD membrane-fusion
+acrA	665029.EAMY_1009	InterPro	IPR006143	RND efflux pump, membrane fusion protein
+acrA	665029.EAMY_1009	InterPro	IPR032317	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrA	665029.EAMY_1009	InterPro	IPR043602	Cation efflux system protein CusB, domain 1
+acrB	665029.EAMY_1008	GO Process	GO:0006810	Transport
+acrB	665029.EAMY_1008	GO Process	GO:0009987	Cellular process
+acrB	665029.EAMY_1008	GO Process	GO:0042908	Xenobiotic transport
+acrB	665029.EAMY_1008	GO Process	GO:0051179	Localization
+acrB	665029.EAMY_1008	GO Process	GO:0051234	Establishment of localization
+acrB	665029.EAMY_1008	GO Process	GO:0055085	Transmembrane transport
+acrB	665029.EAMY_1008	GO Function	GO:0005215	Transporter activity
+acrB	665029.EAMY_1008	GO Function	GO:0015562	Efflux transmembrane transporter activity
+acrB	665029.EAMY_1008	GO Function	GO:0022857	Transmembrane transporter activity
+acrB	665029.EAMY_1008	GO Component	GO:0005886	Plasma membrane
+acrB	665029.EAMY_1008	GO Component	GO:0016020	Membrane
+acrB	665029.EAMY_1008	GO Component	GO:0016021	Integral component of membrane
+acrB	665029.EAMY_1008	GO Component	GO:0031224	Intrinsic component of membrane
+acrB	665029.EAMY_1008	GO Component	GO:0071944	Cell periphery
+acrB	665029.EAMY_1008	GO Component	GO:0110165	Cellular anatomical entity
+acrB	665029.EAMY_1008	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+acrB	665029.EAMY_1008	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrB	665029.EAMY_1008	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrB	665029.EAMY_1008	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+acrB	665029.EAMY_1008	KEGG	eam01501	beta-Lactam resistance
+acrB	665029.EAMY_1008	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+acrB	665029.EAMY_1008	COMPARTMENTS	GOCC:0005886	Plasma membrane
+acrB	665029.EAMY_1008	COMPARTMENTS	GOCC:0016020	Membrane
+acrB	665029.EAMY_1008	COMPARTMENTS	GOCC:0071944	Cell periphery
+acrB	665029.EAMY_1008	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+acrB	665029.EAMY_1008	UniProt Keywords	KW-0472	Membrane
+acrB	665029.EAMY_1008	UniProt Keywords	KW-0812	Transmembrane
+acrB	665029.EAMY_1008	UniProt Keywords	KW-0813	Transport
+acrB	665029.EAMY_1008	UniProt Keywords	KW-0997	Cell inner membrane
+acrB	665029.EAMY_1008	UniProt Keywords	KW-1003	Cell membrane
+acrB	665029.EAMY_1008	UniProt Keywords	KW-1133	Transmembrane helix
+acrB	665029.EAMY_1008	Pfam	PF02355	Protein export membrane protein
+acrB	665029.EAMY_1008	Pfam	PF03176	MMPL family
+acrB	665029.EAMY_1008	InterPro	IPR001036	Acriflavin resistance protein
+acrB	665029.EAMY_1008	InterPro	IPR004764	Hydrophobe/amphiphile efflux-1 HAE1
+acrB	665029.EAMY_1008	InterPro	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains
+acrZ	665029.EAMY_1196	GO Process	GO:0006810	Transport
+acrZ	665029.EAMY_1196	GO Process	GO:0009636	Response to toxic substance
+acrZ	665029.EAMY_1196	GO Process	GO:0009987	Cellular process
+acrZ	665029.EAMY_1196	GO Process	GO:0042221	Response to chemical
+acrZ	665029.EAMY_1196	GO Process	GO:0042908	Xenobiotic transport
+acrZ	665029.EAMY_1196	GO Process	GO:0046618	Xenobiotic export from cell
+acrZ	665029.EAMY_1196	GO Process	GO:0046677	Response to antibiotic
+acrZ	665029.EAMY_1196	GO Process	GO:0050896	Response to stimulus
+acrZ	665029.EAMY_1196	GO Process	GO:0051179	Localization
+acrZ	665029.EAMY_1196	GO Process	GO:0051234	Establishment of localization
+acrZ	665029.EAMY_1196	GO Process	GO:0055085	Transmembrane transport
+acrZ	665029.EAMY_1196	GO Process	GO:0098754	Detoxification
+acrZ	665029.EAMY_1196	GO Process	GO:0140115	Export across plasma membrane
+acrZ	665029.EAMY_1196	GO Process	GO:0140352	Export from cell
+acrZ	665029.EAMY_1196	GO Process	GO:1990961	Xenobiotic detoxification by transmembrane export across the plasma membrane
+acrZ	665029.EAMY_1196	GO Function	GO:0005215	Transporter activity
+acrZ	665029.EAMY_1196	GO Function	GO:0022857	Transmembrane transporter activity
+acrZ	665029.EAMY_1196	GO Function	GO:0042910	Xenobiotic transmembrane transporter activity
+acrZ	665029.EAMY_1196	GO Component	GO:0005886	Plasma membrane
+acrZ	665029.EAMY_1196	GO Component	GO:0016020	Membrane
+acrZ	665029.EAMY_1196	GO Component	GO:0016021	Integral component of membrane
+acrZ	665029.EAMY_1196	GO Component	GO:0031224	Intrinsic component of membrane
+acrZ	665029.EAMY_1196	GO Component	GO:0071944	Cell periphery
+acrZ	665029.EAMY_1196	GO Component	GO:0110165	Cellular anatomical entity
+acrZ	665029.EAMY_1196	STRING clusters	CL:3825	Mixed, incl. Prosthetic group metabolic process, and Molybdate ion transport
+acrZ	665029.EAMY_1196	STRING clusters	CL:3826	Mixed, incl. Prosthetic group metabolic process, and Molybdate ion transport
+acrZ	665029.EAMY_1196	STRING clusters	CL:3828	Mixed, incl. Prosthetic group metabolic process, and Molybdate ion transport
+acrZ	665029.EAMY_1196	STRING clusters	CL:3829	Prosthetic group metabolic process, and Molybdate ion transport
+acrZ	665029.EAMY_1196	COMPARTMENTS	GOCC:0005886	Plasma membrane
+acrZ	665029.EAMY_1196	COMPARTMENTS	GOCC:0016020	Membrane
+acrZ	665029.EAMY_1196	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+acrZ	665029.EAMY_1196	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+acrZ	665029.EAMY_1196	COMPARTMENTS	GOCC:0071944	Cell periphery
+acrZ	665029.EAMY_1196	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+acrZ	665029.EAMY_1196	UniProt Keywords	KW-0046	Antibiotic resistance
+acrZ	665029.EAMY_1196	UniProt Keywords	KW-0472	Membrane
+acrZ	665029.EAMY_1196	UniProt Keywords	KW-0812	Transmembrane
+acrZ	665029.EAMY_1196	UniProt Keywords	KW-0813	Transport
+acrZ	665029.EAMY_1196	UniProt Keywords	KW-0997	Cell inner membrane
+acrZ	665029.EAMY_1196	UniProt Keywords	KW-1003	Cell membrane
+acrZ	665029.EAMY_1196	UniProt Keywords	KW-1133	Transmembrane helix
+acrZ	665029.EAMY_1196	Pfam	PF10766	Multidrug efflux pump-associated protein AcrZ
+acrZ	665029.EAMY_1196	InterPro	IPR019702	Multidrug efflux pump accessory protein AcrZ
+ampC	665029.EAMY_0516	GO Process	GO:0008152	Metabolic process
+ampC	665029.EAMY_0516	GO Function	GO:0003824	Catalytic activity
+ampC	665029.EAMY_0516	GO Function	GO:0016787	Hydrolase activity
+ampC	665029.EAMY_0516	GO Component	GO:0110165	Cellular anatomical entity
+ampC	665029.EAMY_0516	STRING clusters	CL:5060	Mixed, incl. Organic acid catabolic process, and Signal
+ampC	665029.EAMY_0516	STRING clusters	CL:5061	Mixed, incl. Signal, and Biological process involved in interspecies interaction between organisms
+ampC	665029.EAMY_0516	STRING clusters	CL:5251	Mostly uncharacterized, incl. ABC-type xenobiotic transporter activity, and DNA geometric change
+ampC	665029.EAMY_0516	STRING clusters	CL:5252	Mixed, incl. ABC-type xenobiotic transporter activity, and GNAT domain
+ampC	665029.EAMY_0516	STRING clusters	CL:5280	Mixed, incl. ABC-type xenobiotic transporter activity, and Beta-lactamase
+ampC	665029.EAMY_0516	KEGG	eam01501	beta-Lactam resistance
+ampC	665029.EAMY_0516	KEGG	eam02020	Two-component system
+ampC	665029.EAMY_0516	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ampC	665029.EAMY_0516	UniProt Keywords	KW-0046	Antibiotic resistance
+ampC	665029.EAMY_0516	UniProt Keywords	KW-0378	Hydrolase
+ampC	665029.EAMY_0516	UniProt Keywords	KW-0732	Signal
+ampC	665029.EAMY_0516	Pfam	PF00144	Beta-lactamase
+ampC	665029.EAMY_0516	InterPro	IPR001466	Beta-lactamase-related
+ampC	665029.EAMY_0516	InterPro	IPR001586	Beta-lactamase, class-C active site
+ampC	665029.EAMY_0516	InterPro	IPR012338	Beta-lactamase/transpeptidase-like
+ampE	665029.EAMY_2852	GO Process	GO:0042221	Response to chemical
+ampE	665029.EAMY_2852	GO Process	GO:0046677	Response to antibiotic
+ampE	665029.EAMY_2852	GO Process	GO:0050896	Response to stimulus
+ampE	665029.EAMY_2852	GO Component	GO:0016020	Membrane
+ampE	665029.EAMY_2852	GO Component	GO:0016021	Integral component of membrane
+ampE	665029.EAMY_2852	GO Component	GO:0031224	Intrinsic component of membrane
+ampE	665029.EAMY_2852	GO Component	GO:0110165	Cellular anatomical entity
+ampE	665029.EAMY_2852	STRING clusters	CL:2998	Mixed, incl. Glucan biosynthesis protein MdoG/MdoD, and Protein of unknown function DUF1375
+ampE	665029.EAMY_2852	COMPARTMENTS	GOCC:0005886	Plasma membrane
+ampE	665029.EAMY_2852	COMPARTMENTS	GOCC:0016020	Membrane
+ampE	665029.EAMY_2852	COMPARTMENTS	GOCC:0071944	Cell periphery
+ampE	665029.EAMY_2852	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ampE	665029.EAMY_2852	UniProt Keywords	KW-0472	Membrane
+ampE	665029.EAMY_2852	UniProt Keywords	KW-0812	Transmembrane
+ampE	665029.EAMY_2852	UniProt Keywords	KW-1133	Transmembrane helix
+ampE	665029.EAMY_2852	Pfam	PF17113	Regulatory signalling modulator protein AmpE
+ampE	665029.EAMY_2852	InterPro	IPR031347	Protein AmpE
+bacA	665029.EAMY_0421	GO Process	GO:0000270	Peptidoglycan metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0006022	Aminoglycan metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0006023	Aminoglycan biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:0006024	Glycosaminoglycan biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:0006793	Phosphorus metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0006807	Nitrogen compound metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0008152	Metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0008360	Regulation of cell shape
+bacA	665029.EAMY_0421	GO Process	GO:0009058	Biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:0009059	Macromolecule biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:0009252	Peptidoglycan biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:0009273	Peptidoglycan-based cell wall biogenesis
+bacA	665029.EAMY_0421	GO Process	GO:0009987	Cellular process
+bacA	665029.EAMY_0421	GO Process	GO:0016043	Cellular component organization
+bacA	665029.EAMY_0421	GO Process	GO:0016311	Dephosphorylation
+bacA	665029.EAMY_0421	GO Process	GO:0022603	Regulation of anatomical structure morphogenesis
+bacA	665029.EAMY_0421	GO Process	GO:0022604	Regulation of cell morphogenesis
+bacA	665029.EAMY_0421	GO Process	GO:0030203	Glycosaminoglycan metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:0042221	Response to chemical
+bacA	665029.EAMY_0421	GO Process	GO:0042546	Cell wall biogenesis
+bacA	665029.EAMY_0421	GO Process	GO:0043170	Macromolecule metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0044036	Cell wall macromolecule metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0044038	Cell wall macromolecule biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:0044085	Cellular component biogenesis
+bacA	665029.EAMY_0421	GO Process	GO:0044237	Cellular metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0044249	Cellular biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:0044260	Cellular macromolecule metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0045229	External encapsulating structure organization
+bacA	665029.EAMY_0421	GO Process	GO:0046677	Response to antibiotic
+bacA	665029.EAMY_0421	GO Process	GO:0050789	Regulation of biological process
+bacA	665029.EAMY_0421	GO Process	GO:0050793	Regulation of developmental process
+bacA	665029.EAMY_0421	GO Process	GO:0050896	Response to stimulus
+bacA	665029.EAMY_0421	GO Process	GO:0065007	Biological regulation
+bacA	665029.EAMY_0421	GO Process	GO:0070589	Cellular component macromolecule biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:0071554	Cell wall organization or biogenesis
+bacA	665029.EAMY_0421	GO Process	GO:0071555	Cell wall organization
+bacA	665029.EAMY_0421	GO Process	GO:0071704	Organic substance metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:0071840	Cellular component organization or biogenesis
+bacA	665029.EAMY_0421	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:1901564	Organonitrogen compound metabolic process
+bacA	665029.EAMY_0421	GO Process	GO:1901566	Organonitrogen compound biosynthetic process
+bacA	665029.EAMY_0421	GO Process	GO:1901576	Organic substance biosynthetic process
+bacA	665029.EAMY_0421	GO Function	GO:0003824	Catalytic activity
+bacA	665029.EAMY_0421	GO Function	GO:0016462	Pyrophosphatase activity
+bacA	665029.EAMY_0421	GO Function	GO:0016787	Hydrolase activity
+bacA	665029.EAMY_0421	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+bacA	665029.EAMY_0421	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+bacA	665029.EAMY_0421	GO Function	GO:0050380	Undecaprenyl-diphosphatase activity
+bacA	665029.EAMY_0421	GO Component	GO:0005886	Plasma membrane
+bacA	665029.EAMY_0421	GO Component	GO:0016020	Membrane
+bacA	665029.EAMY_0421	GO Component	GO:0016021	Integral component of membrane
+bacA	665029.EAMY_0421	GO Component	GO:0031224	Intrinsic component of membrane
+bacA	665029.EAMY_0421	GO Component	GO:0071944	Cell periphery
+bacA	665029.EAMY_0421	GO Component	GO:0110165	Cellular anatomical entity
+bacA	665029.EAMY_0421	STRING clusters	CL:2246	Mixed, incl. Iron-sulfur cluster assembly, and Queuosine metabolic process
+bacA	665029.EAMY_0421	STRING clusters	CL:2332	Mixed, incl. Queuosine metabolic process, and Oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor
+bacA	665029.EAMY_0421	STRING clusters	CL:2358	Queuosine biosynthesis, and GTP cyclohydrolase activity
+bacA	665029.EAMY_0421	KEGG	eam00550	Peptidoglycan biosynthesis
+bacA	665029.EAMY_0421	COMPARTMENTS	GOCC:0005886	Plasma membrane
+bacA	665029.EAMY_0421	COMPARTMENTS	GOCC:0005887	Integral component of plasma membrane
+bacA	665029.EAMY_0421	COMPARTMENTS	GOCC:0016020	Membrane
+bacA	665029.EAMY_0421	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+bacA	665029.EAMY_0421	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+bacA	665029.EAMY_0421	COMPARTMENTS	GOCC:0031226	Intrinsic component of plasma membrane
+bacA	665029.EAMY_0421	COMPARTMENTS	GOCC:0071944	Cell periphery
+bacA	665029.EAMY_0421	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+bacA	665029.EAMY_0421	UniProt Keywords	KW-0046	Antibiotic resistance
+bacA	665029.EAMY_0421	UniProt Keywords	KW-0133	Cell shape
+bacA	665029.EAMY_0421	UniProt Keywords	KW-0378	Hydrolase
+bacA	665029.EAMY_0421	UniProt Keywords	KW-0472	Membrane
+bacA	665029.EAMY_0421	UniProt Keywords	KW-0573	Peptidoglycan synthesis
+bacA	665029.EAMY_0421	UniProt Keywords	KW-0812	Transmembrane
+bacA	665029.EAMY_0421	UniProt Keywords	KW-0961	Cell wall biogenesis/degradation
+bacA	665029.EAMY_0421	UniProt Keywords	KW-0997	Cell inner membrane
+bacA	665029.EAMY_0421	UniProt Keywords	KW-1003	Cell membrane
+bacA	665029.EAMY_0421	UniProt Keywords	KW-1133	Transmembrane helix
+bacA	665029.EAMY_0421	Pfam	PF02673	Bacitracin resistance protein BacA
+bacA	665029.EAMY_0421	InterPro	IPR003824	Undecaprenyl-diphosphatase UppP
+cmeB	665029.EAMY_2508	GO Process	GO:0006810	Transport
+cmeB	665029.EAMY_2508	GO Process	GO:0009987	Cellular process
+cmeB	665029.EAMY_2508	GO Process	GO:0051179	Localization
+cmeB	665029.EAMY_2508	GO Process	GO:0051234	Establishment of localization
+cmeB	665029.EAMY_2508	GO Process	GO:0055085	Transmembrane transport
+cmeB	665029.EAMY_2508	GO Function	GO:0005215	Transporter activity
+cmeB	665029.EAMY_2508	GO Function	GO:0022857	Transmembrane transporter activity
+cmeB	665029.EAMY_2508	GO Component	GO:0005886	Plasma membrane
+cmeB	665029.EAMY_2508	GO Component	GO:0016020	Membrane
+cmeB	665029.EAMY_2508	GO Component	GO:0016021	Integral component of membrane
+cmeB	665029.EAMY_2508	GO Component	GO:0031224	Intrinsic component of membrane
+cmeB	665029.EAMY_2508	GO Component	GO:0071944	Cell periphery
+cmeB	665029.EAMY_2508	GO Component	GO:0110165	Cellular anatomical entity
+cmeB	665029.EAMY_2508	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+cmeB	665029.EAMY_2508	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+cmeB	665029.EAMY_2508	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+cmeB	665029.EAMY_2508	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+cmeB	665029.EAMY_2508	STRING clusters	CL:4921	Drug resistance transporter EmrB-like, and Xenobiotic export from cell
+cmeB	665029.EAMY_2508	KEGG	eam02020	Two-component system
+cmeB	665029.EAMY_2508	COMPARTMENTS	GOCC:0005886	Plasma membrane
+cmeB	665029.EAMY_2508	COMPARTMENTS	GOCC:0016020	Membrane
+cmeB	665029.EAMY_2508	COMPARTMENTS	GOCC:0071944	Cell periphery
+cmeB	665029.EAMY_2508	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+cmeB	665029.EAMY_2508	UniProt Keywords	KW-0472	Membrane
+cmeB	665029.EAMY_2508	UniProt Keywords	KW-0812	Transmembrane
+cmeB	665029.EAMY_2508	UniProt Keywords	KW-0813	Transport
+cmeB	665029.EAMY_2508	UniProt Keywords	KW-0997	Cell inner membrane
+cmeB	665029.EAMY_2508	UniProt Keywords	KW-1003	Cell membrane
+cmeB	665029.EAMY_2508	UniProt Keywords	KW-1133	Transmembrane helix
+cmeB	665029.EAMY_2508	Pfam	PF03176	MMPL family
+cmeB	665029.EAMY_2508	InterPro	IPR001036	Acriflavin resistance protein
+cmeB	665029.EAMY_2508	InterPro	IPR004764	Hydrophobe/amphiphile efflux-1 HAE1
+cmeB	665029.EAMY_2508	InterPro	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains
+dsbA1	665029.EAMY_0028	GO Process	GO:0009987	Cellular process
+dsbA1	665029.EAMY_0028	GO Process	GO:0042221	Response to chemical
+dsbA1	665029.EAMY_0028	GO Process	GO:0046677	Response to antibiotic
+dsbA1	665029.EAMY_0028	GO Process	GO:0050896	Response to stimulus
+dsbA1	665029.EAMY_0028	GO Process	GO:0051716	Cellular response to stimulus
+dsbA1	665029.EAMY_0028	GO Process	GO:0070887	Cellular response to chemical stimulus
+dsbA1	665029.EAMY_0028	GO Process	GO:0071236	Cellular response to antibiotic
+dsbA1	665029.EAMY_0028	GO Function	GO:0003824	Catalytic activity
+dsbA1	665029.EAMY_0028	GO Function	GO:0016491	Oxidoreductase activity
+dsbA1	665029.EAMY_0028	GO Component	GO:0042597	Periplasmic space
+dsbA1	665029.EAMY_0028	GO Component	GO:0110165	Cellular anatomical entity
+dsbA1	665029.EAMY_0028	STRING clusters	CL:2379	Mixed, incl. Glutathione metabolism, and Cytochrome complex assembly
+dsbA1	665029.EAMY_0028	STRING clusters	CL:2499	Mixed, incl. Cytochrome complex assembly, and Thioredoxin, conserved site
+dsbA1	665029.EAMY_0028	STRING clusters	CL:2500	Mixed, incl. Cytochrome complex assembly, and Thioredoxin, conserved site
+dsbA1	665029.EAMY_0028	STRING clusters	CL:2501	Cytochrome complex assembly, and DSBA-like thioredoxin domain
+dsbA1	665029.EAMY_0028	STRING clusters	CL:2521	Thioredoxin, conserved site, and DsbB-like superfamily
+dsbA1	665029.EAMY_0028	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+dsbA1	665029.EAMY_0028	COMPARTMENTS	GOCC:0042597	Periplasmic space
+dsbA1	665029.EAMY_0028	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+dsbA1	665029.EAMY_0028	UniProt Keywords	KW-0574	Periplasm
+dsbA1	665029.EAMY_0028	UniProt Keywords	KW-0732	Signal
+dsbA1	665029.EAMY_0028	UniProt Keywords	KW-1015	Disulfide bond
+dsbA1	665029.EAMY_0028	Pfam	PF01323	DSBA-like thioredoxin domain
+dsbA1	665029.EAMY_0028	InterPro	IPR001853	DSBA-like thioredoxin domain
+dsbA1	665029.EAMY_0028	InterPro	IPR013766	Thioredoxin domain
+dsbA1	665029.EAMY_0028	InterPro	IPR017937	Thioredoxin, conserved site
+dsbA1	665029.EAMY_0028	InterPro	IPR023205	Thiol:disulphide interchange protein DsbA/DsbL
+dsbA1	665029.EAMY_0028	InterPro	IPR036249	Thioredoxin-like superfamily
+dsbA3	665029.EAMY_0800	GO Process	GO:0009987	Cellular process
+dsbA3	665029.EAMY_0800	GO Process	GO:0042221	Response to chemical
+dsbA3	665029.EAMY_0800	GO Process	GO:0046677	Response to antibiotic
+dsbA3	665029.EAMY_0800	GO Process	GO:0050896	Response to stimulus
+dsbA3	665029.EAMY_0800	GO Process	GO:0051716	Cellular response to stimulus
+dsbA3	665029.EAMY_0800	GO Process	GO:0070887	Cellular response to chemical stimulus
+dsbA3	665029.EAMY_0800	GO Process	GO:0071236	Cellular response to antibiotic
+dsbA3	665029.EAMY_0800	GO Function	GO:0003824	Catalytic activity
+dsbA3	665029.EAMY_0800	GO Function	GO:0016491	Oxidoreductase activity
+dsbA3	665029.EAMY_0800	GO Component	GO:0042597	Periplasmic space
+dsbA3	665029.EAMY_0800	GO Component	GO:0110165	Cellular anatomical entity
+dsbA3	665029.EAMY_0800	STRING clusters	CL:2379	Mixed, incl. Glutathione metabolism, and Cytochrome complex assembly
+dsbA3	665029.EAMY_0800	STRING clusters	CL:2499	Mixed, incl. Cytochrome complex assembly, and Thioredoxin, conserved site
+dsbA3	665029.EAMY_0800	STRING clusters	CL:2500	Mixed, incl. Cytochrome complex assembly, and Thioredoxin, conserved site
+dsbA3	665029.EAMY_0800	STRING clusters	CL:2501	Cytochrome complex assembly, and DSBA-like thioredoxin domain
+dsbA3	665029.EAMY_0800	STRING clusters	CL:2521	Thioredoxin, conserved site, and DsbB-like superfamily
+dsbA3	665029.EAMY_0800	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+dsbA3	665029.EAMY_0800	COMPARTMENTS	GOCC:0042597	Periplasmic space
+dsbA3	665029.EAMY_0800	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+dsbA3	665029.EAMY_0800	UniProt Keywords	KW-0574	Periplasm
+dsbA3	665029.EAMY_0800	UniProt Keywords	KW-0732	Signal
+dsbA3	665029.EAMY_0800	UniProt Keywords	KW-1015	Disulfide bond
+dsbA3	665029.EAMY_0800	Pfam	PF01323	DSBA-like thioredoxin domain
+dsbA3	665029.EAMY_0800	InterPro	IPR001853	DSBA-like thioredoxin domain
+dsbA3	665029.EAMY_0800	InterPro	IPR017937	Thioredoxin, conserved site
+dsbA3	665029.EAMY_0800	InterPro	IPR023205	Thiol:disulphide interchange protein DsbA/DsbL
+dsbA3	665029.EAMY_0800	InterPro	IPR036249	Thioredoxin-like superfamily
+emrR	665029.EAMY_2717	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+emrR	665029.EAMY_2717	GO Process	GO:0009889	Regulation of biosynthetic process
+emrR	665029.EAMY_2717	GO Process	GO:0010468	Regulation of gene expression
+emrR	665029.EAMY_2717	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+emrR	665029.EAMY_2717	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+emrR	665029.EAMY_2717	GO Process	GO:0019222	Regulation of metabolic process
+emrR	665029.EAMY_2717	GO Process	GO:0031323	Regulation of cellular metabolic process
+emrR	665029.EAMY_2717	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+emrR	665029.EAMY_2717	GO Process	GO:0050789	Regulation of biological process
+emrR	665029.EAMY_2717	GO Process	GO:0050794	Regulation of cellular process
+emrR	665029.EAMY_2717	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+emrR	665029.EAMY_2717	GO Process	GO:0051252	Regulation of RNA metabolic process
+emrR	665029.EAMY_2717	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+emrR	665029.EAMY_2717	GO Process	GO:0065007	Biological regulation
+emrR	665029.EAMY_2717	GO Process	GO:0080090	Regulation of primary metabolic process
+emrR	665029.EAMY_2717	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+emrR	665029.EAMY_2717	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+emrR	665029.EAMY_2717	GO Function	GO:0003700	DNA-binding transcription factor activity
+emrR	665029.EAMY_2717	GO Function	GO:0140110	Transcription regulator activity
+emrR	665029.EAMY_2717	GO Component	GO:0005622	Intracellular anatomical structure
+emrR	665029.EAMY_2717	GO Component	GO:0005737	Cytoplasm
+emrR	665029.EAMY_2717	GO Component	GO:0110165	Cellular anatomical entity
+emrR	665029.EAMY_2717	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+emrR	665029.EAMY_2717	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+emrR	665029.EAMY_2717	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+emrR	665029.EAMY_2717	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+emrR	665029.EAMY_2717	STRING clusters	CL:4921	Drug resistance transporter EmrB-like, and Xenobiotic export from cell
+emrR	665029.EAMY_2717	COMPARTMENTS	GOCC:0005622	Intracellular
+emrR	665029.EAMY_2717	COMPARTMENTS	GOCC:0005737	Cytoplasm
+emrR	665029.EAMY_2717	COMPARTMENTS	GOCC:0005829	Cytosol
+emrR	665029.EAMY_2717	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+emrR	665029.EAMY_2717	UniProt Keywords	KW-0175	Coiled coil
+emrR	665029.EAMY_2717	UniProt Keywords	KW-0238	DNA-binding
+emrR	665029.EAMY_2717	UniProt Keywords	KW-0804	Transcription
+emrR	665029.EAMY_2717	UniProt Keywords	KW-0805	Transcription regulation
+emrR	665029.EAMY_2717	InterPro	IPR000835	MarR-type HTH domain
+emrR	665029.EAMY_2717	InterPro	IPR023187	Transcriptional regulator MarR-type, conserved site
+emrR	665029.EAMY_2717	InterPro	IPR036388	Winged helix-like DNA-binding domain superfamily
+emrR	665029.EAMY_2717	InterPro	IPR036390	Winged helix DNA-binding domain superfamily
+emrR	665029.EAMY_2717	SMART	SM00347	Helix_turn_helix multiple antibiotic resistance protein
+fieF	665029.EAMY_0107	GO Process	GO:0000041	Transition metal ion transport
+fieF	665029.EAMY_0107	GO Process	GO:0006810	Transport
+fieF	665029.EAMY_0107	GO Process	GO:0006811	Ion transport
+fieF	665029.EAMY_0107	GO Process	GO:0006812	Cation transport
+fieF	665029.EAMY_0107	GO Process	GO:0006826	Iron ion transport
+fieF	665029.EAMY_0107	GO Process	GO:0006829	Zinc ion transport
+fieF	665029.EAMY_0107	GO Process	GO:0009987	Cellular process
+fieF	665029.EAMY_0107	GO Process	GO:0030001	Metal ion transport
+fieF	665029.EAMY_0107	GO Process	GO:0034220	Ion transmembrane transport
+fieF	665029.EAMY_0107	GO Process	GO:0051179	Localization
+fieF	665029.EAMY_0107	GO Process	GO:0051234	Establishment of localization
+fieF	665029.EAMY_0107	GO Process	GO:0055085	Transmembrane transport
+fieF	665029.EAMY_0107	GO Process	GO:0098655	Cation transmembrane transport
+fieF	665029.EAMY_0107	GO Function	GO:0005215	Transporter activity
+fieF	665029.EAMY_0107	GO Function	GO:0008324	Cation transmembrane transporter activity
+fieF	665029.EAMY_0107	GO Function	GO:0015075	Ion transmembrane transporter activity
+fieF	665029.EAMY_0107	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+fieF	665029.EAMY_0107	GO Function	GO:0022857	Transmembrane transporter activity
+fieF	665029.EAMY_0107	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+fieF	665029.EAMY_0107	GO Function	GO:0046873	Metal ion transmembrane transporter activity
+fieF	665029.EAMY_0107	GO Component	GO:0005886	Plasma membrane
+fieF	665029.EAMY_0107	GO Component	GO:0016020	Membrane
+fieF	665029.EAMY_0107	GO Component	GO:0016021	Integral component of membrane
+fieF	665029.EAMY_0107	GO Component	GO:0031224	Intrinsic component of membrane
+fieF	665029.EAMY_0107	GO Component	GO:0071944	Cell periphery
+fieF	665029.EAMY_0107	GO Component	GO:0110165	Cellular anatomical entity
+fieF	665029.EAMY_0107	STRING clusters	CL:2379	Mixed, incl. Glutathione metabolism, and Cytochrome complex assembly
+fieF	665029.EAMY_0107	STRING clusters	CL:2380	Mixed, incl. Glutathione metabolism, and Zinc ion transport
+fieF	665029.EAMY_0107	STRING clusters	CL:2444	Mixed, incl. Zinc ion transport, and Copper ion binding
+fieF	665029.EAMY_0107	STRING clusters	CL:2478	Mixed, incl. Copper ion binding, and Cation efflux family
+fieF	665029.EAMY_0107	STRING clusters	CL:2481	Cation efflux family, and P-type ATPase, subfamily IB
+fieF	665029.EAMY_0107	COMPARTMENTS	GOCC:0005886	Plasma membrane
+fieF	665029.EAMY_0107	COMPARTMENTS	GOCC:0016020	Membrane
+fieF	665029.EAMY_0107	COMPARTMENTS	GOCC:0071944	Cell periphery
+fieF	665029.EAMY_0107	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+fieF	665029.EAMY_0107	UniProt Keywords	KW-0472	Membrane
+fieF	665029.EAMY_0107	UniProt Keywords	KW-0812	Transmembrane
+fieF	665029.EAMY_0107	UniProt Keywords	KW-0813	Transport
+fieF	665029.EAMY_0107	UniProt Keywords	KW-1133	Transmembrane helix
+fieF	665029.EAMY_0107	Pfam	PF01545	Cation efflux family
+fieF	665029.EAMY_0107	Pfam	PF16916	Dimerisation domain of Zinc Transporter
+fieF	665029.EAMY_0107	InterPro	IPR002524	Cation efflux protein
+fieF	665029.EAMY_0107	InterPro	IPR027469	Cation efflux transmembrane domain superfamily
+fieF	665029.EAMY_0107	InterPro	IPR027470	Cation efflux protein, cytoplasmic domain
+fieF	665029.EAMY_0107	InterPro	IPR036837	Cation efflux protein, cytoplasmic domain superfamily
+gtrB1	665029.EAMY_0951	GO Process	GO:0000271	Polysaccharide biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0005975	Carbohydrate metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0005976	Polysaccharide metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0006629	Lipid metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0006643	Membrane lipid metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0006644	Phospholipid metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0006664	Glycolipid metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0006720	Isoprenoid metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0006721	Terpenoid metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0006793	Phosphorus metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0008152	Metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0008299	Isoprenoid biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0008610	Lipid biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0008654	Phospholipid biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0009058	Biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0009059	Macromolecule biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0009245	Lipid A biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0009247	Glycolipid biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0009311	Oligosaccharide metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0009312	Oligosaccharide biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0009987	Cellular process
+gtrB1	665029.EAMY_0951	GO Process	GO:0016051	Carbohydrate biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0016114	Terpenoid biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0019637	Organophosphate metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0036107	4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0036108	4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0042221	Response to chemical
+gtrB1	665029.EAMY_0951	GO Process	GO:0043170	Macromolecule metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0044237	Cellular metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0044238	Primary metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0044249	Cellular biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0044255	Cellular lipid metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0044260	Cellular macromolecule metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0046467	Membrane lipid biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0046493	Lipid A metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0046677	Response to antibiotic
+gtrB1	665029.EAMY_0951	GO Process	GO:0050896	Response to stimulus
+gtrB1	665029.EAMY_0951	GO Process	GO:0071704	Organic substance metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:0090407	Organophosphate biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:1901269	Lipooligosaccharide metabolic process
+gtrB1	665029.EAMY_0951	GO Process	GO:1901271	Lipooligosaccharide biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:1901576	Organic substance biosynthetic process
+gtrB1	665029.EAMY_0951	GO Process	GO:1903509	Liposaccharide metabolic process
+gtrB1	665029.EAMY_0951	GO Function	GO:0003824	Catalytic activity
+gtrB1	665029.EAMY_0951	GO Function	GO:0016740	Transferase activity
+gtrB1	665029.EAMY_0951	GO Function	GO:0016757	Glycosyltransferase activity
+gtrB1	665029.EAMY_0951	GO Function	GO:0016763	Pentosyltransferase activity
+gtrB1	665029.EAMY_0951	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+gtrB1	665029.EAMY_0951	GO Function	GO:0016780	Phosphotransferase activity, for other substituted phosphate groups
+gtrB1	665029.EAMY_0951	GO Function	GO:0099621	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase activity
+gtrB1	665029.EAMY_0951	GO Component	GO:0005886	Plasma membrane
+gtrB1	665029.EAMY_0951	GO Component	GO:0016020	Membrane
+gtrB1	665029.EAMY_0951	GO Component	GO:0016021	Integral component of membrane
+gtrB1	665029.EAMY_0951	GO Component	GO:0031224	Intrinsic component of membrane
+gtrB1	665029.EAMY_0951	GO Component	GO:0071944	Cell periphery
+gtrB1	665029.EAMY_0951	GO Component	GO:0110165	Cellular anatomical entity
+gtrB1	665029.EAMY_0951	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+gtrB1	665029.EAMY_0951	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+gtrB1	665029.EAMY_0951	STRING clusters	CL:3239	Lipid A biosynthesis, and Glucosyl transferase II
+gtrB1	665029.EAMY_0951	COMPARTMENTS	GOCC:0005886	Plasma membrane
+gtrB1	665029.EAMY_0951	COMPARTMENTS	GOCC:0016020	Membrane
+gtrB1	665029.EAMY_0951	COMPARTMENTS	GOCC:0071944	Cell periphery
+gtrB1	665029.EAMY_0951	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+gtrB1	665029.EAMY_0951	UniProt Keywords	KW-0328	Glycosyltransferase
+gtrB1	665029.EAMY_0951	UniProt Keywords	KW-0472	Membrane
+gtrB1	665029.EAMY_0951	UniProt Keywords	KW-0808	Transferase
+gtrB1	665029.EAMY_0951	UniProt Keywords	KW-0812	Transmembrane
+gtrB1	665029.EAMY_0951	UniProt Keywords	KW-1133	Transmembrane helix
+gtrB1	665029.EAMY_0951	Pfam	PF00535	Glycosyl transferase family 2
+gtrB1	665029.EAMY_0951	InterPro	IPR001173	Glycosyltransferase 2-like
+gtrB1	665029.EAMY_0951	InterPro	IPR029044	Nucleotide-diphospho-sugar transferases
+gtrB3	665029.EAMY_3311	GO Process	GO:0000271	Polysaccharide biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0005975	Carbohydrate metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0005976	Polysaccharide metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0006629	Lipid metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0006643	Membrane lipid metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0006644	Phospholipid metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0006664	Glycolipid metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0006720	Isoprenoid metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0006721	Terpenoid metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0006793	Phosphorus metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0008152	Metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0008299	Isoprenoid biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0008610	Lipid biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0008654	Phospholipid biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0009058	Biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0009059	Macromolecule biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0009245	Lipid A biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0009247	Glycolipid biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0009311	Oligosaccharide metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0009312	Oligosaccharide biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0009987	Cellular process
+gtrB3	665029.EAMY_3311	GO Process	GO:0016051	Carbohydrate biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0016114	Terpenoid biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0019637	Organophosphate metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0036107	4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0036108	4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0042221	Response to chemical
+gtrB3	665029.EAMY_3311	GO Process	GO:0043170	Macromolecule metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0044237	Cellular metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0044238	Primary metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0044249	Cellular biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0044255	Cellular lipid metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0044260	Cellular macromolecule metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0046467	Membrane lipid biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0046493	Lipid A metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0046677	Response to antibiotic
+gtrB3	665029.EAMY_3311	GO Process	GO:0050896	Response to stimulus
+gtrB3	665029.EAMY_3311	GO Process	GO:0071704	Organic substance metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:0090407	Organophosphate biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:1901269	Lipooligosaccharide metabolic process
+gtrB3	665029.EAMY_3311	GO Process	GO:1901271	Lipooligosaccharide biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:1901576	Organic substance biosynthetic process
+gtrB3	665029.EAMY_3311	GO Process	GO:1903509	Liposaccharide metabolic process
+gtrB3	665029.EAMY_3311	GO Function	GO:0003824	Catalytic activity
+gtrB3	665029.EAMY_3311	GO Function	GO:0016740	Transferase activity
+gtrB3	665029.EAMY_3311	GO Function	GO:0016757	Glycosyltransferase activity
+gtrB3	665029.EAMY_3311	GO Function	GO:0016763	Pentosyltransferase activity
+gtrB3	665029.EAMY_3311	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+gtrB3	665029.EAMY_3311	GO Function	GO:0016780	Phosphotransferase activity, for other substituted phosphate groups
+gtrB3	665029.EAMY_3311	GO Function	GO:0099621	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase activity
+gtrB3	665029.EAMY_3311	GO Component	GO:0005886	Plasma membrane
+gtrB3	665029.EAMY_3311	GO Component	GO:0016020	Membrane
+gtrB3	665029.EAMY_3311	GO Component	GO:0016021	Integral component of membrane
+gtrB3	665029.EAMY_3311	GO Component	GO:0031224	Intrinsic component of membrane
+gtrB3	665029.EAMY_3311	GO Component	GO:0071944	Cell periphery
+gtrB3	665029.EAMY_3311	GO Component	GO:0110165	Cellular anatomical entity
+gtrB3	665029.EAMY_3311	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+gtrB3	665029.EAMY_3311	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+gtrB3	665029.EAMY_3311	STRING clusters	CL:3239	Lipid A biosynthesis, and Glucosyl transferase II
+gtrB3	665029.EAMY_3311	COMPARTMENTS	GOCC:0005886	Plasma membrane
+gtrB3	665029.EAMY_3311	COMPARTMENTS	GOCC:0016020	Membrane
+gtrB3	665029.EAMY_3311	COMPARTMENTS	GOCC:0071944	Cell periphery
+gtrB3	665029.EAMY_3311	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+gtrB3	665029.EAMY_3311	UniProt Keywords	KW-0328	Glycosyltransferase
+gtrB3	665029.EAMY_3311	UniProt Keywords	KW-0472	Membrane
+gtrB3	665029.EAMY_3311	UniProt Keywords	KW-0808	Transferase
+gtrB3	665029.EAMY_3311	UniProt Keywords	KW-0812	Transmembrane
+gtrB3	665029.EAMY_3311	UniProt Keywords	KW-1133	Transmembrane helix
+gtrB3	665029.EAMY_3311	Pfam	PF00535	Glycosyl transferase family 2
+gtrB3	665029.EAMY_3311	InterPro	IPR001173	Glycosyltransferase 2-like
+gtrB3	665029.EAMY_3311	InterPro	IPR029044	Nucleotide-diphospho-sugar transferases
+marR	665029.EAMY_1420	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+marR	665029.EAMY_1420	GO Process	GO:0009889	Regulation of biosynthetic process
+marR	665029.EAMY_1420	GO Process	GO:0010468	Regulation of gene expression
+marR	665029.EAMY_1420	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+marR	665029.EAMY_1420	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+marR	665029.EAMY_1420	GO Process	GO:0019222	Regulation of metabolic process
+marR	665029.EAMY_1420	GO Process	GO:0031323	Regulation of cellular metabolic process
+marR	665029.EAMY_1420	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+marR	665029.EAMY_1420	GO Process	GO:0050789	Regulation of biological process
+marR	665029.EAMY_1420	GO Process	GO:0050794	Regulation of cellular process
+marR	665029.EAMY_1420	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+marR	665029.EAMY_1420	GO Process	GO:0051252	Regulation of RNA metabolic process
+marR	665029.EAMY_1420	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+marR	665029.EAMY_1420	GO Process	GO:0065007	Biological regulation
+marR	665029.EAMY_1420	GO Process	GO:0080090	Regulation of primary metabolic process
+marR	665029.EAMY_1420	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+marR	665029.EAMY_1420	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+marR	665029.EAMY_1420	GO Function	GO:0003676	Nucleic acid binding
+marR	665029.EAMY_1420	GO Function	GO:0003677	DNA binding
+marR	665029.EAMY_1420	GO Function	GO:0003700	DNA-binding transcription factor activity
+marR	665029.EAMY_1420	GO Function	GO:0005488	Binding
+marR	665029.EAMY_1420	GO Function	GO:0097159	Organic cyclic compound binding
+marR	665029.EAMY_1420	GO Function	GO:0140110	Transcription regulator activity
+marR	665029.EAMY_1420	GO Function	GO:1901363	Heterocyclic compound binding
+marR	665029.EAMY_1420	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+marR	665029.EAMY_1420	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+marR	665029.EAMY_1420	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+marR	665029.EAMY_1420	STRING clusters	CL:4938	Mixed, incl. RND efflux system, outer membrane lipoprotein, NodT, and Transcription regulators MarR/SlyA-like
+marR	665029.EAMY_1420	COMPARTMENTS	GOCC:0005622	Intracellular
+marR	665029.EAMY_1420	COMPARTMENTS	GOCC:0005737	Cytoplasm
+marR	665029.EAMY_1420	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+marR	665029.EAMY_1420	InterPro	IPR000835	MarR-type HTH domain
+marR	665029.EAMY_1420	InterPro	IPR036388	Winged helix-like DNA-binding domain superfamily
+marR	665029.EAMY_1420	InterPro	IPR036390	Winged helix DNA-binding domain superfamily
+marR	665029.EAMY_1420	InterPro	IPR039422	Transcription regulators MarR/SlyA-like
+marR	665029.EAMY_1420	SMART	SM00347	Helix_turn_helix multiple antibiotic resistance protein
+mdtA	665029.EAMY_0683	GO Process	GO:0006810	Transport
+mdtA	665029.EAMY_0683	GO Process	GO:0009987	Cellular process
+mdtA	665029.EAMY_0683	GO Process	GO:0051179	Localization
+mdtA	665029.EAMY_0683	GO Process	GO:0051234	Establishment of localization
+mdtA	665029.EAMY_0683	GO Process	GO:0055085	Transmembrane transport
+mdtA	665029.EAMY_0683	GO Function	GO:0005215	Transporter activity
+mdtA	665029.EAMY_0683	GO Function	GO:0022857	Transmembrane transporter activity
+mdtA	665029.EAMY_0683	GO Component	GO:0005886	Plasma membrane
+mdtA	665029.EAMY_0683	GO Component	GO:0016020	Membrane
+mdtA	665029.EAMY_0683	GO Component	GO:0071944	Cell periphery
+mdtA	665029.EAMY_0683	GO Component	GO:0110165	Cellular anatomical entity
+mdtA	665029.EAMY_0683	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+mdtA	665029.EAMY_0683	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtA	665029.EAMY_0683	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtA	665029.EAMY_0683	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtA	665029.EAMY_0683	STRING clusters	CL:4893	Mixed, incl. Acriflavin resistance protein, and Biotin-lipoyl like
+mdtA	665029.EAMY_0683	STRING clusters	CL:4895	Acriflavin resistance protein, and Biotin-lipoyl like
+mdtA	665029.EAMY_0683	KEGG	eam02020	Two-component system
+mdtA	665029.EAMY_0683	COMPARTMENTS	GOCC:0016020	Membrane
+mdtA	665029.EAMY_0683	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+mdtA	665029.EAMY_0683	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+mdtA	665029.EAMY_0683	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+mdtA	665029.EAMY_0683	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+mdtA	665029.EAMY_0683	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+mdtA	665029.EAMY_0683	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+mdtA	665029.EAMY_0683	COMPARTMENTS	GOCC:1990195	Macrolide transmembrane transporter complex
+mdtA	665029.EAMY_0683	COMPARTMENTS	GOCC:1990351	Transporter complex
+mdtA	665029.EAMY_0683	UniProt Keywords	KW-0472	Membrane
+mdtA	665029.EAMY_0683	UniProt Keywords	KW-0812	Transmembrane
+mdtA	665029.EAMY_0683	UniProt Keywords	KW-0813	Transport
+mdtA	665029.EAMY_0683	UniProt Keywords	KW-0997	Cell inner membrane
+mdtA	665029.EAMY_0683	UniProt Keywords	KW-1003	Cell membrane
+mdtA	665029.EAMY_0683	UniProt Keywords	KW-1133	Transmembrane helix
+mdtA	665029.EAMY_0683	Pfam	PF13437	HlyD family secretion protein
+mdtA	665029.EAMY_0683	Pfam	PF13533	Biotin-lipoyl like
+mdtA	665029.EAMY_0683	InterPro	IPR006143	RND efflux pump, membrane fusion protein
+mdtA	665029.EAMY_0683	InterPro	IPR032317	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtB	665029.EAMY_0684	GO Process	GO:0006810	Transport
+mdtB	665029.EAMY_0684	GO Process	GO:0009987	Cellular process
+mdtB	665029.EAMY_0684	GO Process	GO:0051179	Localization
+mdtB	665029.EAMY_0684	GO Process	GO:0051234	Establishment of localization
+mdtB	665029.EAMY_0684	GO Process	GO:0055085	Transmembrane transport
+mdtB	665029.EAMY_0684	GO Function	GO:0005215	Transporter activity
+mdtB	665029.EAMY_0684	GO Function	GO:0022857	Transmembrane transporter activity
+mdtB	665029.EAMY_0684	GO Component	GO:0005886	Plasma membrane
+mdtB	665029.EAMY_0684	GO Component	GO:0016020	Membrane
+mdtB	665029.EAMY_0684	GO Component	GO:0016021	Integral component of membrane
+mdtB	665029.EAMY_0684	GO Component	GO:0031224	Intrinsic component of membrane
+mdtB	665029.EAMY_0684	GO Component	GO:0071944	Cell periphery
+mdtB	665029.EAMY_0684	GO Component	GO:0110165	Cellular anatomical entity
+mdtB	665029.EAMY_0684	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+mdtB	665029.EAMY_0684	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtB	665029.EAMY_0684	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtB	665029.EAMY_0684	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtB	665029.EAMY_0684	STRING clusters	CL:4893	Mixed, incl. Acriflavin resistance protein, and Biotin-lipoyl like
+mdtB	665029.EAMY_0684	STRING clusters	CL:4895	Acriflavin resistance protein, and Biotin-lipoyl like
+mdtB	665029.EAMY_0684	KEGG	eam02020	Two-component system
+mdtB	665029.EAMY_0684	COMPARTMENTS	GOCC:0005886	Plasma membrane
+mdtB	665029.EAMY_0684	COMPARTMENTS	GOCC:0016020	Membrane
+mdtB	665029.EAMY_0684	COMPARTMENTS	GOCC:0071944	Cell periphery
+mdtB	665029.EAMY_0684	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+mdtB	665029.EAMY_0684	UniProt Keywords	KW-0472	Membrane
+mdtB	665029.EAMY_0684	UniProt Keywords	KW-0812	Transmembrane
+mdtB	665029.EAMY_0684	UniProt Keywords	KW-1133	Transmembrane helix
+mdtB	665029.EAMY_0684	Pfam	PF03176	MMPL family
+mdtB	665029.EAMY_0684	InterPro	IPR001036	Acriflavin resistance protein
+mdtB	665029.EAMY_0684	InterPro	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains
+mdtC	665029.EAMY_0685	GO Process	GO:0006810	Transport
+mdtC	665029.EAMY_0685	GO Process	GO:0009987	Cellular process
+mdtC	665029.EAMY_0685	GO Process	GO:0051179	Localization
+mdtC	665029.EAMY_0685	GO Process	GO:0051234	Establishment of localization
+mdtC	665029.EAMY_0685	GO Process	GO:0055085	Transmembrane transport
+mdtC	665029.EAMY_0685	GO Function	GO:0005215	Transporter activity
+mdtC	665029.EAMY_0685	GO Function	GO:0022857	Transmembrane transporter activity
+mdtC	665029.EAMY_0685	GO Component	GO:0005886	Plasma membrane
+mdtC	665029.EAMY_0685	GO Component	GO:0016020	Membrane
+mdtC	665029.EAMY_0685	GO Component	GO:0016021	Integral component of membrane
+mdtC	665029.EAMY_0685	GO Component	GO:0031224	Intrinsic component of membrane
+mdtC	665029.EAMY_0685	GO Component	GO:0071944	Cell periphery
+mdtC	665029.EAMY_0685	GO Component	GO:0110165	Cellular anatomical entity
+mdtC	665029.EAMY_0685	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+mdtC	665029.EAMY_0685	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtC	665029.EAMY_0685	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtC	665029.EAMY_0685	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+mdtC	665029.EAMY_0685	STRING clusters	CL:4893	Mixed, incl. Acriflavin resistance protein, and Biotin-lipoyl like
+mdtC	665029.EAMY_0685	STRING clusters	CL:4895	Acriflavin resistance protein, and Biotin-lipoyl like
+mdtC	665029.EAMY_0685	KEGG	eam02020	Two-component system
+mdtC	665029.EAMY_0685	COMPARTMENTS	GOCC:0005886	Plasma membrane
+mdtC	665029.EAMY_0685	COMPARTMENTS	GOCC:0016020	Membrane
+mdtC	665029.EAMY_0685	COMPARTMENTS	GOCC:0071944	Cell periphery
+mdtC	665029.EAMY_0685	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+mdtC	665029.EAMY_0685	UniProt Keywords	KW-0472	Membrane
+mdtC	665029.EAMY_0685	UniProt Keywords	KW-0812	Transmembrane
+mdtC	665029.EAMY_0685	UniProt Keywords	KW-1133	Transmembrane helix
+mdtC	665029.EAMY_0685	Pfam	PF02355	Protein export membrane protein
+mdtC	665029.EAMY_0685	InterPro	IPR001036	Acriflavin resistance protein
+mdtC	665029.EAMY_0685	InterPro	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains
+mdtI	665029.EAMY_0507	GO Process	GO:0006810	Transport
+mdtI	665029.EAMY_0507	GO Process	GO:0006811	Ion transport
+mdtI	665029.EAMY_0507	GO Process	GO:0006812	Cation transport
+mdtI	665029.EAMY_0507	GO Process	GO:0009987	Cellular process
+mdtI	665029.EAMY_0507	GO Process	GO:0015695	Organic cation transport
+mdtI	665029.EAMY_0507	GO Process	GO:0015846	Polyamine transport
+mdtI	665029.EAMY_0507	GO Process	GO:0015848	Spermidine transport
+mdtI	665029.EAMY_0507	GO Process	GO:0034220	Ion transmembrane transport
+mdtI	665029.EAMY_0507	GO Process	GO:0042221	Response to chemical
+mdtI	665029.EAMY_0507	GO Process	GO:0050896	Response to stimulus
+mdtI	665029.EAMY_0507	GO Process	GO:0051179	Localization
+mdtI	665029.EAMY_0507	GO Process	GO:0051234	Establishment of localization
+mdtI	665029.EAMY_0507	GO Process	GO:0055085	Transmembrane transport
+mdtI	665029.EAMY_0507	GO Process	GO:0071702	Organic substance transport
+mdtI	665029.EAMY_0507	GO Process	GO:0071705	Nitrogen compound transport
+mdtI	665029.EAMY_0507	GO Process	GO:0098655	Cation transmembrane transport
+mdtI	665029.EAMY_0507	GO Process	GO:1902047	Polyamine transmembrane transport
+mdtI	665029.EAMY_0507	GO Process	GO:1903711	Spermidine transmembrane transport
+mdtI	665029.EAMY_0507	GO Function	GO:0005215	Transporter activity
+mdtI	665029.EAMY_0507	GO Function	GO:0008324	Cation transmembrane transporter activity
+mdtI	665029.EAMY_0507	GO Function	GO:0015075	Ion transmembrane transporter activity
+mdtI	665029.EAMY_0507	GO Function	GO:0015101	Organic cation transmembrane transporter activity
+mdtI	665029.EAMY_0507	GO Function	GO:0015203	Polyamine transmembrane transporter activity
+mdtI	665029.EAMY_0507	GO Function	GO:0015606	Spermidine transmembrane transporter activity
+mdtI	665029.EAMY_0507	GO Function	GO:0022857	Transmembrane transporter activity
+mdtI	665029.EAMY_0507	GO Component	GO:0005886	Plasma membrane
+mdtI	665029.EAMY_0507	GO Component	GO:0005887	Integral component of plasma membrane
+mdtI	665029.EAMY_0507	GO Component	GO:0016020	Membrane
+mdtI	665029.EAMY_0507	GO Component	GO:0016021	Integral component of membrane
+mdtI	665029.EAMY_0507	GO Component	GO:0031224	Intrinsic component of membrane
+mdtI	665029.EAMY_0507	GO Component	GO:0031226	Intrinsic component of plasma membrane
+mdtI	665029.EAMY_0507	GO Component	GO:0071944	Cell periphery
+mdtI	665029.EAMY_0507	GO Component	GO:0110165	Cellular anatomical entity
+mdtI	665029.EAMY_0507	STRING clusters	CL:5592	Mixed, incl. Cytosine catabolic process, and ArsR-like helix-turn-helix domain
+mdtI	665029.EAMY_0507	STRING clusters	CL:5593	Mixed, incl. Cytosine catabolic process, and Spermidine transport
+mdtI	665029.EAMY_0507	STRING clusters	CL:5594	Mixed, incl. Spermidine transport, and PAS fold
+mdtI	665029.EAMY_0507	COMPARTMENTS	GOCC:0005886	Plasma membrane
+mdtI	665029.EAMY_0507	COMPARTMENTS	GOCC:0016020	Membrane
+mdtI	665029.EAMY_0507	COMPARTMENTS	GOCC:0071944	Cell periphery
+mdtI	665029.EAMY_0507	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+mdtI	665029.EAMY_0507	UniProt Keywords	KW-0472	Membrane
+mdtI	665029.EAMY_0507	UniProt Keywords	KW-0812	Transmembrane
+mdtI	665029.EAMY_0507	UniProt Keywords	KW-0813	Transport
+mdtI	665029.EAMY_0507	UniProt Keywords	KW-0997	Cell inner membrane
+mdtI	665029.EAMY_0507	UniProt Keywords	KW-1003	Cell membrane
+mdtI	665029.EAMY_0507	UniProt Keywords	KW-1133	Transmembrane helix
+mdtI	665029.EAMY_0507	Pfam	PF00893	Small Multidrug Resistance protein
+mdtI	665029.EAMY_0507	InterPro	IPR000390	Small drug/metabolite transporter protein family
+mdtI	665029.EAMY_0507	InterPro	IPR023737	Spermidine export protein MdtI
+mdtI	665029.EAMY_0507	InterPro	IPR045324	Small multidrug resistance protein
+mdtJ	665029.EAMY_0508	GO Process	GO:0006810	Transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0006811	Ion transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0006812	Cation transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0009987	Cellular process
+mdtJ	665029.EAMY_0508	GO Process	GO:0015695	Organic cation transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0015846	Polyamine transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0015848	Spermidine transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0034220	Ion transmembrane transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0042221	Response to chemical
+mdtJ	665029.EAMY_0508	GO Process	GO:0050896	Response to stimulus
+mdtJ	665029.EAMY_0508	GO Process	GO:0051179	Localization
+mdtJ	665029.EAMY_0508	GO Process	GO:0051234	Establishment of localization
+mdtJ	665029.EAMY_0508	GO Process	GO:0055085	Transmembrane transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0071702	Organic substance transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0071705	Nitrogen compound transport
+mdtJ	665029.EAMY_0508	GO Process	GO:0098655	Cation transmembrane transport
+mdtJ	665029.EAMY_0508	GO Process	GO:1902047	Polyamine transmembrane transport
+mdtJ	665029.EAMY_0508	GO Process	GO:1903711	Spermidine transmembrane transport
+mdtJ	665029.EAMY_0508	GO Function	GO:0005215	Transporter activity
+mdtJ	665029.EAMY_0508	GO Function	GO:0008324	Cation transmembrane transporter activity
+mdtJ	665029.EAMY_0508	GO Function	GO:0015075	Ion transmembrane transporter activity
+mdtJ	665029.EAMY_0508	GO Function	GO:0015101	Organic cation transmembrane transporter activity
+mdtJ	665029.EAMY_0508	GO Function	GO:0015203	Polyamine transmembrane transporter activity
+mdtJ	665029.EAMY_0508	GO Function	GO:0015606	Spermidine transmembrane transporter activity
+mdtJ	665029.EAMY_0508	GO Function	GO:0022857	Transmembrane transporter activity
+mdtJ	665029.EAMY_0508	GO Component	GO:0005886	Plasma membrane
+mdtJ	665029.EAMY_0508	GO Component	GO:0005887	Integral component of plasma membrane
+mdtJ	665029.EAMY_0508	GO Component	GO:0016020	Membrane
+mdtJ	665029.EAMY_0508	GO Component	GO:0016021	Integral component of membrane
+mdtJ	665029.EAMY_0508	GO Component	GO:0031224	Intrinsic component of membrane
+mdtJ	665029.EAMY_0508	GO Component	GO:0031226	Intrinsic component of plasma membrane
+mdtJ	665029.EAMY_0508	GO Component	GO:0071944	Cell periphery
+mdtJ	665029.EAMY_0508	GO Component	GO:0110165	Cellular anatomical entity
+mdtJ	665029.EAMY_0508	STRING clusters	CL:5592	Mixed, incl. Cytosine catabolic process, and ArsR-like helix-turn-helix domain
+mdtJ	665029.EAMY_0508	STRING clusters	CL:5593	Mixed, incl. Cytosine catabolic process, and Spermidine transport
+mdtJ	665029.EAMY_0508	STRING clusters	CL:5594	Mixed, incl. Spermidine transport, and PAS fold
+mdtJ	665029.EAMY_0508	COMPARTMENTS	GOCC:0005886	Plasma membrane
+mdtJ	665029.EAMY_0508	COMPARTMENTS	GOCC:0016020	Membrane
+mdtJ	665029.EAMY_0508	COMPARTMENTS	GOCC:0071944	Cell periphery
+mdtJ	665029.EAMY_0508	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+mdtJ	665029.EAMY_0508	UniProt Keywords	KW-0472	Membrane
+mdtJ	665029.EAMY_0508	UniProt Keywords	KW-0812	Transmembrane
+mdtJ	665029.EAMY_0508	UniProt Keywords	KW-0813	Transport
+mdtJ	665029.EAMY_0508	UniProt Keywords	KW-0997	Cell inner membrane
+mdtJ	665029.EAMY_0508	UniProt Keywords	KW-1003	Cell membrane
+mdtJ	665029.EAMY_0508	UniProt Keywords	KW-1133	Transmembrane helix
+mdtJ	665029.EAMY_0508	Pfam	PF00893	Small Multidrug Resistance protein
+mdtJ	665029.EAMY_0508	InterPro	IPR000390	Small drug/metabolite transporter protein family
+mdtJ	665029.EAMY_0508	InterPro	IPR045324	Small multidrug resistance protein
+mrcA	665029.EAMY_3437	GO Process	GO:0000270	Peptidoglycan metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0006022	Aminoglycan metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0006023	Aminoglycan biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:0006024	Glycosaminoglycan biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:0006508	Proteolysis
+mrcA	665029.EAMY_3437	GO Process	GO:0006807	Nitrogen compound metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0008152	Metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0009058	Biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:0009059	Macromolecule biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:0009252	Peptidoglycan biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:0009273	Peptidoglycan-based cell wall biogenesis
+mrcA	665029.EAMY_3437	GO Process	GO:0009987	Cellular process
+mrcA	665029.EAMY_3437	GO Process	GO:0019538	Protein metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0030203	Glycosaminoglycan metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:0042221	Response to chemical
+mrcA	665029.EAMY_3437	GO Process	GO:0042546	Cell wall biogenesis
+mrcA	665029.EAMY_3437	GO Process	GO:0043170	Macromolecule metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0044036	Cell wall macromolecule metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0044038	Cell wall macromolecule biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:0044085	Cellular component biogenesis
+mrcA	665029.EAMY_3437	GO Process	GO:0044237	Cellular metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0044238	Primary metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0044249	Cellular biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:0044260	Cellular macromolecule metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0046677	Response to antibiotic
+mrcA	665029.EAMY_3437	GO Process	GO:0050896	Response to stimulus
+mrcA	665029.EAMY_3437	GO Process	GO:0070589	Cellular component macromolecule biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:0071554	Cell wall organization or biogenesis
+mrcA	665029.EAMY_3437	GO Process	GO:0071704	Organic substance metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:0071840	Cellular component organization or biogenesis
+mrcA	665029.EAMY_3437	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:1901564	Organonitrogen compound metabolic process
+mrcA	665029.EAMY_3437	GO Process	GO:1901566	Organonitrogen compound biosynthetic process
+mrcA	665029.EAMY_3437	GO Process	GO:1901576	Organic substance biosynthetic process
+mrcA	665029.EAMY_3437	GO Function	GO:0003824	Catalytic activity
+mrcA	665029.EAMY_3437	GO Function	GO:0004180	Carboxypeptidase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0004185	Serine-type carboxypeptidase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0005488	Binding
+mrcA	665029.EAMY_3437	GO Function	GO:0008233	Peptidase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0008236	Serine-type peptidase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0008238	Exopeptidase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0008658	Penicillin binding
+mrcA	665029.EAMY_3437	GO Function	GO:0008955	Peptidoglycan glycosyltransferase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0009002	Serine-type D-Ala-D-Ala carboxypeptidase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0016740	Transferase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0016757	Glycosyltransferase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0016758	Hexosyltransferase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0016787	Hydrolase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0017171	Serine hydrolase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0031406	Carboxylic acid binding
+mrcA	665029.EAMY_3437	GO Function	GO:0033218	Amide binding
+mrcA	665029.EAMY_3437	GO Function	GO:0033293	Monocarboxylic acid binding
+mrcA	665029.EAMY_3437	GO Function	GO:0036094	Small molecule binding
+mrcA	665029.EAMY_3437	GO Function	GO:0043167	Ion binding
+mrcA	665029.EAMY_3437	GO Function	GO:0043168	Anion binding
+mrcA	665029.EAMY_3437	GO Function	GO:0043177	Organic acid binding
+mrcA	665029.EAMY_3437	GO Function	GO:0070008	Serine-type exopeptidase activity
+mrcA	665029.EAMY_3437	GO Function	GO:0097159	Organic cyclic compound binding
+mrcA	665029.EAMY_3437	GO Function	GO:0140096	Catalytic activity, acting on a protein
+mrcA	665029.EAMY_3437	GO Function	GO:1901363	Heterocyclic compound binding
+mrcA	665029.EAMY_3437	GO Function	GO:1901681	Sulfur compound binding
+mrcA	665029.EAMY_3437	GO Component	GO:0005886	Plasma membrane
+mrcA	665029.EAMY_3437	GO Component	GO:0016020	Membrane
+mrcA	665029.EAMY_3437	GO Component	GO:0016021	Integral component of membrane
+mrcA	665029.EAMY_3437	GO Component	GO:0031224	Intrinsic component of membrane
+mrcA	665029.EAMY_3437	GO Component	GO:0071944	Cell periphery
+mrcA	665029.EAMY_3437	GO Component	GO:0110165	Cellular anatomical entity
+mrcA	665029.EAMY_3437	STRING clusters	CL:1043	Mixed, incl. Peptidoglycan biosynthesis, and Cell cycle
+mrcA	665029.EAMY_3437	STRING clusters	CL:1044	Mixed, incl. Peptidoglycan biosynthesis, and Cytokinesis
+mrcA	665029.EAMY_3437	STRING clusters	CL:1045	Peptidoglycan biosynthesis, and Cell division site
+mrcA	665029.EAMY_3437	STRING clusters	CL:1083	Mixed, incl. Serine-type exopeptidase activity, and Protein lipoylation
+mrcA	665029.EAMY_3437	STRING clusters	CL:1100	Beta-lactamase enzyme family, and Transglycosylase
+mrcA	665029.EAMY_3437	STRING clusters	CL:890	Mixed, incl. External encapsulating structure organization, and Lipopolysaccharide biosynthesis
+mrcA	665029.EAMY_3437	STRING clusters	CL:891	Mixed, incl. External encapsulating structure organization, and Lipopolysaccharide biosynthesis
+mrcA	665029.EAMY_3437	KEGG	eam00550	Peptidoglycan biosynthesis
+mrcA	665029.EAMY_3437	KEGG	eam01100	Metabolic pathways
+mrcA	665029.EAMY_3437	KEGG	eam01501	beta-Lactam resistance
+mrcA	665029.EAMY_3437	COMPARTMENTS	GOCC:0005618	Cell wall
+mrcA	665029.EAMY_3437	COMPARTMENTS	GOCC:0030312	External encapsulating structure
+mrcA	665029.EAMY_3437	COMPARTMENTS	GOCC:0071944	Cell periphery
+mrcA	665029.EAMY_3437	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+mrcA	665029.EAMY_3437	UniProt Keywords	KW-0328	Glycosyltransferase
+mrcA	665029.EAMY_3437	UniProt Keywords	KW-0808	Transferase
+mrcA	665029.EAMY_3437	Pfam	PF00905	Penicillin binding protein transpeptidase domain
+mrcA	665029.EAMY_3437	Pfam	PF00912	Transglycosylase
+mrcA	665029.EAMY_3437	Pfam	PF17092	Penicillin-binding protein OB-like domain
+mrcA	665029.EAMY_3437	InterPro	IPR001264	Glycosyl transferase, family 51
+mrcA	665029.EAMY_3437	InterPro	IPR001460	Penicillin-binding protein, transpeptidase
+mrcA	665029.EAMY_3437	InterPro	IPR012338	Beta-lactamase/transpeptidase-like
+mrcA	665029.EAMY_3437	InterPro	IPR023346	Lysozyme-like domain superfamily
+mrcA	665029.EAMY_3437	InterPro	IPR031376	Penicillin-binding protein, OB-like domain
+mrcA	665029.EAMY_3437	InterPro	IPR036950	Penicillin binding protein transglycosylase domain
+mrcB	665029.EAMY_2784	GO Process	GO:0000270	Peptidoglycan metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0006022	Aminoglycan metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0006023	Aminoglycan biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:0006024	Glycosaminoglycan biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:0006508	Proteolysis
+mrcB	665029.EAMY_2784	GO Process	GO:0006807	Nitrogen compound metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0008152	Metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0008360	Regulation of cell shape
+mrcB	665029.EAMY_2784	GO Process	GO:0009058	Biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:0009059	Macromolecule biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:0009252	Peptidoglycan biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:0009273	Peptidoglycan-based cell wall biogenesis
+mrcB	665029.EAMY_2784	GO Process	GO:0009987	Cellular process
+mrcB	665029.EAMY_2784	GO Process	GO:0016043	Cellular component organization
+mrcB	665029.EAMY_2784	GO Process	GO:0019538	Protein metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0022603	Regulation of anatomical structure morphogenesis
+mrcB	665029.EAMY_2784	GO Process	GO:0022604	Regulation of cell morphogenesis
+mrcB	665029.EAMY_2784	GO Process	GO:0030203	Glycosaminoglycan metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:0042221	Response to chemical
+mrcB	665029.EAMY_2784	GO Process	GO:0042546	Cell wall biogenesis
+mrcB	665029.EAMY_2784	GO Process	GO:0043170	Macromolecule metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0044036	Cell wall macromolecule metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0044038	Cell wall macromolecule biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:0044085	Cellular component biogenesis
+mrcB	665029.EAMY_2784	GO Process	GO:0044237	Cellular metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0044238	Primary metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0044249	Cellular biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:0044260	Cellular macromolecule metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0045229	External encapsulating structure organization
+mrcB	665029.EAMY_2784	GO Process	GO:0046677	Response to antibiotic
+mrcB	665029.EAMY_2784	GO Process	GO:0050789	Regulation of biological process
+mrcB	665029.EAMY_2784	GO Process	GO:0050793	Regulation of developmental process
+mrcB	665029.EAMY_2784	GO Process	GO:0050896	Response to stimulus
+mrcB	665029.EAMY_2784	GO Process	GO:0065007	Biological regulation
+mrcB	665029.EAMY_2784	GO Process	GO:0070589	Cellular component macromolecule biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:0071554	Cell wall organization or biogenesis
+mrcB	665029.EAMY_2784	GO Process	GO:0071555	Cell wall organization
+mrcB	665029.EAMY_2784	GO Process	GO:0071704	Organic substance metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:0071840	Cellular component organization or biogenesis
+mrcB	665029.EAMY_2784	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:1901564	Organonitrogen compound metabolic process
+mrcB	665029.EAMY_2784	GO Process	GO:1901566	Organonitrogen compound biosynthetic process
+mrcB	665029.EAMY_2784	GO Process	GO:1901576	Organic substance biosynthetic process
+mrcB	665029.EAMY_2784	GO Function	GO:0003824	Catalytic activity
+mrcB	665029.EAMY_2784	GO Function	GO:0004180	Carboxypeptidase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0004185	Serine-type carboxypeptidase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0005488	Binding
+mrcB	665029.EAMY_2784	GO Function	GO:0008233	Peptidase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0008236	Serine-type peptidase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0008238	Exopeptidase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0008658	Penicillin binding
+mrcB	665029.EAMY_2784	GO Function	GO:0008955	Peptidoglycan glycosyltransferase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0009002	Serine-type D-Ala-D-Ala carboxypeptidase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0016740	Transferase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0016757	Glycosyltransferase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0016758	Hexosyltransferase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0016787	Hydrolase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0017171	Serine hydrolase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0031406	Carboxylic acid binding
+mrcB	665029.EAMY_2784	GO Function	GO:0033218	Amide binding
+mrcB	665029.EAMY_2784	GO Function	GO:0033293	Monocarboxylic acid binding
+mrcB	665029.EAMY_2784	GO Function	GO:0036094	Small molecule binding
+mrcB	665029.EAMY_2784	GO Function	GO:0043167	Ion binding
+mrcB	665029.EAMY_2784	GO Function	GO:0043168	Anion binding
+mrcB	665029.EAMY_2784	GO Function	GO:0043177	Organic acid binding
+mrcB	665029.EAMY_2784	GO Function	GO:0070008	Serine-type exopeptidase activity
+mrcB	665029.EAMY_2784	GO Function	GO:0097159	Organic cyclic compound binding
+mrcB	665029.EAMY_2784	GO Function	GO:0140096	Catalytic activity, acting on a protein
+mrcB	665029.EAMY_2784	GO Function	GO:1901363	Heterocyclic compound binding
+mrcB	665029.EAMY_2784	GO Function	GO:1901681	Sulfur compound binding
+mrcB	665029.EAMY_2784	GO Component	GO:0005618	Cell wall
+mrcB	665029.EAMY_2784	GO Component	GO:0005886	Plasma membrane
+mrcB	665029.EAMY_2784	GO Component	GO:0009274	Peptidoglycan-based cell wall
+mrcB	665029.EAMY_2784	GO Component	GO:0016020	Membrane
+mrcB	665029.EAMY_2784	GO Component	GO:0016021	Integral component of membrane
+mrcB	665029.EAMY_2784	GO Component	GO:0030312	External encapsulating structure
+mrcB	665029.EAMY_2784	GO Component	GO:0031224	Intrinsic component of membrane
+mrcB	665029.EAMY_2784	GO Component	GO:0071944	Cell periphery
+mrcB	665029.EAMY_2784	GO Component	GO:0110165	Cellular anatomical entity
+mrcB	665029.EAMY_2784	STRING clusters	CL:1043	Mixed, incl. Peptidoglycan biosynthesis, and Cell cycle
+mrcB	665029.EAMY_2784	STRING clusters	CL:1044	Mixed, incl. Peptidoglycan biosynthesis, and Cytokinesis
+mrcB	665029.EAMY_2784	STRING clusters	CL:1045	Peptidoglycan biosynthesis, and Cell division site
+mrcB	665029.EAMY_2784	STRING clusters	CL:1083	Mixed, incl. Serine-type exopeptidase activity, and Protein lipoylation
+mrcB	665029.EAMY_2784	STRING clusters	CL:1100	Beta-lactamase enzyme family, and Transglycosylase
+mrcB	665029.EAMY_2784	STRING clusters	CL:890	Mixed, incl. External encapsulating structure organization, and Lipopolysaccharide biosynthesis
+mrcB	665029.EAMY_2784	STRING clusters	CL:891	Mixed, incl. External encapsulating structure organization, and Lipopolysaccharide biosynthesis
+mrcB	665029.EAMY_2784	KEGG	eam00550	Peptidoglycan biosynthesis
+mrcB	665029.EAMY_2784	COMPARTMENTS	GOCC:0005618	Cell wall
+mrcB	665029.EAMY_2784	COMPARTMENTS	GOCC:0030312	External encapsulating structure
+mrcB	665029.EAMY_2784	COMPARTMENTS	GOCC:0071944	Cell periphery
+mrcB	665029.EAMY_2784	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+mrcB	665029.EAMY_2784	UniProt Keywords	KW-0133	Cell shape
+mrcB	665029.EAMY_2784	UniProt Keywords	KW-0175	Coiled coil
+mrcB	665029.EAMY_2784	UniProt Keywords	KW-0328	Glycosyltransferase
+mrcB	665029.EAMY_2784	UniProt Keywords	KW-0472	Membrane
+mrcB	665029.EAMY_2784	UniProt Keywords	KW-0573	Peptidoglycan synthesis
+mrcB	665029.EAMY_2784	UniProt Keywords	KW-0808	Transferase
+mrcB	665029.EAMY_2784	UniProt Keywords	KW-0812	Transmembrane
+mrcB	665029.EAMY_2784	UniProt Keywords	KW-0961	Cell wall biogenesis/degradation
+mrcB	665029.EAMY_2784	UniProt Keywords	KW-1133	Transmembrane helix
+mrcB	665029.EAMY_2784	Pfam	PF00905	Penicillin binding protein transpeptidase domain
+mrcB	665029.EAMY_2784	Pfam	PF00912	Transglycosylase
+mrcB	665029.EAMY_2784	Pfam	PF14812	Transmembrane domain of transglycosylase PBP1 at N-terminal
+mrcB	665029.EAMY_2784	Pfam	PF14814	Bifunctional transglycosylase second domain
+mrcB	665029.EAMY_2784	InterPro	IPR001264	Glycosyl transferase, family 51
+mrcB	665029.EAMY_2784	InterPro	IPR001460	Penicillin-binding protein, transpeptidase
+mrcB	665029.EAMY_2784	InterPro	IPR011813	Penicillin-binding protein 1B
+mrcB	665029.EAMY_2784	InterPro	IPR012338	Beta-lactamase/transpeptidase-like
+mrcB	665029.EAMY_2784	InterPro	IPR023346	Lysozyme-like domain superfamily
+mrcB	665029.EAMY_2784	InterPro	IPR028166	Bifunctional transglycosylase second domain
+mrcB	665029.EAMY_2784	InterPro	IPR032730	Transglycosylase PBP1b, N-terminal transmembrane domain
+mrcB	665029.EAMY_2784	InterPro	IPR036950	Penicillin binding protein transglycosylase domain
+nodT	665029.EAMY_0688	GO Process	GO:0006810	Transport
+nodT	665029.EAMY_0688	GO Process	GO:0009987	Cellular process
+nodT	665029.EAMY_0688	GO Process	GO:0051179	Localization
+nodT	665029.EAMY_0688	GO Process	GO:0051234	Establishment of localization
+nodT	665029.EAMY_0688	GO Process	GO:0055085	Transmembrane transport
+nodT	665029.EAMY_0688	GO Function	GO:0005215	Transporter activity
+nodT	665029.EAMY_0688	GO Function	GO:0015562	Efflux transmembrane transporter activity
+nodT	665029.EAMY_0688	GO Function	GO:0022857	Transmembrane transporter activity
+nodT	665029.EAMY_0688	GO Component	GO:0009279	Cell outer membrane
+nodT	665029.EAMY_0688	GO Component	GO:0016020	Membrane
+nodT	665029.EAMY_0688	GO Component	GO:0016021	Integral component of membrane
+nodT	665029.EAMY_0688	GO Component	GO:0019867	Outer membrane
+nodT	665029.EAMY_0688	GO Component	GO:0030312	External encapsulating structure
+nodT	665029.EAMY_0688	GO Component	GO:0030313	Cell envelope
+nodT	665029.EAMY_0688	GO Component	GO:0031224	Intrinsic component of membrane
+nodT	665029.EAMY_0688	GO Component	GO:0031975	Envelope
+nodT	665029.EAMY_0688	GO Component	GO:0071944	Cell periphery
+nodT	665029.EAMY_0688	GO Component	GO:0110165	Cellular anatomical entity
+nodT	665029.EAMY_0688	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+nodT	665029.EAMY_0688	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+nodT	665029.EAMY_0688	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+nodT	665029.EAMY_0688	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+nodT	665029.EAMY_0688	STRING clusters	CL:4893	Mixed, incl. Acriflavin resistance protein, and Biotin-lipoyl like
+nodT	665029.EAMY_0688	STRING clusters	CL:4895	Acriflavin resistance protein, and Biotin-lipoyl like
+nodT	665029.EAMY_0688	COMPARTMENTS	GOCC:0009279	Cell outer membrane
+nodT	665029.EAMY_0688	COMPARTMENTS	GOCC:0016020	Membrane
+nodT	665029.EAMY_0688	COMPARTMENTS	GOCC:0019867	Outer membrane
+nodT	665029.EAMY_0688	COMPARTMENTS	GOCC:0030312	External encapsulating structure
+nodT	665029.EAMY_0688	COMPARTMENTS	GOCC:0030313	Cell envelope
+nodT	665029.EAMY_0688	COMPARTMENTS	GOCC:0031975	Envelope
+nodT	665029.EAMY_0688	COMPARTMENTS	GOCC:0071944	Cell periphery
+nodT	665029.EAMY_0688	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+nodT	665029.EAMY_0688	Pfam	PF02321	Outer membrane efflux protein
+nodT	665029.EAMY_0688	InterPro	IPR003423	Outer membrane efflux protein
+ohrR	665029.EAMY_3619	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+ohrR	665029.EAMY_3619	GO Process	GO:0009889	Regulation of biosynthetic process
+ohrR	665029.EAMY_3619	GO Process	GO:0010468	Regulation of gene expression
+ohrR	665029.EAMY_3619	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+ohrR	665029.EAMY_3619	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+ohrR	665029.EAMY_3619	GO Process	GO:0019222	Regulation of metabolic process
+ohrR	665029.EAMY_3619	GO Process	GO:0031323	Regulation of cellular metabolic process
+ohrR	665029.EAMY_3619	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+ohrR	665029.EAMY_3619	GO Process	GO:0050789	Regulation of biological process
+ohrR	665029.EAMY_3619	GO Process	GO:0050794	Regulation of cellular process
+ohrR	665029.EAMY_3619	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+ohrR	665029.EAMY_3619	GO Process	GO:0051252	Regulation of RNA metabolic process
+ohrR	665029.EAMY_3619	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+ohrR	665029.EAMY_3619	GO Process	GO:0065007	Biological regulation
+ohrR	665029.EAMY_3619	GO Process	GO:0080090	Regulation of primary metabolic process
+ohrR	665029.EAMY_3619	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+ohrR	665029.EAMY_3619	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+ohrR	665029.EAMY_3619	GO Function	GO:0003700	DNA-binding transcription factor activity
+ohrR	665029.EAMY_3619	GO Function	GO:0140110	Transcription regulator activity
+ohrR	665029.EAMY_3619	GO Component	GO:0032991	Protein-containing complex
+ohrR	665029.EAMY_3619	GO Component	GO:0032993	protein-DNA complex
+ohrR	665029.EAMY_3619	STRING clusters	CL:5672	Mostly uncharacterized, incl. Trehalose metabolic process, and Aldo/keto reductase family
+ohrR	665029.EAMY_3619	STRING clusters	CL:5674	Mostly uncharacterized, incl. Trehalose metabolic process, and Aldo/keto reductase family
+ohrR	665029.EAMY_3619	STRING clusters	CL:5676	Mixed, incl. Trehalose metabolic process, and Aldo/keto reductase family
+ohrR	665029.EAMY_3619	COMPARTMENTS	GOCC:0005622	Intracellular
+ohrR	665029.EAMY_3619	COMPARTMENTS	GOCC:0005737	Cytoplasm
+ohrR	665029.EAMY_3619	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ohrR	665029.EAMY_3619	InterPro	IPR000835	MarR-type HTH domain
+ohrR	665029.EAMY_3619	InterPro	IPR036388	Winged helix-like DNA-binding domain superfamily
+ohrR	665029.EAMY_3619	InterPro	IPR036390	Winged helix DNA-binding domain superfamily
+ohrR	665029.EAMY_3619	InterPro	IPR039422	Transcription regulators MarR/SlyA-like
+ohrR	665029.EAMY_3619	SMART	SM00347	Helix_turn_helix multiple antibiotic resistance protein
+prtF	665029.EAMY_3577	GO Process	GO:0006810	Transport
+prtF	665029.EAMY_3577	GO Process	GO:0009987	Cellular process
+prtF	665029.EAMY_3577	GO Process	GO:0051179	Localization
+prtF	665029.EAMY_3577	GO Process	GO:0051234	Establishment of localization
+prtF	665029.EAMY_3577	GO Process	GO:0055085	Transmembrane transport
+prtF	665029.EAMY_3577	GO Function	GO:0005215	Transporter activity
+prtF	665029.EAMY_3577	GO Function	GO:0015562	Efflux transmembrane transporter activity
+prtF	665029.EAMY_3577	GO Function	GO:0022857	Transmembrane transporter activity
+prtF	665029.EAMY_3577	GO Component	GO:0016020	Membrane
+prtF	665029.EAMY_3577	GO Component	GO:0019867	Outer membrane
+prtF	665029.EAMY_3577	GO Component	GO:0110165	Cellular anatomical entity
+prtF	665029.EAMY_3577	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+prtF	665029.EAMY_3577	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+prtF	665029.EAMY_3577	STRING clusters	CL:4949	Mixed, incl. Toxin-antitoxin complex, and Extracellular space
+prtF	665029.EAMY_3577	STRING clusters	CL:4951	Mixed, incl. Extracellular space, and Regulation of peptidase activity
+prtF	665029.EAMY_3577	COMPARTMENTS	GOCC:0016020	Membrane
+prtF	665029.EAMY_3577	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+prtF	665029.EAMY_3577	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+prtF	665029.EAMY_3577	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+prtF	665029.EAMY_3577	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+prtF	665029.EAMY_3577	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+prtF	665029.EAMY_3577	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+prtF	665029.EAMY_3577	COMPARTMENTS	GOCC:1990351	Transporter complex
+prtF	665029.EAMY_3577	UniProt Keywords	KW-0175	Coiled coil
+prtF	665029.EAMY_3577	Pfam	PF02321	Outer membrane efflux protein
+prtF	665029.EAMY_3577	InterPro	IPR003423	Outer membrane efflux protein
+prtF	665029.EAMY_3577	InterPro	IPR010130	Type I secretion outer membrane protein, TolC
+rfbX	665029.EAMY_2110	GO Process	GO:0000271	Polysaccharide biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0005975	Carbohydrate metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0005976	Polysaccharide metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0006629	Lipid metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0006950	Response to stress
+rfbX	665029.EAMY_2110	GO Process	GO:0006974	Cellular response to DNA damage stimulus
+rfbX	665029.EAMY_2110	GO Process	GO:0008152	Metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0008610	Lipid biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0009058	Biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0009059	Macromolecule biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0009243	O antigen biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0009987	Cellular process
+rfbX	665029.EAMY_2110	GO Process	GO:0016051	Carbohydrate biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0033554	Cellular response to stress
+rfbX	665029.EAMY_2110	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0042221	Response to chemical
+rfbX	665029.EAMY_2110	GO Process	GO:0043170	Macromolecule metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0044237	Cellular metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0044238	Primary metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0044249	Cellular biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:0044255	Cellular lipid metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0044260	Cellular macromolecule metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0046402	O antigen metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:0046677	Response to antibiotic
+rfbX	665029.EAMY_2110	GO Process	GO:0050896	Response to stimulus
+rfbX	665029.EAMY_2110	GO Process	GO:0051716	Cellular response to stimulus
+rfbX	665029.EAMY_2110	GO Process	GO:0071704	Organic substance metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+rfbX	665029.EAMY_2110	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:1901576	Organic substance biosynthetic process
+rfbX	665029.EAMY_2110	GO Process	GO:1903509	Liposaccharide metabolic process
+rfbX	665029.EAMY_2110	GO Function	GO:0005215	Transporter activity
+rfbX	665029.EAMY_2110	GO Function	GO:0005319	Lipid transporter activity
+rfbX	665029.EAMY_2110	GO Function	GO:0140303	Intramembrane lipid transporter activity
+rfbX	665029.EAMY_2110	GO Component	GO:0016020	Membrane
+rfbX	665029.EAMY_2110	GO Component	GO:0016021	Integral component of membrane
+rfbX	665029.EAMY_2110	GO Component	GO:0031224	Intrinsic component of membrane
+rfbX	665029.EAMY_2110	GO Component	GO:0110165	Cellular anatomical entity
+rfbX	665029.EAMY_2110	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+rfbX	665029.EAMY_2110	STRING clusters	CL:3110	Polysaccharide biosynthetic process, and Galactose metabolism
+rfbX	665029.EAMY_2110	STRING clusters	CL:3111	O-Antigen nucleotide sugar biosynthesis, and Polysaccharide biosynthetic process
+rfbX	665029.EAMY_2110	STRING clusters	CL:3112	Mixed, incl. Galactose metabolism, and Glycosyltransferase 2-like
+rfbX	665029.EAMY_2110	STRING clusters	CL:3113	Mixed, incl. Glycosyltransferase 2-like, and Lipopolysaccharide biosynthetic process
+rfbX	665029.EAMY_2110	COMPARTMENTS	GOCC:0005886	Plasma membrane
+rfbX	665029.EAMY_2110	COMPARTMENTS	GOCC:0016020	Membrane
+rfbX	665029.EAMY_2110	COMPARTMENTS	GOCC:0071944	Cell periphery
+rfbX	665029.EAMY_2110	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+rfbX	665029.EAMY_2110	UniProt Keywords	KW-0472	Membrane
+rfbX	665029.EAMY_2110	UniProt Keywords	KW-0812	Transmembrane
+rfbX	665029.EAMY_2110	UniProt Keywords	KW-1133	Transmembrane helix
+rfbX	665029.EAMY_2110	Pfam	PF13440	Polysaccharide biosynthesis protein
+rfbX	665029.EAMY_2110	InterPro	IPR002797	Polysaccharide biosynthesis protein
+slyA	665029.EAMY_1701	GO Process	GO:0006355	Regulation of transcription, DNA-templated
+slyA	665029.EAMY_1701	GO Process	GO:0009889	Regulation of biosynthetic process
+slyA	665029.EAMY_1701	GO Process	GO:0010468	Regulation of gene expression
+slyA	665029.EAMY_1701	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+slyA	665029.EAMY_1701	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+slyA	665029.EAMY_1701	GO Process	GO:0019222	Regulation of metabolic process
+slyA	665029.EAMY_1701	GO Process	GO:0031323	Regulation of cellular metabolic process
+slyA	665029.EAMY_1701	GO Process	GO:0031326	Regulation of cellular biosynthetic process
+slyA	665029.EAMY_1701	GO Process	GO:0050789	Regulation of biological process
+slyA	665029.EAMY_1701	GO Process	GO:0050794	Regulation of cellular process
+slyA	665029.EAMY_1701	GO Process	GO:0051171	Regulation of nitrogen compound metabolic process
+slyA	665029.EAMY_1701	GO Process	GO:0051252	Regulation of RNA metabolic process
+slyA	665029.EAMY_1701	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+slyA	665029.EAMY_1701	GO Process	GO:0065007	Biological regulation
+slyA	665029.EAMY_1701	GO Process	GO:0080090	Regulation of primary metabolic process
+slyA	665029.EAMY_1701	GO Process	GO:1903506	Regulation of nucleic acid-templated transcription
+slyA	665029.EAMY_1701	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+slyA	665029.EAMY_1701	GO Function	GO:0003676	Nucleic acid binding
+slyA	665029.EAMY_1701	GO Function	GO:0003677	DNA binding
+slyA	665029.EAMY_1701	GO Function	GO:0003700	DNA-binding transcription factor activity
+slyA	665029.EAMY_1701	GO Function	GO:0005488	Binding
+slyA	665029.EAMY_1701	GO Function	GO:0097159	Organic cyclic compound binding
+slyA	665029.EAMY_1701	GO Function	GO:0140110	Transcription regulator activity
+slyA	665029.EAMY_1701	GO Function	GO:1901363	Heterocyclic compound binding
+slyA	665029.EAMY_1701	STRING clusters	CL:5936	Mixed, incl. Protein transmembrane transport, and Iron ion transport
+slyA	665029.EAMY_1701	STRING clusters	CL:5937	Mixed, incl. Protein transmembrane transport, and Extracellular region
+slyA	665029.EAMY_1701	STRING clusters	CL:5939	Mixed, incl. Protein transmembrane transport, and Protein of unknown function DUF2931
+slyA	665029.EAMY_1701	STRING clusters	CL:5941	Mixed, incl. Protein transmembrane transport, and Rhs repeat-associated core
+slyA	665029.EAMY_1701	STRING clusters	CL:5942	Mixed, incl. Protein transmembrane transport, and Rhs repeat-associated core
+slyA	665029.EAMY_1701	STRING clusters	CL:6052	Rhs repeat-associated core, and DcrB
+slyA	665029.EAMY_1701	COMPARTMENTS	GOCC:0005622	Intracellular
+slyA	665029.EAMY_1701	COMPARTMENTS	GOCC:0005737	Cytoplasm
+slyA	665029.EAMY_1701	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+slyA	665029.EAMY_1701	UniProt Keywords	KW-0010	Activator
+slyA	665029.EAMY_1701	UniProt Keywords	KW-0238	DNA-binding
+slyA	665029.EAMY_1701	UniProt Keywords	KW-0678	Repressor
+slyA	665029.EAMY_1701	UniProt Keywords	KW-0804	Transcription
+slyA	665029.EAMY_1701	UniProt Keywords	KW-0805	Transcription regulation
+slyA	665029.EAMY_1701	InterPro	IPR000835	MarR-type HTH domain
+slyA	665029.EAMY_1701	InterPro	IPR023071	Transcriptional regulator, SlyA
+slyA	665029.EAMY_1701	InterPro	IPR023187	Transcriptional regulator MarR-type, conserved site
+slyA	665029.EAMY_1701	InterPro	IPR036388	Winged helix-like DNA-binding domain superfamily
+slyA	665029.EAMY_1701	InterPro	IPR036390	Winged helix DNA-binding domain superfamily
+slyA	665029.EAMY_1701	InterPro	IPR039422	Transcription regulators MarR/SlyA-like
+slyA	665029.EAMY_1701	SMART	SM00347	Helix_turn_helix multiple antibiotic resistance protein
+tcaB	665029.EAMY_1636	GO Process	GO:0006810	Transport
+tcaB	665029.EAMY_1636	GO Process	GO:0009987	Cellular process
+tcaB	665029.EAMY_1636	GO Process	GO:0042221	Response to chemical
+tcaB	665029.EAMY_1636	GO Process	GO:0050896	Response to stimulus
+tcaB	665029.EAMY_1636	GO Process	GO:0051179	Localization
+tcaB	665029.EAMY_1636	GO Process	GO:0051234	Establishment of localization
+tcaB	665029.EAMY_1636	GO Process	GO:0055085	Transmembrane transport
+tcaB	665029.EAMY_1636	GO Function	GO:0005215	Transporter activity
+tcaB	665029.EAMY_1636	GO Function	GO:0022857	Transmembrane transporter activity
+tcaB	665029.EAMY_1636	GO Component	GO:0005886	Plasma membrane
+tcaB	665029.EAMY_1636	GO Component	GO:0016020	Membrane
+tcaB	665029.EAMY_1636	GO Component	GO:0016021	Integral component of membrane
+tcaB	665029.EAMY_1636	GO Component	GO:0031224	Intrinsic component of membrane
+tcaB	665029.EAMY_1636	GO Component	GO:0071944	Cell periphery
+tcaB	665029.EAMY_1636	GO Component	GO:0110165	Cellular anatomical entity
+tcaB	665029.EAMY_1636	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+tcaB	665029.EAMY_1636	STRING clusters	CL:4968	Mixed, incl. Sugar (and other) transporter, and Oxidoreductase FAD-binding domain
+tcaB	665029.EAMY_1636	STRING clusters	CL:4969	Sugar (and other) transporter, and Major Facilitator Superfamily
+tcaB	665029.EAMY_1636	Reactome	MAP-1643685	Disease
+tcaB	665029.EAMY_1636	Reactome	MAP-5663205	Infectious disease
+tcaB	665029.EAMY_1636	Reactome	MAP-9635486	Infection with Mycobacterium tuberculosis
+tcaB	665029.EAMY_1636	Reactome	MAP-9636383	Prevention of phagosomal-lysosomal fusion
+tcaB	665029.EAMY_1636	Reactome	MAP-9637687	Suppression of phagosomal maturation
+tcaB	665029.EAMY_1636	Reactome	MAP-9637690	Response of Mtb to phagocytosis
+tcaB	665029.EAMY_1636	COMPARTMENTS	GOCC:0005886	Plasma membrane
+tcaB	665029.EAMY_1636	COMPARTMENTS	GOCC:0016020	Membrane
+tcaB	665029.EAMY_1636	COMPARTMENTS	GOCC:0071944	Cell periphery
+tcaB	665029.EAMY_1636	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+tcaB	665029.EAMY_1636	UniProt Keywords	KW-0472	Membrane
+tcaB	665029.EAMY_1636	UniProt Keywords	KW-0812	Transmembrane
+tcaB	665029.EAMY_1636	UniProt Keywords	KW-0813	Transport
+tcaB	665029.EAMY_1636	UniProt Keywords	KW-0997	Cell inner membrane
+tcaB	665029.EAMY_1636	UniProt Keywords	KW-1003	Cell membrane
+tcaB	665029.EAMY_1636	UniProt Keywords	KW-1133	Transmembrane helix
+tcaB	665029.EAMY_1636	Pfam	PF00083	Sugar (and other) transporter
+tcaB	665029.EAMY_1636	InterPro	IPR001958	Tetracycline resistance protein TetA/multidrug resistance protein MdtG
+tcaB	665029.EAMY_1636	InterPro	IPR004812	Drug resistance transporter Bcr/CmlA subfamily
+tcaB	665029.EAMY_1636	InterPro	IPR011701	Major facilitator superfamily
+tcaB	665029.EAMY_1636	InterPro	IPR020846	Major facilitator superfamily domain
+tcaB	665029.EAMY_1636	InterPro	IPR036259	MFS transporter superfamily
+tolC	665029.EAMY_0433	GO Process	GO:0006810	Transport
+tolC	665029.EAMY_0433	GO Process	GO:0009987	Cellular process
+tolC	665029.EAMY_0433	GO Process	GO:0051179	Localization
+tolC	665029.EAMY_0433	GO Process	GO:0051234	Establishment of localization
+tolC	665029.EAMY_0433	GO Process	GO:0055085	Transmembrane transport
+tolC	665029.EAMY_0433	GO Function	GO:0005215	Transporter activity
+tolC	665029.EAMY_0433	GO Function	GO:0015562	Efflux transmembrane transporter activity
+tolC	665029.EAMY_0433	GO Function	GO:0022857	Transmembrane transporter activity
+tolC	665029.EAMY_0433	GO Component	GO:0016020	Membrane
+tolC	665029.EAMY_0433	GO Component	GO:0019867	Outer membrane
+tolC	665029.EAMY_0433	GO Component	GO:0110165	Cellular anatomical entity
+tolC	665029.EAMY_0433	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+tolC	665029.EAMY_0433	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+tolC	665029.EAMY_0433	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+tolC	665029.EAMY_0433	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+tolC	665029.EAMY_0433	KEGG	eam01501	beta-Lactam resistance
+tolC	665029.EAMY_0433	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+tolC	665029.EAMY_0433	KEGG	eam02020	Two-component system
+tolC	665029.EAMY_0433	KEGG	eam03070	Bacterial secretion system
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0016020	Membrane
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+tolC	665029.EAMY_0433	COMPARTMENTS	GOCC:1990351	Transporter complex
+tolC	665029.EAMY_0433	UniProt Keywords	KW-0732	Signal
+tolC	665029.EAMY_0433	Pfam	PF02321	Outer membrane efflux protein
+tolC	665029.EAMY_0433	InterPro	IPR003423	Outer membrane efflux protein
+tolC	665029.EAMY_0433	InterPro	IPR010130	Type I secretion outer membrane protein, TolC
+ybgR	665029.EAMY_1183	GO Process	GO:0000041	Transition metal ion transport
+ybgR	665029.EAMY_1183	GO Process	GO:0006810	Transport
+ybgR	665029.EAMY_1183	GO Process	GO:0006811	Ion transport
+ybgR	665029.EAMY_1183	GO Process	GO:0006812	Cation transport
+ybgR	665029.EAMY_1183	GO Process	GO:0006829	Zinc ion transport
+ybgR	665029.EAMY_1183	GO Process	GO:0009987	Cellular process
+ybgR	665029.EAMY_1183	GO Process	GO:0030001	Metal ion transport
+ybgR	665029.EAMY_1183	GO Process	GO:0034220	Ion transmembrane transport
+ybgR	665029.EAMY_1183	GO Process	GO:0051179	Localization
+ybgR	665029.EAMY_1183	GO Process	GO:0051234	Establishment of localization
+ybgR	665029.EAMY_1183	GO Process	GO:0055085	Transmembrane transport
+ybgR	665029.EAMY_1183	GO Process	GO:0071577	Zinc ion transmembrane transport
+ybgR	665029.EAMY_1183	GO Process	GO:0098655	Cation transmembrane transport
+ybgR	665029.EAMY_1183	GO Process	GO:0098660	Inorganic ion transmembrane transport
+ybgR	665029.EAMY_1183	GO Process	GO:0098662	Inorganic cation transmembrane transport
+ybgR	665029.EAMY_1183	GO Function	GO:0005215	Transporter activity
+ybgR	665029.EAMY_1183	GO Function	GO:0005385	Zinc ion transmembrane transporter activity
+ybgR	665029.EAMY_1183	GO Function	GO:0008324	Cation transmembrane transporter activity
+ybgR	665029.EAMY_1183	GO Function	GO:0015075	Ion transmembrane transporter activity
+ybgR	665029.EAMY_1183	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+ybgR	665029.EAMY_1183	GO Function	GO:0022857	Transmembrane transporter activity
+ybgR	665029.EAMY_1183	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+ybgR	665029.EAMY_1183	GO Function	GO:0046873	Metal ion transmembrane transporter activity
+ybgR	665029.EAMY_1183	GO Function	GO:0046915	Transition metal ion transmembrane transporter activity
+ybgR	665029.EAMY_1183	GO Component	GO:0005886	Plasma membrane
+ybgR	665029.EAMY_1183	GO Component	GO:0016020	Membrane
+ybgR	665029.EAMY_1183	GO Component	GO:0016021	Integral component of membrane
+ybgR	665029.EAMY_1183	GO Component	GO:0031224	Intrinsic component of membrane
+ybgR	665029.EAMY_1183	GO Component	GO:0071944	Cell periphery
+ybgR	665029.EAMY_1183	GO Component	GO:0110165	Cellular anatomical entity
+ybgR	665029.EAMY_1183	STRING clusters	CL:2379	Mixed, incl. Glutathione metabolism, and Cytochrome complex assembly
+ybgR	665029.EAMY_1183	STRING clusters	CL:2380	Mixed, incl. Glutathione metabolism, and Zinc ion transport
+ybgR	665029.EAMY_1183	STRING clusters	CL:2444	Mixed, incl. Zinc ion transport, and Copper ion binding
+ybgR	665029.EAMY_1183	STRING clusters	CL:2478	Mixed, incl. Copper ion binding, and Cation efflux family
+ybgR	665029.EAMY_1183	STRING clusters	CL:2481	Cation efflux family, and P-type ATPase, subfamily IB
+ybgR	665029.EAMY_1183	COMPARTMENTS	GOCC:0005886	Plasma membrane
+ybgR	665029.EAMY_1183	COMPARTMENTS	GOCC:0016020	Membrane
+ybgR	665029.EAMY_1183	COMPARTMENTS	GOCC:0071944	Cell periphery
+ybgR	665029.EAMY_1183	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ybgR	665029.EAMY_1183	UniProt Keywords	KW-0472	Membrane
+ybgR	665029.EAMY_1183	UniProt Keywords	KW-0812	Transmembrane
+ybgR	665029.EAMY_1183	UniProt Keywords	KW-1133	Transmembrane helix
+ybgR	665029.EAMY_1183	Pfam	PF01545	Cation efflux family
+ybgR	665029.EAMY_1183	InterPro	IPR002524	Cation efflux protein
+ybgR	665029.EAMY_1183	InterPro	IPR027469	Cation efflux transmembrane domain superfamily
+ybgR	665029.EAMY_1183	InterPro	IPR036837	Cation efflux protein, cytoplasmic domain superfamily
+ycdO	665029.EAMY_2128	GO Process	GO:0000041	Transition metal ion transport
+ycdO	665029.EAMY_2128	GO Process	GO:0006810	Transport
+ycdO	665029.EAMY_2128	GO Process	GO:0006811	Ion transport
+ycdO	665029.EAMY_2128	GO Process	GO:0006812	Cation transport
+ycdO	665029.EAMY_2128	GO Process	GO:0006826	Iron ion transport
+ycdO	665029.EAMY_2128	GO Process	GO:0006950	Response to stress
+ycdO	665029.EAMY_2128	GO Process	GO:0006979	Response to oxidative stress
+ycdO	665029.EAMY_2128	GO Process	GO:0009314	Response to radiation
+ycdO	665029.EAMY_2128	GO Process	GO:0009411	Response to UV
+ycdO	665029.EAMY_2128	GO Process	GO:0009416	Response to light stimulus
+ycdO	665029.EAMY_2128	GO Process	GO:0009628	Response to abiotic stimulus
+ycdO	665029.EAMY_2128	GO Process	GO:0009636	Response to toxic substance
+ycdO	665029.EAMY_2128	GO Process	GO:0009987	Cellular process
+ycdO	665029.EAMY_2128	GO Process	GO:0030001	Metal ion transport
+ycdO	665029.EAMY_2128	GO Process	GO:0034220	Ion transmembrane transport
+ycdO	665029.EAMY_2128	GO Process	GO:0034755	Iron ion transmembrane transport
+ycdO	665029.EAMY_2128	GO Process	GO:0042221	Response to chemical
+ycdO	665029.EAMY_2128	GO Process	GO:0046677	Response to antibiotic
+ycdO	665029.EAMY_2128	GO Process	GO:0050896	Response to stimulus
+ycdO	665029.EAMY_2128	GO Process	GO:0051179	Localization
+ycdO	665029.EAMY_2128	GO Process	GO:0051234	Establishment of localization
+ycdO	665029.EAMY_2128	GO Process	GO:0055085	Transmembrane transport
+ycdO	665029.EAMY_2128	GO Process	GO:0098655	Cation transmembrane transport
+ycdO	665029.EAMY_2128	GO Process	GO:0098660	Inorganic ion transmembrane transport
+ycdO	665029.EAMY_2128	GO Process	GO:0098662	Inorganic cation transmembrane transport
+ycdO	665029.EAMY_2128	GO Function	GO:0005215	Transporter activity
+ycdO	665029.EAMY_2128	GO Function	GO:0005381	Iron ion transmembrane transporter activity
+ycdO	665029.EAMY_2128	GO Function	GO:0008324	Cation transmembrane transporter activity
+ycdO	665029.EAMY_2128	GO Function	GO:0015075	Ion transmembrane transporter activity
+ycdO	665029.EAMY_2128	GO Function	GO:0015093	Ferrous iron transmembrane transporter activity
+ycdO	665029.EAMY_2128	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+ycdO	665029.EAMY_2128	GO Function	GO:0022857	Transmembrane transporter activity
+ycdO	665029.EAMY_2128	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+ycdO	665029.EAMY_2128	GO Function	GO:0046873	Metal ion transmembrane transporter activity
+ycdO	665029.EAMY_2128	GO Function	GO:0046915	Transition metal ion transmembrane transporter activity
+ycdO	665029.EAMY_2128	GO Component	GO:0042597	Periplasmic space
+ycdO	665029.EAMY_2128	GO Component	GO:0110165	Cellular anatomical entity
+ycdO	665029.EAMY_2128	STRING clusters	CL:5936	Mixed, incl. Protein transmembrane transport, and Iron ion transport
+ycdO	665029.EAMY_2128	STRING clusters	CL:6178	Mixed, incl. Iron ion transport, and ABC transporter, permease protein, BtuC-like
+ycdO	665029.EAMY_2128	STRING clusters	CL:6179	Mixed, incl. Iron ion transport, and ABC transporter, permease protein, BtuC-like
+ycdO	665029.EAMY_2128	STRING clusters	CL:6180	Mixed, incl. Iron ion transport, and ABC transporter, permease protein, BtuC-like
+ycdO	665029.EAMY_2128	STRING clusters	CL:6228	Mixed, incl. Iron ion transmembrane transport, and Nucleoplasm
+ycdO	665029.EAMY_2128	STRING clusters	CL:6242	Iron ion transmembrane transporter activity, and Peptidase M4/M1, CTD superfamily
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0005886	Plasma membrane
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0016020	Membrane
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0033573	High-affinity iron permease complex
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0071944	Cell periphery
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0098797	Plasma membrane protein complex
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:1902494	Catalytic complex
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:1905862	Ferroxidase complex
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:1990204	Oxidoreductase complex
+ycdO	665029.EAMY_2128	COMPARTMENTS	GOCC:1990351	Transporter complex
+ycdO	665029.EAMY_2128	UniProt Keywords	KW-0732	Signal
+ycdO	665029.EAMY_2128	Pfam	PF09375	Imelysin
+ycdO	665029.EAMY_2128	Pfam	PF13473	Cupredoxin-like domain
+ycdO	665029.EAMY_2128	InterPro	IPR008972	Cupredoxin
+ycdO	665029.EAMY_2128	InterPro	IPR018976	Imelysin-like domain
+ycdO	665029.EAMY_2128	InterPro	IPR028096	EfeO-type cupredoxin-like domain
+ycdO	665029.EAMY_2128	InterPro	IPR034981	EfeO/Algp7, imelysin-like domain
+ycdO	665029.EAMY_2128	InterPro	IPR038352	Imelysin-like domain superfamily
+yegM	665029.EAMY_2262	GO Process	GO:0006810	Transport
+yegM	665029.EAMY_2262	GO Process	GO:0009987	Cellular process
+yegM	665029.EAMY_2262	GO Process	GO:0051179	Localization
+yegM	665029.EAMY_2262	GO Process	GO:0051234	Establishment of localization
+yegM	665029.EAMY_2262	GO Process	GO:0055085	Transmembrane transport
+yegM	665029.EAMY_2262	GO Function	GO:0005215	Transporter activity
+yegM	665029.EAMY_2262	GO Function	GO:0022857	Transmembrane transporter activity
+yegM	665029.EAMY_2262	GO Component	GO:0005886	Plasma membrane
+yegM	665029.EAMY_2262	GO Component	GO:0016020	Membrane
+yegM	665029.EAMY_2262	GO Component	GO:0071944	Cell periphery
+yegM	665029.EAMY_2262	GO Component	GO:0110165	Cellular anatomical entity
+yegM	665029.EAMY_2262	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+yegM	665029.EAMY_2262	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegM	665029.EAMY_2262	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegM	665029.EAMY_2262	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegM	665029.EAMY_2262	STRING clusters	CL:4893	Mixed, incl. Acriflavin resistance protein, and Biotin-lipoyl like
+yegM	665029.EAMY_2262	STRING clusters	CL:4905	MMPL family, and Biotin-lipoyl like
+yegM	665029.EAMY_2262	KEGG	eam02020	Two-component system
+yegM	665029.EAMY_2262	COMPARTMENTS	GOCC:0016020	Membrane
+yegM	665029.EAMY_2262	COMPARTMENTS	GOCC:0016021	Integral component of membrane
+yegM	665029.EAMY_2262	COMPARTMENTS	GOCC:0031224	Intrinsic component of membrane
+yegM	665029.EAMY_2262	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+yegM	665029.EAMY_2262	COMPARTMENTS	GOCC:0098796	Membrane protein complex
+yegM	665029.EAMY_2262	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yegM	665029.EAMY_2262	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+yegM	665029.EAMY_2262	COMPARTMENTS	GOCC:1990195	Macrolide transmembrane transporter complex
+yegM	665029.EAMY_2262	COMPARTMENTS	GOCC:1990351	Transporter complex
+yegM	665029.EAMY_2262	UniProt Keywords	KW-0175	Coiled coil
+yegM	665029.EAMY_2262	UniProt Keywords	KW-0472	Membrane
+yegM	665029.EAMY_2262	UniProt Keywords	KW-0812	Transmembrane
+yegM	665029.EAMY_2262	UniProt Keywords	KW-0813	Transport
+yegM	665029.EAMY_2262	UniProt Keywords	KW-0997	Cell inner membrane
+yegM	665029.EAMY_2262	UniProt Keywords	KW-1003	Cell membrane
+yegM	665029.EAMY_2262	UniProt Keywords	KW-1133	Transmembrane helix
+yegM	665029.EAMY_2262	Pfam	PF13437	HlyD family secretion protein
+yegM	665029.EAMY_2262	Pfam	PF13533	Biotin-lipoyl like
+yegM	665029.EAMY_2262	InterPro	IPR006143	RND efflux pump, membrane fusion protein
+yegM	665029.EAMY_2262	InterPro	IPR022824	Multidrug resistance protein MdtA
+yegM	665029.EAMY_2262	InterPro	IPR032317	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegN	665029.EAMY_2263	GO Process	GO:0006810	Transport
+yegN	665029.EAMY_2263	GO Process	GO:0009987	Cellular process
+yegN	665029.EAMY_2263	GO Process	GO:0051179	Localization
+yegN	665029.EAMY_2263	GO Process	GO:0051234	Establishment of localization
+yegN	665029.EAMY_2263	GO Process	GO:0055085	Transmembrane transport
+yegN	665029.EAMY_2263	GO Function	GO:0005215	Transporter activity
+yegN	665029.EAMY_2263	GO Function	GO:0022857	Transmembrane transporter activity
+yegN	665029.EAMY_2263	GO Component	GO:0005886	Plasma membrane
+yegN	665029.EAMY_2263	GO Component	GO:0016020	Membrane
+yegN	665029.EAMY_2263	GO Component	GO:0016021	Integral component of membrane
+yegN	665029.EAMY_2263	GO Component	GO:0031224	Intrinsic component of membrane
+yegN	665029.EAMY_2263	GO Component	GO:0071944	Cell periphery
+yegN	665029.EAMY_2263	GO Component	GO:0110165	Cellular anatomical entity
+yegN	665029.EAMY_2263	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+yegN	665029.EAMY_2263	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegN	665029.EAMY_2263	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegN	665029.EAMY_2263	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegN	665029.EAMY_2263	STRING clusters	CL:4893	Mixed, incl. Acriflavin resistance protein, and Biotin-lipoyl like
+yegN	665029.EAMY_2263	STRING clusters	CL:4905	MMPL family, and Biotin-lipoyl like
+yegN	665029.EAMY_2263	KEGG	eam02020	Two-component system
+yegN	665029.EAMY_2263	COMPARTMENTS	GOCC:0005886	Plasma membrane
+yegN	665029.EAMY_2263	COMPARTMENTS	GOCC:0016020	Membrane
+yegN	665029.EAMY_2263	COMPARTMENTS	GOCC:0071944	Cell periphery
+yegN	665029.EAMY_2263	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yegN	665029.EAMY_2263	UniProt Keywords	KW-0472	Membrane
+yegN	665029.EAMY_2263	UniProt Keywords	KW-0812	Transmembrane
+yegN	665029.EAMY_2263	UniProt Keywords	KW-0813	Transport
+yegN	665029.EAMY_2263	UniProt Keywords	KW-0997	Cell inner membrane
+yegN	665029.EAMY_2263	UniProt Keywords	KW-1003	Cell membrane
+yegN	665029.EAMY_2263	UniProt Keywords	KW-1133	Transmembrane helix
+yegN	665029.EAMY_2263	Pfam	PF03176	MMPL family
+yegN	665029.EAMY_2263	InterPro	IPR001036	Acriflavin resistance protein
+yegN	665029.EAMY_2263	InterPro	IPR022831	Multidrug resistance protein MdtB
+yegN	665029.EAMY_2263	InterPro	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains
+yegO	665029.EAMY_2264	GO Process	GO:0006810	Transport
+yegO	665029.EAMY_2264	GO Process	GO:0009987	Cellular process
+yegO	665029.EAMY_2264	GO Process	GO:0051179	Localization
+yegO	665029.EAMY_2264	GO Process	GO:0051234	Establishment of localization
+yegO	665029.EAMY_2264	GO Process	GO:0055085	Transmembrane transport
+yegO	665029.EAMY_2264	GO Function	GO:0005215	Transporter activity
+yegO	665029.EAMY_2264	GO Function	GO:0022857	Transmembrane transporter activity
+yegO	665029.EAMY_2264	GO Component	GO:0005886	Plasma membrane
+yegO	665029.EAMY_2264	GO Component	GO:0016020	Membrane
+yegO	665029.EAMY_2264	GO Component	GO:0016021	Integral component of membrane
+yegO	665029.EAMY_2264	GO Component	GO:0031224	Intrinsic component of membrane
+yegO	665029.EAMY_2264	GO Component	GO:0071944	Cell periphery
+yegO	665029.EAMY_2264	GO Component	GO:0110165	Cellular anatomical entity
+yegO	665029.EAMY_2264	STRING clusters	CL:4888	Mixed, incl. Major facilitator superfamily, and Acriflavin resistance protein
+yegO	665029.EAMY_2264	STRING clusters	CL:4889	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegO	665029.EAMY_2264	STRING clusters	CL:4890	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegO	665029.EAMY_2264	STRING clusters	CL:4891	Mixed, incl. Acriflavin resistance protein, and RND efflux pump, membrane fusion protein, barrel-sandwich domain
+yegO	665029.EAMY_2264	STRING clusters	CL:4893	Mixed, incl. Acriflavin resistance protein, and Biotin-lipoyl like
+yegO	665029.EAMY_2264	STRING clusters	CL:4905	MMPL family, and Biotin-lipoyl like
+yegO	665029.EAMY_2264	KEGG	eam02020	Two-component system
+yegO	665029.EAMY_2264	COMPARTMENTS	GOCC:0005886	Plasma membrane
+yegO	665029.EAMY_2264	COMPARTMENTS	GOCC:0016020	Membrane
+yegO	665029.EAMY_2264	COMPARTMENTS	GOCC:0071944	Cell periphery
+yegO	665029.EAMY_2264	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yegO	665029.EAMY_2264	UniProt Keywords	KW-0472	Membrane
+yegO	665029.EAMY_2264	UniProt Keywords	KW-0812	Transmembrane
+yegO	665029.EAMY_2264	UniProt Keywords	KW-0813	Transport
+yegO	665029.EAMY_2264	UniProt Keywords	KW-0997	Cell inner membrane
+yegO	665029.EAMY_2264	UniProt Keywords	KW-1003	Cell membrane
+yegO	665029.EAMY_2264	UniProt Keywords	KW-1133	Transmembrane helix
+yegO	665029.EAMY_2264	Pfam	PF03176	MMPL family
+yegO	665029.EAMY_2264	InterPro	IPR001036	Acriflavin resistance protein
+yegO	665029.EAMY_2264	InterPro	IPR023931	Multidrug resistance protein MdtC
+yegO	665029.EAMY_2264	InterPro	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains
+yfbE	665029.EAMY_1084	GO Process	GO:0000271	Polysaccharide biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0005975	Carbohydrate metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0005976	Polysaccharide metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0006629	Lipid metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0006643	Membrane lipid metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0006644	Phospholipid metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0006664	Glycolipid metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0006793	Phosphorus metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0008152	Metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0008610	Lipid biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0008654	Phospholipid biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0009058	Biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0009059	Macromolecule biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0009245	Lipid A biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0009247	Glycolipid biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0009311	Oligosaccharide metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0009312	Oligosaccharide biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0009987	Cellular process
+yfbE	665029.EAMY_1084	GO Process	GO:0016051	Carbohydrate biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0019637	Organophosphate metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0042221	Response to chemical
+yfbE	665029.EAMY_1084	GO Process	GO:0043170	Macromolecule metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0044237	Cellular metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0044238	Primary metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0044249	Cellular biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0044255	Cellular lipid metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0044260	Cellular macromolecule metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0046467	Membrane lipid biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:0046493	Lipid A metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0046677	Response to antibiotic
+yfbE	665029.EAMY_1084	GO Process	GO:0050896	Response to stimulus
+yfbE	665029.EAMY_1084	GO Process	GO:0071704	Organic substance metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:0090407	Organophosphate biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:1901269	Lipooligosaccharide metabolic process
+yfbE	665029.EAMY_1084	GO Process	GO:1901271	Lipooligosaccharide biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:1901576	Organic substance biosynthetic process
+yfbE	665029.EAMY_1084	GO Process	GO:1903509	Liposaccharide metabolic process
+yfbE	665029.EAMY_1084	GO Function	GO:0003824	Catalytic activity
+yfbE	665029.EAMY_1084	GO Function	GO:0008483	Transaminase activity
+yfbE	665029.EAMY_1084	GO Function	GO:0016740	Transferase activity
+yfbE	665029.EAMY_1084	GO Function	GO:0016769	Transferase activity, transferring nitrogenous groups
+yfbE	665029.EAMY_1084	GO Function	GO:0099620	UDP-4-amino-4-deoxy-L-arabinose aminotransferase
+yfbE	665029.EAMY_1084	GO Component	GO:0005622	Intracellular anatomical structure
+yfbE	665029.EAMY_1084	GO Component	GO:0005737	Cytoplasm
+yfbE	665029.EAMY_1084	GO Component	GO:0110165	Cellular anatomical entity
+yfbE	665029.EAMY_1084	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+yfbE	665029.EAMY_1084	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+yfbE	665029.EAMY_1084	STRING clusters	CL:3239	Lipid A biosynthesis, and Glucosyl transferase II
+yfbE	665029.EAMY_1084	KEGG	eam00520	Amino sugar and nucleotide sugar metabolism
+yfbE	665029.EAMY_1084	KEGG	eam01100	Metabolic pathways
+yfbE	665029.EAMY_1084	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+yfbE	665029.EAMY_1084	KEGG	eam02020	Two-component system
+yfbE	665029.EAMY_1084	COMPARTMENTS	GOCC:0005622	Intracellular
+yfbE	665029.EAMY_1084	COMPARTMENTS	GOCC:0005737	Cytoplasm
+yfbE	665029.EAMY_1084	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yfbE	665029.EAMY_1084	UniProt Keywords	KW-0032	Aminotransferase
+yfbE	665029.EAMY_1084	UniProt Keywords	KW-0046	Antibiotic resistance
+yfbE	665029.EAMY_1084	UniProt Keywords	KW-0441	Lipid A biosynthesis
+yfbE	665029.EAMY_1084	UniProt Keywords	KW-0443	Lipid metabolism
+yfbE	665029.EAMY_1084	UniProt Keywords	KW-0444	Lipid biosynthesis
+yfbE	665029.EAMY_1084	UniProt Keywords	KW-0448	Lipopolysaccharide biosynthesis
+yfbE	665029.EAMY_1084	UniProt Keywords	KW-0663	Pyridoxal phosphate
+yfbE	665029.EAMY_1084	UniProt Keywords	KW-0808	Transferase
+yfbE	665029.EAMY_1084	Pfam	PF00155	Aminotransferase class I and II
+yfbE	665029.EAMY_1084	InterPro	IPR000653	DegT/DnrJ/EryC1/StrS aminotransferase
+yfbE	665029.EAMY_1084	InterPro	IPR015421	Pyridoxal phosphate-dependent transferase, major domain
+yfbE	665029.EAMY_1084	InterPro	IPR015422	Pyridoxal phosphate-dependent transferase, small domain
+yfbE	665029.EAMY_1084	InterPro	IPR015424	Pyridoxal phosphate-dependent transferase
+yfbE	665029.EAMY_1084	InterPro	IPR022850	UDP-4-amino-4-deoxy-L-arabinose-oxoglutarate aminotransferase, ArnB
+yfbG	665029.EAMY_1085	GO Process	GO:0000271	Polysaccharide biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0005975	Carbohydrate metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0005976	Polysaccharide metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0006629	Lipid metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0006643	Membrane lipid metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0006644	Phospholipid metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0006664	Glycolipid metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0006793	Phosphorus metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0008152	Metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0008610	Lipid biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0008654	Phospholipid biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0009058	Biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0009059	Macromolecule biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0009245	Lipid A biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0009247	Glycolipid biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0009311	Oligosaccharide metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0009312	Oligosaccharide biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0009987	Cellular process
+yfbG	665029.EAMY_1085	GO Process	GO:0016051	Carbohydrate biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0019637	Organophosphate metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0042221	Response to chemical
+yfbG	665029.EAMY_1085	GO Process	GO:0043170	Macromolecule metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0044237	Cellular metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0044238	Primary metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0044249	Cellular biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0044255	Cellular lipid metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0044260	Cellular macromolecule metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0046467	Membrane lipid biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:0046493	Lipid A metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0046677	Response to antibiotic
+yfbG	665029.EAMY_1085	GO Process	GO:0050896	Response to stimulus
+yfbG	665029.EAMY_1085	GO Process	GO:0071704	Organic substance metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:0090407	Organophosphate biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:1901269	Lipooligosaccharide metabolic process
+yfbG	665029.EAMY_1085	GO Process	GO:1901271	Lipooligosaccharide biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:1901576	Organic substance biosynthetic process
+yfbG	665029.EAMY_1085	GO Process	GO:1903509	Liposaccharide metabolic process
+yfbG	665029.EAMY_1085	GO Function	GO:0003824	Catalytic activity
+yfbG	665029.EAMY_1085	GO Function	GO:0016491	Oxidoreductase activity
+yfbG	665029.EAMY_1085	GO Function	GO:0016614	Oxidoreductase activity, acting on CH-OH group of donors
+yfbG	665029.EAMY_1085	GO Function	GO:0016616	Oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+yfbG	665029.EAMY_1085	GO Function	GO:0016740	Transferase activity
+yfbG	665029.EAMY_1085	GO Function	GO:0016741	Transferase activity, transferring one-carbon groups
+yfbG	665029.EAMY_1085	GO Function	GO:0016742	Hydroxymethyl-, formyl- and related transferase activity
+yfbG	665029.EAMY_1085	GO Function	GO:0016829	Lyase activity
+yfbG	665029.EAMY_1085	GO Function	GO:0016830	Carbon-carbon lyase activity
+yfbG	665029.EAMY_1085	GO Function	GO:0016831	Carboxy-lyase activity
+yfbG	665029.EAMY_1085	GO Function	GO:0099618	UDP-glucuronic acid dehydrogenase activity
+yfbG	665029.EAMY_1085	GO Function	GO:0099619	UDP-4-amino-4-deoxy-L-arabinose formyltransferase activity
+yfbG	665029.EAMY_1085	GO Component	GO:0032991	Protein-containing complex
+yfbG	665029.EAMY_1085	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+yfbG	665029.EAMY_1085	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+yfbG	665029.EAMY_1085	STRING clusters	CL:3239	Lipid A biosynthesis, and Glucosyl transferase II
+yfbG	665029.EAMY_1085	STRING clusters	CL:3242	Lipid A biosynthesis
+yfbG	665029.EAMY_1085	KEGG	eam00520	Amino sugar and nucleotide sugar metabolism
+yfbG	665029.EAMY_1085	KEGG	eam01100	Metabolic pathways
+yfbG	665029.EAMY_1085	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+yfbG	665029.EAMY_1085	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+yfbG	665029.EAMY_1085	UniProt Keywords	KW-0046	Antibiotic resistance
+yfbG	665029.EAMY_1085	UniProt Keywords	KW-0441	Lipid A biosynthesis
+yfbG	665029.EAMY_1085	UniProt Keywords	KW-0443	Lipid metabolism
+yfbG	665029.EAMY_1085	UniProt Keywords	KW-0444	Lipid biosynthesis
+yfbG	665029.EAMY_1085	UniProt Keywords	KW-0448	Lipopolysaccharide biosynthesis
+yfbG	665029.EAMY_1085	UniProt Keywords	KW-0511	Multifunctional enzyme
+yfbG	665029.EAMY_1085	UniProt Keywords	KW-0520	NAD
+yfbG	665029.EAMY_1085	UniProt Keywords	KW-0560	Oxidoreductase
+yfbG	665029.EAMY_1085	UniProt Keywords	KW-0808	Transferase
+yfbG	665029.EAMY_1085	Pfam	PF00551	Formyl transferase
+yfbG	665029.EAMY_1085	Pfam	PF02911	Formyl transferase, C-terminal domain
+yfbG	665029.EAMY_1085	Pfam	PF16363	GDP-mannose 4,6 dehydratase
+yfbG	665029.EAMY_1085	InterPro	IPR001509	NAD-dependent epimerase/dehydratase
+yfbG	665029.EAMY_1085	InterPro	IPR002376	Formyl transferase, N-terminal
+yfbG	665029.EAMY_1085	InterPro	IPR005793	Formyl transferase, C-terminal
+yfbG	665029.EAMY_1085	InterPro	IPR011034	Formyl transferase-like, C-terminal domain superfamily
+yfbG	665029.EAMY_1085	InterPro	IPR021168	Bifunctional polymyxin resistance protein, ArnA
+yfbG	665029.EAMY_1085	InterPro	IPR036291	NAD(P)-binding domain superfamily
+yfbG	665029.EAMY_1085	InterPro	IPR036477	Formyl transferase, N-terminal domain superfamily
+yfbG	665029.EAMY_1085	InterPro	IPR045869	Bifunctional polymyxin resistance protein ArnA-like, extended (e) SDRs
+yfbH	665029.EAMY_1086	GO Process	GO:0000271	Polysaccharide biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0005975	Carbohydrate metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0005976	Polysaccharide metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0006629	Lipid metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0006643	Membrane lipid metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0006644	Phospholipid metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0006664	Glycolipid metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0006720	Isoprenoid metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0006721	Terpenoid metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0006793	Phosphorus metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0008152	Metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0008299	Isoprenoid biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0008610	Lipid biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0008654	Phospholipid biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0009058	Biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0009059	Macromolecule biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0009245	Lipid A biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0009247	Glycolipid biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0009311	Oligosaccharide metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0009312	Oligosaccharide biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0009987	Cellular process
+yfbH	665029.EAMY_1086	GO Process	GO:0016051	Carbohydrate biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0016114	Terpenoid biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0019637	Organophosphate metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0036107	4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0036108	4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0042221	Response to chemical
+yfbH	665029.EAMY_1086	GO Process	GO:0043170	Macromolecule metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0044237	Cellular metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0044238	Primary metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0044249	Cellular biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0044255	Cellular lipid metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0044260	Cellular macromolecule metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0046467	Membrane lipid biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:0046493	Lipid A metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0046677	Response to antibiotic
+yfbH	665029.EAMY_1086	GO Process	GO:0050896	Response to stimulus
+yfbH	665029.EAMY_1086	GO Process	GO:0071704	Organic substance metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:0090407	Organophosphate biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:1901269	Lipooligosaccharide metabolic process
+yfbH	665029.EAMY_1086	GO Process	GO:1901271	Lipooligosaccharide biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:1901576	Organic substance biosynthetic process
+yfbH	665029.EAMY_1086	GO Process	GO:1903509	Liposaccharide metabolic process
+yfbH	665029.EAMY_1086	GO Function	GO:0003824	Catalytic activity
+yfbH	665029.EAMY_1086	GO Function	GO:0016787	Hydrolase activity
+yfbH	665029.EAMY_1086	GO Function	GO:0016810	Hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+yfbH	665029.EAMY_1086	GO Function	GO:0016811	Hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+yfbH	665029.EAMY_1086	GO Component	GO:0110165	Cellular anatomical entity
+yfbH	665029.EAMY_1086	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+yfbH	665029.EAMY_1086	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+yfbH	665029.EAMY_1086	STRING clusters	CL:3239	Lipid A biosynthesis, and Glucosyl transferase II
+yfbH	665029.EAMY_1086	STRING clusters	CL:3242	Lipid A biosynthesis
+yfbH	665029.EAMY_1086	KEGG	eam00520	Amino sugar and nucleotide sugar metabolism
+yfbH	665029.EAMY_1086	KEGG	eam01100	Metabolic pathways
+yfbH	665029.EAMY_1086	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+yfbH	665029.EAMY_1086	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yfbH	665029.EAMY_1086	UniProt Keywords	KW-0046	Antibiotic resistance
+yfbH	665029.EAMY_1086	UniProt Keywords	KW-0378	Hydrolase
+yfbH	665029.EAMY_1086	UniProt Keywords	KW-0441	Lipid A biosynthesis
+yfbH	665029.EAMY_1086	UniProt Keywords	KW-0443	Lipid metabolism
+yfbH	665029.EAMY_1086	UniProt Keywords	KW-0444	Lipid biosynthesis
+yfbH	665029.EAMY_1086	UniProt Keywords	KW-0448	Lipopolysaccharide biosynthesis
+yfbH	665029.EAMY_1086	Pfam	PF01522	Polysaccharide deacetylase
+yfbH	665029.EAMY_1086	InterPro	IPR002509	NodB homology domain
+yfbH	665029.EAMY_1086	InterPro	IPR011330	Glycoside hydrolase/deacetylase, beta/alpha-barrel
+yfbH	665029.EAMY_1086	InterPro	IPR023557	4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD, probable
+yfbI	665029.EAMY_1087	GO Process	GO:0000271	Polysaccharide biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0005975	Carbohydrate metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0005976	Polysaccharide metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0006486	Protein glycosylation
+yfbI	665029.EAMY_1087	GO Process	GO:0006493	Protein O-linked glycosylation
+yfbI	665029.EAMY_1087	GO Process	GO:0006629	Lipid metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0006643	Membrane lipid metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0006644	Phospholipid metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0006664	Glycolipid metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0006793	Phosphorus metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0006807	Nitrogen compound metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0008152	Metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0008610	Lipid biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0008654	Phospholipid biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009058	Biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009059	Macromolecule biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009100	Glycoprotein metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009101	Glycoprotein biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009245	Lipid A biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009247	Glycolipid biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009311	Oligosaccharide metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009312	Oligosaccharide biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0009987	Cellular process
+yfbI	665029.EAMY_1087	GO Process	GO:0016051	Carbohydrate biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0019538	Protein metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0019637	Organophosphate metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0036211	Protein modification process
+yfbI	665029.EAMY_1087	GO Process	GO:0043170	Macromolecule metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0043412	Macromolecule modification
+yfbI	665029.EAMY_1087	GO Process	GO:0043413	Macromolecule glycosylation
+yfbI	665029.EAMY_1087	GO Process	GO:0044237	Cellular metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0044238	Primary metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0044249	Cellular biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0044255	Cellular lipid metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0044260	Cellular macromolecule metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0046467	Membrane lipid biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0046493	Lipid A metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0070085	Glycosylation
+yfbI	665029.EAMY_1087	GO Process	GO:0071704	Organic substance metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:0090407	Organophosphate biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:0097502	Mannosylation
+yfbI	665029.EAMY_1087	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:1901269	Lipooligosaccharide metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:1901271	Lipooligosaccharide biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:1901564	Organonitrogen compound metabolic process
+yfbI	665029.EAMY_1087	GO Process	GO:1901566	Organonitrogen compound biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:1901576	Organic substance biosynthetic process
+yfbI	665029.EAMY_1087	GO Process	GO:1903509	Liposaccharide metabolic process
+yfbI	665029.EAMY_1087	GO Function	GO:0000030	Mannosyltransferase activity
+yfbI	665029.EAMY_1087	GO Function	GO:0003824	Catalytic activity
+yfbI	665029.EAMY_1087	GO Function	GO:0016740	Transferase activity
+yfbI	665029.EAMY_1087	GO Function	GO:0016757	Glycosyltransferase activity
+yfbI	665029.EAMY_1087	GO Function	GO:0016758	Hexosyltransferase activity
+yfbI	665029.EAMY_1087	GO Function	GO:0016763	Pentosyltransferase activity
+yfbI	665029.EAMY_1087	GO Function	GO:0103015	4-amino-4-deoxy-L-arabinose transferase activity
+yfbI	665029.EAMY_1087	GO Component	GO:0005886	Plasma membrane
+yfbI	665029.EAMY_1087	GO Component	GO:0016020	Membrane
+yfbI	665029.EAMY_1087	GO Component	GO:0016021	Integral component of membrane
+yfbI	665029.EAMY_1087	GO Component	GO:0031224	Intrinsic component of membrane
+yfbI	665029.EAMY_1087	GO Component	GO:0071944	Cell periphery
+yfbI	665029.EAMY_1087	GO Component	GO:0110165	Cellular anatomical entity
+yfbI	665029.EAMY_1087	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+yfbI	665029.EAMY_1087	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+yfbI	665029.EAMY_1087	STRING clusters	CL:3239	Lipid A biosynthesis, and Glucosyl transferase II
+yfbI	665029.EAMY_1087	STRING clusters	CL:3242	Lipid A biosynthesis
+yfbI	665029.EAMY_1087	KEGG	eam00540	Lipopolysaccharide biosynthesis
+yfbI	665029.EAMY_1087	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+yfbI	665029.EAMY_1087	COMPARTMENTS	GOCC:0005886	Plasma membrane
+yfbI	665029.EAMY_1087	COMPARTMENTS	GOCC:0016020	Membrane
+yfbI	665029.EAMY_1087	COMPARTMENTS	GOCC:0071944	Cell periphery
+yfbI	665029.EAMY_1087	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-0328	Glycosyltransferase
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-0441	Lipid A biosynthesis
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-0443	Lipid metabolism
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-0444	Lipid biosynthesis
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-0448	Lipopolysaccharide biosynthesis
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-0472	Membrane
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-0808	Transferase
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-0812	Transmembrane
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-0997	Cell inner membrane
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-1003	Cell membrane
+yfbI	665029.EAMY_1087	UniProt Keywords	KW-1133	Transmembrane helix
+yfbI	665029.EAMY_1087	Pfam	PF13231	Dolichyl-phosphate-mannose-protein mannosyltransferase
+yfbI	665029.EAMY_1087	InterPro	IPR003342	Glycosyl transferase family 39/83
+yfbI	665029.EAMY_1087	InterPro	IPR022839	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+yfbJ	665029.EAMY_1089	GO Process	GO:0000271	Polysaccharide biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0005975	Carbohydrate metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0005976	Polysaccharide metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0006629	Lipid metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0006643	Membrane lipid metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0006644	Phospholipid metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0006664	Glycolipid metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0006793	Phosphorus metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0006810	Transport
+yfbJ	665029.EAMY_1089	GO Process	GO:0008152	Metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0008610	Lipid biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0008654	Phospholipid biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0009058	Biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0009059	Macromolecule biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0009245	Lipid A biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0009247	Glycolipid biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0009311	Oligosaccharide metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0009312	Oligosaccharide biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0009987	Cellular process
+yfbJ	665029.EAMY_1089	GO Process	GO:0016051	Carbohydrate biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0019637	Organophosphate metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0042221	Response to chemical
+yfbJ	665029.EAMY_1089	GO Process	GO:0043170	Macromolecule metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0044237	Cellular metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0044238	Primary metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0044249	Cellular biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0044255	Cellular lipid metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0044260	Cellular macromolecule metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0046467	Membrane lipid biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0046493	Lipid A metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0050896	Response to stimulus
+yfbJ	665029.EAMY_1089	GO Process	GO:0051179	Localization
+yfbJ	665029.EAMY_1089	GO Process	GO:0051234	Establishment of localization
+yfbJ	665029.EAMY_1089	GO Process	GO:0055085	Transmembrane transport
+yfbJ	665029.EAMY_1089	GO Process	GO:0071702	Organic substance transport
+yfbJ	665029.EAMY_1089	GO Process	GO:0071704	Organic substance metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:0090407	Organophosphate biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:1901264	Carbohydrate derivative transport
+yfbJ	665029.EAMY_1089	GO Process	GO:1901269	Lipooligosaccharide metabolic process
+yfbJ	665029.EAMY_1089	GO Process	GO:1901271	Lipooligosaccharide biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:1901576	Organic substance biosynthetic process
+yfbJ	665029.EAMY_1089	GO Process	GO:1903509	Liposaccharide metabolic process
+yfbJ	665029.EAMY_1089	GO Function	GO:0005215	Transporter activity
+yfbJ	665029.EAMY_1089	GO Function	GO:0022857	Transmembrane transporter activity
+yfbJ	665029.EAMY_1089	GO Function	GO:1901505	Carbohydrate derivative transmembrane transporter activity
+yfbJ	665029.EAMY_1089	GO Component	GO:0005886	Plasma membrane
+yfbJ	665029.EAMY_1089	GO Component	GO:0005887	Integral component of plasma membrane
+yfbJ	665029.EAMY_1089	GO Component	GO:0016020	Membrane
+yfbJ	665029.EAMY_1089	GO Component	GO:0016021	Integral component of membrane
+yfbJ	665029.EAMY_1089	GO Component	GO:0031224	Intrinsic component of membrane
+yfbJ	665029.EAMY_1089	GO Component	GO:0031226	Intrinsic component of plasma membrane
+yfbJ	665029.EAMY_1089	GO Component	GO:0071944	Cell periphery
+yfbJ	665029.EAMY_1089	GO Component	GO:0110165	Cellular anatomical entity
+yfbJ	665029.EAMY_1089	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+yfbJ	665029.EAMY_1089	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+yfbJ	665029.EAMY_1089	STRING clusters	CL:3239	Lipid A biosynthesis, and Glucosyl transferase II
+yfbJ	665029.EAMY_1089	STRING clusters	CL:3242	Lipid A biosynthesis
+yfbJ	665029.EAMY_1089	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+yfbJ	665029.EAMY_1089	COMPARTMENTS	GOCC:0005886	Plasma membrane
+yfbJ	665029.EAMY_1089	COMPARTMENTS	GOCC:0016020	Membrane
+yfbJ	665029.EAMY_1089	COMPARTMENTS	GOCC:0071944	Cell periphery
+yfbJ	665029.EAMY_1089	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-0441	Lipid A biosynthesis
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-0443	Lipid metabolism
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-0444	Lipid biosynthesis
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-0448	Lipopolysaccharide biosynthesis
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-0472	Membrane
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-0812	Transmembrane
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-0813	Transport
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-0997	Cell inner membrane
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-1003	Cell membrane
+yfbJ	665029.EAMY_1089	UniProt Keywords	KW-1133	Transmembrane helix
+yfbJ	665029.EAMY_1089	InterPro	IPR000390	Small drug/metabolite transporter protein family
+yfbJ	665029.EAMY_1089	InterPro	IPR022832	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnF
+yfbW	665029.EAMY_1088	GO Process	GO:0000271	Polysaccharide biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0005975	Carbohydrate metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0005976	Polysaccharide metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0006629	Lipid metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0006643	Membrane lipid metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0006644	Phospholipid metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0006664	Glycolipid metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0006793	Phosphorus metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0006810	Transport
+yfbW	665029.EAMY_1088	GO Process	GO:0008152	Metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0008610	Lipid biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0008654	Phospholipid biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0009058	Biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0009059	Macromolecule biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0009245	Lipid A biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0009247	Glycolipid biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0009311	Oligosaccharide metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0009312	Oligosaccharide biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0009987	Cellular process
+yfbW	665029.EAMY_1088	GO Process	GO:0016051	Carbohydrate biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0019637	Organophosphate metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0042221	Response to chemical
+yfbW	665029.EAMY_1088	GO Process	GO:0043170	Macromolecule metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0044237	Cellular metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0044238	Primary metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0044249	Cellular biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0044255	Cellular lipid metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0044260	Cellular macromolecule metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0046467	Membrane lipid biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:0046493	Lipid A metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0050896	Response to stimulus
+yfbW	665029.EAMY_1088	GO Process	GO:0051179	Localization
+yfbW	665029.EAMY_1088	GO Process	GO:0051234	Establishment of localization
+yfbW	665029.EAMY_1088	GO Process	GO:0055085	Transmembrane transport
+yfbW	665029.EAMY_1088	GO Process	GO:0071702	Organic substance transport
+yfbW	665029.EAMY_1088	GO Process	GO:0071704	Organic substance metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:0090407	Organophosphate biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:1901264	Carbohydrate derivative transport
+yfbW	665029.EAMY_1088	GO Process	GO:1901269	Lipooligosaccharide metabolic process
+yfbW	665029.EAMY_1088	GO Process	GO:1901271	Lipooligosaccharide biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:1901576	Organic substance biosynthetic process
+yfbW	665029.EAMY_1088	GO Process	GO:1903509	Liposaccharide metabolic process
+yfbW	665029.EAMY_1088	GO Function	GO:0005215	Transporter activity
+yfbW	665029.EAMY_1088	GO Function	GO:0022857	Transmembrane transporter activity
+yfbW	665029.EAMY_1088	GO Function	GO:1901505	Carbohydrate derivative transmembrane transporter activity
+yfbW	665029.EAMY_1088	GO Component	GO:0005886	Plasma membrane
+yfbW	665029.EAMY_1088	GO Component	GO:0005887	Integral component of plasma membrane
+yfbW	665029.EAMY_1088	GO Component	GO:0016020	Membrane
+yfbW	665029.EAMY_1088	GO Component	GO:0016021	Integral component of membrane
+yfbW	665029.EAMY_1088	GO Component	GO:0031224	Intrinsic component of membrane
+yfbW	665029.EAMY_1088	GO Component	GO:0031226	Intrinsic component of plasma membrane
+yfbW	665029.EAMY_1088	GO Component	GO:0071944	Cell periphery
+yfbW	665029.EAMY_1088	GO Component	GO:0110165	Cellular anatomical entity
+yfbW	665029.EAMY_1088	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+yfbW	665029.EAMY_1088	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+yfbW	665029.EAMY_1088	STRING clusters	CL:3239	Lipid A biosynthesis, and Glucosyl transferase II
+yfbW	665029.EAMY_1088	STRING clusters	CL:3242	Lipid A biosynthesis
+yfbW	665029.EAMY_1088	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+yfbW	665029.EAMY_1088	COMPARTMENTS	GOCC:0005886	Plasma membrane
+yfbW	665029.EAMY_1088	COMPARTMENTS	GOCC:0016020	Membrane
+yfbW	665029.EAMY_1088	COMPARTMENTS	GOCC:0071944	Cell periphery
+yfbW	665029.EAMY_1088	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-0441	Lipid A biosynthesis
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-0443	Lipid metabolism
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-0444	Lipid biosynthesis
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-0448	Lipopolysaccharide biosynthesis
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-0472	Membrane
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-0812	Transmembrane
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-0813	Transport
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-0997	Cell inner membrane
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-1003	Cell membrane
+yfbW	665029.EAMY_1088	UniProt Keywords	KW-1133	Transmembrane helix
+yfbW	665029.EAMY_1088	Pfam	PF00893	Small Multidrug Resistance protein
+yfbW	665029.EAMY_1088	InterPro	IPR000390	Small drug/metabolite transporter protein family
+yfbW	665029.EAMY_1088	InterPro	IPR000620	EamA domain
+yfbW	665029.EAMY_1088	InterPro	IPR022883	4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase, subunit ArnE
+yjdB	665029.EAMY_1696	GO Process	GO:0000271	Polysaccharide biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0005975	Carbohydrate metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0005976	Polysaccharide metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0006629	Lipid metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0006643	Membrane lipid metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0006644	Phospholipid metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0006664	Glycolipid metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0006793	Phosphorus metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0008152	Metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0008610	Lipid biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0008653	Lipopolysaccharide metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0008654	Phospholipid biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0009058	Biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0009059	Macromolecule biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0009103	Lipopolysaccharide biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0009244	Lipopolysaccharide core region biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0009245	Lipid A biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0009247	Glycolipid biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0009311	Oligosaccharide metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0009312	Oligosaccharide biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0009987	Cellular process
+yjdB	665029.EAMY_1696	GO Process	GO:0016051	Carbohydrate biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0019637	Organophosphate metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0033692	Cellular polysaccharide biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0034637	Cellular carbohydrate biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0034645	Cellular macromolecule biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0042221	Response to chemical
+yjdB	665029.EAMY_1696	GO Process	GO:0043170	Macromolecule metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0044237	Cellular metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0044238	Primary metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0044249	Cellular biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0044255	Cellular lipid metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0044260	Cellular macromolecule metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0044264	Cellular polysaccharide metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0046401	Lipopolysaccharide core region metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0046467	Membrane lipid biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:0046493	Lipid A metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0046677	Response to antibiotic
+yjdB	665029.EAMY_1696	GO Process	GO:0050896	Response to stimulus
+yjdB	665029.EAMY_1696	GO Process	GO:0071704	Organic substance metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:0090407	Organophosphate biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:1901269	Lipooligosaccharide metabolic process
+yjdB	665029.EAMY_1696	GO Process	GO:1901271	Lipooligosaccharide biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:1901576	Organic substance biosynthetic process
+yjdB	665029.EAMY_1696	GO Process	GO:1903509	Liposaccharide metabolic process
+yjdB	665029.EAMY_1696	GO Function	GO:0003824	Catalytic activity
+yjdB	665029.EAMY_1696	GO Function	GO:0008484	Sulfuric ester hydrolase activity
+yjdB	665029.EAMY_1696	GO Function	GO:0016740	Transferase activity
+yjdB	665029.EAMY_1696	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+yjdB	665029.EAMY_1696	GO Function	GO:0016787	Hydrolase activity
+yjdB	665029.EAMY_1696	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+yjdB	665029.EAMY_1696	GO Component	GO:0005886	Plasma membrane
+yjdB	665029.EAMY_1696	GO Component	GO:0016020	Membrane
+yjdB	665029.EAMY_1696	GO Component	GO:0016021	Integral component of membrane
+yjdB	665029.EAMY_1696	GO Component	GO:0031224	Intrinsic component of membrane
+yjdB	665029.EAMY_1696	GO Component	GO:0071944	Cell periphery
+yjdB	665029.EAMY_1696	GO Component	GO:0110165	Cellular anatomical entity
+yjdB	665029.EAMY_1696	STRING clusters	CL:3109	Polysaccharide biosynthetic process, and Galactose metabolism
+yjdB	665029.EAMY_1696	STRING clusters	CL:3238	Lipid A metabolic process, and Glucosyl transferase II
+yjdB	665029.EAMY_1696	STRING clusters	CL:3258	Phosphoethanolamine transferase, and Undecaprenyl-diphosphatase activity
+yjdB	665029.EAMY_1696	KEGG	eam00540	Lipopolysaccharide biosynthesis
+yjdB	665029.EAMY_1696	KEGG	eam01100	Metabolic pathways
+yjdB	665029.EAMY_1696	KEGG	eam01503	Cationic antimicrobial peptide (CAMP) resistance
+yjdB	665029.EAMY_1696	COMPARTMENTS	GOCC:0005886	Plasma membrane
+yjdB	665029.EAMY_1696	COMPARTMENTS	GOCC:0016020	Membrane
+yjdB	665029.EAMY_1696	COMPARTMENTS	GOCC:0071944	Cell periphery
+yjdB	665029.EAMY_1696	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yjdB	665029.EAMY_1696	UniProt Keywords	KW-0472	Membrane
+yjdB	665029.EAMY_1696	UniProt Keywords	KW-0812	Transmembrane
+yjdB	665029.EAMY_1696	UniProt Keywords	KW-1133	Transmembrane helix
+yjdB	665029.EAMY_1696	Pfam	PF00884	Sulfatase
+yjdB	665029.EAMY_1696	InterPro	IPR000917	Sulfatase, N-terminal
+yjdB	665029.EAMY_1696	InterPro	IPR012549	Phosphoethanolamine transferase, N-terminal
+yjdB	665029.EAMY_1696	InterPro	IPR017850	Alkaline-phosphatase-like, core domain superfamily
+yjdB	665029.EAMY_1696	InterPro	IPR040423	Phosphoethanolamine transferase
+yrbB	665029.EAMY_0327	GO Process	GO:0006810	Transport
+yrbB	665029.EAMY_0327	GO Process	GO:0006869	Lipid transport
+yrbB	665029.EAMY_0327	GO Process	GO:0006950	Response to stress
+yrbB	665029.EAMY_0327	GO Process	GO:0006974	Cellular response to DNA damage stimulus
+yrbB	665029.EAMY_0327	GO Process	GO:0009987	Cellular process
+yrbB	665029.EAMY_0327	GO Process	GO:0010876	Lipid localization
+yrbB	665029.EAMY_0327	GO Process	GO:0015748	Organophosphate ester transport
+yrbB	665029.EAMY_0327	GO Process	GO:0015914	Phospholipid transport
+yrbB	665029.EAMY_0327	GO Process	GO:0016043	Cellular component organization
+yrbB	665029.EAMY_0327	GO Process	GO:0033036	Macromolecule localization
+yrbB	665029.EAMY_0327	GO Process	GO:0033554	Cellular response to stress
+yrbB	665029.EAMY_0327	GO Process	GO:0042221	Response to chemical
+yrbB	665029.EAMY_0327	GO Process	GO:0046677	Response to antibiotic
+yrbB	665029.EAMY_0327	GO Process	GO:0050896	Response to stimulus
+yrbB	665029.EAMY_0327	GO Process	GO:0051179	Localization
+yrbB	665029.EAMY_0327	GO Process	GO:0051234	Establishment of localization
+yrbB	665029.EAMY_0327	GO Process	GO:0051716	Cellular response to stimulus
+yrbB	665029.EAMY_0327	GO Process	GO:0061024	Membrane organization
+yrbB	665029.EAMY_0327	GO Process	GO:0071702	Organic substance transport
+yrbB	665029.EAMY_0327	GO Process	GO:0071840	Cellular component organization or biogenesis
+yrbB	665029.EAMY_0327	GO Process	GO:0120009	Intermembrane lipid transfer
+yrbB	665029.EAMY_0327	GO Process	GO:0120010	Intermembrane phospholipid transfer
+yrbB	665029.EAMY_0327	GO Function	GO:0005215	Transporter activity
+yrbB	665029.EAMY_0327	GO Function	GO:0005319	Lipid transporter activity
+yrbB	665029.EAMY_0327	GO Function	GO:0005548	Phospholipid transporter activity
+yrbB	665029.EAMY_0327	GO Function	GO:0120013	Lipid transfer activity
+yrbB	665029.EAMY_0327	GO Function	GO:0120014	Phospholipid transfer activity
+yrbB	665029.EAMY_0327	GO Component	GO:0005622	Intracellular anatomical structure
+yrbB	665029.EAMY_0327	GO Component	GO:0005737	Cytoplasm
+yrbB	665029.EAMY_0327	GO Component	GO:0110165	Cellular anatomical entity
+yrbB	665029.EAMY_0327	STRING clusters	CL:890	Mixed, incl. External encapsulating structure organization, and Lipopolysaccharide biosynthesis
+yrbB	665029.EAMY_0327	STRING clusters	CL:891	Mixed, incl. External encapsulating structure organization, and Lipopolysaccharide biosynthesis
+yrbB	665029.EAMY_0327	STRING clusters	CL:892	Mixed, incl. Membrane organization, and Lipopolysaccharide biosynthesis
+yrbB	665029.EAMY_0327	STRING clusters	CL:894	Mixed, incl. Membrane organization, and Lipopolysaccharide biosynthesis
+yrbB	665029.EAMY_0327	STRING clusters	CL:895	Lipopolysaccharide biosynthesis, and Lipid transport
+yrbB	665029.EAMY_0327	STRING clusters	CL:896	Lipid transport, and Permease LptG/LptF-related
+yrbB	665029.EAMY_0327	STRING clusters	CL:914	Phospholipid transport
+yrbB	665029.EAMY_0327	KEGG	eam02010	ABC transporters
+yrbB	665029.EAMY_0327	COMPARTMENTS	GOCC:0005622	Intracellular
+yrbB	665029.EAMY_0327	COMPARTMENTS	GOCC:0005737	Cytoplasm
+yrbB	665029.EAMY_0327	COMPARTMENTS	GOCC:0005829	Cytosol
+yrbB	665029.EAMY_0327	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+yrbB	665029.EAMY_0327	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+yrbB	665029.EAMY_0327	COMPARTMENTS	GOCC:1990351	Transporter complex
+yrbB	665029.EAMY_0327	COMPARTMENTS	GOCC:1990531	Phospholipid-translocating ATPase complex
+yrbB	665029.EAMY_0327	Pfam	PF13466	STAS domain
+yrbB	665029.EAMY_0327	InterPro	IPR002645	STAS domain
+yrbB	665029.EAMY_0327	InterPro	IPR036513	STAS domain superfamily
